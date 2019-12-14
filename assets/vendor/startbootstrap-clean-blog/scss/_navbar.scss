@@ -23,6 +23,8 @@
         letter-spacing: 1px;
         text-transform: uppercase;
         background-color: $gray-900;
+        color: $white;
+        padding-left: 1em;
 	    border-radius: 25px;
       }
     }
@@ -76,17 +78,6 @@
         &:focus,
         &:hover {
           color: $primary;
-        }
-      }
-      .navbar-nav {
-        > li.nav-item {
-          > a {
-            color: $gray-900;
-            &:focus,
-            &:hover {
-              color: $primary;
-            }
-          }
         }
       }
     }

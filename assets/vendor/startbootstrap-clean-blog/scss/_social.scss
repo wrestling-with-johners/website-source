@@ -1,0 +1,13 @@
+.social {
+  .social-flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    .anchor-image {
+      width: 2.2em;
+      height: 1.8em;
+      margin-left: 0.1em;
+      margin-top: 0.1em;
+    }
+  }
+}

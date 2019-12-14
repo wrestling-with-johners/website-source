@@ -36,6 +36,7 @@ jobs:
         run: |
           rm -rf published/*
           cp -a build/. published
+          touch published/.nojekyll
 
       - name: Add, Commit then Push
         run: |
