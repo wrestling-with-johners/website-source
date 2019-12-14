@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep52 – NXT BreakOut, BIG changes to RAW & SD, NXT & NXT UK"
+date: 2019-06-30
+categories: podcasts
+author: john
+spotify_track_id: 4tU7B2fpBXKzcXOTEBKSHz
+youtube_video_id: l-Yc3kJNoFk
+apple_track_id: 1000443177953
+---

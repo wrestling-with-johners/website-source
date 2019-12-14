@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep31 – NXT UK & NXT 20th March 2019 with David Anderson"
+date: 2019-03-24
+categories: podcasts
+author: john
+spotify_track_id: 052GQg8pr5lYHUqdCclI2R
+youtube_video_id: bzlvoi7_22U
+apple_track_id: 1000433052973
+---

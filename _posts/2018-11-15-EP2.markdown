@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep02 - NXT UK & NXT 14th Nov 2018"
+date: 2018-11-15
+categories: podcasts
+author: john
+spotify_track_id: 50QaBQ6fPLnjVuDUvgkWPd
+youtube_video_id: KNjBtD57w38
+apple_track_id: 1000425402979
+---

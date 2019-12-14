@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep81 – NXT TakeOver: WARGAMES 2019 (feat. Liam Warr @5starsinthedome)"
+date: 2019-11-24
+categories: podcasts
+author: john
+spotify_track_id: 2mA16LMqu4EsG5k5J2A438
+youtube_video_id: dgzkALU2tJQ
+apple_track_id: 1000457720190
+---

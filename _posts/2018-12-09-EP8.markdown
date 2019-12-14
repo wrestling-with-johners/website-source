@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep08 – Fight Forever Wrestling Inferno 8th Dec 2018"
+date: 2018-12-09
+categories: podcasts
+author: john
+spotify_track_id: 5vqRTbaFUcAyLctr7DN9aC
+youtube_video_id: ebqrQmEbeWE
+apple_track_id: 1000425455207
+---

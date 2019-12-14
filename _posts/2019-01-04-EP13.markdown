@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep13 – NXT UK 26th Dec 2018 & 2nd Jan 2019"
+date: 2019-01-04
+categories: podcasts
+author: john
+spotify_track_id: 0NldWLa4VL2DFD3URchqmN
+youtube_video_id: XMpZ3s6kqAQ
+apple_track_id: 1000426959991
+---

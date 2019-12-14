@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep27 – NXT UK & NXT 20th Feb 2019"
+date: 2019-02-27
+categories: podcasts
+author: john
+spotify_track_id: 6szaiC1hCj8oyzscESiXgC
+youtube_video_id: kfQcQAQBUkY
+apple_track_id: 1000430670305
+---

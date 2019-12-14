@@ -1,0 +1,117 @@
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8 col-md-10 mx-auto">
+			<ul class="list-inline text-center">
+			  {% if site.email %}
+			  <li class="list-inline-item">
+				<a href="mailto:{{ site.email | encode_email }}">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+				  </span>
+				</a>
+			  </li>
+			  {% endif %}
+			  {% if site.twitter_username %}
+			  <li class="list-inline-item">
+				<a href="https://twitter.com/{{ site.twitter_username }}">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+				  </span>
+				</a>
+			  </li>
+			  {% endif %}
+			  {% if site.facebook_group_id %}
+			  <li class="list-inline-item">
+				<a href="https://www.facebook.com/groups/{{ site.facebook_group_id| cgi_escape | escape }}">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+				  </span>
+				</a>
+			  </li>
+			  {% endif %}
+			  {% if site.linkedin_username %}
+			  <li class="list-inline-item">
+				<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+				  </span>
+				</a>
+			  </li>
+			  {% endif %}
+			  {% if site.github_username %}
+			  <li class="list-inline-item">
+				<a href="https://github.com/{{ site.github_username }}">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fab fa-github fa-stack-1x fa-inverse"></i>
+				  </span>
+				</a>
+			  </li>
+			  {% endif %}
+			  {% if site.instagram_username %}
+			  <li class="list-inline-item">
+				<a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+				  </span>
+				</a>
+			  </li>
+			  {% endif %}
+			  {% if site.apple_podcast_id %}
+			  <li class="list-inline-item">
+				<a href="https://podcasts.apple.com/us/podcast/{{ site.apple_username| cgi_escape | escape }}/id{{ site.apple_podcast_id| cgi_escape | escape }}">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fab fa-apple fa-stack-1x fa-inverse"></i>
+				  </span>
+				</a>
+			  </li>
+			  {% endif %}
+			  {% if site.spotify_show_id %}
+			  <li class="list-inline-item">
+				<a href="https://open.spotify.com/show/{{ site.spotify_show_id| cgi_escape | escape }}">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
+				  </span>
+				</a>
+			  </li>
+			  {% endif %}
+			  {% if site.youtube_channel_id %}
+			  <li class="list-inline-item">
+				<a href="https://www.youtube.com/channel/{{ site.youtube_channel_id| cgi_escape | escape }}">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+				  </span>
+				</a>
+			  </li>
+			  {% endif %}
+			  {% if site.anchor_username %}
+			  <li class="list-inline-item">
+				<a href="https://anchor.fm/{{ site.anchor_username| cgi_escape | escape }}">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i>
+					<i class="fab fa-stack-1x fa-inverse"><img src="/assets/anchor-logo-header@2x.png"/></i>
+				  </span>
+				</a>
+			  </li>
+			  {% endif %}
+			</ul>
+	</div>
+	</div>
+	<div>
+		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_donations" />
+			<input type="hidden" name="business" value="Q8GW2EE7VMS3E" />
+			<input type="hidden" name="currency_code" value="GBP" />
+			<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+			<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+		</form>
+	</div>
+</div>
