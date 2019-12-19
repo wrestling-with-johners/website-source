@@ -15,7 +15,8 @@ title: Posts
     </a>
     <p class="post-meta">Posted by
       {% if post.author %}
-      {{ post.author }}
+      {% assign author = site.authors | where: "short_name", post.author | first %}
+      <a href="{{ author.url }}">{{ author.name }}</a>
       {% else %}
       {{ site.author }}
       {% endif %}
