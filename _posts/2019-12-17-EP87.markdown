@@ -5,6 +5,6 @@ date: 2019-12-17
 categories: podcasts
 author: john
 spotify_track_id: 1JeriiN0o5UAZfhHAmqGpc
-youtube_video_id: 
+youtube_video_id: Xvyke9IngKo
 apple_track_id: 1000459907188
 ---

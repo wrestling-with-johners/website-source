@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Underground Report"
+title: "Underground Reviews"
 subtitle: "AAW Jim Lynam Memorial 2019 Day 2"
 date: 2019-12-03
 categories: articles
