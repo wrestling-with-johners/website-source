@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep89 - Interview with CHA CHA CHARLIE (Coastal Championship Wrestling)"
+date: 2019-12-26
+categories: podcasts
+author: john
+spotify_track_id: 2cPjXpyAaTlcXSUQrQu45y
+youtube_video_id: rOe4NZQAGBA
+apple_track_id: 1000460797915
+---

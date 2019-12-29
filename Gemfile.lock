@@ -33,6 +33,10 @@ GEM
       jekyll (~> 3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.6.1)
+      jekyll (>= 3.3, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-theme-clean-blog (4.0.9)
       jekyll (~> 3.8.5)
     jekyll-watch (2.2.1)
@@ -66,6 +70,8 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
   jekyll-paginate-v2
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-theme-clean-blog
   tzinfo-data
 

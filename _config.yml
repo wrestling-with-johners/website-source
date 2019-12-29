@@ -36,19 +36,20 @@ author: John Scott
 markdown: kramdown
 theme: jekyll-theme-clean-blog
 
-gems: [jekyll-paginate-v2]
-
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  
 pagination:
   enabled: true
-  debug: true
+  debug: false
   collection: 'posts'
   per_page: 5
   permalink: "/page/:num/"
   limit: 0
   sort_reverse: true
-
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -72,3 +73,20 @@ collections:
   
 # Variables
 default-background: /img/default-background.jpg
+
+defaults:
+  -
+    scope:
+      path: "podcasts/page/*/"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "articles/page/*/"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "news/page/*/"
+    values:
+      sitemap: false
