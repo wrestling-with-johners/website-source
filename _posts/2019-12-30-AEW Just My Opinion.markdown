@@ -56,4 +56,6 @@ So that’s just my opinion on AEW so far, I remain open minded and hope to enjo
 
 With each article I will try to add in a relevant name drop for a wrestler I have met or experience I have had. Since we’re talking AEW I’ll throw back to meeting Trent Berreta at Kamikaze Pro’s “Project K” show. Trent had an amazing match against Pete Dunne, on a card which also included Eddie Dennis vs Tommaso Ciampa. Both matches were fantastic and it’s hard to pick between the two. Trent vs Pete was technically amazing and demonstrated great story telling throughout with some great spots and then was great meeting and chatting with fans at the end of the show.
 
+![trent baretta](/assets/posts/2019-12-30/Trent Barretta pic.jpg){:class="restrict-width"}
+
 I am on Twitter where I have a new profile – Matt Based Wrestling - just to focus on all things wrestling related, you can follow me at [@mattbasedwres01](https://twitter.com/mattbasedwres01)

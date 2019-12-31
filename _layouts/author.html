@@ -15,7 +15,7 @@ s{% endif %}
 			<h1>{{ page.name }}</h1>
 			<h2 class="subheading">{{ page.position }}</h2>
 			{% if page.twitter-username %}
-			<a href="https://twitter.com/{{ page.twitter-username }}">
+			<a href="https://twitter.com/{{ page.twitter-username }}" target="_blank">
 			  <span class="fa-stack fa-lg">
 				<i class="fas fa-circle fa-stack-2x"></i>
 				<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
@@ -24,7 +24,7 @@ s{% endif %}
 			{% endif %}
 		    {% if page.youtube_channel_id %}
 			  <li class="list-inline-item">
-				<a href="https://www.youtube.com/channel/{{ page.youtube_channel_id| cgi_escape | escape }}">
+				<a href="https://www.youtube.com/channel/{{ page.youtube_channel_id| cgi_escape | escape }}" target="_blank">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
@@ -34,7 +34,7 @@ s{% endif %}
 		    {% endif %}
 			  {% if page.instagram_username %}
 			  <li>
-				<a href="https://instagram.com/{{ page.instagram_username| cgi_escape | escape }}">
+				<a href="https://instagram.com/{{ page.instagram_username| cgi_escape | escape }}" target="_blank">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
