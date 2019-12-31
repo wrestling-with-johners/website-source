@@ -14,4 +14,4 @@ In a backstage segment Becky told Charly Caruso that this was the match she want
 
 Lynch looks to continue her reign as the longest reigning RAW Women’s Champion, which started at WrestleMania 35. But don’t rule out the current Women’s Tag Team Champion Asuka, as she looks to become “Asuka two-belts” on 26th Jan 2020.
 
-![becky vs asuka](/assets/posts/2019-12-31/becky vs asuka pic.jpg){:class="restrict-width"}
+![becky vs asuka](/assets/posts/2019-12-31/becky vs asuka pic.JPG){:class="restrict-width"}
