@@ -8,7 +8,7 @@ youtube_video_id:
 apple_track_id:
 author: john
 ---
-![NXT and NXTUK on BT Sports](/assets/posts/2020-01-01/nxtbt.JPG){:class="restrict-width"}
+![NXT and NXTUK on BT Sports](/assets/posts/2020-01-01/nxtbt.jpg){:class="restrict-width"}
 
 BT Sport announced earlier this week that NXT and NXT UK will be joining their line-up of WWE programming. WWE's deal with BT Sport will commence January 1st 2020.
 
