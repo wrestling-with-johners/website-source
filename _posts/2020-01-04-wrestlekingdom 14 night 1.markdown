@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Epic Night#1 Wrestle Kingdom 14. Plus, The Main Event of Night#2 Set"
+title: "Epic Night #1 Wrestle Kingdom 14. Plus, The Main Event of Night #2 Set"
 date: 2020-01-04
 categories: news 
 spotify_track_id:
