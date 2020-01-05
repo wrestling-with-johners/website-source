@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NXTUK Review - January 2nd, 2020"
+title: "NXT:UK Review - January 2nd, 2020"
 date: 2020-01-05
 categories: articles
 spotify_track_id:
@@ -8,7 +8,7 @@ youtube_video_id:
 apple_track_id:
 author: ricky-j
 ---
-2 additional matches have been made for Takeover Blackpool 2:- Trent Seven vs. Eddie Dennis and Tyler Bate vs. Jordan Devlin.
+2 additional matches have been made for Takeover Blackpool 2. Trent Seven vs. Eddie Dennis and Tyler Bate vs. Jordan Devlin.
 
 ![trent eddie](/assets/posts/2020-01-05/trenteddienxtuk.jpg){:class="restrict-width"}
 
