@@ -8,7 +8,9 @@ youtube_video_id:
 apple_track_id:
 author: john
 ---
-The advocate for current WWE Champion Brock Lesnar, Paul Heyman announced on last night’s RAW (6TH Jan 20) that ‘The Beast’ will be a participant in this year’s Royal Rumble match.
+The advocate for current WWE Champion Brock Lesnar, Paul Heyman announced on last night’s RAW (6th Jan 20) that ‘The Beast’ will be a participant in this year’s Royal Rumble match.
+
+![brock lesnar on raw](/assets/posts/2020-01-07/lesnar.jpg){:class="restrict-width"}
 
 This is a particularly unusual situation for any WWE or Universal Champion to be a part of the Rumble match itself. As the winner of the Rumble match would usually go on to face either the WWE or Universal Champion at ‘The Showcase of the Immortals’ WrestleMania.
 
