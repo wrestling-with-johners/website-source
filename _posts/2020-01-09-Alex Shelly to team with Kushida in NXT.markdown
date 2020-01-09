@@ -10,7 +10,7 @@ author: john
 ---
 The Time Splitters are reuniting in NXT for the 2020 Dusty Rhodes Tag Team Classic!
 
-Mauro Ranallo announced during tonight’s show that Alex Shelley will team with Kushida next week against The Grizzled Young Veterans in the first round of the tag team tournament.
+Mauro Ranallo announced during last night’s show that Alex Shelley will team with Kushida next week against The Grizzled Young Veterans in the first round of the tag team tournament.
 
 ![alex shelly and kushida](/assets/posts/2020-01-09/shelley.jpg){:class="restrict-width"}
 
