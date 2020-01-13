@@ -49,7 +49,7 @@ Whilst it is important to take the time to remember that wrestling consumes the 
 
 It’s 2019; this angle ages b a d l y. It should have stopped in the 2000’s. Enough said. 
 
-![iron](/assets/posts/2020-01-13/iron.jpg){:class="restrict-width"}
+![iron](/assets/posts/2020-01-13/iron.png){:class="restrict-width"}
 
 Seriously though, if this is going to be done, it needs to be handled with extreme caution and care, to ensure that motives of said heel(s) are legitimate, yet inoffensive, and have more to them than just ‘I grew up in a different country to you all so I hate you’ as this is honestly what it feels like. Take note from NJPW who seemingly overlook the temptation to do this (from what I’ve seen anyway). Wrestlers from other parts of the world offer promotions a chance to make history in some way, shape or form. Use that as the motives and not just the nationality / current affairs to influence this. 
 
