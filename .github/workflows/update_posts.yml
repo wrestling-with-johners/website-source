@@ -1,0 +1,41 @@
+name: Update Posts
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  update_posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source branch
+        uses: actions/checkout@v2
+        with:
+          path: 'source'
+
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r source/post_updater/requirements.txt
+          
+      - name: Update Posts
+        run: |
+           ls -lah source/post_updater
+           chmod +x source/post_updater/generate_posts.py
+           ls -lah source/post_updater
+           ./source/post_updater/generate_posts.py --mindate "$(date -d "yesterday" '+%Y-%m-%d')" --output source/_posts/ --youtubekey ${{ secrets.YOUTUBE_API_KEY }} --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+
+      - name: Add, Commit then Push
+        run: |
+          cd source
+          git config --local user.email 'action@github.com'
+          git config --local user.name 'GitHub Action'
+          git add -A .
+          git commit -m 'Updated posts'
+          git push origin master
