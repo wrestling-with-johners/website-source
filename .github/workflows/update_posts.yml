@@ -2,7 +2,7 @@ name: Update Posts
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 */6 * * *'
 
 jobs:
   update_posts:
@@ -26,9 +26,6 @@ jobs:
           
       - name: Update Posts
         run: |
-           ls -lah source/post_updater
-           chmod +x source/post_updater/generate_posts.py
-           ls -lah source/post_updater
            ./source/post_updater/generate_posts.py --mindate "$(date -d "yesterday" '+%Y-%m-%d')" --output source/_posts/ --youtubekey ${{ secrets.YOUTUBE_API_KEY }} --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
       - name: Add, Commit then Push
@@ -37,5 +34,7 @@ jobs:
           git config --local user.email 'action@github.com'
           git config --local user.name 'GitHub Action'
           git add -A .
-          git commit -m 'Updated posts'
-          git push origin master
+          if [ "$(git status --porcelain)" ]; then
+            git commit -m 'Updated posts'
+            git push --quiet origin master
+          fi
