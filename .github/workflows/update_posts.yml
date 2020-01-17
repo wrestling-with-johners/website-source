@@ -29,12 +29,17 @@ jobs:
            ./source/post_updater/generate_posts.py --mindate "$(date -d "yesterday" '+%Y-%m-%d')" --output source/_posts/ --youtubekey ${{ secrets.YOUTUBE_API_KEY }} --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
       - name: Add, Commit then Push
+        env:
+          GITHUB_TOKEN: ${{ secrets. PATNAME }}
         run: |
           cd source
           git config --local user.email 'action@github.com'
           git config --local user.name 'GitHub Action'
           git add -A .
           if [ "$(git status --porcelain)" ]; then
+            echo "Commit required"
             git commit -m 'Updated posts'
             git push --quiet origin master
+          else
+            echo "No commit required"
           fi
