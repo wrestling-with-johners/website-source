@@ -8,7 +8,7 @@ youtube_video_id:
 apple_track_id:
 author: john
 ---
-It is being reported from sources within WWE say that WrestleMania 36 is still "wide open in many regards." 
+It is being reported from sources within WWE that WrestleMania 36 is still "wide open in many regards." 
 
 ![wm36logo](/assets/posts/2020-01-20/wrestlemania 36 logo.jpg){:class="restrict-width"}
 
