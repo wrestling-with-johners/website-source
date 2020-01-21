@@ -2,7 +2,7 @@
 layout: post
 title: "Ep84 - Interview with CJ CARTER (Pro Wrestling CLASH & Turnbuckle TV)"
 date: 2019-12-05
-categories: podcasts
+categories: podcasts interviews
 author: john
 spotify_track_id: 3YT6Khj7T30uDzHuxttiev
 youtube_video_id: lnzQ5txK6PE

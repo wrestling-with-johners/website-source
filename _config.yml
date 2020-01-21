@@ -91,3 +91,8 @@ defaults:
       path: "news/page/*/"
     values:
       sitemap: false
+  -
+    scope:
+      path: "interviews/page/*/"
+    values:
+      sitemap: false

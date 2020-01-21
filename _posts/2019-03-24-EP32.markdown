@@ -2,7 +2,7 @@
 layout: post
 title: "Ep32 – Interview with Gary Ward WRESTLE GATE PRO 23/03/19"
 date: 2019-03-24
-categories: podcasts
+categories: podcasts interviews
 author: john
 spotify_track_id: 42HIxTruLbLxpa7MKLKyZ9
 youtube_video_id: Ok-RQD8Fny8

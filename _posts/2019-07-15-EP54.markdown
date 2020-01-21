@@ -2,7 +2,7 @@
 layout: post
 title: "Ep54 - Interview with JIMMY KORDERAS (former WWE referee)"
 date: 2019-07-15
-categories: podcasts
+categories: podcasts interviews
 author: john
 spotify_track_id: 35749GN7jSSBhnwJO95u6h
 youtube_video_id: 2STelIiu6r4
