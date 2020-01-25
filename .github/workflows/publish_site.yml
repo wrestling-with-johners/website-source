@@ -44,5 +44,10 @@ jobs:
           git config --local user.email 'action@github.com'
           git config --local user.name 'GitHub Action'
           git add -A .
-          git commit -m 'Updates compiled site files'
-          git push origin master
+          if [ "$(git status --porcelain)" ]; then
+            echo "Commit required"
+            git commit -m 'Updates compiled site files'
+            git push --quiet origin master
+          else
+            echo "No commit required"
+          fi
