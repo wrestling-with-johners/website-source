@@ -9,6 +9,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.1.1
+        with:
+          ssh-private-key: ${{ secrets.UPDATE_POSTS_PRIVATE_KEY }}
+
       - name: Checkout source branch
         uses: actions/checkout@v2
         with:
@@ -30,7 +35,7 @@ jobs:
 
       - name: Add, Commit then Push
         env:
-          GITHUB_TOKEN: ${{ secrets. PATNAME }}
+          GITHUB_TOKEN: "-"
         run: |
           cd source
           git config --local user.email 'action@github.com'
