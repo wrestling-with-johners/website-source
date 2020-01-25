@@ -2,7 +2,7 @@ name: Update Posts
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   update_posts:
@@ -10,14 +10,16 @@ jobs:
 
     steps:
       - name: Setup SSH
-        uses: webfactory/ssh-agent@v0.1.1
-        with:
-          ssh-private-key: ${{ secrets.UPDATE_POSTS_PRIVATE_KEY }}
+        run: |
+          mkdir -p $HOME/.ssh/
+          echo "${{ secrets.UPDATE_POSTS_PRIVATE_KEY }}" > $HOME/.ssh/id_rsa
+          chmod 600 $HOME/.ssh/id_rsa
+          ssh-keyscan github.com >> $HOME/.ssh/known_hosts
 
       - name: Checkout source branch
-        uses: actions/checkout@v2
-        with:
-          path: 'source'
+        run: |
+          mkdir source
+          git clone ssh://git@github.com/wrestling-with-johners/website-source.git source
 
       - name: Set up Python
         uses: actions/setup-python@v1
@@ -34,8 +36,6 @@ jobs:
            ./source/post_updater/generate_posts.py --mindate "$(date -d "yesterday" '+%Y-%m-%d')" --output source/_posts/ --youtubekey ${{ secrets.YOUTUBE_API_KEY }} --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
       - name: Add, Commit then Push
-        env:
-          GITHUB_TOKEN: "-"
         run: |
           cd source
           git config --local user.email 'action@github.com'
