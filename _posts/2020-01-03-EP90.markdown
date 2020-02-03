@@ -2,7 +2,7 @@
 layout: post
 title: "Ep90 - Interview with BIG F'N JOE (with Turnbuckle TV)"
 date: 2020-01-03
-categories: podcasts interviews
+categories: interviews podcasts
 author: john
 spotify_track_id: 2oSepBO78gBUuImRaV8orc
 youtube_video_id: dSR6UpTOc_w

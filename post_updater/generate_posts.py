@@ -201,13 +201,15 @@ class AppleScraper:
 
 
 class PostData:
-  def __init__(self, episode_number, title, date, youtube_video_id, spotify_track_id, apple_track_id):
+  def __init__(self, episode_number, title, date, youtube_video_id, spotify_track_id, apple_track_id, categories, author):
     self.episode_number = episode_number
     self.title = title
     self.date = date
     self.youtube_video_id = youtube_video_id
     self.spotify_track_id = spotify_track_id
     self.apple_track_id = apple_track_id
+    self.categories = categories
+    self.author = author
 
   def __str__(self):
     return 'Number: `{}`\nTitle: `{}`\nDate: `{}`\nYoutube: `{}`\nSpotify: `{}`'.format(self.episode_number, self.title, self.date, self.youtube_video_id, self.spotify_track_id)
@@ -239,11 +241,13 @@ class Matcher:
           post_data.date = data.date
         if data.episode_number:
           post_data.episode_number = data.episode_number
+          post_data.categories.add('podcasts')
         continue
       self.add_new_data(data_by_episode_number, data_by_title, debug_string, data, add_specific_data)
 
   def add_new_data(self, data_by_episode_number, data_by_title, debug_string, episode_data, add_specific_data):
-    post_data = PostData(episode_data.episode_number, episode_data.title, episode_data.date, None, None, None)
+    categories = episode_data.episode_number if {'podcasts'} else {}
+    post_data = PostData(episode_data.episode_number, episode_data.title, episode_data.date, None, None, None, categories, 'john')
     add_specific_data(post_data, episode_data)
     title_key = self.title_to_key(post_data.title)
     print ('New {}, {} -> {}'.format(debug_string, episode_data.title, title_key))
@@ -288,7 +292,7 @@ class PostWriter:
     return "".join([c for c in filename if c.isalpha() or c.isdigit() or c==' ']).rstrip()
     
   def format_as_podcast(self, data):
-    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: podcasts\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
+    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(data.categories), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
 
   def format_as_generic(self, data):
     return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories:\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
@@ -299,6 +303,7 @@ class PostWriter:
       filename_pattern = r'\d{{4}}-\d{{2}}-\d{{2}}-EP{}\.markdown'.format(data.episode_number)
       for name in os.listdir(parent_directory):
         if re.match(filename_pattern, name):
+          print ('Matched {} with existing {}'.format(data.episode_number, name))
           filename = name
           existing_file = open(os.path.join(parent_directory, name), 'r')
           lines = existing_file.readlines()
@@ -306,6 +311,8 @@ class PostWriter:
           title = title[1:-1]
           data.title = title
           data.date = datetime.datetime.strptime(lines[3].split(':')[1].strip(), '%Y-%m-%d').date()
+          data.categories = set(lines[4].split(':')[1].strip().split(' '))
+          data.author = lines[5].split(':')
           spotify_track_id = lines[6].split(':')[1].strip()
           youtube_video_id = lines[7].split(':')[1].strip()
           apple_track_id = lines[8].split(':')[1].strip()
