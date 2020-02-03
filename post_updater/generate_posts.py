@@ -246,7 +246,11 @@ class Matcher:
       self.add_new_data(data_by_episode_number, data_by_title, debug_string, data, add_specific_data)
 
   def add_new_data(self, data_by_episode_number, data_by_title, debug_string, episode_data, add_specific_data):
-    categories = episode_data.episode_number if {'podcasts'} else {}
+    categories = set()
+    if episode_data.episode_number:
+      categories.add('podcasts')
+    if 'interview' in episode_data.title.lower():
+      categories.add('interviews')
     post_data = PostData(episode_data.episode_number, episode_data.title, episode_data.date, None, None, None, categories, 'john')
     add_specific_data(post_data, episode_data)
     title_key = self.title_to_key(post_data.title)
