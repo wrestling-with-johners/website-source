@@ -16,7 +16,7 @@ NXT UK Review - 30th January 2020
 
 Good match. I do think Danny should be just NXT UK from now on. This was a fresh match. I do like fresh matches. The Hunt really need that big win, but they didn't get it here. An assited DDT by Burch and Lorcan for the win.
 
-## WINNER OF THE MATCH: ONEY LORCAN AND DANNY BURCH 
+**WINNER OF THE MATCH: ONEY LORCAN AND DANNY BURCH**
 
 Eddie Dennis comes out to cut a promo. Trent Seven interrupts him wanting a rematch and wants it to be a street fight. Eddie and Trent brawl to end this segment.
 
@@ -28,7 +28,7 @@ Ok match here, even though it was a rematch. Isla was in control for most of the
 
 ![nina and isla](/assets/posts/2020-02-03/nina-isla.jpg){:class="restrict-width"}
 
-## WINNER OF THE MATCH: ISLA DAWN 
+**WINNER OF THE MATCH: ISLA DAWN**
 
 ## TYSON T-BONE Vs. RIDGE HOLLAND
 
@@ -38,7 +38,7 @@ This was a scrap. A brawl. Hard hitting action. Both men laying in the punches. 
 
 ![ridge2](/assets/posts/2020-02-03/ridge2.jpg){:class="restrict-width"}
 
-## WINNER OF THE MATCH: RIDGE HOLLAND 
+**WINNER OF THE MATCH: RIDGE HOLLAND**
 
 Tonight's Main Event.
 
@@ -52,11 +52,11 @@ Walter gets involved, taking out Dave Mastiff. I liked this match. Imperium win.
 
 ![mastiff-walter](/assets/posts/2020-02-03/mastiff-walter.jpg){:class="restrict-width"}
 
-## WINNER OF THE MATCH: IMPERIUM
+**WINNER OF THE MATCH: IMPERIUM**
 
 ![imperium](/assets/posts/2020-02-03/imperium.jpg){:class="restrict-width"} 
 
-## Good episode of NXT UK. I give it 7 out of 10.
+**Good episode of NXT UK. I give it 7 out of 10**
 
 Don't forget to go check out my YouTube channel the people's wwe channel 
 
