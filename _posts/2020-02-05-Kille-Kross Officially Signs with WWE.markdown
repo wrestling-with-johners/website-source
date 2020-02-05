@@ -16,10 +16,10 @@ After many weeks of speculation Ryan Satin confirmed on WWE Backstage that Kille
 
 ![killer kross](/assets/posts/2020-02-05/kross.jpg){:class="restrict-width"}
 
-It was also confirmed last night that another Indy superstar, Timothey Thatcher has also signed with WWE. 
+It was also confirmed last night that another Indy superstar, Timothey Thatcher has signed with WWE. 
 
 ![killer kross](/assets/posts/2020-02-05/timothey.jpg){:class="restrict-width"}
 
 Thatcher is well-known for wrestling on the Indy circuit around the States and Europe, and is also renowned for being a former stable-mate of Walter and Marcel Barthell, as part of Ring Kampf in wXw in Germany. Similar to Kross, it is expected that Thatcher will join the Black & Gold brand within the next few weeks.
 
-Expect new ring names for both wrestlers when they both officially make their TV debuts.
+Expect new ring names for both wrestlers when they officially make their TV debuts.
