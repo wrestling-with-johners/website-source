@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Killer Kross & Timothey Thatcher sign with WWE"
+title: "Killer Kross & Timothy Thatcher sign with WWE"
 date: 2020-02-05
 categories: news 
 spotify_track_id:
@@ -16,7 +16,7 @@ After many weeks of speculation Ryan Satin confirmed on WWE Backstage that Kille
 
 ![killer kross](/assets/posts/2020-02-05/kross.jpg){:class="restrict-width"}
 
-It was also confirmed last night that another Indy superstar, Timothey Thatcher has signed with WWE. 
+It was also confirmed last night that another Indy superstar, Timothy Thatcher has signed with WWE. 
 
 ![killer kross](/assets/posts/2020-02-05/timothey.jpg){:class="restrict-width"}
 
