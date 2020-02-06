@@ -2,7 +2,7 @@
 layout: post
 title: "Ep101 - KEVIN ISAAC Interview (Independent Wrestling Elite UK)"
 date: 2020-02-04
-categories: podcasts interviews
+categories: interviews podcasts
 author: john
 spotify_track_id: 2SXQ28h2K7tn1ZbIDIPbmA
 youtube_video_id: QH1aSvM7cNw
