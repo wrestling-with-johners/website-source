@@ -46,7 +46,7 @@ After the match Joe cuts a promo.
 
 Main event.
 
-##GALLUS Vs. ONEY LORCAN AND DANNY BURCH 
+## GALLUS Vs. ONEY LORCAN AND DANNY BURCH 
 
 Hard hitting match here. Strong style throughout the match. I think the wrong people won here, but it is what it is. Once again a new attitude from Gallus.
 
