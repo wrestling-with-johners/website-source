@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep104 - NXT TakeOver Portland REVIEW (with Mags @BadLandsPod)"
+date: 2020-02-18
+categories: podcasts
+author: john
+spotify_track_id: 5MYtD29Pd3sLvZWktsTt11
+youtube_video_id: 
+apple_track_id: 1000465894898
+---
