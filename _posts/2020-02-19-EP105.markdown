@@ -5,6 +5,6 @@ date: 2020-02-19
 categories: interviews podcasts
 author: john
 spotify_track_id: 0iZOWvF9LlooWMnmgnbv5M
-youtube_video_id: 
+youtube_video_id: IKgH4SBUN6A
 apple_track_id: 1000466050025
 ---
