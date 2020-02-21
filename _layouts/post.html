@@ -42,7 +42,18 @@ layout: default
 				<iframe src="https://open.spotify.com/embed-podcast/episode/{{ page.spotify_track_id }}" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 			{% endif %}
 					
-			{% if page.youtube_video_id %}
+			{% if page.youtube_metadata %}
+        <h2>Youtube<h2>
+        {% assign youtube_metadata = page.youtube_metadata | split: "," %}
+        {% for metadata in youtube_metadata %}
+        {% assign loopindex = forloop.index | modulo: 2 %}
+        {% if loopindex == 0 %}
+        <a href="https://www.youtube.com/watch?v={{ metadata }}"><img src="http://img.youtube.com/vi/{{ metadata }}/0.jpg" /></a>
+        {% else %}
+        <h3>Part {{ metadata}}</h3>
+        {% endif %}
+        {% endfor %}
+      {% else if page.youtube_video_id %}
 				<h2>Youtube</h2>
 				<a href="https://www.youtube.com/watch?v={{ page.youtube_video_id }}"><img src="http://img.youtube.com/vi/{{ page.youtube_video_id }}/0.jpg" /></a>
 			{% endif %}

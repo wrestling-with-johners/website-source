@@ -23,14 +23,22 @@ def find_episode_number(title):
   ep_then_number = re.findall(r'EP ?\d+ ', title.lower(), re.IGNORECASE)
   if (len(ep_then_number) > 0):
     return int(re.findall(r'\d+', ep_then_number[0])[0])
-  number_then_name = re.findall(r'\d+: Wrestling With Johners: ', title.lower(), re.IGNORECASE)
-  if (len(number_then_name) > 0):
-    return int(re.findall(r'\d+', number_then_name[0])[0])
   return None
 
+def find_part_number(title):
+  part_x_of_y = re.findall(r'\(Part \d+\/\d+\)', title.lower(), re.IGNORECASE)
+  if len(part_x_of_y) > 0:
+    return int(re.findall(r'\d+', part_x_of_y[0])[0])
+  else:
+    return None
+    
+def grouped(iterable, n):
+  return zip(*[iter(iterable)]*n)
+
 class YoutubeData:
-  def __init__(self, episode_number, title, date, video_id):
+  def __init__(self, episode_number, part_number, title, date, video_id):
     self.episode_number = episode_number
+    self.part_number = part_number
     self.title = title
     self.date = date
     self.video_id = video_id
@@ -63,11 +71,12 @@ class YoutubeScraper:
       title = html.unescape(snippet['title'])
       print ('Youtube `{}`'.format(title))
       episode_number = find_episode_number(title)
+      part_number = find_part_number(title)
       video_id = snippet['resourceId']['videoId']
       date_time = snippet['publishedAt']
       date = datetime.datetime.strptime(date_time, '%Y-%m-%dT%H:%M:%S.%f%z').date()
       if date >= self.search_from_date:
-        data.append(YoutubeData(episode_number, title, date, video_id))
+        data.append(YoutubeData(episode_number, part_number, title, date, video_id))
 	  
     if 'nextPageToken' in results:
       print ('token {}'. format(results['nextPageToken']))
@@ -200,8 +209,22 @@ class AppleScraper:
     return self.get_tracks('/v1/catalog/us/podcasts/{}/episodes?offset=0&limit=10'.format(APPLE_PODCAST_ID))
 
 
+class YoutubeMetadata:
+  def __init__(self, video_id, part_number):
+    self.video_id = video_id
+    self.part_number = part_number
+    
+  def __hash__(self):
+    return self.part_number.__hash__()
+    
+  def __str__(self):
+    return '{},{}'.format(self.part_number, self.video_id)
+    
+  def __repr__(self):
+    return str(self)
+
 class PostData:
-  def __init__(self, episode_number, title, date, youtube_video_id, spotify_track_id, apple_track_id, categories, author):
+  def __init__(self, episode_number, title, date, youtube_video_id, spotify_track_id, apple_track_id, categories, author, youtube_metadata):
     self.episode_number = episode_number
     self.title = title
     self.date = date
@@ -210,6 +233,14 @@ class PostData:
     self.apple_track_id = apple_track_id
     self.categories = categories
     self.author = author
+    self.youtube_metadata = youtube_metadata
+
+  def add_youtube_metadata(self, youtube_data):
+    if not youtube_data.part_number in self.youtube_metadata:
+      print('Adding youtube metadata for part {} to ep {}'.format(youtube_data.part_number, self.episode_number))
+      self.youtube_metadata.add(YoutubeMetadata(youtube_data.video_id, youtube_data.part_number))
+    else:
+      print('Attempted to override existing part data for part {} in ep {}'.format(youtube_data.part_number, self.episode_number))
 
   def __str__(self):
     return 'Number: `{}`\nTitle: `{}`\nDate: `{}`\nYoutube: `{}`\nSpotify: `{}`'.format(self.episode_number, self.title, self.date, self.youtube_video_id, self.spotify_track_id)
@@ -251,7 +282,7 @@ class Matcher:
       categories.add('podcasts')
     if 'interview' in episode_data.title.lower():
       categories.add('interviews')
-    post_data = PostData(episode_data.episode_number, episode_data.title, episode_data.date, None, None, None, categories, 'john')
+    post_data = PostData(episode_data.episode_number, episode_data.title, episode_data.date, None, None, None, categories, 'john', set())
     add_specific_data(post_data, episode_data)
     title_key = self.title_to_key(post_data.title)
     print ('New {}, {} -> {}'.format(debug_string, episode_data.title, title_key))
@@ -263,8 +294,13 @@ class Matcher:
     data_by_episode_number = {}
     data_by_title = {}
     
-    def assign_youtube_video_id(some_post_data, youtube_data):
-      some_post_data.youtube_video_id = youtube_data.video_id
+    def assign_youtube_data(some_post_data, youtube_data):
+      if youtube_data.part_number:
+        print('{} has part {}'.format(some_post_data.episode_number, youtube_data.part_number))
+        some_post_data.add_youtube_metadata(youtube_data)
+      else:
+        print('No part number for ep {}'.format(some_post_data.episode_number))
+        some_post_data.youtube_video_id = youtube_data.video_id
     
     def assign_spotify_track_id(some_post_data, spotify_data):
       some_post_data.spotify_track_id = spotify_data.track_id
@@ -275,7 +311,7 @@ class Matcher:
     for spotify_data in self.spotify_data:
       self.add_new_data(data_by_episode_number, data_by_title, 'Spotify', spotify_data, assign_spotify_track_id)
     
-    self.add_data(data_by_episode_number, data_by_title, 'Youtube', self.youtube_data, assign_youtube_video_id)
+    self.add_data(data_by_episode_number, data_by_title, 'Youtube', self.youtube_data, assign_youtube_data)
     
     self.add_data(data_by_episode_number, data_by_title, 'Apple', self.apple_data, assign_apple_track_id)
     
@@ -295,11 +331,24 @@ class PostWriter:
   def sanitize_filename(self, filename):
     return "".join([c for c in filename if c.isalpha() or c.isdigit() or c==' ']).rstrip()
     
+  def youtube_metadata_as_string(self, data):
+    if not data.youtube_metadata:
+      return ''
+    else:
+      return ','.join(str(metadata) for metadata in data.youtube_metadata)
+    
   def format_as_podcast(self, data):
-    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
+    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\nyoutube_metadata: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id), self.youtube_metadata_as_string(data))
 
   def format_as_generic(self, data):
     return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories:\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
+
+  def parse_youtube_metadata(self, line_string):
+    without_front = line_string.split('youtube_metadata: ')[1]
+    each_part = without_front.split(',')
+    data = set()
+    for part_number, video_id in grouped(each_part, 2):
+      data.add(YoutubeMetadata(video_id, int(part_number)))
 
   def output_to_file(self, parent_directory, data):
     if data.episode_number:
@@ -320,12 +369,22 @@ class PostWriter:
           spotify_track_id = lines[6].split(':')[1].strip()
           youtube_video_id = lines[7].split(':')[1].strip()
           apple_track_id = lines[8].split(':')[1].strip()
+          if lines[9].strip() == '---':
+            print('Existing youtube metadata not found')
+            youtube_metadata = None
+          else:
+            youtube_metadata = self.parse_youtube_metadata(lines[9])
           if spotify_track_id:
             data.spotify_track_id = spotify_track_id
           if youtube_video_id:
             data.youtube_video_id = youtube_video_id
           if apple_track_id:
             data.apple_track_id = apple_track_id
+          if youtube_metadata:
+            new_youtube_metadata = data.youtube_metadata
+            data.youtube_metadata = youtube_metadata
+            for metadata in new_youtube_metadata:
+              data.add_youtube_metadata(metadata)
           break
       to_write = self.format_as_podcast(data)
     else:
