@@ -52,4 +52,4 @@ I give it 6 and a half out of 10.
 
 Don't forget to go check my YouTube channel the people's wrestling channel 
 
-IF YOU SMELL WHAT RICK THE ROCK IS COOKIN 
+IF YOU SMELL WHAT RICK THE ROCK IS COOKIN
