@@ -53,7 +53,7 @@ layout: default
         <h3>Part {{ metadata}}</h3>
         {% endif %}
         {% endfor %}
-      {% else if page.youtube_video_id %}
+      {% elsif page.youtube_video_id %}
 				<h2>Youtube</h2>
 				<a href="https://www.youtube.com/watch?v={{ page.youtube_video_id }}"><img src="http://img.youtube.com/vi/{{ page.youtube_video_id }}/0.jpg" /></a>
 			{% endif %}
