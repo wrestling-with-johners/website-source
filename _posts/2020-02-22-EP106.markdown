@@ -7,5 +7,5 @@ author: john
 spotify_track_id: 6LVIRflZ0dVAHFpZFa1D6l
 youtube_video_id: 
 apple_track_id: 1000466380840
-youtube_metadata: 4,aJKXfMXHvKc
+youtube_metadata: 1,HyLezSgS1hk,2,0llje5VkcoI,3,w-lR0peYBGA,4,aJKXfMXHvKc
 ---

@@ -217,6 +217,12 @@ class YoutubeMetadata:
   def __hash__(self):
     return self.part_number.__hash__()
     
+  def __eq__(self, other):
+    if isinstance(other, YoutubeMetadata):
+      return self.part_number == other.part_number
+    else:
+      return false
+    
   def __str__(self):
     return '{},{}'.format(self.part_number, self.video_id)
     
@@ -236,11 +242,12 @@ class PostData:
     self.youtube_metadata = youtube_metadata
 
   def add_youtube_metadata(self, youtube_data):
-    if not youtube_data.part_number in self.youtube_metadata:
-      print('Adding youtube metadata for part {} to ep {}'.format(youtube_data.part_number, self.episode_number))
-      self.youtube_metadata.add(YoutubeMetadata(youtube_data.video_id, youtube_data.part_number))
+    youtube_metadata = YoutubeMetadata(youtube_data.video_id, youtube_data.part_number)
+    if not youtube_metadata in self.youtube_metadata:
+      print('Adding youtube metadata for part {} to ep {}'.format(youtube_metadata.part_number, self.episode_number))
+      self.youtube_metadata.add(youtube_metadata)
     else:
-      print('Attempted to override existing part data for part {} in ep {}'.format(youtube_data.part_number, self.episode_number))
+      print('Attempted to override existing part data for part {} in ep {}'.format(youtube_metadata.part_number, self.episode_number))
 
   def __str__(self):
     return 'Number: `{}`\nTitle: `{}`\nDate: `{}`\nYoutube: `{}`\nSpotify: `{}`'.format(self.episode_number, self.title, self.date, self.youtube_video_id, self.spotify_track_id)
@@ -344,11 +351,14 @@ class PostWriter:
     return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories:\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
 
   def parse_youtube_metadata(self, line_string):
-    without_front = line_string.split('youtube_metadata: ')[1]
-    each_part = without_front.split(',')
+    line_split_on_front = line_string.split('youtube_metadata: ')
     data = set()
-    for part_number, video_id in grouped(each_part, 2):
-      data.add(YoutubeMetadata(video_id, int(part_number)))
+    if len(line_split_on_front) > 1:
+      without_front = line_split_on_front[1]
+      each_part = without_front.split(',')
+      for part_number, video_id in grouped(each_part, 2):
+        data.add(YoutubeMetadata(video_id, int(part_number)))
+    return data
 
   def output_to_file(self, parent_directory, data):
     if data.episode_number:
@@ -373,7 +383,7 @@ class PostWriter:
             print('Existing youtube metadata not found')
             youtube_metadata = None
           else:
-            youtube_metadata = self.parse_youtube_metadata(lines[9])
+            youtube_metadata = self.parse_youtube_metadata(lines[9].strip())
           if spotify_track_id:
             data.spotify_track_id = spotify_track_id
           if youtube_video_id:
