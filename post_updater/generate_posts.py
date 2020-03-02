@@ -61,7 +61,7 @@ class YoutubeScraper:
       playlistId = YOUTUBE_PLAYLIST_ID,
       maxResults = 50,
       pageToken = next_page_token,
-      fields="nextPageToken,items(snippet(publishedAt,title,resourceId(videoId)))"
+      fields="nextPageToken,items(snippet(publishedAt,title,resourceId(videoId),description))"
     ).execute()
 
     data = []
@@ -71,7 +71,14 @@ class YoutubeScraper:
       title = html.unescape(snippet['title'])
       print ('Youtube `{}`'.format(title))
       episode_number = find_episode_number(title)
-      part_number = find_part_number(title)
+      if episode_number == None:
+        description = snippet['description']
+        description_split = description.split('\n')
+        description_last_line = description_split[-1]
+        episode_number = find_episode_number(description_last_line)
+        part_number = find_part_number(description_last_line)
+      else:
+        part_number = find_part_number(title)
       video_id = snippet['resourceId']['videoId']
       date_time = snippet['publishedAt']
       date = datetime.datetime.strptime(date_time, '%Y-%m-%dT%H:%M:%S.%f%z').date()
