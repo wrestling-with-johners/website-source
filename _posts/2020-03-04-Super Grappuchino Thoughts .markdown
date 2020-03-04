@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This time with an extra-large shot of sarcasm and venom syrup!"
+title: "This time with an extra-large shot of sarcasm and venom syrup!"
 subtitle: "Super Grappuchino Thoughts"
 date: 2020-03-04
 categories:   articles
