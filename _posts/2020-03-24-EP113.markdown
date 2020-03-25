@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep113 - Interview with FRANKIE T (In Partnership With IWE:UK)"
+date: 2020-03-24
+categories: interviews podcasts
+author: john
+spotify_track_id: 3pQZsyx2uYvVQ9KkfIeT2f
+youtube_video_id: 
+apple_track_id: 1000469378278
+youtube_metadata: 
+---
