@@ -19,7 +19,7 @@ Now, as you know since you can see my page I'm a big wrestling fan and in partic
 
 It doesn't have to be wrestling, it could be a local band or an artist or photographer but if you can help please do.
 
-![tom](/assets/posts/2020-03-29/tom-hinkley.jpg){:class="restrict-width"}
+![tom](/assets/posts/2020-03-29/tom-hinckley.jpg){:class="restrict-width"}
 
 I know a lot of people in British Wrestling and can't say 1 person needs help more than the next but thinking purely locally and with the relationship we've built over the last few years, and the fact that Thomas Basnett is a genuinely good guy, running a quality promotion and is really passionate about it - which encourages and motivates - so if you can please support Wrestling In Hinckley
 
