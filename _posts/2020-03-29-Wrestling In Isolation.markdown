@@ -25,7 +25,7 @@ I know a lot of people in British Wrestling and can't say 1 person needs help mo
 
 You can give a donation or they are also selling figures and luchador masks - even if you buy something and then sell it on eBay once life returns to normal - trust me kids always want action figures and luchador masks! Check out the website below for more detail
 
-(https://wrestlinginhinckley.bigcartel.com/)
+https://wrestlinginhinckley.bigcartel.com/
 
 Or if you want to generalise a bit check out Turnbuckle TV so for £3.99 a month you can check out tonnes and tonnes of content all of which supports wrestling in general.”
 
