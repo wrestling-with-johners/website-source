@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep116 - WWF WrestleMania IX Retro Review (with Mike ‘Maddog’ Angus TNT Ring Announcer)"
+date: 2020-04-02
+categories: podcasts
+author: john
+spotify_track_id: 16r4O0oN8H9QIlAFkpIvKZ
+youtube_video_id: zNhU53yju4E
+apple_track_id: 1000470284148
+youtube_metadata: 
+---
