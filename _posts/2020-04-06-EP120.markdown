@@ -5,7 +5,7 @@ date: 2020-04-06
 categories: podcasts
 author: john
 spotify_track_id: 6fXlebLGsFmsco1pu5FEdT
-youtube_video_id: 
+youtube_video_id: SebINDF6pNQ
 apple_track_id: 1000470673493
 youtube_metadata: 
 ---
