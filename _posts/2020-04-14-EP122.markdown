@@ -5,7 +5,7 @@ date: 2020-04-14
 categories: interviews podcasts
 author: john
 spotify_track_id: 4CGAtx2mWtFixXyZk0qxhO
-youtube_video_id: 
+youtube_video_id: ehCTlib_wto
 apple_track_id: 1000471482968
 youtube_metadata: 
 ---
