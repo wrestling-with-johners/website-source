@@ -4,8 +4,8 @@ title: "Interview with ROYCE ISAACS (NWA Powerrr, The Wildcards, Strictly Busine
 date: 2020-04-26
 categories: interviews podcasts
 author: john
-spotify_track_id: 
+spotify_track_id: 5V3MQVx53JGcVuVSHhYJ1n
 youtube_video_id: N_F86ZMHaRI
-apple_track_id: 
+apple_track_id: 1000472704527
 youtube_metadata: 
 ---
