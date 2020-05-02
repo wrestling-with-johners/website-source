@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep127 - BRET vs OWEN WM10 Watch-Along (with George McKay)"
+date: 2020-05-02
+categories: podcasts
+author: john
+spotify_track_id: 3acba8Lqb2KSTS0C4l9L4y
+youtube_video_id: LG5R2u9lKus
+apple_track_id: 1000473353981
+youtube_metadata: 
+---
