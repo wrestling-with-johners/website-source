@@ -7,6 +7,7 @@ import re
 import fnmatch
 
 import datetime
+import dateutil.parser as datetime_parser
 import html
 import requests
 from googleapiclient.discovery import build
@@ -81,7 +82,7 @@ class YoutubeScraper:
         part_number = find_part_number(title)
       video_id = snippet['resourceId']['videoId']
       date_time = snippet['publishedAt']
-      date = datetime.datetime.strptime(date_time, '%Y-%m-%dT%H:%M:%S.%f%z').date()
+      date = datetime_parser.isoparse(date_time).date()
       if date >= self.search_from_date:
         data.append(YoutubeData(episode_number, part_number, title, date, video_id))
 	  
