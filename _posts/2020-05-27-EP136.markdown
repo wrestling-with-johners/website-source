@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep136 - Marc 'PAZ' Parry Interview (with Turnbuckle TV)"
+date: 2020-05-27
+categories: interviews podcasts
+author: john
+spotify_track_id: 1GxQHvXvttSCuqpz9s0S7G
+youtube_video_id: Mc4RsOCDE5U
+apple_track_id: 1000475927671
+youtube_metadata: 
+---
