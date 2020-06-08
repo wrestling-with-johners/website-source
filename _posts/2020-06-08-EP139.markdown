@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Ep139 – NXT TakeOver: In Your House Review (with John Scott x2)"
+title: "Ep139 – NXT TakeOve"
 date: 2020-06-08
 categories: podcasts
 author: john
 spotify_track_id: 0a9yVuJNx37Oy3fg6R5y5r
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000477169539
 youtube_metadata: 
 ---
