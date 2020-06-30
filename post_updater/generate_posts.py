@@ -5,6 +5,7 @@ import base64
 import os
 import re
 import fnmatch
+import sys
 
 import datetime
 import dateutil.parser as datetime_parser
@@ -12,13 +13,9 @@ import html
 import requests
 from googleapiclient.discovery import build
 
-YOUTUBE_PLAYLIST_ID = 'UU2P51c6szAyElgFPdKiqzEg'
+
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
-
-SPOTIFY_SHOW_ID = '0s5QReHi6jMO3Kmm1I2yCd'
-
-APPLE_PODCAST_ID = '1442108418'
 
 def find_episode_number(title):
   ep_then_number = re.findall(r'EP ?\d+ ', title.lower(), re.IGNORECASE)
@@ -293,7 +290,10 @@ class Matcher:
 
   def add_new_data(self, data_by_episode_number, data_by_title, debug_string, episode_data, add_specific_data):
     categories = set()
-    if episode_data.episode_number:
+    if episode_data.title.startswith('Turnbuckle Arms Ep'):
+      print('Processing Turnbuckle episode')
+      categories.add('turnbuckle-arms-podcast')
+    elif episode_data.episode_number:
       categories.add('podcasts')
     if 'interview' in episode_data.title.lower():
       categories.add('interviews')
@@ -356,7 +356,7 @@ class PostWriter:
     return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\nyoutube_metadata: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id), self.youtube_metadata_as_string(data))
 
   def format_as_generic(self, data):
-    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories:\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
+    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
 
   def parse_youtube_metadata(self, line_string):
     line_split_on_front = line_string.split('youtube_metadata: ')
@@ -433,9 +433,12 @@ argument_parser = argparse.ArgumentParser()
 argument_parser.add_argument('--mindate', '-m', help = 'The date from which to search for episodes in "YYYY-mm-dd" format.', default = str(datetime.date.min))
 argument_parser.add_argument('--autodate', '-a', help = 'Automatically find the search from date using the post files in this directory. The files should be formatted "YYYY-mm-dd-EP*"')
 argument_parser.add_argument('--output', '-o', help = 'The directory in which to output the results.', default = '_posts')
-argument_parser.add_argument('--youtubekey', '-y', help = 'The Youtube api key to use when connecting to their api.', required = True)
-argument_parser.add_argument('--spotifyid', '-i', help = 'The Spotify client id.', required = True)
-argument_parser.add_argument('--spotifysecret', '-s', help = 'The secret to use when connecting to Spotify\'s api.', required = True)
+argument_parser.add_argument('--youtubekey', '-y', help = 'The Youtube api key to use when connecting to their api.')
+argument_parser.add_argument('--spotifyid', '-i', help = 'The Spotify client id.')
+argument_parser.add_argument('--spotifysecret', '-s', help = 'The secret to use when connecting to Spotify\'s api.')
+argument_parser.add_argument('--youtubeplaylistid', help = 'The id of the youtube playlist to search')
+argument_parser.add_argument('--spotifyshowid', help = 'The id of the spotify show')
+argument_parser.add_argument('--applepodcastid', help = "The id of the apple podcast")
 args = argument_parser.parse_args()
 
 if args.autodate:
@@ -443,19 +446,42 @@ if args.autodate:
 else:
   search_from_date = datetime.datetime.strptime(args.mindate, '%Y-%m-%d').date()
   
+if any([args.youtubekey, args.youtubeplaylistid]) and not all([args.youtubekey, args.youtubeplaylistid]):
+  print ('When using any of youtubekey and youtubeplaylistid all must be defined')
+  argument_parser.print_help()
+  sys.exit(2)
+  
+if any([args.spotifyid, args.spotifysecret, args.spotifyshowid]) and not all([args.spotifyid, args.spotifysecret, args.spotifyshowid]):
+  print ('When using any of spotifyid, spotifysecret and spotifyshowid all must be defined')
+  argument_parser.print_help()
+  sys.exit(2)
+  
 output_directory = args.output
 
 YOUTUBE_API_KEY = args.youtubekey
 SPOTIFY_CLIENT_ID = args.spotifyid
 SPOTIFY_CLIENT_SECRET = args.spotifysecret
 
+YOUTUBE_PLAYLIST_ID = args.youtubeplaylistid
+SPOTIFY_SHOW_ID = args.spotifyshowid
+APPLE_PODCAST_ID = args.applepodcastid
+
 print ('Searching for posts from {}'.format(search_from_date))
 
-youtube_data = YoutubeScraper(search_from_date).get_youtube_videos()
+if any([args.youtubekey, args.youtubeplaylistid]):
+  youtube_data = YoutubeScraper(search_from_date).get_youtube_videos()
+else:
+  youtube_data = []
 
-spotify_data = SpotifyScraper(search_from_date).get_all_tracks()
+if any([args.spotifyid, args.spotifysecret, args.spotifyshowid]):
+  spotify_data = SpotifyScraper(search_from_date).get_all_tracks()
+else:
+  spotify_data = []
 
-apple_data = AppleScraper(search_from_date).get_all_tracks()
+if args.applepodcastid:
+  apple_data = AppleScraper(search_from_date).get_all_tracks()
+else:
+  apple_data = []
 
 matched_data = Matcher(youtube_data, spotify_data, apple_data).match()
 

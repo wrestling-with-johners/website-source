@@ -31,9 +31,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r source/post_updater/requirements.txt
           
-      - name: Update Posts
+      - name: Update Wrestling With Johners Posts
         run: |
-           ./source/post_updater/generate_posts.py --mindate "$(date -d "yesterday" '+%Y-%m-%d')" --output source/_posts/ --youtubekey ${{ secrets.YOUTUBE_API_KEY }} --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+           ./source/post_updater/generate_posts.py --mindate "$(date -d "yesterday" '+%Y-%m-%d')" --output source/_posts/wrestling-with-johners-podcast/ --youtubekey ${{ secrets.YOUTUBE_API_KEY }} --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }} --youtubeplaylistid UU2P51c6szAyElgFPdKiqzEg --spotifyshowid 0s5QReHi6jMO3Kmm1I2yCd --applepodcastid 1442108418
+           
+      - name: Update Turnbuckle Arms Posts
+        run: |
+          ./source/post_updater/generate_posts.py --mindate "$(date -d "yesterday" '+%Y-%m-%d')" --output source/_posts/turnbuckle-arms-podcast/ --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }} --spotifyshowid 3tyyGlrWUfCi4AwRrHkADd
 
       - name: Add, Commit then Push
         run: |
