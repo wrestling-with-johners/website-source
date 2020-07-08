@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep143 - 'The Emperor’ DRAKE WYNTER (with Turnbuckle TV)"
+date: 2020-07-08
+categories: podcasts
+author: john
+spotify_track_id: 3WKNGFCOaeKbopZ2tJumsO
+youtube_video_id: 2M04uxicFdI
+apple_track_id: 1000483490984
+youtube_metadata: 
+---
