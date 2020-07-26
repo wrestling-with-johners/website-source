@@ -4,8 +4,8 @@ title: "'The Yoga Monster' Mike Sydal (Lucha Libre & Laughs, DragonGate Pro, ROH
 date: 2020-07-24
 categories: podcasts
 author: john
-spotify_track_id: 
+spotify_track_id: 1nwsn2sVaARneVoFZ33xTo
 youtube_video_id: iK4IGFiCNm0
-apple_track_id: 
+apple_track_id: 1000486108854
 youtube_metadata: 
 ---
