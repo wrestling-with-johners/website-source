@@ -2,9 +2,9 @@
 layout: post
 title: "TJ Sky Interview - The Turnbuckle Arms Podcast (Bonus Episode)"
 date: 2020-07-05
-categories: interviews
+categories: interviews turnbuckle-arms-podcast
 author: john
 spotify_track_id: 41gT8sbrnQiwi7AyrPofCB
-youtube_video_id: 
-apple_track_id: 
+youtube_video_id: OP4uuFeYbQI
+apple_track_id: 1000482690814
 ---

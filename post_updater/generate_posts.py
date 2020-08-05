@@ -287,10 +287,13 @@ class Matcher:
           post_data.categories.add('podcasts')
         continue
       self.add_new_data(data_by_episode_number, data_by_title, debug_string, data, add_specific_data)
+      
+  def is_turnbuckle(self, episode_data):
+    return 'Turnbuckle Arms' in episode_data.title
 
   def add_new_data(self, data_by_episode_number, data_by_title, debug_string, episode_data, add_specific_data):
     categories = set()
-    if episode_data.title.startswith('Turnbuckle Arms Ep'):
+    if self.is_turnbuckle(episode_data):
       print('Processing Turnbuckle episode')
       categories.add('turnbuckle-arms-podcast')
     elif episode_data.episode_number:

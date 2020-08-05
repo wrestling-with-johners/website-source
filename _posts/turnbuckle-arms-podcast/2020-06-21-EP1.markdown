@@ -2,9 +2,10 @@
 layout: post
 title: "Turnbuckle Arms Ep.01 | Introducing The Brew'd | Nia Jax - Dangerous or Not? | Edge's Injury | All-time Favourite Matches | Plus, so much more!"
 date: 2020-06-21
-categories: turnbuckle-arms-podcast
+categories: podcasts turnbuckle-arms-podcast
 author: john
 spotify_track_id: 6SoX3ekCCnrc4tUdrycTOE
-youtube_video_id: 
-apple_track_id: 
+youtube_video_id: 2n1s-N8J1Rs
+apple_track_id: 1000478928459
+youtube_metadata: 
 ---
