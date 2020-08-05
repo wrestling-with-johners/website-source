@@ -2,7 +2,7 @@
 layout: post
 title: "'The Yoga Monster' Mike Sydal (Lucha Libre & Laughs, DragonGate Pro, ROH, WWE 205Live)"
 date: 2020-07-24
-categories: podcasts
+categories: interviews podcasts
 author: john
 spotify_track_id: 1nwsn2sVaARneVoFZ33xTo
 youtube_video_id: iK4IGFiCNm0
