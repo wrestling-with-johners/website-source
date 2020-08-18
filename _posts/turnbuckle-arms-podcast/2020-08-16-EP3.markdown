@@ -5,7 +5,7 @@ date: 2020-08-16
 categories: podcasts turnbuckle-arms-podcast
 author: john
 spotify_track_id: 4sCBsjnt8tIVAuE5oyJrOv
-youtube_video_id: 
+youtube_video_id: klols91It4c
 apple_track_id: 1000488278253
 youtube_metadata: 
 ---
