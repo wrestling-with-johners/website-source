@@ -6,6 +6,6 @@ categories: podcasts
 author: john
 spotify_track_id: 6Q46v5Dw5ri2nxiQFF8eta
 youtube_video_id: 0ZqjTmS_0kQ
-apple_track_id: 
+apple_track_id: 1000488577881
 youtube_metadata: 
 ---
