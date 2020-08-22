@@ -78,8 +78,8 @@ As a fan, if you now refuse to wear merchandise of or engage with anyone linked 
 
 If you have been affected by the #SpeakingOut movement, and need further assistance, please visit the following:
 
-(https://www.mind.org.uk/information-support/guides-to-support-and-services/abuse/sexual-abuse/) 
+<https://www.mind.org.uk/information-support/guides-to-support-and-services/abuse/sexual-abuse/>
 
-(http://www.frsb.org.uk/the-top-5-uk-sexual-abuse-charities/) 
+<http://www.frsb.org.uk/the-top-5-uk-sexual-abuse-charities/> 
 
 (https://rapecrisis.org.uk/) 
