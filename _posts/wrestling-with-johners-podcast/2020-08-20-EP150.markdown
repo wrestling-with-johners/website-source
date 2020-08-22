@@ -6,6 +6,6 @@ categories: interviews podcasts
 author: john
 spotify_track_id: 5KxG66xoFxGugHR0DRI5Zb
 youtube_video_id: bSPGps8mftI
-apple_track_id: 
+apple_track_id: 1000488821410
 youtube_metadata: 
 ---
