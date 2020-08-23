@@ -62,7 +62,7 @@ To a certain extent, you could argue that I fall into this category… Especiall
 
 This past week alone, there have been 2 separate stories that have raised the red flags and yet again increased the cringe factor. One of them was the home invasion and attempted kidnaping of Sonya Deville 
 
-(https://www.tampabay.com/news/crime/2020/08/16/obsessed-with-lutz-homeowner-south-carolina-man-came-to-kidnap-him-sheriff-says/?fbclid=IwAR2ol--9UeOOPNkveWACYU5eaIJrRCSgZZBNcJiG17EQ--bfoEaFneSkDy0].) 
+<https://www.tampabay.com/news/crime/2020/08/16/obsessed-with-lutz-homeowner-south-carolina-man-came-to-kidnap-him-sheriff-says/?fbclid=IwAR2ol--9UeOOPNkveWACYU5eaIJrRCSgZZBNcJiG17EQ--bfoEaFneSkDy0].> 
 
 And, although I would love to share my thoughts with you on this matter, I am reluctant to, with good reason of course. It’s an active case and, being a Brit I’m not informed on American law and would hate to jeopardise any potential criminal proceedings. 
 
@@ -82,4 +82,4 @@ If you have been affected by the #SpeakingOut movement, and need further assista
 
 <http://www.frsb.org.uk/the-top-5-uk-sexual-abuse-charities/> 
 
-(https://rapecrisis.org.uk/) 
+<https://rapecrisis.org.uk/>
