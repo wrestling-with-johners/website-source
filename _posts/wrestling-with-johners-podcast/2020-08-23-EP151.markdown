@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep151 – NXT TakeOver XXX Review (with John Scott @Powered4TV)"
+date: 2020-08-23
+categories: podcasts
+author: john
+spotify_track_id: 4deZPPYV7wx1FVLI0tZozj
+youtube_video_id: 
+apple_track_id: 1000488916632
+youtube_metadata: 
+---
