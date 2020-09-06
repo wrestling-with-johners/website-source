@@ -5,7 +5,7 @@ date: 2020-09-04
 categories: podcasts
 author: john
 spotify_track_id: 4yvTX6fi0u1xGIMsZzQJnt
-youtube_video_id: 
+youtube_video_id: P_7N8mKdoLQ
 apple_track_id: 1000490079516
 youtube_metadata: 
 ---
