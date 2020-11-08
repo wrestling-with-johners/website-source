@@ -29,7 +29,7 @@ def find_part_number(title):
     return int(re.findall(r'\d+', part_x_of_y[0])[0])
   else:
     return None
-    
+
 def grouped(iterable, n):
   return zip(*[iter(iterable)]*n)
 
@@ -63,7 +63,7 @@ class YoutubeScraper:
     ).execute()
 
     data = []
-  
+
     for result in results.get('items', []):
       snippet = result['snippet']
       title = html.unescape(snippet['title'])
@@ -82,7 +82,7 @@ class YoutubeScraper:
       date = datetime_parser.isoparse(date_time).date()
       if date >= self.search_from_date:
         data.append(YoutubeData(episode_number, part_number, title, date, video_id))
-	  
+
     if 'nextPageToken' in results:
       print ('token {}'. format(results['nextPageToken']))
       return data + self.get_youtube_videos_with_token(results['nextPageToken'])
@@ -134,7 +134,7 @@ class SpotifyScraper:
     )
     if (result.ok):
       result_json = result.json()
-	  
+
       data = []
 
       for result in result_json['items']:
@@ -145,7 +145,7 @@ class SpotifyScraper:
         date = datetime.datetime.strptime(result['release_date'], '%Y-%m-%d').date()
         if date >= self.search_from_date:
           data.append(SpotifyData(episode_number, name, date, track_id))
-        
+
       if 'next' in result_json and result_json['next']:
         print ('token {}'.format(result_json['next']))
         return data + self.get_tracks(access_key, result_json['next'])
@@ -182,7 +182,7 @@ class AppleScraper:
       'Referer': 'https://podcasts.apple.com/us/podcast/id{}'.format(APPLE_PODCAST_ID),
       'Origin': 'https://podcasts.apple.com',
       'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
-      'Authorization': 'Bearer eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IldlYlBsYXlLaWQifQ.eyJpc3MiOiJBTVBXZWJQbGF5IiwiaWF0IjoxNTg4OTEyMDA1LCJleHAiOjE2MDQ0NjQwMDV9.TWF75lk72kCfAeUn9Hv1GYvD3InqFafYLcsTo4-2hxbcYRqnDZuUaqLAxLziIC-mgE7bNOq8goC_LCh7kvxacw',
+      'Authorization': 'Bearer eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkNSRjVITkJHUFEifQ.eyJpc3MiOiI4Q1UyNk1LTFM0IiwiaWF0IjoxNjA0NDIzNjk4LCJleHAiOjE2MDc0NDc2OTh9.lNJUIJvv99NIs1ea_qiv5lJyEsBNrppZMJiex4drI_dGWzkT5HB-DBYyw8aaYwlea8CkQVAqNLe3790UiD6XoQ',
       'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
     })
     if response.ok:
