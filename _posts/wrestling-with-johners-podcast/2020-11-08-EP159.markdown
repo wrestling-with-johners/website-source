@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep159 - AEW FULL GEAR 2020 Full Review (with Johners, Chris. T, Griz and Mags)"
+date: 2020-11-08
+categories: podcasts
+author: john
+spotify_track_id: 2VHMszCcG9up5SIsrXCYzm
+youtube_video_id: 6BrrjLJUGeA
+apple_track_id: 1000497660504
+youtube_metadata: 
+---

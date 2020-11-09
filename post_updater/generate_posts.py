@@ -207,6 +207,10 @@ class AppleScraper:
       else:
         print('no more data')
         return data
+
+    elif response.status_code == 429:
+      print ('Apple responded with 429, halting search')
+      return []
     else:
       response.raise_for_status()
 
