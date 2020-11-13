@@ -5,7 +5,7 @@ date: 2020-11-12
 categories: interviews podcasts
 author: john
 spotify_track_id: 6A3hDAR0BVUgSdDsAgY9uO
-youtube_video_id: 
+youtube_video_id: gbYam5s2lDE
 apple_track_id: 1000498355901
 youtube_metadata: 
 ---
