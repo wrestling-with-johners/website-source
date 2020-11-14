@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep162 - The Greatest Intercontinental Champions Draft (with Johners, John Scott & Maddog Mike Angus)"
+date: 2020-11-14
+categories: podcasts
+author: john
+spotify_track_id: 1t2pKWipHlBKMQrIF30ZTF
+youtube_video_id: qHYAQFjA1Bk
+apple_track_id: 1000498593398
+youtube_metadata: 
+---
