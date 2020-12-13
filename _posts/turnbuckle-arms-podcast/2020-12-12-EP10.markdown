@@ -1,0 +1,11 @@
+---
+layout: post
+title: "A Swift Half - Favourite Promos | Turnbuckle Arms Podcast"
+date: 2020-12-12
+categories: podcasts turnbuckle-arms-podcast
+author: john
+spotify_track_id: 5nanjWGH4W26SnB7SUDzy9
+youtube_video_id: 5aU84dA_oro
+apple_track_id: 1000502156263
+youtube_metadata: 
+---
