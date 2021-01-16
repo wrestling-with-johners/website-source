@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep163 - Adam 'FLEX' Maxted Interview"
+date: 2021-01-16
+categories: interviews podcasts
+author: john
+spotify_track_id: 0R6TvQUbmBbev5G92W1gDW
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
