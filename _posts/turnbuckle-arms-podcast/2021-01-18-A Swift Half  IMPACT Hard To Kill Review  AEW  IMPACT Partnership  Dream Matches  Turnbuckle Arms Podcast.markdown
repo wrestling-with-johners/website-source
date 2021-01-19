@@ -6,5 +6,5 @@ categories: turnbuckle-arms-podcast
 author: john
 spotify_track_id: 4rVh2cr6EAEMLRoi2NSzQY
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000505720548
 ---
