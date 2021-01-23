@@ -1,8 +1,10 @@
 name: Update Posts
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 */6 * * *'
+
 
 jobs:
   update_posts:
@@ -32,7 +34,8 @@ jobs:
           pip install -r source/post_updater/requirements.txt
           
       - name: Update Wrestling With Johners Posts
-        run: ./source/post_updater/generate_posts.py \
+        run: |
+          ./source/post_updater/generate_posts.py \
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
           --output source/_posts/wrestling-with-johners-podcast/ \
           --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
@@ -45,22 +48,24 @@ jobs:
           --author john
            
       - name: Update Turnbuckle Arms Posts
-        run: ./source/post_updater/generate_posts.py \
-        --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
-        --output source/_posts/turnbuckle-arms-podcast/ \
-        --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
-        --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
-        --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }} \
-        --youtubeplaylistid UUYDa5yBbWML_3LzTVCBraDQ \
-        --spotifyshowid 3tyyGlrWUfCi4AwRrHkADd \
-        --applepodcastid 1519669566 \
-        --category turnbuckle-arms-podcast \
-        --author turnbuckle-arms-podcast
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/turnbuckle-arms-podcast/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }} \
+          --youtubeplaylistid UUYDa5yBbWML_3LzTVCBraDQ \
+          --spotifyshowid 3tyyGlrWUfCi4AwRrHkADd \
+          --applepodcastid 1519669566 \
+          --category turnbuckle-arms-podcast \
+          --author turnbuckle-arms-podcast
 
       - name: Update The Chokeslam Wrestling Report
-        run: ./website-source/post_updater/generate_posts.py \
+        run: |
+          ./source/post_updater/generate_posts.py \
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
-          --output website-source/_posts/chokeslam-wrestling-report/ \
+          --output source/_posts/chokeslam-wrestling-report/ \
           --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
           --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
           --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}  \
@@ -69,6 +74,16 @@ jobs:
           --applepodcastid 1471778112 \
           --category chokeslam-wrestling-report \
           --author chokeslam-wrestling-report
+
+      - name: Update Kyle's Wrestling
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/kyles-wrestling/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --youtubeplaylistid UUcKE7J5v87qW-ZqszbLJW2A \
+          --category kyles-wrestling \
+          --author kyles-wrestling
 
       - name: Add, Commit then Push
         run: |
