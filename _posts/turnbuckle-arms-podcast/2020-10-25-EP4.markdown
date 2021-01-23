@@ -2,8 +2,8 @@
 layout: post
 title: "Turnbuckle Arms Ep.04 | Hell in a Cell Preview | NXT Halloween Havoc | Best & Worst Halloween Havoc Matches | Jericho & MJF Skit | AEW Injuries"
 date: 2020-10-25
-categories: podcasts turnbuckle-arms-podcast
-author: john
+categories: turnbuckle-arms-podcast
+author: turnbuckle-arms-podcast
 spotify_track_id: 7xU9C8aO5HjWx3W3nx7LPZ
 youtube_video_id: 
 apple_track_id: 1000496007804

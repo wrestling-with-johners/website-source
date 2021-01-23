@@ -2,8 +2,8 @@
 layout: post
 title: "A Grizmas Cracker | BIG E's Singles Push | Turnbuckle Arms Podcast"
 date: 2020-12-22
-categories: podcasts turnbuckle-arms-podcast
-author: john
+categories: turnbuckle-arms-podcast
+author: turnbuckle-arms-podcast
 spotify_track_id: 5PjdXCce9V0RtGduvvTEQ3
 youtube_video_id: 
 apple_track_id: 1000503216566

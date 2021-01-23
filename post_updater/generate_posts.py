@@ -288,20 +288,11 @@ class Matcher:
           post_data.date = data.date
         if data.episode_number:
           post_data.episode_number = data.episode_number
-          post_data.categories.add('podcasts')
         continue
       self.add_new_data(data_by_episode_number, data_by_title, debug_string, data, add_specific_data)
-      
-  def is_turnbuckle(self, episode_data):
-    return 'Turnbuckle Arms' in episode_data.title
 
   def add_new_data(self, data_by_episode_number, data_by_title, debug_string, episode_data, add_specific_data):
     categories = set()
-    if self.is_turnbuckle(episode_data):
-      print('Processing Turnbuckle episode')
-      categories.add('turnbuckle-arms-podcast')
-    elif episode_data.episode_number:
-      categories.add('podcasts')
     if 'interview' in episode_data.title.lower():
       categories.add('interviews')
     post_data = PostData(episode_data.episode_number, episode_data.title, episode_data.date, None, None, None, categories, 'john', set())
@@ -340,9 +331,11 @@ class Matcher:
     return data_by_title.values()
 
 class PostWriter:
-  def __init__(self, matched_data, output_directory):
+  def __init__(self, matched_data, output_directory, categories, author):
     self.matched_data = matched_data
     self.output_directory = output_directory
+    self.categories = categories
+    self.author = author
 
   def value_or_empty(self, value):
     if value:
@@ -360,10 +353,10 @@ class PostWriter:
       return ','.join(str(metadata) for metadata in data.youtube_metadata)
     
   def format_as_podcast(self, data):
-    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\nyoutube_metadata: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id), self.youtube_metadata_as_string(data))
+    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: {}\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\nyoutube_metadata: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.author, self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id), self.youtube_metadata_as_string(data))
 
   def format_as_generic(self, data):
-    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: john\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
+    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: {}\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.author, self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
 
   def parse_youtube_metadata(self, line_string):
     line_split_on_front = line_string.split('youtube_metadata: ')
@@ -376,6 +369,10 @@ class PostWriter:
     return data
 
   def output_to_file(self, parent_directory, data):
+    data.categories.update(self.categories)
+    if self.author:
+      data.author = self.author
+
     if data.episode_number:
       filename = '{}-EP{}.markdown'.format(data.date.strftime('%Y-%m-%d'), data.episode_number)
       filename_pattern = r'\d{{4}}-\d{{2}}-\d{{2}}-EP{}\.markdown'.format(data.episode_number)
@@ -389,7 +386,7 @@ class PostWriter:
           title = title[1:-1]
           data.title = title
           data.date = datetime.datetime.strptime(lines[3].split(':')[1].strip(), '%Y-%m-%d').date()
-          data.categories = set(lines[4].split(':')[1].strip().split(' '))
+          data.categories.update(lines[4].split(':')[1].strip().split(' '))
           data.author = lines[5].split(':')
           spotify_track_id = lines[6].split(':')[1].strip()
           youtube_video_id = lines[7].split(':')[1].strip()
@@ -446,6 +443,8 @@ argument_parser.add_argument('--spotifysecret', '-s', help = 'The secret to use 
 argument_parser.add_argument('--youtubeplaylistid', help = 'The id of the youtube playlist to search')
 argument_parser.add_argument('--spotifyshowid', help = 'The id of the spotify show')
 argument_parser.add_argument('--applepodcastid', help = "The id of the apple podcast")
+argument_parser.add_argument('--category', nargs = '+', help = 'Any extra category(s) to include for each post')
+argument_parser.add_argument('--author', help = 'The author for each post')
 args = argument_parser.parse_args()
 
 if args.autodate:
@@ -462,7 +461,14 @@ if any([args.spotifyid, args.spotifysecret, args.spotifyshowid]) and not all([ar
   print ('When using any of spotifyid, spotifysecret and spotifyshowid all must be defined')
   argument_parser.print_help()
   sys.exit(2)
-  
+
+if args.category:
+  categories = args.category
+else:
+  categories = []
+
+author = args.author
+
 output_directory = args.output
 
 YOUTUBE_API_KEY = args.youtubekey
@@ -492,4 +498,4 @@ else:
 
 matched_data = Matcher(youtube_data, spotify_data, apple_data).match()
 
-PostWriter(matched_data, output_directory).write()
+PostWriter(matched_data, output_directory, categories, author).write()

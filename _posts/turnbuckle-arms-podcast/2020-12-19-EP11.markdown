@@ -2,8 +2,8 @@
 layout: post
 title: "Turnbuckle Arms Podcast | 12 Days of Grizmas with The Brew'd | Xmas Wrestling Memories | Lexi's Xmas Wrestling Quiz"
 date: 2020-12-19
-categories: podcasts turnbuckle-arms-podcast
-author: john
+categories: turnbuckle-arms-podcast
+author: turnbuckle-arms-podcast
 spotify_track_id: 4Vf0qiCf1MlIjU8dKd8j5C
 youtube_video_id: 
 apple_track_id: 1000502911583
