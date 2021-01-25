@@ -85,6 +85,29 @@ jobs:
           --category kyles-wrestling \
           --author kyles-wrestling
 
+      - name: Update Pull Up A Seat
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/pull-up-a-seat/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}  \
+          --youtubeplaylistid UUH8dpQicvMaZisqSKtCHRjQ \
+          --spotifyshowid 62kYSVvKtd1sXjUme1LZI2 \
+          --category pull-up-a-seat \
+          --author matt-bayliss
+
+      - name: Update Pro Wrestling Tonight
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/pro-wrestling-tonight/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --youtubeplaylistid UU0U0XXugwAMNUWIYKh9iK7w \
+          --category pro-wrestling-tonight \
+          --author chicagoland-championship-wrestling
+
       - name: Add, Commit then Push
         run: |
           cd source
