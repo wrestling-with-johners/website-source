@@ -13,9 +13,9 @@
     <a href="https://www.youtube.com/watch?v={{ post.youtube_video_id }}"><img src="http://img.youtube.com/vi/{{ post.youtube_video_id }}/0.jpg" /></a>
     {% endif %}
 
-    {% if page.apple_track_id %}
-    <h2>Apple Podcast</h2>
-    <a href="https://podcasts.apple.com/us/podcast/wrestling-with-johners/id1442108418?i={{ page.apple_track_id }}">
+    {% if post.apple_track_id %}
+    {% assign author = site.authors | where: 'short_name', post.author | first %}
+    <a href="https://podcasts.apple.com/us/podcast/{{ author.apple_url }}?i={{ post.apple_track_id }}">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-apple fa-stack-1x fa-inverse"></i>
