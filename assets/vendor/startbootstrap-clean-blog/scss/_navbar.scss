@@ -17,7 +17,10 @@
   }
   .navbar-nav {
     align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
     > li.nav-item {
+      margin: 0.1em;
       > a {
         font-size: 12px;
         font-weight: 800;
@@ -26,7 +29,9 @@
         background-color: $gray-900;
         color: $white;
         padding-left: 1em;
+        padding-right: 1em;
 	    border-radius: 25px;
+        text-align: center;
       }
     }
   }
