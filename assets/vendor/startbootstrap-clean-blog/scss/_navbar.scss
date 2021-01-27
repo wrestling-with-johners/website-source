@@ -21,6 +21,7 @@
     justify-content: center;
     > li.nav-item {
       margin: 0.1em;
+      width: 100%;
       > a {
         font-size: 12px;
         font-weight: 800;
@@ -48,6 +49,7 @@
     }
     .navbar-nav {
       > li.nav-item {
+        width: inherit;
         > a {
           padding: 10px 20px;
           color: $white;
