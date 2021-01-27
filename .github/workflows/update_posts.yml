@@ -118,6 +118,16 @@ jobs:
           --category kurt-johansson-show \
           --author kurt-johansson
 
+      - name: Update Work The Left Side Podcast
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/work-the-left-side-podcast/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --youtubeplaylistid UU1hrk8NkrIXjqKniLiqeBeQ \
+          --category work-the-left-side-podcast \
+          --author nik-towers
+
       - name: Add, Commit then Push
         run: |
           cd source
