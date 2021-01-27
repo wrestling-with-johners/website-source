@@ -108,6 +108,16 @@ jobs:
           --category pro-wrestling-tonight \
           --author chicagoland-championship-wrestling
 
+      - name: Update The Kurt Johansson Show
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/kurt-johansson-show/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --youtubeplaylistid UUcoJBKF4zD1p6FR7tKRQbKw \
+          --category kurt-johansson-show \
+          --author kurt-johansson
+
       - name: Add, Commit then Push
         run: |
           cd source
