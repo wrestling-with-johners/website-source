@@ -20,7 +20,7 @@
     flex-wrap: wrap;
     justify-content: center;
     > li.nav-item {
-      margin: 0.1em;
+      padding: 0.1em;
       width: 100%;
       > a {
         font-size: 12px;
@@ -35,6 +35,11 @@
         text-align: center;
       }
     }
+    > li.dropdown {
+      > .dropdown-button {
+        display: none;
+      }
+    }
   }
   @media only screen and (min-width: 992px) {
     border-bottom: 1px solid transparent;
@@ -47,6 +52,10 @@
         color: fade-out($white, .2);
       }
     }
+    .navbar-collapse {
+      justify-content: center;
+      padding-top: 1em;
+    }
     .navbar-nav {
       > li.nav-item {
         width: inherit;
@@ -58,6 +67,53 @@
             color: fade-out($white, .2);
           }
         }
+      }
+      > li.dropdown {
+        position: relative;
+        display: inline-block;
+        max-height: 100%;
+        > .dropdown-button {
+          display: inherit;
+          font-size: 12px;
+          font-weight: 800;
+          letter-spacing: 1px;
+          text-transform: uppercase;
+          background-color: $gray-900;
+          color: $white;
+          padding: 10px 20px;
+          border-radius: 25px;
+          text-align: center;
+          border: none;
+        }
+        > .dropdown-content {
+          display: none;
+          //display: flex;
+          position: absolute;
+          max-height: 90vh;
+          flex-wrap: wrap;
+          flex-direction: column;
+          flex-grow: 1;
+          max-width: 40em;
+          align-items: flex-start;
+          justify-content: flex-start;
+          > li {
+            width: 10em;
+            height: 3em;
+            > a {
+              height: 100%;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              border-radius: 0;
+            }
+          }
+        }
+      }
+      > li.dropdown:hover .dropdown-content {
+        display: flex;
+      }
+      > li.dropdown:hover .dropdown-button {
+        background-color: #3e8e41;
       }
     }
   }
