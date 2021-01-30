@@ -128,6 +128,16 @@ jobs:
           --category work-the-left-side-podcast \
           --author nik-towers
 
+      - name: Update The Power Hour
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/power-hour/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --youtubeplaylistid UUnDMxFgnMQUQdSDQSQOYwnw \
+          --category power-hour \
+          --author power-hour
+
       - name: Add, Commit then Push
         run: |
           cd source

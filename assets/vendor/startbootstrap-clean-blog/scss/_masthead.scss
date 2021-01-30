@@ -38,11 +38,13 @@ header.masthead {
     }
     .subheading {
       font-size: 24px;
-      font-weight: 300;
+      font-weight: 600;
       line-height: 1.1;
       display: block;
       margin: 10px 0 0;
       @include sans-serif-font;
+      background-color: $gray-900;
+      border-radius: 25px;
     }
     @media only screen and (min-width: 768px) {
       h1 {
