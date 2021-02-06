@@ -138,6 +138,19 @@ jobs:
           --category power-hour \
           --author power-hour
 
+      - name: Update Straight Talk Wrestling
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/straight-talk-wrestling/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}  \
+          --youtubeplaylistid UU3rBrH-cyhM_whmjL1M-qOg \
+          --spotifyshowid 565zB01O5PiEUDhL9ufpy6 \
+          --category straight-talk-wrestling \
+          --author george-mckay
+
       - name: Add, Commit then Push
         run: |
           cd source
