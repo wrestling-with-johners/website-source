@@ -33,6 +33,9 @@ def find_part_number(title):
 def grouped(iterable, n):
   return zip(*[iter(iterable)]*n)
 
+def escape_for_frontmatter(title):
+  return title.replace('"', r'\"')
+
 class YoutubeData:
   def __init__(self, episode_number, part_number, title, date, video_id):
     self.episode_number = episode_number
@@ -43,7 +46,6 @@ class YoutubeData:
 
   def __str__(self):
     return 'Number: `{}`\nTitle: `{}`\nID: `{}`\nDate: `{}`\n'.format(self.episode_number, self.title, self.video_id, self.datetime)
-
 
 class YoutubeScraper:
   def __init__(self, search_from_date):
@@ -66,7 +68,7 @@ class YoutubeScraper:
 
     for result in results.get('items', []):
       snippet = result['snippet']
-      title = html.unescape(snippet['title'])
+      title = escape_for_frontmatter(html.unescape(snippet['title']))
       print ('Youtube `{}`'.format(title))
       episode_number = find_episode_number(title)
       if episode_number == None:
@@ -138,7 +140,7 @@ class SpotifyScraper:
       data = []
 
       for result in result_json['items']:
-        name = html.unescape(result['name'])
+        name = escape_for_frontmatter(html.unescape(result['name']))
         print ('Spotify `{}`'.format(name))
         episode_number = find_episode_number(name)
         track_id = result['id']
@@ -191,7 +193,7 @@ class AppleScraper:
       for episode in response_json['data']:
         track_id = episode['id']
         attributes = episode['attributes']
-        title = attributes['name']
+        title = escape_for_frontmatter(attributes['name'])
         print ('Apple `{}`'.format(title))
         date = datetime.datetime.strptime(attributes['releaseDateTime'], '%Y-%m-%dT%H:%M:%S%z').date()
         if 'episodeNumber' in attributes:
