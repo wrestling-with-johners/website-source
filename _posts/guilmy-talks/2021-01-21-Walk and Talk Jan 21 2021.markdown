@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Walk and Talk Jan 21, 2021"
+date: 2021-01-21
+categories: guilmy-talks
+author: justin-guilmette
+spotify_track_id: 2XcrdFWGfOzf1Q6cPQ5aEh
+youtube_video_id: 
+apple_track_id: 
+---

@@ -151,6 +151,19 @@ jobs:
           --category straight-talk-wrestling \
           --author george-mckay
 
+      - name: Update Guilmy Talks
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/guilmy-talks/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}  \
+          --youtubeplaylistid UUuaczBl8xxYXA1z9z27A3kw \
+          --spotifyshowid 1xDcQBOJsKwflNDmKj5zYS \
+          --category guilmy-talks \
+          --author justin-guilmette
+
       - name: Add, Commit then Push
         run: |
           cd source
