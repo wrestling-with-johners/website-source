@@ -178,6 +178,16 @@ jobs:
           --category shooting-up-north \
           --author lewis-carlan
 
+      - name: Update Half Decent
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/half-decent/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --youtubeplaylistid UU7gyM94WNIEE2LAllK1V_3A \
+          --category half-decent \
+          --author half-decent
+
       - name: Add, Commit then Push
         run: |
           cd source

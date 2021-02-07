@@ -35,14 +35,14 @@ s{% endif %}
 			</li>
 			{% endif %}
 			{% if page.twitter_username %}
-      <li class="list-inline-item">
-			<a href="https://twitter.com/{{ page.twitter_username }}" target="_blank">
-			  <span class="fa-stack fa-lg">
-				<i class="fas fa-circle fa-stack-2x"></i>
-				<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-			  </span>
-			</a>
-      </li>
+			  <li class="list-inline-item">
+					<a href="https://twitter.com/{{ page.twitter_username }}" target="_blank">
+					  <span class="fa-stack fa-lg">
+						<i class="fas fa-circle fa-stack-2x"></i>
+						<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+					  </span>
+					</a>
+			  </li>
 			{% endif %}
 		    {% if page.youtube_channel_id %}
 			  <li class="list-inline-item">
@@ -55,16 +55,38 @@ s{% endif %}
 			  </li>
 		    {% endif %}
 			  {% if page.instagram_username %}
-			  <li class="list-inline-item">
-				<a href="https://instagram.com/{{ page.instagram_username| cgi_escape | escape }}" target="_blank">
-				  <span class="fa-stack fa-lg">
-					<i class="fas fa-circle fa-stack-2x"></i>
-					<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-				  </span>
-				</a>
-			  </li>
+					{% if page.instagram_username.first %}
+						{% for instagram_username in page.instagram_username %}
+						<li class="list-inline-item">
+							<a href="https://instagram.com/{{ instagram_username| cgi_escape | escape }}" target="_blank">
+								<span class="fa-stack fa-lg">
+								<i class="fas fa-circle fa-stack-2x"></i>
+								<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+								</span>
+							</a>
+						</li>
+						{% endfor %}
+					{% else %}
+					<li class="list-inline-item">
+					<a href="https://instagram.com/{{ page.instagram_username| cgi_escape | escape }}" target="_blank">
+						<span class="fa-stack fa-lg">
+						<i class="fas fa-circle fa-stack-2x"></i>
+						<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+						</span>
+					</a>
+					</li>
+					{% endif %}
 			  {% endif %}
-
+				{% if page.website_url %}
+				<li class="list-inline-item">
+					<a href="{{ page.website_url }}" target="_blank">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-external-link-alt"></i>
+					<i class="fas fa-external-link-alt fa-stack-1x fa-inverse"></i>
+				  </span>
+					</a>
+				</li>
+				{% endif %}
 		  </div>
 		</div>
 	  </div>
