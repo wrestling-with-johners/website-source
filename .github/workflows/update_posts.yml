@@ -164,6 +164,20 @@ jobs:
           --category guilmy-talks \
           --author justin-guilmette
 
+      - name: Update Shooting Up North
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/shooting-up-north/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }} \
+          --youtubeplaylistid UUcNAI-6vaYV3YAud8qfT4ww \
+          --spotifyshowid 04GrGcYQilmzeEJ8Lyicth \
+          --applepodcastid 1469155830 \
+          --category shooting-up-north \
+          --author lewis-carlan
+
       - name: Add, Commit then Push
         run: |
           cd source
