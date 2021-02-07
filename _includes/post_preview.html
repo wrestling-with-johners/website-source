@@ -10,7 +10,7 @@
 		<iframe src="https://open.spotify.com/embed-podcast/episode/{{ post.spotify_track_id }}" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     {% elsif post.youtube_video_id %}
     <h2>Youtube</h2>
-    <a href="https://www.youtube.com/watch?v={{ post.youtube_video_id }}" target="_blank"><img src="http://img.youtube.com/vi/{{ post.youtube_video_id }}/0.jpg" /></a>
+    <a href="https://www.youtube.com/watch?v={{ post.youtube_video_id }}" target="_blank"><img class="restrict-width" src="http://img.youtube.com/vi/{{ post.youtube_video_id }}/0.jpg" /></a>
     {% endif %}
 
     {% if post.apple_track_id %}
