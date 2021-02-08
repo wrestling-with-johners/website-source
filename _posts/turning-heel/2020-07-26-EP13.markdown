@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 12 - Wait, Robbie E?"
+date: 2020-07-26
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 07VnFVppFOjzCCyXXBHHvY
+youtube_video_id: 
+apple_track_id: 1000486171186
+youtube_metadata: 
+---

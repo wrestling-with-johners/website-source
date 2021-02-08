@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 39 - The Royal Rumble!"
+date: 2021-02-07
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 50134mKmKlEq7eJ6vH3Gs4
+youtube_video_id: 
+apple_track_id: 1000508081545
+youtube_metadata: 
+---

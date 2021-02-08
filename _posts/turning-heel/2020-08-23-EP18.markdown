@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 16 - Takeover XXX"
+date: 2020-08-23
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 4cn4irN5vKJ8IqMLbzZNyG
+youtube_video_id: 
+apple_track_id: 1000488930745
+youtube_metadata: 
+---

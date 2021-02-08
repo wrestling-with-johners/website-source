@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 19 - Waterboy!"
+date: 2020-09-04
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 6OqA8dKB0fef4EnRchS8YN
+youtube_video_id: 
+apple_track_id: 1000490107666
+youtube_metadata: 
+---

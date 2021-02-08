@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 26 - The One Where Chris Floods The Bathroom"
+date: 2020-11-12
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 3uF2dSsdriQGdRlprDd9xd
+youtube_video_id: 
+apple_track_id: 1000498542064
+youtube_metadata: 
+---

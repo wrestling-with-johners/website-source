@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 7 - Backlash"
+date: 2020-06-16
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 2XQoapHuejMbAha97BtuW2
+youtube_video_id: 
+apple_track_id: 1000478265477
+youtube_metadata: 
+---

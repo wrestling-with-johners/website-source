@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 6 - Backlash Quickfire"
+date: 2020-06-13
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 2yviMMbx7FI4vYOHvJoYXZ
+youtube_video_id: 
+apple_track_id: 1000477846086
+youtube_metadata: 
+---

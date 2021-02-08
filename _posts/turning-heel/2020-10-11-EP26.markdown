@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 23 - Sick Boy 2.....This Time It's COVID"
+date: 2020-10-11
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 6J8U6qQwi6Nte1tzMsgBE7
+youtube_video_id: 
+apple_track_id: 1000494353920
+youtube_metadata: 
+---

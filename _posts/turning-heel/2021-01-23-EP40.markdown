@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 37 - Hard to Kill!"
+date: 2021-01-23
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 2n9X121ZHdO6xxAie1aiCt
+youtube_video_id: 
+apple_track_id: 1000506294356
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 20 - Technically 21"
+date: 2020-09-13
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 1hrJA5Iz060pKUp7fNvFTb
+youtube_video_id: 
+apple_track_id: 1000491096309
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 23 - Sick Boy!"
+date: 2020-10-04
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 6FtMIdzp15eQbtFtAFoUyN
+youtube_video_id: 
+apple_track_id: 1000493533326
+youtube_metadata: 
+---

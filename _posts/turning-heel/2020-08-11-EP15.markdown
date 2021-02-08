@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 14 - Flava Aid"
+date: 2020-08-11
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 0YYqWfRwr4nSA9u40Jxc4A
+youtube_video_id: 
+apple_track_id: 1000487776318
+youtube_metadata: 
+---

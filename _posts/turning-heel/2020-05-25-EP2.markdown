@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 2 - Double or Quit's"
+date: 2020-05-25
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 4alwxj7G7eHi0J1bZHAQmL
+youtube_video_id: 
+apple_track_id: 1000475756574
+youtube_metadata: 
+---

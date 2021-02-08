@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Turning Japanese Episode 1 - Death Matches"
+date: 2020-08-12
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 6GAVojJPafvI1ZvOPA8jgT
+youtube_video_id: 
+apple_track_id: 1000487902913
+youtube_metadata: 
+---

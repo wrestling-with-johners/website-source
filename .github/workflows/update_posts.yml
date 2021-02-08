@@ -191,6 +191,18 @@ jobs:
           --category half-decent \
           --author half-decent
 
+      - name: Update Turning Heel Podcast
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/turning-heel/ \
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }} \
+          --spotifyshowid 5L9VsvFl8OPwWDvmOLTdAW \
+          --applepodcastid 1514787836 \
+          --category turning-heel \
+          --author turning-heel
+
       - name: Add, Commit then Push
         run: |
           cd source

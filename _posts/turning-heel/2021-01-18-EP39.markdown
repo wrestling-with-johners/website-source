@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 35 - It's Been A Long Week!"
+date: 2021-01-18
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 4muMAMVzKOo6S4HtyyViQm
+youtube_video_id: 
+apple_track_id: 1000505684181
+youtube_metadata: 
+---

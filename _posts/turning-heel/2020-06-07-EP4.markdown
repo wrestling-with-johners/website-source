@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 4 - What's With The Glove?"
+date: 2020-06-07
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 51To9y7XiryGvzfakiHGZs
+youtube_video_id: 
+apple_track_id: 1000477072301
+youtube_metadata: 
+---

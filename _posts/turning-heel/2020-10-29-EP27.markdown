@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 24 - Covid Free Since'93"
+date: 2020-10-29
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 0VQs0RnZWqGwjuMwUKrzaN
+youtube_video_id: 
+apple_track_id: 1000496505200
+youtube_metadata: 
+---

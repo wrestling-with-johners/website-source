@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 9 - Slammiversary Preview"
+date: 2020-07-20
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 3hPcCUikXZO4D2i0FRBBFK
+youtube_video_id: 
+apple_track_id: 1000485512219
+youtube_metadata: 
+---

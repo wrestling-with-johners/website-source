@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 8 - Where The F**k Is Chris?"
+date: 2020-07-13
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 5YahxSkgsQ88f7RbeEm3LC
+youtube_video_id: 
+apple_track_id: 1000484745182
+youtube_metadata: 
+---

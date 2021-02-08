@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 30 - Kenny is iMPACT!"
+date: 2020-12-09
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 1Z2oQpo696fyVpoJ2YnIXn
+youtube_video_id: 
+apple_track_id: 1000501889310
+youtube_metadata: 
+---

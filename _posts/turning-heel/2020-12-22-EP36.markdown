@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 32 - The One Without Chris"
+date: 2020-12-22
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 0QF57IB8ZGtgKL4Y8j59zL
+youtube_video_id: 
+apple_track_id: 1000503252281
+youtube_metadata: 
+---

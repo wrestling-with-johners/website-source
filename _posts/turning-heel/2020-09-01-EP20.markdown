@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 18 - Payback's a B!tch"
+date: 2020-09-01
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 1UB8JovRYrXoF70IQqxfGQ
+youtube_video_id: 
+apple_track_id: 1000489792389
+youtube_metadata: 
+---
