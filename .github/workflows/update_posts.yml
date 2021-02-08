@@ -123,8 +123,11 @@ jobs:
           ./source/post_updater/generate_posts.py \
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
           --output source/_posts/work-the-left-side-podcast/ \
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}  \
           --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
           --youtubeplaylistid UU1hrk8NkrIXjqKniLiqeBeQ \
+          --spotifyshowid 1eyWZ0Pwjtn1jPfvPF45xa \
           --category work-the-left-side-podcast \
           --author nik-towers
 
