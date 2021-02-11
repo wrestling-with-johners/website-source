@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 40 - Afternoon Delight"
+date: 2021-02-11
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 2aRxhGanEEXa5bg2A9O7Lm
+youtube_video_id: 
+apple_track_id: 1000508628832
+youtube_metadata: 
+---
