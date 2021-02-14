@@ -203,6 +203,20 @@ jobs:
           --category turning-heel \
           --author turning-heel
 
+      - name: Update Knights Of The Squared Circle
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/knights-of-the-squared-circle/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --youtubeplaylistid UU7gyM94WNIEE2LAllK1V_3A \
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }} \
+          --spotifyshowid 7xUdRojRQv9w0N1bpnATcT \
+          --youtubeplaylistid UU8ccDnl-2uArdQgDXgDF47w \
+          --category knights-of-the-squared-circle \
+          --author knights-of-the-squared-circle
+
       - name: Add, Commit then Push
         run: |
           cd source
