@@ -237,6 +237,19 @@ jobs:
           --category rope-break \
           --author rope-break
 
+      - name: Update Scumbags of Wrestling Podcast
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/scumbags-of-wrestling/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }} \
+          --spotifyshowid 74uutvD2y5phokQvagJpOV \
+          --youtubeplaylistid UUCX3lmOlBb7Cg79VaJpKZuA \
+          --category scumbags-of-wrestling \
+          --author scumbags-of-wrestling
+
       - name: Add, Commit then Push
         run: |
           cd source
