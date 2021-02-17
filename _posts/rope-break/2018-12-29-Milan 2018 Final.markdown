@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Milan 2018 Final"
+date: 2018-12-29
+categories: rope-break
+author: rope-break
+spotify_track_id: 
+youtube_video_id: dGs5OQZn5r4
+apple_track_id: 
+---

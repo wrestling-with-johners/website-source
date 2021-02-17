@@ -209,7 +209,6 @@ jobs:
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
           --output source/_posts/knights-of-the-squared-circle/ \
           --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
-          --youtubeplaylistid UU7gyM94WNIEE2LAllK1V_3A \
           --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
           --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }} \
           --spotifyshowid 7xUdRojRQv9w0N1bpnATcT \
@@ -227,6 +226,16 @@ jobs:
           --spotifyshowid 3sOuXLPNpBtBvLKLsYEYwQ \
           --category doa-bookerman-podcast \
           --author doa-bookerman-podcast
+
+      - name: Update Rope Break
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/rope-break/ \
+          --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
+          --youtubeplaylistid UUwaCrpSHMzhP6f6k7coKn8w \
+          --category rope-break \
+          --author rope-break
 
       - name: Add, Commit then Push
         run: |
