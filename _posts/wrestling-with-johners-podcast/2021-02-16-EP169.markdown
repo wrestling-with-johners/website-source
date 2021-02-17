@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Ep169 - NXT Takeover: Vengeance Day Roundtable Review (with Johners, Matt Bayliss, The Griz and Jason Lee)"
+title: "Ep169 - NXT Takeove"
 date: 2021-02-16
 categories: podcasts
 author: john
 spotify_track_id: 1D9BaIbjnPgEFRSWxwauU2
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000509419613
 youtube_metadata: 
 ---
