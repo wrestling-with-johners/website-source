@@ -217,6 +217,17 @@ jobs:
           --category knights-of-the-squared-circle \
           --author knights-of-the-squared-circle
 
+      - name: Update DOA's Bookerman Podcast
+        run: |
+          ./source/post_updater/generate_posts.py \
+          --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
+          --output source/_posts/doa-bookerman-podcast/ \
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }} \
+          --spotifyshowid 3sOuXLPNpBtBvLKLsYEYwQ \
+          --category doa-bookerman-podcast \
+          --author doa-bookerman-podcast
+
       - name: Add, Commit then Push
         run: |
           cd source
