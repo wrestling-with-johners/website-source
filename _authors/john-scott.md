@@ -3,7 +3,6 @@ layout: author
 short_name: john
 name: "John Scott"
 position: Author/Host
-apple_url: wrestling-with-johners/id1442108418
 ---
 I've been a massive fan of Professional Wrestling since the early 90's. However I remember watching British Wrestling on ITV's The World of Sports with my Nan, every Saturday afternoon in the mid to late 80's.
 

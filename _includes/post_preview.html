@@ -15,7 +15,8 @@
 
     {% if post.apple_track_id %}
     {% assign author = site.authors | where: 'short_name', post.author | first %}
-    <a href="https://podcasts.apple.com/us/podcast/{{ author.apple_url }}?i={{ post.apple_track_id }}" target="_blank">
+    {% assign podcast = site.data['podcasts'] | where_exp: 'item', "post.categories contains item.category" | first %}
+    <a href="https://podcasts.apple.com/us/podcast/{{ podcast.apple_url }}/id{{ podcast.apple_podcast_id }}?i={{ post.apple_track_id }}" target="_blank">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-apple fa-stack-1x fa-inverse"></i>

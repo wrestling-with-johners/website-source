@@ -14,16 +14,17 @@ layout: default
         <div class="post-heading">
           <h1>{{ page.title }}</h1>
           {% if page.subtitle %}
-          <h2 class="subheading">{{ page.subtitle }}</h2>
+            <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
-    {% assign author = site.authors | where: 'short_name', page.author | first %}
-      {% if author %}
-            <span class="meta">Posted by
-              <a href="{{ author.url }}">{{ author.name }}</a>
-              on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
-              content=page.content %}
-            </span>
-    {% endif %}
+          {% assign author = site.authors | where: 'short_name', page.author | first %}
+          {% assign podcast = site.data['podcasts'] | where_exp: 'item', "page.categories contains item.category" | first %}
+          {% if author %}
+          <span class="meta">Posted by
+            <a href="{{ author.url }}">{{ author.name }}</a>
+            on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
+            content=page.content %}
+          </span>
+          {% endif %}
         </div>
       </div>
     </div>
@@ -60,7 +61,7 @@ layout: default
 			
 			{% if page.apple_track_id %}
 				<h2>Apple Podcast</h2>
-				<a href="https://podcasts.apple.com/us/podcast/{{ author.apple_url }}?i={{ page.apple_track_id }}" target="_blank">
+      <a href="https://podcasts.apple.com/us/podcast/{{ podcast.apple_url }}/id{{ podcast.apple_podcast_id }}?i={{ page.apple_track_id }}" target="_blank">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-apple fa-stack-1x fa-inverse"></i>

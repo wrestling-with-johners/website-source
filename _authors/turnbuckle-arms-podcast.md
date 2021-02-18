@@ -6,7 +6,6 @@ position: Podcast
 twitter_username:
 instagram_username:
 facebook_username:
-apple_url: turnbuckle-arms-podcast/id1519669566
 ---
 There's a new Bar in town!
 

@@ -13,57 +13,12 @@
         <li class="dropdown nav-item">
           <button class="dropdown-button">Podcasts <i class="fa fa-caret-down"></i></button>
           <ul class="dropdown-content navbar-nav ml-auto">
+            {% assign podcasts = site.data['podcasts'] %}
+            {% for podcast_data in podcasts %}
             <li class="nav-item">
-              <a class="nav-link" href="{{ "/podcasts" | relative_url }}">Wrestling With Johners</a>
+              <a class="nav-link" href="{{ "/" | append: podcast_data.category | relative_url }}">{{ podcast_data.title }}</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/turnbuckle" | relative_url }}">Turnbuckle Arms Podcast</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/kurt-johansson-show" | relative_url }}">The Kurt Johansson Show</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/chokeslam-wrestling-report" | relative_url }}">The Chokeslam Wrestling Report</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/kyles-wrestling" | relative_url }}">Kyle's Wrestling</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/pull-up-a-seat" | relative_url }}">Pull Up A Seat - A Wrestling Podcast</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/pro-wrestling-tonight" | relative_url }}">Pro Wrestling Tonight</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/work-the-left-side-podcast" | relative_url }}">Work The Left Side Podcast</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/power-hour" | relative_url }}">The Power Hour</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/straight-talk-wrestling" | relative_url }}">Straight Talk Wrestling</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/guilmy-talks" | relative_url }}">Guilmy Talks</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/alliance-pro-wrestling-network" | relative_url }}">Alliance Pro Wrestling Network</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/turning-heel" | relative_url }}">Turning Heel Podcast</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/knights-of-the-squared-circle" | relative_url }}">Knights Of The Squared Circle</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/doa-bookerman-podcast" | relative_url }}">DOA's Bookerman Podcast</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/rope-break" | relative_url }}">Rope Break</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ "/scumbags-of-wrestling" | relative_url }}">Scumbags of Wrestling Podcast</a>
-            </li>
+            {% endfor %}
           </ul>
         </li>
         <li class="nav-item">
