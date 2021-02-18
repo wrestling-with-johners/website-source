@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 41 - No Takeover!"
+date: 2021-02-17
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 7tU3equgAVzoZfzJNkQOZh
+youtube_video_id: 
+apple_track_id: 1000509593694
+youtube_metadata: 
+---
