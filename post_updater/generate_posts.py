@@ -415,6 +415,7 @@ class PostWriter:
       filename = '{}-{}.markdown'.format(data.date.strftime('%Y-%m-%d'), self.sanitize_filename(data.title))
       to_write = self.format_as_generic(data)
 
+
     output_file = open(os.path.join(parent_directory, filename), 'w')
     
     print ('Writing to: `{}`'.format(output_file.name))
@@ -422,6 +423,7 @@ class PostWriter:
     output_file.close()
 
   def write(self):
+    os.makedirs(self.output_directory, exist_ok = True)
     for data in self.matched_data:
       self.output_to_file(self.output_directory, data)
 

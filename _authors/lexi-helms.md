@@ -4,10 +4,9 @@ short_name: lexi-helms
 name: "Lexi Helms"
 position: Author
 twitter_username: Lexi_Helms
-instagram_username: alexishelmsley
+instagram_username:
+  - alexishelmsley
+  - grappuchinothoughts
 ---
-Lexi Helms has been a wrestling fan for close to 3 decades. It was boredom and the desire to share her opinions that influenced the decision to put her fandom and obsession for wrestling into the articles you read here. She has written for other wrestling websites, including V2 Wrestling. 
-Lexi is based in the North West of England, with her heart belonging to the City of Liverpool. Occasionally, she has been known to visit other places. Before writing wrestling-based opinions for internet strangers, she was a Teacher. If you can’t find her doing something wrestling related, you’re more than likely to find her doing one of the following; making to do lists; cleaning; listening to metal; in the kitchen making something; or stabbing fabric repeatedly to make pretty patterns. Don’t be fooled though – there is a high probability she’s also thinking about wrestling. 
-For more information about her dull, yet, opinionated life, follow her on social media.
-
-
+Come and join the Prin of the With Johners Family for some good old fashioned hospitality, as the drinks machine is fired up, snacks are laid out and the comfy chairs are available as Lexi Helms invites you in for a chat and a catch up over a brew.
+Grappuchino Thoughts discusses everything and nothing to do with the crazy world of wrestling, with the odd detour into life, football and the daily grind.
