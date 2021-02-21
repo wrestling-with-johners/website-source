@@ -66,6 +66,8 @@ class YoutubeScraper:
 
     data = []
 
+    continue_search = True
+
     for result in results.get('items', []):
       snippet = result['snippet']
       title = escape_for_frontmatter(html.unescape(snippet['title']))
@@ -84,8 +86,11 @@ class YoutubeScraper:
       date = datetime_parser.isoparse(date_time).date()
       if date >= self.search_from_date:
         data.append(YoutubeData(episode_number, part_number, title, date, video_id))
+      else:
+        continue_search = False
+        break
 
-    if 'nextPageToken' in results:
+    if continue_search and 'nextPageToken' in results:
       print ('token {}'. format(results['nextPageToken']))
       return data + self.get_youtube_videos_with_token(results['nextPageToken'])
     else:
@@ -139,6 +144,8 @@ class SpotifyScraper:
 
       data = []
 
+      continue_search = True
+
       for result in result_json['items']:
         name = escape_for_frontmatter(html.unescape(result['name']))
         print ('Spotify `{}`'.format(name))
@@ -147,12 +154,13 @@ class SpotifyScraper:
         date = datetime.datetime.strptime(result['release_date'], '%Y-%m-%d').date()
         if date >= self.search_from_date:
           data.append(SpotifyData(episode_number, name, date, track_id))
+        else:
+          continue_search = False
+          break
 
-      if 'next' in result_json and result_json['next']:
-        print ('token {}'.format(result_json['next']))
+      if continue_search and 'next' in result_json and result_json['next']:
         return data + self.get_tracks(access_key, result_json['next'])
       else:
-        print ('no token')
         return data
     else :
       result.raise_for_status()
@@ -190,6 +198,7 @@ class AppleScraper:
     if response.ok:
       response_json = response.json()
       data = []
+      continue_search = True
       for episode in response_json['data']:
         track_id = episode['id']
         attributes = episode['attributes']
@@ -202,8 +211,11 @@ class AppleScraper:
           episode_number = find_episode_number(title)
         if date >= self.search_from_date:
           data.append(AppleData(episode_number, title, date, track_id))
+        else:
+          continue_search = False
+          break
       
-      if 'next' in response_json:
+      if continue_search and 'next' in response_json:
         print (response_json['next'])
         return data + self.get_tracks(response_json['next'])
       else:
