@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Interview with WILL AUSTIN (Coastal Championship Wrestling)"
+date: 2020-03-06
+categories: interviews wrestling-with-johners
+author: john
+spotify_track_id: 7GZvL2QKUVv6mVhd81t4GS
+youtube_video_id: V5pEvRhK-FA
+apple_track_id: 1000467629010
+youtube_metadata: 
+---

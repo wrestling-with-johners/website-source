@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep122 - Interview with Dave & Ant from DNA Wrestling (In Partnership with Turnbuckle TV)"
+date: 2020-04-14
+categories: interviews wrestling-with-johners
+author: john
+spotify_track_id: 4CGAtx2mWtFixXyZk0qxhO
+youtube_video_id: ehCTlib_wto
+apple_track_id: 1000471482968
+youtube_metadata: 
+---

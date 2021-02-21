@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep05 – NXT UK 21st Nov 2018"
+date: 2018-11-22
+categories: wrestling-with-johners
+author: john
+spotify_track_id: 4gBgHJYRXsNRqlb4kEFEph
+youtube_video_id: Iu9-TR2GRX0
+apple_track_id: 1000425402980
+youtube_metadata: 
+---

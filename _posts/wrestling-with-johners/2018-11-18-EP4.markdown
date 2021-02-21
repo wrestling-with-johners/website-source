@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep04 – NXT TakeOver WarGames 17th Nov 2018"
+date: 2018-11-18
+categories: wrestling-with-johners
+author: john
+spotify_track_id: 4Ml8uPXSmun4kjeO5zw4kv
+youtube_video_id: 3DWzUvdNs5k
+apple_track_id: 1000425402976
+---

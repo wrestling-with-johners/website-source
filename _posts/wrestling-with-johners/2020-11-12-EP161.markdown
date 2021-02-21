@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep161 – The Best Of Johners Interviews Pt.2"
+date: 2020-11-12
+categories: interviews wrestling-with-johners
+author: john
+spotify_track_id: 6A3hDAR0BVUgSdDsAgY9uO
+youtube_video_id: gbYam5s2lDE
+apple_track_id: 1000498355901
+youtube_metadata: 
+---

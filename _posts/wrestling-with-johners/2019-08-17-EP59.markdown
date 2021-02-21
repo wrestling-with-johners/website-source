@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep59 - NXT Breakout Final & KOTR Announcement"
+date: 2019-08-17
+categories: wrestling-with-johners
+author: john
+spotify_track_id: 0NbZoCi6LT1MVzwWsGNq90
+youtube_video_id: LbR3Yga910M
+apple_track_id: 1000447072160
+---

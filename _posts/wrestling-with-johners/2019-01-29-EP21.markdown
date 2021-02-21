@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep21 – NXT Takeover Phoenix 26th Jan 2019"
+date: 2019-01-29
+categories: wrestling-with-johners
+author: john
+spotify_track_id: 6YXjcCuIW9qpQoGpPjrfPg
+youtube_video_id: dKl3kWU7MfA
+apple_track_id: 1000428659160
+---

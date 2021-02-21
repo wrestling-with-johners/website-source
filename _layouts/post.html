@@ -23,6 +23,13 @@ layout: default
             <a href="{{ author.url }}">{{ author.name }}</a>
             on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
             content=page.content %}
+            <ul>
+            {% for category in page.categories %}
+              <li>
+              <a href="{{ category | relative_url }}">{{ category | replace: '-', ' ' | capitalize_all }}</a>
+              </li>
+            {% endfor %}
+            </ul>
           </span>
           {% endif %}
         </div>

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "WrestleMania Edition - 2 Min BRAINBUSTER Quiz (Bonus Ep w/ Mags @BadlandsPod)"
+date: 2020-04-03
+categories: wrestling-with-johners
+author: john
+spotify_track_id: 5TRIoplkSfOqcfDO3YCluy
+youtube_video_id: g_evRzIkjjc
+apple_track_id: 1000470389014
+youtube_metadata: 
+---

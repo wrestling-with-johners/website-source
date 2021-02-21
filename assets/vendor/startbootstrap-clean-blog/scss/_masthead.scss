@@ -85,6 +85,14 @@ header.masthead {
       a {
         color: $white;
       }
+      padding-bottom: 0.1em;
+      padding-top: 0.1em;
+
+      > ul {
+        > li {
+          list-style: none;
+        }
+      }
     }
     @media only screen and (min-width: 768px) {
       h1 {
