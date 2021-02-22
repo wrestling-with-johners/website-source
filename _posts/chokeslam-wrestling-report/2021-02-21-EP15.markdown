@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Behind The Curtain Episode#11: This Week in Wrestling!"
+title: "Behind The Curtain Episode#1"
 date: 2021-02-21
 categories: chokeslam-wrestling-report
 author: chokeslam-wrestling-report
