@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep. 48 - J T Kirk"
+date: 2020-05-12
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 0x1nKjJYllMrAqZxetd8TB
+youtube_video_id: 
+apple_track_id: 
+---

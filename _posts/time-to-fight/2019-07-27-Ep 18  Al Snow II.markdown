@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ep. 18 - Al Snow II"
+date: 2019-07-27
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 42RQA5Nra1Y6ULl5FyzRBi
+youtube_video_id: 
+apple_track_id: 
+---
