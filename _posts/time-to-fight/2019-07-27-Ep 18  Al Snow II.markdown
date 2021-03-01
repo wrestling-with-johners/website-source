@@ -5,6 +5,6 @@ date: 2019-07-27
 categories: time-to-fight
 author: time-to-fight
 spotify_track_id: 42RQA5Nra1Y6ULl5FyzRBi
-youtube_video_id: 
+youtube_video_id: hXLyMjrkQlc
 apple_track_id: 
 ---

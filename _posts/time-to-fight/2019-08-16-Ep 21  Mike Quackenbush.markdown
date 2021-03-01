@@ -5,6 +5,6 @@ date: 2019-08-16
 categories: time-to-fight
 author: time-to-fight
 spotify_track_id: 37S0y1zhlQik6LDPlkZpEs
-youtube_video_id: 
+youtube_video_id: IOP6_3Ny40A
 apple_track_id: 
 ---
