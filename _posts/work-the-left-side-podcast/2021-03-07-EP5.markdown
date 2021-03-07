@@ -5,7 +5,7 @@ date: 2021-03-07
 categories: work-the-left-side-podcast
 author: nik-towers
 spotify_track_id: 7KDf9cJyF5VA2OaP9vfK9M
-youtube_video_id: 
+youtube_video_id: EuYkm0mJG88
 apple_track_id: 
 youtube_metadata: 
 ---
