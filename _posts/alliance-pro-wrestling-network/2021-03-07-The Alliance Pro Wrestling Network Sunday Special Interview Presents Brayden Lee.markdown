@@ -5,6 +5,6 @@ date: 2021-03-07
 categories: alliance-pro-wrestling-network interviews
 author: lewis-carlan
 spotify_track_id: 2r2WiZqBUCGyLYSkO9eMsE
-youtube_video_id: Eyft51qoXYA
+youtube_video_id: 
 apple_track_id: 
 ---
