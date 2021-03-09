@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Brian White joinsGuilmy for a chat."
+date: 2021-03-09
+categories: guilmy-talks
+author: justin-guilmette
+spotify_track_id: 7DFSxldoWi71jrzYvZa2VK
+youtube_video_id: mwqBgLScpXM
+apple_track_id: 
+---
