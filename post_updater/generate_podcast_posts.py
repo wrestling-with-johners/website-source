@@ -4,6 +4,7 @@ import os
 import argparse
 import yaml
 import datetime
+import subprocess
 
 argument_parser = argparse.ArgumentParser()
 argument_parser.add_argument(
@@ -34,20 +35,23 @@ with open(podcasts_file, 'r') as stream:
       author = podcast['author']
       output = os.path.join(output_parent, category)
 
-      command = f'{script_filename} --mindate {min_date} --output {output} --author {author} --category {category}'
+      command = [script_filename, '--mindate', min_date, '--output', output, '--author', author, '--category', category]
 
       if 'youtube_playlist_id' in podcast:
         youtube_playlist_id = podcast['youtube_playlist_id']
-        command += f' --youtubekey {youtube_key} --youtubeplaylistid {youtube_playlist_id}'
+        command += ['--youtubekey', str(youtube_key)]
+        command += ['--youtubeplaylistid', str(youtube_playlist_id)]
 
       if 'spotify_show_id' in podcast:
         spotify_show_id = podcast['spotify_show_id']
-        command += f' --spotifyid {spotify_id} --spotifysecret {spotify_secret} --spotifyshowid {spotify_show_id}'
+        command += ['--spotifyid', str(spotify_id)]
+        command += ['--spotifysecret', str(spotify_secret)]
+        command += ['--spotifyshowid', str(spotify_show_id)]
 
       if 'apple_podcast_id' in podcast:
         apple_podcast_id = podcast['apple_podcast_id']
-        command += f' --applepodcastid {apple_podcast_id}'
+        command += ['--applepodcastid', str(apple_podcast_id)]
 
-      os.system(command)
+      subprocess.run(command, check = True)
   except yaml.YAMLError as exc:
     print(exc)

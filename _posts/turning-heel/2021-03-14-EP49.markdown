@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 45 - It's a Rouge!"
+date: 2021-03-14
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 7vzqNO5kO69fbnfpZHYyma
+youtube_video_id: 
+apple_track_id: 1000512915400
+youtube_metadata: 
+---
