@@ -5,7 +5,7 @@ date: 2021-03-14
 categories: interviews wrestling-with-johners
 author: john
 spotify_track_id: 2b63l1BRroZkrJflmaMLXq
-youtube_video_id: 
+youtube_video_id: VtZLZ7jNk8s
 apple_track_id: 1000512924472
 youtube_metadata: 
 ---
