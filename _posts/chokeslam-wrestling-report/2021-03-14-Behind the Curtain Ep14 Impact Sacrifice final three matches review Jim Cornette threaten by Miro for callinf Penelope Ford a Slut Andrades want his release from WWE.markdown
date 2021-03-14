@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Behind the Curtain Ep#14 Impact Sacrifice final three matches review; Jim Cornette threaten by Miro for callinf Penelope Ford a Slut, Andrades want his release from WWE!"
+date: 2021-03-14
+categories: chokeslam-wrestling-report
+author: chokeslam-wrestling-report
+spotify_track_id: 1OFZ4zH8X7jgzXQ9bf0gCk
+youtube_video_id: 
+apple_track_id: 
+---
