@@ -1,0 +1,32 @@
+---
+layout: manual-layout-page
+---
+
+<div class="calendar-nav">
+  <span>
+    {% if page.prev %}
+      <a href="{{ page.prev | prepend: site.baseurl | replace: '//', '/' }}">Prev</a>
+    {% endif %}
+  </span>
+  <span> </span>
+  <span>
+    {% if page.next %}
+      <a href="{{ page.next | prepend: site.baseurl | replace: '//', '/' }}">Next</a>
+    {% endif %}
+  </span>
+</div>
+
+<div class="calendar">
+  <!-- Headers -->
+  {% assign days = page.start_day | day_name_range %}
+  {% for day in days %}
+    <div class="header">
+      <h3>{{ day }}</h3>
+    </div>
+  {% endfor %}
+  <!-- Days -->
+  {% assign start_day = page.start_date %}
+  {% assign end_day = page.end_date %}
+  {% include calendar_days.html %}
+
+</div>

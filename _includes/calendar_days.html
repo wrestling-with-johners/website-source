@@ -1,0 +1,36 @@
+<!-- To use this include you must define:
+
+`start_day` as the first date you want to search
+`end_day` as the last date you want to search
+
+-->
+<!-- Pre-generate array containing this week's posts -->
+{% assign posts = "" | split: "," %}
+{% assign start_day_seconds = start_day | date: "%s" %}
+{% assign end_day_seconds = end_day | date: "%s" %}
+{% for post in site.posts %}
+  {% assign post_date_seconds = post.date | date: "%s" %}
+  {% if post_date_seconds >= start_day_seconds and post_date_seconds <= end_day_seconds %}
+    {% assign posts = posts | push: post %}
+  {% endif %}
+{% endfor%}
+
+{% assign days = start_day | day_range: end_day %}
+
+{% assign today = 'now' | date: "%Y/%m/%d" %}
+
+{% for day in days %}
+  {% if day == today %}
+    <div class="today">
+  {% else %}
+    <div>
+  {% endif %}
+  <span>{{ day }}</span>
+  {% for post in posts %}
+    {% assign post_date = post.date | date: "%Y/%m/%d" %}
+    {% if post_date == day %}
+      <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" title="{{ post.title }}">{{ post.title }}</a>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endfor %}

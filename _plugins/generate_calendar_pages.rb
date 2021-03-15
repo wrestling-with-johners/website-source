@@ -1,0 +1,71 @@
+module WrestlingWithJohners
+  require "active_support/all"
+
+  class CalendarPage < Jekyll::Page
+    def initialize(site, page_num, date, last_page_num)
+      @site = site # the current site instance.
+      @base = site.source # the path to the source directory.
+      # the directory the page will reside in.
+      if page_num != nil
+        @dir = "calendar/" + page_num.to_s
+      else
+        @dir = "calendar/"
+      end
+
+      # All pages have the same filename
+      @basename = 'index'
+      @ext = '.html'
+      @name = 'index.html'
+
+      # Add frontmatter
+      self.process(@name)
+      self.read_yaml(File.join(@base, '_layouts'), 'calendar.html')
+
+      self.data['layout'] = 'calendar'
+      self.data['title'] = 'Calendar'
+      if page_num != nil
+        self.data['permalink'] = '/calendar/' + page_num.to_s
+      else
+        self.data['permalink'] = '/calendar/'
+      end
+
+      self.data['start_day'] = date.wday
+      self.data['start_date'] = date.strftime("%Y/%m/%d")
+      self.data['end_date'] = (date + 6.days).strftime("%Y/%m/%d")
+
+      if page_num != nil
+        if page_num < last_page_num
+          self.data['prev'] = (page_num + 1).to_s
+        end
+        if page_num > 0
+          self.data['next'] = (page_num - 1).to_s
+        end
+      else
+        self.data['prev'] = "1"
+      end
+    end
+  end
+
+  class CalendarPageGenerator < Jekyll::Generator
+    safe true
+    priority :low
+
+    def generate(site)
+      Jekyll.logger.info "Calendar Pages Generator: ", "Generating Pages"
+      # inject data and add to pages
+      start_date = site.posts.docs.first['date']
+      end_date = site.posts.docs.last['date']
+
+      number_of_weeks = (end_date - start_date).seconds.in_weeks.to_i
+
+      (0..number_of_weeks).each do |weeks_to_add|
+        page_num = number_of_weeks - weeks_to_add
+        page_date = start_date + weeks_to_add.weeks
+        site.pages << CalendarPage.new(site, page_num, page_date, number_of_weeks)
+        if page_num == 0
+          site.pages << CalendarPage.new(site, nil, page_date, number_of_weeks)
+        end
+      end
+    end
+  end
+end
