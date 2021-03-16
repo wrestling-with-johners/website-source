@@ -68,4 +68,40 @@ module WrestlingWithJohners
       end
     end
   end
+
+
 end
+
+module Jekyll
+  module PostUtils
+    @@posts_by_date = nil
+
+    def posts_by_date
+      if @@posts_by_date == nil
+        # Generate dictionary
+        @@posts_by_date = {}
+        @context.registers[:site].posts.docs.each do |post|
+          post_date = post.data['date'].strftime("%Y/%m/%d")
+          posts = @@posts_by_date[post_date]
+          if @@posts_by_date[post_date] == nil
+            posts = [post]
+            @@posts_by_date[post_date] = posts
+          else
+            posts.push(post)
+          end
+        end
+      end
+      return @@posts_by_date
+    end
+
+    def posts_on_date(date)
+      if posts_by_date[date] != nil
+        return posts_by_date[date]
+      else
+        return []
+      end
+    end
+  end
+end
+
+Liquid::Template.register_filter(Jekyll::PostUtils)
