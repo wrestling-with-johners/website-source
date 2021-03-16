@@ -22,7 +22,7 @@
   grid-template-columns: auto 1fr;
   grid-auto-flow: column;
 
-  > :nth-child(odd) {
+  > :nth-child(even) {
     background-color: $gray-300;
   }
 

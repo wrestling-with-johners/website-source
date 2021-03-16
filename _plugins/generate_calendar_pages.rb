@@ -29,9 +29,10 @@ module WrestlingWithJohners
         self.data['permalink'] = '/calendar/'
       end
 
-      self.data['start_day'] = date.wday
-      self.data['start_date'] = date.strftime("%Y/%m/%d")
-      self.data['end_date'] = (date + 6.days).strftime("%Y/%m/%d")
+      start_date = (date - 6.days)
+      self.data['start_day'] = start_date.wday
+      self.data['start_date'] = start_date.strftime("%Y/%m/%d")
+      self.data['end_date'] = date.strftime("%Y/%m/%d")
 
       if page_num != nil
         if page_num < last_page_num
@@ -58,9 +59,8 @@ module WrestlingWithJohners
 
       number_of_weeks = (end_date - start_date).seconds.in_weeks.to_i
 
-      (0..number_of_weeks).each do |weeks_to_add|
-        page_num = number_of_weeks - weeks_to_add
-        page_date = start_date + weeks_to_add.weeks
+      (0..number_of_weeks).each do |page_num|
+        page_date = end_date - page_num.weeks
         site.pages << CalendarPage.new(site, page_num, page_date, number_of_weeks)
         if page_num == 0
           site.pages << CalendarPage.new(site, nil, page_date, number_of_weeks)
