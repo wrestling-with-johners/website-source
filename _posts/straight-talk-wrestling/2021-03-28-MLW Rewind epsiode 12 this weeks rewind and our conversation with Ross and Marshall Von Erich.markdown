@@ -5,6 +5,6 @@ date: 2021-03-28
 categories: straight-talk-wrestling
 author: george-mckay
 spotify_track_id: 3gR1czr75t5iAoySDab82f
-youtube_video_id: avFzZx4J_X4
+youtube_video_id: 
 apple_track_id: 
 ---
