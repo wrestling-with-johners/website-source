@@ -1,0 +1,11 @@
+---
+layout: post
+title: "interview With THUNDER ROSA"
+date: 2020-10-19
+categories: da-call-up interviews
+author: da-call-up
+spotify_track_id: 7hbG5a1Bu63fdJ7lBs9ypR
+youtube_video_id: 
+apple_track_id: 1000495268930
+youtube_metadata: 
+---
