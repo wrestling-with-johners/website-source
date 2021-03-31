@@ -192,7 +192,7 @@ class AppleScraper:
       'Referer': 'https://podcasts.apple.com/us/podcast/id{}'.format(APPLE_PODCAST_ID),
       'Origin': 'https://podcasts.apple.com',
       'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
-      'Authorization': 'Bearer eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkNSRjVITkJHUFEifQ.eyJpc3MiOiI4Q1UyNk1LTFM0IiwiaWF0IjoxNjE0MTE2MjE4LCJleHAiOjE2MTcxNDAyMTh9.2i5zY05mlz4DS9claAcIkwqxoNKGehVSs7Z-XNKnIoFD7dDEKO59sld80HYLN6d318EcajRfGJhu2hauJ4cooA',
+      'Authorization': 'Bearer eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkNSRjVITkJHUFEifQ.eyJpc3MiOiI4Q1UyNk1LTFM0IiwiaWF0IjoxNjE2MDEwMTg4LCJleHAiOjE2MTkwMzQxODh9.guWJzIakaf6RQzFm_f3MNgwg2mCPV1JVSeIQOTZAa-RmFqB8kqpiYPFRSLwxtYD7_9B66wMNvHwd2XYPMyTFWA',
       'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
     })
     if response.ok:
