@@ -366,11 +366,8 @@ class PostWriter:
     else:
       return ','.join(str(metadata) for metadata in data.youtube_metadata)
     
-  def format_as_podcast(self, data):
+  def format(self, data):
     return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: {}\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\nyoutube_metadata: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.author, self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id), self.youtube_metadata_as_string(data))
-
-  def format_as_generic(self, data):
-    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: {}\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.author, self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id))
 
   def parse_youtube_metadata(self, line_string):
     line_split_on_front = line_string.split('youtube_metadata: ')
@@ -382,57 +379,54 @@ class PostWriter:
         data.add(YoutubeMetadata(video_id, int(part_number)))
     return data
 
+  def match_with_existing(self, parent_directory, data, filename_pattern):
+    for name in os.listdir(parent_directory):
+      if re.match(filename_pattern, name):
+        print ('Matched {} with existing {}'.format(data.title, name))
+        filename = name
+        existing_file = open(os.path.join(parent_directory, name), 'r')
+        lines = existing_file.readlines()
+        title = lines[2].split(':')[1].strip()
+        title = title[1:-1]
+        data.title = title
+        data.date = datetime.datetime.strptime(lines[3].split(':')[1].strip(), '%Y-%m-%d').date()
+        data.categories.update(lines[4].split(':')[1].strip().split(' '))
+        data.author = lines[5].split(':')
+        spotify_track_id = lines[6].split(':')[1].strip()
+        youtube_video_id = lines[7].split(':')[1].strip()
+        apple_track_id = lines[8].split(':')[1].strip()
+        if lines[9].strip() == '---':
+          print('Existing youtube metadata not found')
+          youtube_metadata = None
+        else:
+          youtube_metadata = self.parse_youtube_metadata(lines[9].strip())
+        if spotify_track_id:
+          data.spotify_track_id = spotify_track_id
+        if youtube_video_id:
+          data.youtube_video_id = youtube_video_id
+        if apple_track_id:
+          data.apple_track_id = apple_track_id
+        if youtube_metadata:
+          new_youtube_metadata = data.youtube_metadata
+          data.youtube_metadata = youtube_metadata
+          for metadata in new_youtube_metadata:
+            data.add_youtube_metadata(metadata)
+        break
+
   def output_to_file(self, parent_directory, data):
     data.categories.update(self.categories)
     if self.author:
       data.author = self.author
 
-    if data.episode_number:
-      filename = '{}-EP{}.markdown'.format(data.date.strftime('%Y-%m-%d'), data.episode_number)
-      filename_pattern = r'\d{{4}}-\d{{2}}-\d{{2}}-EP{}\.markdown'.format(data.episode_number)
-      for name in os.listdir(parent_directory):
-        if re.match(filename_pattern, name):
-          print ('Matched {} with existing {}'.format(data.episode_number, name))
-          filename = name
-          existing_file = open(os.path.join(parent_directory, name), 'r')
-          lines = existing_file.readlines()
-          title = lines[2].split(':')[1].strip()
-          title = title[1:-1]
-          data.title = title
-          data.date = datetime.datetime.strptime(lines[3].split(':')[1].strip(), '%Y-%m-%d').date()
-          data.categories.update(lines[4].split(':')[1].strip().split(' '))
-          data.author = lines[5].split(':')
-          spotify_track_id = lines[6].split(':')[1].strip()
-          youtube_video_id = lines[7].split(':')[1].strip()
-          apple_track_id = lines[8].split(':')[1].strip()
-          if lines[9].strip() == '---':
-            print('Existing youtube metadata not found')
-            youtube_metadata = None
-          else:
-            youtube_metadata = self.parse_youtube_metadata(lines[9].strip())
-          if spotify_track_id:
-            data.spotify_track_id = spotify_track_id
-          if youtube_video_id:
-            data.youtube_video_id = youtube_video_id
-          if apple_track_id:
-            data.apple_track_id = apple_track_id
-          if youtube_metadata:
-            new_youtube_metadata = data.youtube_metadata
-            data.youtube_metadata = youtube_metadata
-            for metadata in new_youtube_metadata:
-              data.add_youtube_metadata(metadata)
-          break
-      to_write = self.format_as_podcast(data)
-    else:
-      filename = '{}-{}.markdown'.format(data.date.strftime('%Y-%m-%d'), self.sanitize_filename(data.title))
-      to_write = self.format_as_generic(data)
+    sanitized_title = self.sanitize_filename(data.title)
+    filename = '{}-{}.markdown'.format(data.date.strftime('%Y-%m-%d'), sanitized_title)
+    self.match_with_existing(parent_directory, data, r'\d{{4}}-\d{{2}}-\d{{2}}-{}\.markdown'.format(sanitized_title))
 
+    to_write = self.format(data)
 
-    output_file = open(os.path.join(parent_directory, filename), 'w')
-    
-    print ('Writing to: `{}`'.format(output_file.name))
-    output_file.write(to_write)
-    output_file.close()
+    with open(os.path.join(parent_directory, filename), 'w') as output_file:
+      print ('Writing to: `{}`'.format(output_file.name))
+      output_file.write(to_write)
 
   def write(self):
     os.makedirs(self.output_directory, exist_ok = True)

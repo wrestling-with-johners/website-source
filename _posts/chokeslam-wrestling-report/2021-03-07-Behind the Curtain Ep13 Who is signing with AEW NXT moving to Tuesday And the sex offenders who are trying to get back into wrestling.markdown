@@ -5,6 +5,7 @@ date: 2021-03-07
 categories: chokeslam-wrestling-report
 author: chokeslam-wrestling-report
 spotify_track_id: 3Fb3eoAeiMiMuCu4MrREOs
-youtube_video_id: 
-apple_track_id: 
+youtube_video_id:
+apple_track_id: 1000511975550
+youtube_metadata:
 ---
