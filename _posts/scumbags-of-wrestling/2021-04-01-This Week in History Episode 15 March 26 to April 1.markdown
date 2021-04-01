@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Week in History Episode #15: March 26 to April 1"
+title: "This Week in History Episode #1"
 date: 2021-04-01
 categories: scumbags-of-wrestling
 author: scumbags-of-wrestling
