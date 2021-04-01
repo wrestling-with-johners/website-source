@@ -7,4 +7,5 @@ author: power-hour
 spotify_track_id: 
 youtube_video_id: X4FV_kt4Rn8
 apple_track_id: 
+youtube_metadata: 
 ---
