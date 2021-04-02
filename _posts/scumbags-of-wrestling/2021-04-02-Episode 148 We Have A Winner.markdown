@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode #148: We Have A Winner"
+title: "Episode #14"
 date: 2021-04-02
 categories: scumbags-of-wrestling
 author: scumbags-of-wrestling
