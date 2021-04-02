@@ -386,15 +386,15 @@ class PostWriter:
         filename = name
         existing_file = open(os.path.join(parent_directory, name), 'r')
         lines = existing_file.readlines()
-        title = lines[2].split(':')[1].strip()
+        title = lines[2].split(':', 1)[1].strip()
         title = title[1:-1]
         data.title = title
         data.date = datetime.datetime.strptime(lines[3].split(':')[1].strip(), '%Y-%m-%d').date()
-        data.categories.update(lines[4].split(':')[1].strip().split(' '))
-        data.author = lines[5].split(':')
-        spotify_track_id = lines[6].split(':')[1].strip()
-        youtube_video_id = lines[7].split(':')[1].strip()
-        apple_track_id = lines[8].split(':')[1].strip()
+        data.categories.update(lines[4].split(':', 1)[1].strip().split(' '))
+        data.author = lines[5].split(':', 1)
+        spotify_track_id = lines[6].split(':', 1)[1].strip()
+        youtube_video_id = lines[7].split(':', 1)[1].strip()
+        apple_track_id = lines[8].split(':', 1)[1].strip()
         if lines[9].strip() == '---':
           print('Existing youtube metadata not found')
           youtube_metadata = None
