@@ -172,3 +172,13 @@
   spotify_show_id: 6kU1SYjEpD0r8xTciHUXUR
   apple_podcast_id: 1533850464
   apple_url: da-call-up
+
+- title: The Bob Culture Podcast
+  background: bob-culture-background.png
+  category: bob-culture
+  author: bob-culture
+  youtube_playlist_id: UUAuuUt0PNofT1l8rIHUModQ
+  spotify_show_id: 7eEdnio66Awz8nhRAK8zba
+  apple_podcast_id: 1092931802
+  apple_url: the-bob-culture-podcast
+
