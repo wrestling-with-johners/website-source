@@ -6,6 +6,6 @@ categories: turnbuckle-arms-podcast
 author: turnbuckle-arms-podcast
 spotify_track_id: 5h2U8p5qbBF5ZHSF8aqjQI
 youtube_video_id: b3hRpMkF44U
-apple_track_id: 
+apple_track_id: 1000516026683
 youtube_metadata: 
 ---
