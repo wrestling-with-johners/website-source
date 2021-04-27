@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deonna Purrazzo wants Hikaru Shida in an Impact/AEW title unification match!"
+title: "Deonna Purrazzo wants Hikaru Shida in an Impact/AEW title vs title match!"
 date: 2021-04-27
 categories: alliance-pro-wrestling-network
 author: lewis-carlan
