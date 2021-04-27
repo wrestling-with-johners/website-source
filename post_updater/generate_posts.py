@@ -12,6 +12,7 @@ import dateutil.parser as datetime_parser
 import html
 import requests
 from googleapiclient.discovery import build
+import frontmatter
 
 
 YOUTUBE_API_SERVICE_NAME = 'youtube'
@@ -277,8 +278,7 @@ class PostData:
 
 
 class Matcher:
-  def __init__(self, youtube_data, spotify_data, apple_data):
-    self.youtube_data = youtube_data
+  def __init__(self, spotify_data, apple_data):
     self.spotify_data = spotify_data
     self.apple_data = apple_data
     self.title_regex = re.compile(r'(ep ?\d+(( – )|(–))?)|([\W_]+)')
@@ -320,15 +320,7 @@ class Matcher:
   def match(self):
     data_by_episode_number = {}
     data_by_title = {}
-    
-    def assign_youtube_data(some_post_data, youtube_data):
-      if youtube_data.part_number:
-        print('{} has part {}'.format(some_post_data.episode_number, youtube_data.part_number))
-        some_post_data.add_youtube_metadata(youtube_data)
-      else:
-        print('No part number for ep {}'.format(some_post_data.episode_number))
-        some_post_data.youtube_video_id = youtube_data.video_id
-    
+
     def assign_spotify_track_id(some_post_data, spotify_data):
       some_post_data.spotify_track_id = spotify_data.track_id
     
@@ -337,12 +329,31 @@ class Matcher:
 
     for spotify_data in self.spotify_data:
       self.add_new_data(data_by_episode_number, data_by_title, 'Spotify', spotify_data, assign_spotify_track_id)
-    
-    self.add_data(data_by_episode_number, data_by_title, 'Youtube', self.youtube_data, assign_youtube_data)
-    
+
     self.add_data(data_by_episode_number, data_by_title, 'Apple', self.apple_data, assign_apple_track_id)
     
     return data_by_title.values()
+
+def value_or_empty(value):
+  if value:
+    return str(value)
+  else:
+    return ''
+
+def sanitize_filename(filename):
+  return "".join([c for c in filename if c.isalpha() or c.isdigit() or c==' ']).rstrip()
+
+def youtube_metadata_as_string(data):
+  if not data.youtube_metadata:
+    return ''
+  else:
+    return ','.join(str(metadata) for metadata in data.youtube_metadata)
+
+def format_post(data):
+  return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: {}\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\nyoutube_metadata: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), data.author, value_or_empty(data.spotify_track_id), value_or_empty(data.youtube_video_id), value_or_empty(data.apple_track_id), youtube_metadata_as_string(data))
+
+def sanitize_filename(filename):
+  return "".join([c for c in filename if c.isalpha() or c.isdigit() or c==' ']).rstrip()
 
 class PostWriter:
   def __init__(self, matched_data, output_directory, categories, author):
@@ -357,17 +368,13 @@ class PostWriter:
     else:
       return ''
 
-  def sanitize_filename(self, filename):
-    return "".join([c for c in filename if c.isalpha() or c.isdigit() or c==' ']).rstrip()
+
     
   def youtube_metadata_as_string(self, data):
     if not data.youtube_metadata:
       return ''
     else:
       return ','.join(str(metadata) for metadata in data.youtube_metadata)
-    
-  def format(self, data):
-    return '---\nlayout: post\ntitle: "{}"\ndate: {}\ncategories: {}\nauthor: {}\nspotify_track_id: {}\nyoutube_video_id: {}\napple_track_id: {}\nyoutube_metadata: {}\n---\n'.format(data.title, data.date.strftime('%Y-%m-%d'), ' '.join(sorted(data.categories)), self.author, self.value_or_empty(data.spotify_track_id), self.value_or_empty(data.youtube_video_id), self.value_or_empty(data.apple_track_id), self.youtube_metadata_as_string(data))
 
   def parse_youtube_metadata(self, line_string):
     line_split_on_front = line_string.split('youtube_metadata: ')
@@ -391,7 +398,7 @@ class PostWriter:
         data.title = title
         data.date = datetime.datetime.strptime(lines[3].split(':')[1].strip(), '%Y-%m-%d').date()
         data.categories.update(lines[4].split(':', 1)[1].strip().split(' '))
-        data.author = lines[5].split(':', 1)
+        data.author = lines[5].split(':', 1)[1].strip()
         spotify_track_id = lines[6].split(':', 1)[1].strip()
         youtube_video_id = lines[7].split(':', 1)[1].strip()
         apple_track_id = lines[8].split(':', 1)[1].strip()
@@ -418,11 +425,11 @@ class PostWriter:
     if self.author:
       data.author = self.author
 
-    sanitized_title = self.sanitize_filename(data.title)
+    sanitized_title = sanitize_filename(data.title)
     filename = '{}-{}.markdown'.format(data.date.strftime('%Y-%m-%d'), sanitized_title)
     self.match_with_existing(parent_directory, data, r'\d{{4}}-\d{{2}}-\d{{2}}-{}\.markdown'.format(sanitized_title))
 
-    to_write = self.format(data)
+    to_write = format_post(data)
 
     with open(os.path.join(parent_directory, filename), 'w') as output_file:
       print ('Writing to: `{}`'.format(output_file.name))
@@ -432,6 +439,47 @@ class PostWriter:
     os.makedirs(self.output_directory, exist_ok = True)
     for data in self.matched_data:
       self.output_to_file(self.output_directory, data)
+
+class YoutubePostWriter:
+  def __init__(self, data, output_directory, categories, author):
+    self.data = data
+    self.output_directory = output_directory
+    self.categories = categories
+    self.author = author
+
+  def output_to_file(self, parent_directory, existing_files, item):
+    item.categories.update(self.categories)
+    if self.author:
+      item.author = self.author
+
+    if item.youtube_video_id in existing_files:
+      # Delete this file and create a new one later
+      existing_file = existing_files[item.youtube_video_id]
+      os.remove(existing_file['path'])
+      existing_files.pop(item.youtube_video_id)
+
+    sanitized_title = sanitize_filename(item.title)
+    filename = '{}-{}.markdown'.format(item.date.strftime('%Y-%m-%d'), sanitized_title)
+
+    to_write = format_post(item)
+
+    with open(os.path.join(parent_directory, filename), 'w') as output_file:
+      print ('Writing to: `{}`'.format(output_file.name))
+      output_file.write(to_write)
+
+  def write(self):
+    os.makedirs(self.output_directory, exist_ok = True)
+    existing_files = {}
+
+    for name in os.listdir(self.output_directory):
+      path_to_file = os.path.join(self.output_directory, name)
+      with open(path_to_file, 'r') as file:
+        post_frontmatter = frontmatter.load(file)
+        existing_files[post_frontmatter['youtube_video_id']] = {'frontmatter': post_frontmatter, 'path': path_to_file}
+
+    for item in self.data:
+      post_data = PostData(item.episode_number, item.title, item.date, item.video_id, None, None, set(), None, None)
+      self.output_to_file(self.output_directory, existing_files, post_data)
 
 def find_search_from_date(directory):
   max_date = datetime.date.min
@@ -506,6 +554,8 @@ if args.applepodcastid:
 else:
   apple_data = []
 
-matched_data = Matcher(youtube_data, spotify_data, apple_data).match()
+matched_data = Matcher(spotify_data, apple_data).match()
 
 PostWriter(matched_data, output_directory, categories, author).write()
+
+YoutubePostWriter(youtube_data, os.path.join(output_directory, 'videos'), categories, author).write()
