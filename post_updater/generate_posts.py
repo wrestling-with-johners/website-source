@@ -367,8 +367,6 @@ class PostWriter:
       return str(value)
     else:
       return ''
-
-
     
   def youtube_metadata_as_string(self, data):
     if not data.youtube_metadata:
@@ -478,7 +476,9 @@ class YoutubePostWriter:
         existing_files[post_frontmatter['youtube_video_id']] = {'frontmatter': post_frontmatter, 'path': path_to_file}
 
     for item in self.data:
-      post_data = PostData(item.episode_number, item.title, item.date, item.video_id, None, None, set(), None, None)
+      categories = set()
+      categories.add('videos')
+      post_data = PostData(item.episode_number, item.title, item.date, item.video_id, None, None, categories, None, None)
       self.output_to_file(self.output_directory, existing_files, post_data)
 
 def find_search_from_date(directory):
