@@ -190,9 +190,9 @@ class AppleScraper:
   def get_tracks(self, next_url_part):
     response = requests.get('https://amp-api.podcasts.apple.com{}'.format(next_url_part), headers = {
       'Accept': 'application/json',
-      'Referer': 'https://podcasts.apple.com/us/podcast/id{}'.format(APPLE_PODCAST_ID),
+      'Referer': 'https://podcasts.apple.com/',
       'Origin': 'https://podcasts.apple.com',
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
       'Authorization': 'Bearer eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkNSRjVITkJHUFEifQ.eyJpc3MiOiI4Q1UyNk1LTFM0IiwiaWF0IjoxNjE4NTIxMjc1LCJleHAiOjE2MjE1NDUyNzV9.rNMJhzGyHLBx2G9RawqZrlN5sLtTw7AZNSKmykfLf-cSO9WwYvN0r196EQT98SLnVCS1fV3C_7Eo9xI8w3sTBg',
       'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
     })
