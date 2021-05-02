@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Andrade challenges Kenny Omega for the AAA Mega Championship at Triplemania!!!!!!!!!!"
+title: "Breaking News - Andrade challenges Kenny Omega for the AAA Mega Championship at Triplemania!!!!"
 date: 2021-05-02
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
