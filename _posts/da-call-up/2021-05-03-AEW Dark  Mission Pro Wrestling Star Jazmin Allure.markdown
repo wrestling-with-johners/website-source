@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "AEW Dark & Mission Pro Wrestling Star Jazmin Allure"
-date: 2021-05-02
-categories: da-call-up videos
+date: 2021-05-03
+categories: da-call-up
 author: da-call-up
-spotify_track_id: 
-youtube_video_id: z3zs2AZIuh0
+spotify_track_id: 4ye3huJS7N0e6LEZi9Txn4
+youtube_video_id: 
 apple_track_id: 
 youtube_metadata: 
 ---
