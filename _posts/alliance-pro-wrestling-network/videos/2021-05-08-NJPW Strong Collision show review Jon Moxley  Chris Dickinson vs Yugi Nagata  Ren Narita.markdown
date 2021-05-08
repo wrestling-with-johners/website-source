@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jon Moxley & Chris Dickinson vs Yugi Nagata & Ren Narita! NJPW Strong Collision show review!"
+title: "NJPW Strong Collision show review! Jon Moxley & Chris Dickinson vs Yugi Nagata & Ren Narita!"
 date: 2021-05-08
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
