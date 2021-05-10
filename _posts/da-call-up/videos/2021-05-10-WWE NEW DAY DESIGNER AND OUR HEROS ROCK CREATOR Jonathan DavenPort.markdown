@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE NEW DAY DESIGNER AND OUR HERO’S ROCKS CREATOR Jonathan DavenPort"
+title: "WWE NEW DAY DESIGNER AND OUR HERO’S ROCK CREATOR Jonathan DavenPort"
 date: 2021-05-10
 categories: da-call-up videos
 author: da-call-up
