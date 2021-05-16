@@ -3,9 +3,10 @@ layout: author
 short_name: chicagoland-championship-wrestling
 name: "Chicagoland Championship Wrestling"
 position: Podcast
-twitter_username:
-instagram_username:
-facebook_username:
+social:
+  twitter_username:
+  instagram_username:
+  facebook_username:
 ---
 Chicagoland Championship Wrestling features the best of Illinois, Indiana, Wisconsin and Michigan.
 

@@ -3,7 +3,8 @@ layout: author
 short_name: power-hour
 name: "The Power Hour"
 position: Podcast
-facebook_username: steve.ahrendt.3
+social:
+  facebook_username: steve.ahrendt.3
 ---
 The Power Hour with C Red and Steve Ahrendt.
 

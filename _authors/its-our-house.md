@@ -3,9 +3,10 @@ layout: author
 short_name: its-our-house
 name: "It’s Our House Podcast"
 position: Podcast
-twitter_username: ItsOurHousePod
-instagram_username: itsourhousepod
-facebook_username: itsourhousepod
+social:
+  twitter_username: ItsOurHousePod
+  instagram_username: itsourhousepod
+  facebook_username: itsourhousepod
 ---
 A podcast dedicated to all things wrestling! From interviews with top guests, interactive Q&A's, news/reviews and just us talking about all things from within the ring!
 

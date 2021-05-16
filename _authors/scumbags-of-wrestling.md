@@ -3,9 +3,10 @@ layout: author
 short_name: scumbags-of-wrestling
 name: "Scumbags of Wrestling Podcast"
 position: Podcast
-facebook_username: Scumbags-of-Wrestling-Podcast-265793950934074
-twitter_username: ScumbagsCanada
-instagram_username: scumbagswrestling
+social:
+  facebook_username: Scumbags-of-Wrestling-Podcast-265793950934074
+  twitter_username: ScumbagsCanada
+  instagram_username: scumbagswrestling
 ---
 We are a group of wrestling fans who enjoy going to local independent wrestling shows. We support Smash Wrestling primarily. Our podcast focuses on the independent wrestling scene in Ontario, plus mainstream organizations such as WWE, Impact Wrestling, Ring of Honor and New Japan.
 

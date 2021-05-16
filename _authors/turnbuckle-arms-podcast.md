@@ -3,9 +3,10 @@ layout: author
 short_name: turnbuckle-arms-podcast
 name: "Turnbuckle Arms Podcast"
 position: Podcast
-twitter_username:
-instagram_username:
-facebook_username:
+social:
+  twitter_username:
+  instagram_username:
+  facebook_username:
 ---
 There's a new Bar in town!
 

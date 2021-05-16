@@ -1,10 +1,16 @@
+{% if social %}
+	{% assign source = social %}
+{% else %}
+	{% assign source = site %}
+{% endif %}
+
 <div class="container social">
 	<div class="row">
 		<div class="col-lg-8 col-md-10 mx-auto">
 			<ul class="list-inline text-center social-flexbox">
-			  {% if site.email %}
+			  {% if source.email %}
 			  <li>
-				<a href="mailto:{{ site.email | encode_email }}" title="Email">
+				<a href="mailto:{{ source.email | encode_email }}" title="Email">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="far fa-envelope fa-stack-1x fa-inverse"></i>
@@ -12,9 +18,9 @@
 				</a>
 			  </li>
 			  {% endif %}
-			  {% if site.twitter_username %}
+			  {% if source.twitter_username %}
 			  <li>
-				<a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" title="Twitter">
+				<a href="https://twitter.com/{{ source.twitter_username }}" target="_blank" title="Twitter">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
@@ -22,9 +28,32 @@
 				</a>
 			  </li>
 			  {% endif %}
-			  {% if site.facebook_group_id %}
+				{% if source.facebook_username %}
+					{% if source.facebook_username.first %}
+						{% for facebook_username in source.facebook_username %}
+						<li class="list-inline-item">
+							<a href="https://www.facebook.com/{{ facebook_username }}" target="_blank">
+										<span class="fa-stack fa-lg">
+										<i class="fas fa-circle fa-stack-2x"></i>
+										<i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+										</span>
+							</a>
+						</li>
+						{% endfor %}
+					{% else %}
+						<li class="list-inline-item">
+							<a href="https://www.facebook.com/{{ source.facebook_username }}" target="_blank">
+									<span class="fa-stack fa-lg">
+									<i class="fas fa-circle fa-stack-2x"></i>
+									<i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+									</span>
+							</a>
+						</li>
+					{% endif %}
+				{% endif %}
+			  {% if source.facebook_group_id %}
 			  <li>
-				<a href="https://www.facebook.com/groups/{{ site.facebook_group_id| cgi_escape | escape }}" target="_blank" title="Facebook">
+				<a href="https://www.facebook.com/groups/{{ source.facebook_group_id| cgi_escape | escape }}" target="_blank" title="Facebook">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
@@ -32,9 +61,9 @@
 				</a>
 			  </li>
 			  {% endif %}
-			  {% if site.linkedin_username %}
+			  {% if source.linkedin_username %}
 			  <li>
-				<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank" title="LinkedIn">
+				<a href="https://www.linkedin.com/in/{{ source.linkedin_username }}" target="_blank" title="LinkedIn">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -42,9 +71,9 @@
 				</a>
 			  </li>
 			  {% endif %}
-			  {% if site.github_username %}
+			  {% if source.github_username %}
 			  <li>
-				<a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub">
+				<a href="https://github.com/{{ source.github_username }}" target="_blank" title="GitHub">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-github fa-stack-1x fa-inverse"></i>
@@ -52,19 +81,32 @@
 				</a>
 			  </li>
 			  {% endif %}
-			  {% if site.instagram_username %}
+				{% if source.instagram_username %}
+					{% if source.instagram_username.first %}
+						{% for instagram_username in source.instagram_username %}
+							<li class="list-inline-item">
+								<a href="https://instagram.com/{{ instagram_username | cgi_escape | escape }}" target="_blank">
+											<span class="fa-stack fa-lg">
+											<i class="fas fa-circle fa-stack-2x"></i>
+											<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+											</span>
+								</a>
+							</li>
+						{% endfor %}
+					{% else %}
+						<li class="list-inline-item">
+							<a href="https://instagram.com/{{ source.instagram_username | cgi_escape | escape }}" target="_blank">
+								<span class="fa-stack fa-lg">
+								<i class="fas fa-circle fa-stack-2x"></i>
+								<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+								</span>
+							</a>
+						</li>
+					{% endif %}
+				{% endif %}
+			  {% if source.apple_podcast_id %}
 			  <li>
-				<a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}" target="_blank" title="Instagram">
-				  <span class="fa-stack fa-lg">
-					<i class="fas fa-circle fa-stack-2x"></i>
-					<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-				  </span>
-				</a>
-			  </li>
-			  {% endif %}
-			  {% if site.apple_podcast_id %}
-			  <li>
-				<a href="https://podcasts.apple.com/us/podcast/{{ site.apple_username| cgi_escape | escape }}/id{{ site.apple_podcast_id| cgi_escape | escape }}" target="_blank" title="Apple">
+				<a href="https://podcasts.apple.com/us/podcast/{{ source.apple_username| cgi_escape | escape }}/id{{ source.apple_podcast_id| cgi_escape | escape }}" target="_blank" title="Apple">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-apple fa-stack-1x fa-inverse"></i>
@@ -72,9 +114,9 @@
 				</a>
 			  </li>
 			  {% endif %}
-			  {% if site.spotify_show_id %}
+			  {% if source.spotify_show_id %}
 			  <li>
-				<a href="https://open.spotify.com/show/{{ site.spotify_show_id| cgi_escape | escape }}" target="_blank" title="Spotify">
+				<a href="https://open.spotify.com/show/{{ source.spotify_show_id| cgi_escape | escape }}" target="_blank" title="Spotify">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
@@ -82,9 +124,9 @@
 				</a>
 			  </li>
 			  {% endif %}
-			  {% if site.youtube_channel_id %}
+			  {% if source.youtube_channel_id %}
 			  <li>
-				<a href="https://www.youtube.com/channel/{{ site.youtube_channel_id| cgi_escape | escape }}" target="_blank" title="Youtube">
+				<a href="https://www.youtube.com/channel/{{ source.youtube_channel_id| cgi_escape | escape }}" target="_blank" title="Youtube">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
@@ -92,9 +134,9 @@
 				</a>
 			  </li>
 			  {% endif %}
-				{% if site.twitch_channel_id %}
+				{% if source.twitch_channel_id %}
 				<li>
-					<a href="https://www.twitch.tv/{{ site.twitch_channel_id | cgi_escape | escape }}" target="_blank" title="Twitch">
+					<a href="https://www.twitch.tv/{{ source.twitch_channel_id | cgi_escape | escape }}" target="_blank" title="Twitch">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<i class="fab fa-twitch fa-stack-1x fa-inverse"></i>
@@ -102,9 +144,9 @@
 					</a>
 				</li>
 				{% endif %}
-			  {% if site.anchor_username %}
+			  {% if source.anchor_username %}
 			  <li>
-				<a href="https://anchor.fm/{{ site.anchor_username| cgi_escape | escape }}" target="_blank" title="Anchor">
+				<a href="https://anchor.fm/{{ source.anchor_username| cgi_escape | escape }}" target="_blank" title="Anchor">
 				  <span class="fa-stack fa-lg">
 					<i class="fas fa-circle fa-stack-2x"></i>
 					<img class="fab fa-stack-1x anchor-image" src="/assets/vendor/iconfinder/anchor_fm.svg"/>
@@ -112,8 +154,18 @@
 				</a>
 			  </li>
 			  {% endif %}
+				{% if source.website_url %}
+				<li class="list-inline-item">
+					<a href="{{ source.website_url }}" target="_blank">
+				  <span class="fa-stack fa-lg">
+					<i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-external-link-alt"></i>
+					<i class="fas fa-external-link-alt fa-stack-1x fa-inverse"></i>
+				  </span>
+					</a>
+				</li>
+				{% endif %}
         <li>
-          <a href="feed.xml" target="_blank" title="RSS">
+          <a href="{{"/feed.xml" | relative_url }}" target="_blank" title="RSS">
             <span class="fa-stack fa-lg">
             <i class="fas fa-circle fa-stack-2x"></i>
             <i class="fa fa-rss fa-stack-1x fa-inverse"></i>

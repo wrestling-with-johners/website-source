@@ -3,9 +3,10 @@ layout: author
 short_name: michael-jolly
 name: "Michael Jolly"
 position: Author
-twitter_username: jollythebear
-instagram_username: wrestlingwiththebear
-facebook_username: WrestlingWithTheBear
+social:
+  twitter_username: jollythebear
+  instagram_username: wrestlingwiththebear
+  facebook_username: WrestlingWithTheBear
 ---
 I’ve been a huge wrestling fan since the mid 80s with ITV’s The World of Sport then thanks to Sky TV I was introduced to WWF/WWE & WCW. Now in my 40s I’m loving what is now available to watch from around the world.
 

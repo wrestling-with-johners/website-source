@@ -3,10 +3,11 @@ layout: author
 short_name: knights-of-the-squared-circle
 name: "Knights Of The Squared Circle"
 position: Podcast
-twitter_username: KnightsOfTheSC
-instagram_username: knightsofthesquaredcircle
-facebook_username: KnightsOfTheSquaredCircle
-website_url: https://www.knightsofthesc.com/
+social:
+  twitter_username: KnightsOfTheSC
+  instagram_username: knightsofthesquaredcircle
+  facebook_username: KnightsOfTheSquaredCircle
+  website_url: https://www.knightsofthesc.com/
 ---
 Knights of the Squared Circle is a weekly radio show and podcast hosted by Ryan and Ariena Knight featuring interviews with Canada's most talented independent wrestlers and a variety of wrestling figures. Available live every Sunday at 12 pm est on Coyote 103 and our website [www.knightsofthesc.com](https://www.knightsofthesc.com/) with replays on Facebook, and Spotify.
 

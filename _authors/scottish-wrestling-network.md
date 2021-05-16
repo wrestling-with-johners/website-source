@@ -3,9 +3,10 @@ layout: author
 short_name: scottish-wrestling-network
 name: "Scottish Wrestling Network"
 position: Podcast
-twitter_username: ScotWresNet
-instagram_username: ScotWresNet
-facebook_username: ScotWresNet
+social:
+  twitter_username: ScotWresNet
+  instagram_username: ScotWresNet
+  facebook_username: ScotWresNet
 ---
 The Scottish Wrestling Network Podcast hosted by Billy Strachan.
 

@@ -3,9 +3,10 @@ layout: author
 short_name: kyles-wrestling
 name: "Kyle's Wrestling"
 position: Podcast
-twitter_username:
-instagram_username:
-facebook_username:
+social:
+  twitter_username:
+  instagram_username:
+  facebook_username:
 ---
 My name is Kyle and I am the host of Kyle's Wrestling channel. I'm a huge fan of Professional Wrestling and love to interview wrestlers and people within the industry.
 

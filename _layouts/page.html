@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<!-- Assign author for use in getting social links later. -->
+{% assign author = site.authors | where: 'short_name', page.author | first %}
+{% if author %}
+  {% assign social = author.social %}
+{% endif %}
 
 <!-- Page Header -->
 {% if page.background %}
@@ -19,7 +24,7 @@ layout: default
             {% if page.description %}
             <span class="subheading">{{ page.description }}</span>
             {% endif %}
-			{% include social.html %}
+            {% include social.html %}
           </div>
         </div>
       </div>
