@@ -5,8 +5,8 @@ name: "Kyle's Wrestling"
 position: Podcast
 social:
   twitter_username:
-  instagram_username:
-  facebook_username:
+  instagram_username: kylerogers9977
+  facebook_username: Kyle-wreslting-podcsst-102511398408429
 ---
 My name is Kyle and I am the host of Kyle's Wrestling channel. I'm a huge fan of Professional Wrestling and love to interview wrestlers and people within the industry.
 

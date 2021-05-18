@@ -4,6 +4,7 @@ short_name: rope-break
 name: "Rope Break"
 position: Podcast
 social:
+  twitter_username: TheOGRopeBreak
   facebook_username: Rope-Break-1187294444779808
   instagram_username: theoriginalropebreak
 ---

@@ -4,9 +4,9 @@ short_name: turnbuckle-arms-podcast
 name: "Turnbuckle Arms Podcast"
 position: Podcast
 social:
-  twitter_username:
-  instagram_username:
-  facebook_username:
+  twitter_username: TurnbuckleArms
+  instagram_username: turnbuckle_arms_podcast
+  facebook_username: TurnbuckleArmsPodcast
 ---
 There's a new Bar in town!
 

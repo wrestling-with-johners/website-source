@@ -4,9 +4,9 @@ short_name: chokeslam-wrestling-report
 name: "Chokeslam Wrestling Report"
 position: Podcast
 social:
-  twitter_username:
-  instagram_username:
-  facebook_username:
+  twitter_username: Ultimate_One1
+  instagram_username: the_chokeslam_wrestling_report
+  facebook_group_id: "444728469448864"
 ---
 Hi my name is Henry Valentin aka 'The Ultimate One'.
 
