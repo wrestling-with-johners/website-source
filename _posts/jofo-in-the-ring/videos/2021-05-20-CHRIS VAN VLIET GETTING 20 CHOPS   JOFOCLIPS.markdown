@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHRIS VAN VLIET GETTING 20 CHOPS  | JOFO IN THE RING CLIP"
+title: "CHRIS VAN VLIET GETTING 20 CHOPS  | #JOFOCLIPS"
 date: 2021-05-20
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
