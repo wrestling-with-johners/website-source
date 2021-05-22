@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Has Moose re-signed with Impact?, Don Callis gone from Impact for AEW?, Chelsea Green update & more!"
+title: "Report - Moose may have already signed a new contract with Impact Wrestling plus more news"
 date: 2021-05-21
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
