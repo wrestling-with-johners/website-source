@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 21-Best of 2020"
+date: 2021-05-22
+categories: whaddya-say-with-ddj
+author: whaddya-say-with-ddj
+spotify_track_id: 6PekS77ZJRYh2JBEUqZz0U
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
