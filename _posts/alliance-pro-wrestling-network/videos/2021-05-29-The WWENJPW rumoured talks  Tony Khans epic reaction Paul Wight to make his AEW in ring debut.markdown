@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The WWE/NJPW rumoured talks and Tony Khan's epic reaction, Kurt Angle wants 1 more match? and more"
+title: "The WWE/NJPW rumoured talks & Tony Khan's epic reaction, Paul Wight to make his AEW in ring debut?"
 date: 2021-05-29
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
