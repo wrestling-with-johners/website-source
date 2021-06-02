@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MOMENT OF TRUTH with SHANE HAWKE & BUFFA | JOFO in the RING #57"
+title: "MOMENT OF TRUTH with SHAYNE HAWKE & BUFFA & DA BOOMBOX | JOFO in the RING #57"
 date: 2021-06-01
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
