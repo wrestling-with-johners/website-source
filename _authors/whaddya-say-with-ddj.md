@@ -6,6 +6,7 @@ position: Podcast
 social:
   twitter_username: WhaddyaSayDDJ
   facebook_username: WhaddyaSayWithDDJ
+  website_url: https://whaddya-say-with-ddj.creator-spring.com
 ---
 Whaddya Say With DDJ is a long form interview style show where I interview pro wrestlers and those associated with pro wrestling. Most of my interviews are with those who wrestle in the Chicagoland area. Former guests include John Bullard, Tim Storm, C Red, Paragon, amongst others.
 
