@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 12 9/2/80"
+date: 2021-05-06
+categories: memphis-continental-wrestling-cast
+author: memphis-continental-wrestling-cast
+spotify_track_id: 0mAuNAeQBEdmfmiAYHjTNj
+youtube_video_id: 
+apple_track_id: 1000520532705
+youtube_metadata: 
+---

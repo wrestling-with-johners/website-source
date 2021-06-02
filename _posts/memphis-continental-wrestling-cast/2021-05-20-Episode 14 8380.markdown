@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 14 8/3/80"
+date: 2021-05-20
+categories: memphis-continental-wrestling-cast
+author: memphis-continental-wrestling-cast
+spotify_track_id: 3S5D3JTI7wUCKmBuRGbpWD
+youtube_video_id: 
+apple_track_id: 1000522582710
+youtube_metadata: 
+---

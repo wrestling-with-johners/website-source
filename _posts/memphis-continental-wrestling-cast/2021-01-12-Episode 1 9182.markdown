@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 1 9/1/82"
+date: 2021-01-12
+categories: memphis-continental-wrestling-cast
+author: memphis-continental-wrestling-cast
+spotify_track_id: 6UmlolIBYFjYNrQ8gPkuSg
+youtube_video_id: 
+apple_track_id: 1000504840689
+youtube_metadata: 
+---

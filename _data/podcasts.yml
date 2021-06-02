@@ -224,3 +224,25 @@
   spotify_show_id: 0nUHXm2vDbYzWxqKdPhSa1
   apple_podcast_id: 1566899003
   apple_url: such-good-shoot
+
+- title: Toilet-Side Wrestling Talk
+  background: toilet-side-wrestling-talk-background.jpeg
+  category: toilet-side-wrestling-talk
+  author: toilet-side-wrestling-talk
+  youtube_playlist_id: UU0md5lXLI-qOEibvuwNOemg
+  spotify_show_id: 2y6hu88ydgoAtsDVN83ZLg
+
+- title: Steven & Brad’s Talk ‘n’ Wrestling
+  background: steven-brad-talk-wrestling-background.jpeg
+  category: steven-brad-talk-wrestling
+  author: steven-brad-talk-wrestling
+  youtube_playlist_id: UUxEwlqpg8GyUczTS3OGEUAA
+  spotify_show_id: 2DfWAgeZZmfvyzwcyiB2ZL
+
+- title: Memphis Continental Wrestling Cast
+  background: memphis-continental-wrestling-cast-background.jpg
+  category: memphis-continental-wrestling-cast
+  author: memphis-continental-wrestling-cast
+  spotify_show_id: 4SO6WNfm889NXLzLwn8puE
+  apple_podcast_id: 1539144707
+  apple_url: memphis-continental-wrestling-cast
