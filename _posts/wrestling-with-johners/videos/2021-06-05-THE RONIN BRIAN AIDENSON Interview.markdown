@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'THE RONIN' BRIAN AIDENSON Interview - Wrestling With Johners LIVE!"
+title: "'THE RONIN' BRIAN AIDENSON Interview"
 date: 2021-06-05
 categories: videos wrestling-with-johners
 author: john
