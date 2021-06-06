@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brasil vs Ecuador 2-0 | Eliminatorias Sudamericanas Qatar 2022 Fecha 7 | Resumen Y Goles"
-date: 2021-06-06
+date: 2021-06-05
 categories: rope-break videos
 author: rope-break
 spotify_track_id: 
