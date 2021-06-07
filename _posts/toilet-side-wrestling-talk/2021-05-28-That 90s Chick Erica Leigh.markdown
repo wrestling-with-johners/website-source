@@ -6,6 +6,6 @@ categories: toilet-side-wrestling-talk
 author: toilet-side-wrestling-talk
 spotify_track_id: 41rYEqapLrhtN076A6Z7JN
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000524307364
 youtube_metadata: 
 ---
