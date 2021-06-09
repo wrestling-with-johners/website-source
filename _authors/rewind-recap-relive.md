@@ -5,6 +5,7 @@ name: "Rewind Recap Relive"
 position: Podcast
 social:
   facebook_username: RewindRecapRelive
+  facebook_group_id: "301091365005767"
   instagram_username: rewindrecaprelive
   twitter_username: R3Jonah
 ---
