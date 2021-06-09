@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eric Corvis VS. Matt Vertigo Pre-Match Showdown"
-date: 2021-06-09
+date: 2021-06-08
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
