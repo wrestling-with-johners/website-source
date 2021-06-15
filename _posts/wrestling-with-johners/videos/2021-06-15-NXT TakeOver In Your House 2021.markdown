@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NXT TakeOver: In Your House 2021 - Wrestling With Johners LIVE!"
+title: "NXT TakeOver: In Your House 2021"
 date: 2021-06-15
 categories: videos wrestling-with-johners
 author: john
