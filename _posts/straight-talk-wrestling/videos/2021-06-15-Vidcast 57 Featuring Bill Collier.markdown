@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 57! Featuring Bill Collier"
-date: 2021-06-16
+date: 2021-06-15
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
