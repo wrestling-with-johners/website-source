@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WINSTON Interview - Wrestling With Johners LIVE!"
+title: "WINSTON Interview (DOA Heavyweight Champion)"
 date: 2021-06-19
 categories: videos wrestling-with-johners
 author: john
