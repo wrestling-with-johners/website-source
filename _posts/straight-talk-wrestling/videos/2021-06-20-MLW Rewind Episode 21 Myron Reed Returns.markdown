@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind Episode 21 Myron Reed Returns"
-date: 2021-06-19
+date: 2021-06-20
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
