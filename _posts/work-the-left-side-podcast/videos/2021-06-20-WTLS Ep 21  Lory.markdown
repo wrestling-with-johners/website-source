@@ -1,0 +1,11 @@
+---
+layout: post
+title: "WTLS Ep 21 - Lory"
+date: 2021-06-20
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: 0XbqGPKuKwA
+apple_track_id: 
+youtube_metadata: 
+---
