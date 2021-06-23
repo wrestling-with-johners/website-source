@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCO INTERVIEW | FORMER WWE TAG TEAM CHAMPION & RING OF HONOR WORLD CHAMPION | JOFO IN THE RING #60"
+title: "PCO INTERVIEW | WWE TAG TEAM CHAMPION & RING OF HONOR WORLD CHAMPION | JOFO IN THE RING #60"
 date: 2021-06-22
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
