@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JUST JOE LANDO Interview - Wrestling With Johners LIVE!"
+title: "'JUST' JOE LANDO Interview #wrestlecarnival #curtaincall"
 date: 2021-06-26
 categories: videos wrestling-with-johners
 author: john
