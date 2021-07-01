@@ -6,6 +6,6 @@ categories: alliance-pro-wrestling-network
 author: lewis-carlan
 spotify_track_id: 0Cmjs1CnNgRBG9EOA16Yqq
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000527447497
 youtube_metadata: 
 ---
