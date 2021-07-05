@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NXT Kyle O Reilly ( Great American Bash )"
-date: 2021-06-29
+date: 2021-07-05
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
