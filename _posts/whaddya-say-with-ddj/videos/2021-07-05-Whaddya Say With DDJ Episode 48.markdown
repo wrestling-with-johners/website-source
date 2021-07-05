@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Whaddya Say Ep 48"
+title: "Whaddya Say? With DDJ Episode 48"
 date: 2021-07-05
 categories: videos whaddya-say-with-ddj
 author: whaddya-say-with-ddj
