@@ -7,15 +7,6 @@
   spotify_show_id: 0s5QReHi6jMO3Kmm1I2yCd
   apple_podcast_id: 1442108418
 
-- title: Turnbuckle Arms Podcast
-  background: turnbuckle-arms-background.jpg
-  category: turnbuckle-arms-podcast
-  author: turnbuckle-arms-podcast
-  apple_url: turnbuckle-arms-podcast
-  youtube_playlist_id: UUYDa5yBbWML_3LzTVCBraDQ
-  spotify_show_id: 3tyyGlrWUfCi4AwRrHkADd
-  apple_podcast_id: 1519669566
-
 - title: The Kurt Johansson Show
   background: kurt-johansson-show-background.jpg
   category: kurt-johansson-show
@@ -30,21 +21,6 @@
   youtube_playlist_id: UU6qyBp_AFQsaXAIgIfhEzNw
   spotify_show_id: 0L3VJhyCb06ZXTkyUm88DR
 #  apple_podcast_id: 1471778112
-
-- title: Kyle's Wrestling
-  background: kyles-wrestling-background.jpg
-  category: kyles-wrestling
-  author: kyles-wrestling
-  youtube_playlist_id: UUcKE7J5v87qW-ZqszbLJW2A
-
-- title: Pull Up A Seat - A Wrestling Podcast
-  background: pull-up-a-seat-background.jpg
-  category: pull-up-a-seat
-  author: matt-bayliss
-  youtube_playlist_id: UUH8dpQicvMaZisqSKtCHRjQ
-  spotify_show_id: 62kYSVvKtd1sXjUme1LZI2
-  apple_podcast_id: 1550516021
-  apple_url: pull-up-a-seat-a-wrestling-podcast
 
 - title: Pro Wrestling Tonight
   background: pro-wrestling-tonight-background.jpg
@@ -108,12 +84,6 @@
   youtube_playlist_id: UU8ccDnl-2uArdQgDXgDF47w
   spotify_show_id: 7xUdRojRQv9w0N1bpnATcT
 
-- title: DOA's Bookerman Podcast
-  background: doa-bookerman-podcast-background.png
-  category: doa-bookerman-podcast
-  author: doa-bookerman-podcast
-  spotify_show_id: 3sOuXLPNpBtBvLKLsYEYwQ
-
 - title: Rope Break
   background: rope-break-background.png
   category: rope-break
@@ -126,13 +96,6 @@
   author: scumbags-of-wrestling
   youtube_playlist_id: UUCX3lmOlBb7Cg79VaJpKZuA
   spotify_show_id: 74uutvD2y5phokQvagJpOV
-
-- title: Grappuchino Thoughts Podcast
-  background: grappuchino-thoughts-background.jpg
-  category: grappuchino-thoughts
-  author: lexi-helms
-  youtube_playlist_id: UU6BYYnyHwFEVrLRp8pM9Liw
-  spotify_show_id: 7Bj4VAxslYuhf5BU0Dehpa
 
 - title: The Bear & Chocky T’s Wrestling Recap Podcast
   background: bear-chocky-wrestling-recap-background.jpg
@@ -159,12 +122,6 @@
   category: rewind-recap-relive
   author: rewind-recap-relive
   youtube_playlist_id: UU46zRme2Bk0iCdhT-3J-Sjw
-
-- title: K.J. Pro Wrestling Podcast
-  background: kj-pro-wrestling-background.jpg
-  category: kj-pro-wrestling
-  author: kj-pro-wrestling
-  spotify_show_id: 4027oOs8mtp0vPE1WguvU9
 
 - title: DA CALL UP
   background: da-call-up-background.jpg
@@ -235,3 +192,46 @@
   spotify_show_id: 2y6hu88ydgoAtsDVN83ZLg
   apple_podcast_id: 1570946809
   apple_url: toilet-side-wrestling-talk-with-brad-marcus
+
+- title: Turnbuckle Arms Podcast
+  background: turnbuckle-arms-background.jpg
+  category: turnbuckle-arms-podcast
+  author: turnbuckle-arms-podcast
+  apple_url: turnbuckle-arms-podcast
+  youtube_playlist_id: UUYDa5yBbWML_3LzTVCBraDQ
+  spotify_show_id: 3tyyGlrWUfCi4AwRrHkADd
+  apple_podcast_id: 1519669566
+
+- title: Kyle's Wrestling
+  background: kyles-wrestling-background.jpg
+  category: kyles-wrestling
+  author: kyles-wrestling
+  youtube_playlist_id: UUcKE7J5v87qW-ZqszbLJW2A
+
+- title: Pull Up A Seat - A Wrestling Podcast
+  background: pull-up-a-seat-background.jpg
+  category: pull-up-a-seat
+  author: matt-bayliss
+  youtube_playlist_id: UUH8dpQicvMaZisqSKtCHRjQ
+  spotify_show_id: 62kYSVvKtd1sXjUme1LZI2
+  apple_podcast_id: 1550516021
+  apple_url: pull-up-a-seat-a-wrestling-podcast
+
+- title: DOA's Bookerman Podcast
+  background: doa-bookerman-podcast-background.png
+  category: doa-bookerman-podcast
+  author: doa-bookerman-podcast
+  spotify_show_id: 3sOuXLPNpBtBvLKLsYEYwQ
+
+- title: Grappuchino Thoughts Podcast
+  background: grappuchino-thoughts-background.jpg
+  category: grappuchino-thoughts
+  author: lexi-helms
+  youtube_playlist_id: UU6BYYnyHwFEVrLRp8pM9Liw
+  spotify_show_id: 7Bj4VAxslYuhf5BU0Dehpa
+
+- title: K.J. Pro Wrestling Podcast
+  background: kj-pro-wrestling-background.jpg
+  category: kj-pro-wrestling
+  author: kj-pro-wrestling
+  spotify_show_id: 4027oOs8mtp0vPE1WguvU9
