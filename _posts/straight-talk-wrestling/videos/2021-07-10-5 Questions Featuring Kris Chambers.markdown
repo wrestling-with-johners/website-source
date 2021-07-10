@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Questions Featuring Kris Chambers"
-date: 2021-07-09
+date: 2021-07-10
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
