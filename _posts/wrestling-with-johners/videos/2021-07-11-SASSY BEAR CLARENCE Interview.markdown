@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SASSY BEAR CLARENCE Interview - Wrestling With Johners LIVE!"
+title: "SASSY BEAR CLARENCE Interview"
 date: 2021-07-11
 categories: videos wrestling-with-johners
 author: john
