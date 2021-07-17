@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'The Notorious Angel' AMBER JO Interview - Wrestling With Johners LIVE!"
+title: "'The Notorious Angel' AMBER JO Interview #NyleRose #LGBT #HistoryMaker #RevPro #MickieJames #Paige"
 date: 2021-07-17
 categories: videos wrestling-with-johners
 author: john
