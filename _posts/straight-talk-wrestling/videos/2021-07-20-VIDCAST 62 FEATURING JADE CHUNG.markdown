@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 62 FEATURING JADE CHUNG"
-date: 2021-07-21
+date: 2021-07-20
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
