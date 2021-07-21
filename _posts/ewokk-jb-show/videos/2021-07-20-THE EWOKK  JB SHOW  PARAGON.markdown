@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THE EWOKK & JB SHOW : PARAGON   HD 720p"
+title: "THE EWOKK & JB SHOW : PARAGON"
 date: 2021-07-20
 categories: ewokk-jb-show videos
 author: ewokk-jb-show
