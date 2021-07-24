@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BREAKING NEWS - CM PUNK \"100% CONFIRMED\" TO APPEAR FOR AEW IN CHICAGO."
+title: "BREAKING NEWS - THE CITY FOR CM PUNK’S FIRST AEW APPEARANCE IS CONFIRMED."
 date: 2021-07-24
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
