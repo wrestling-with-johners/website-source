@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHARLIE STERLING Interview - Wrestling With Johners LIVE!"
+title: "Charlie Sterling Interview #PROGRESS #WrestleCarnival #PCW #CaraNoir Listener's Question + more!"
 date: 2021-07-24
 categories: videos wrestling-with-johners
 author: john
