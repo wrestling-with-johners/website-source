@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NJPW Summer Struggle in Nagoya show podcast review!"
+title: "Katsuyori Shibata returns at NJPW Summer Struggle in Nagoya!! Show review!"
 date: 2021-07-24
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
