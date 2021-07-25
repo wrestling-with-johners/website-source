@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Could Nick Gage head to Impact Wrestling for Matt Cardona?, Andrade almost shows up at Slammiversary"
+title: "Nick Gage vs Matt Cardona in Impact?, Jay White was the better Slammiversary option than Andrade"
 date: 2021-07-25
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
