@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LANCE STORM TALKS CHRIS JERICHO, VINCE MCMAHON, HIS DANCING GIMMICK, HOW HE GOT SIGNED WITH WCW #62"
-date: 2021-07-24
+date: 2021-07-27
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
