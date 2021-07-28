@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 63! Featuring Mike Forte"
-date: 2021-07-27
+date: 2021-07-28
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
