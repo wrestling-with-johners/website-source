@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Week in History Episode #32  July 23 July 29"
-date: 2021-07-22
+date: 2021-07-29
 categories: scumbags-of-wrestling videos
 author: scumbags-of-wrestling
 spotify_track_id: 
