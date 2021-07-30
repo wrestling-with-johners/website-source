@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMY CRIMSON Interview - Wrestling With Johners LIVE!"
+title: "AMY CRIMSON Interview (Former Battle Arts Academy Women's Champion)"
 date: 2021-07-30
 categories: videos wrestling-with-johners
 author: john
