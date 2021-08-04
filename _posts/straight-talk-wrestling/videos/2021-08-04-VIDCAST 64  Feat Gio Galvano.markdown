@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 64 ! Feat Gio Galvano"
-date: 2021-07-31
+date: 2021-08-04
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
