@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Robert Rudman Project Copywriter For Mattel"
-date: 2021-08-09
+date: 2021-08-10
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
