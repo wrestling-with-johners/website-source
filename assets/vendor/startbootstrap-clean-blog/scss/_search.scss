@@ -18,6 +18,8 @@
   &:empty {
     visibility: hidden;
     opacity: 0;
+    padding: 0;
+    margin: 0;
   }
 
   hr {
