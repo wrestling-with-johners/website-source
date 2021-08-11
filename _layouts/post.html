@@ -56,14 +56,14 @@ layout: default
         {% for metadata in youtube_metadata %}
         {% assign loopindex = forloop.index | modulo: 2 %}
         {% if loopindex == 0 %}
-        <a href="https://www.youtube.com/watch?v={{ metadata }}" target="_blank"><img title="Play On Youtube" alt="Play On Youtube" class="restrict-width" src="http://img.youtube.com/vi/{{ metadata }}/0.jpg" /></a>
+        <a href="https://www.youtube.com/watch?v={{ metadata }}" target="_blank"><img title="Play On Youtube" alt="Play On Youtube" class="restrict-width" src="https://img.youtube.com/vi/{{ metadata }}/0.jpg" /></a>
         {% else %}
         <h3>Part {{ metadata}}</h3>
         {% endif %}
         {% endfor %}
       {% elsif page.youtube_video_id %}
 				<h2>Youtube</h2>
-				<a href="https://www.youtube.com/watch?v={{ page.youtube_video_id }}" target="_blank"><img title="Play On Youtube" alt="Play On Youtube" class="restrict-width" src="http://img.youtube.com/vi/{{ page.youtube_video_id }}/0.jpg" /></a>
+				<a href="https://www.youtube.com/watch?v={{ page.youtube_video_id }}" target="_blank"><img title="Play On Youtube" alt="Play On Youtube" class="restrict-width" src="https://img.youtube.com/vi/{{ page.youtube_video_id }}/0.jpg" /></a>
 			{% endif %}
 			
 			{% if page.apple_track_id %}
