@@ -21,7 +21,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: withjohners_pod
 facebook_group_id: "2235004610046988"
-facebook_username: wrestling with johners
 instagram_username: wrestlingwithjohners
 #github_username: wrestlingwithjohners
 apple_podcast_id: "1442108418"
