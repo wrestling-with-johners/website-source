@@ -155,14 +155,27 @@
 					</li>
 			  {% endif %}
 				{% if source.website_url %}
-					<li class="list-inline-item">
-						<a href="{{ source.website_url }}" target="_blank">
-							<span class="fa-stack fa-lg">
-								<i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-external-link-alt"></i>
-								<i class="fas fa-external-link-alt fa-stack-1x fa-inverse"></i>
-							</span>
-						</a>
-					</li>
+					{% if source.website_url.first %}
+						{% for website_url in source.website_url %}
+							<li class="list-inline-item">
+								<a href="{{ website_url }}" target="_blank">
+										<span class="fa-stack fa-lg">
+											<i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-external-link-alt"></i>
+											<i class="fas fa-external-link-alt fa-stack-1x fa-inverse"></i>
+										</span>
+								</a>
+							</li>
+						{% endfor %}
+					{% else %}
+						<li class="list-inline-item">
+							<a href="{{ website_url }}" target="_blank">
+									<span class="fa-stack fa-lg">
+										<i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-external-link-alt"></i>
+										<i class="fas fa-external-link-alt fa-stack-1x fa-inverse"></i>
+									</span>
+							</a>
+						</li>
+					{% endif %}
 				{% endif %}
         <li>
           <a href="{{"/feed.xml" | relative_url }}" target="_blank" title="RSS">

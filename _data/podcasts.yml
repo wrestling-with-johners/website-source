@@ -226,3 +226,19 @@
   category: kj-pro-wrestling
   author: kj-pro-wrestling
   spotify_show_id: 4027oOs8mtp0vPE1WguvU9
+
+- title: Tea And Tights Podcast
+  background: tea-and-tights-background.jpg
+  category: tea-and-tights
+  author: tea-and-tights
+  youtube_playlist_id: UUpEhph66ImpFagsPvJPMY1Q
+  spotify_show_id: 0CSfDcNQaSEfSZdwKWu7G6
+
+- title: Chaos Theory Podcast
+  background: chaos-theory-background.jpg
+  category: chaos-theory
+  author: chaos-theory
+  youtube_playlist_id: UUcADpfyDa-WwPuOLlyItuCg
+  spotify_show_id: 6EyavTabhfyWahfaFRjzTf
+  apple_podcast_id: 1520596733
+  apple_url: chaos-theory

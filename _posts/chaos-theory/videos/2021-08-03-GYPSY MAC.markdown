@@ -1,0 +1,11 @@
+---
+layout: post
+title: "GYPSY MAC"
+date: 2021-08-03
+categories: chaos-theory videos
+author: chaos-theory
+spotify_track_id: 
+youtube_video_id: gLcAEJGR9es
+apple_track_id: 
+youtube_metadata: 
+---
