@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shout Out Celebration Video (2 of 3) for 200th Episode"
-date: 2021-08-12
+date: 2021-08-14
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
