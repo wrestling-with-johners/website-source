@@ -17,7 +17,7 @@ module WrestlingWithJohners
 
       self.data['layout'] = 'podcast-page'
       self.data['permalink'] = '/' + category + '/'
-      self.data['title'] = podcast_data['title']
+      self.data['disable_title'] = true
       self.data['background'] = '/img/' + podcast_data['background']
       pagination = {}
       pagination['enabled'] = true

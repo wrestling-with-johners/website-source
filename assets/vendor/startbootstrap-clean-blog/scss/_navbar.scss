@@ -1,3 +1,7 @@
+.nav-buffer {
+  height: 8rem;
+}
+
 // Styling for the navbar
 #mainNav {
   position: absolute;
@@ -75,7 +79,7 @@
           border-radius: 0;
           padding: 0 1em;
           color: $white;
-          height: 8em;
+          height: 8rem;
           display: flex;
           justify-content: center;
           align-items: center;
