@@ -242,3 +242,19 @@
   spotify_show_id: 6EyavTabhfyWahfaFRjzTf
   apple_podcast_id: 1520596733
   apple_url: chaos-theory
+
+- title: "Snap Crackle and Cheap Pops: The PW4U Podcast"
+  background: snap-crackle-and-cheap-pops-background.jpg
+  category: snap-crackle-and-cheap-pops
+  author: snap-crackle-and-cheap-pops
+  spotify_show_id: 2uTB2211bfQzOIVjOSA4b8
+  apple_podcast_id: 1515753256
+  apple_url: snap-crackle-and-cheap-pops-the-pw4u-podcast
+
+- title: Champs Out Last Podcast
+  background: champs-out-last-background.jpg
+  category: champs-out-last
+  author: champs-out-last
+  spotify_show_id: 2kAbDiINhs0vebZd2ILTKN
+  apple_podcast_id: 1532744934
+  apple_url: champs-out-last

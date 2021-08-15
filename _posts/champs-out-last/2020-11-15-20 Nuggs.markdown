@@ -1,0 +1,11 @@
+---
+layout: post
+title: "20 Nuggs"
+date: 2020-11-15
+categories: champs-out-last
+author: champs-out-last
+spotify_track_id: 6KMXZSYbc0Qb0mbAZf3EIN
+youtube_video_id: 
+apple_track_id: 1000498725066
+youtube_metadata: 
+---

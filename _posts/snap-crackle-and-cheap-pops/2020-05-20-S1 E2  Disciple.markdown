@@ -1,0 +1,11 @@
+---
+layout: post
+title: "S1 E2 : Disciple"
+date: 2020-05-20
+categories: snap-crackle-and-cheap-pops
+author: snap-crackle-and-cheap-pops
+spotify_track_id: 4yPozI350kUYz4Gm0tRX5d
+youtube_video_id: 
+apple_track_id: 1000476060904
+youtube_metadata: 
+---

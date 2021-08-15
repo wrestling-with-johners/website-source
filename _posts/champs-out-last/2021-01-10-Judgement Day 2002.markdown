@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Judgement Day 2002"
+date: 2021-01-10
+categories: champs-out-last
+author: champs-out-last
+spotify_track_id: 3XL6BjvavsVUqb9EvcpanK
+youtube_video_id: 
+apple_track_id: 1000504858117
+youtube_metadata: 
+---
