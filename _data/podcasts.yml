@@ -36,14 +36,14 @@
   youtube_playlist_id: UUnDMxFgnMQUQdSDQSQOYwnw
 
 - title: Straight Talk Wrestling
-  background: straight-talk-wrestling-background.png
+  background: straight-talk-wrestling-background.jpg
   category: straight-talk-wrestling
   author: george-mckay
   youtube_playlist_id: UU3rBrH-cyhM_whmjL1M-qOg
   spotify_show_id: 565zB01O5PiEUDhL9ufpy6
 
 - title: Guilmy Talks
-  background: guilmy-talks-background.png
+  background: guilmy-talks-background.jpg
   category: guilmy-talks
   author: justin-guilmette
   youtube_playlist_id: UUuaczBl8xxYXA1z9z27A3kw
@@ -52,7 +52,7 @@
   apple_url: guilmy-talks
 
 - title: Alliance Pro Wrestling Network
-  background: alliance-pro-wrestling-network-background.png
+  background: alliance-pro-wrestling-network-background.jpg
   category: alliance-pro-wrestling-network
   author: lewis-carlan
   youtube_playlist_id: UUcNAI-6vaYV3YAud8qfT4ww
@@ -76,7 +76,7 @@
   spotify_show_id: 7xUdRojRQv9w0N1bpnATcT
 
 - title: Rope Break
-  background: rope-break-background.png
+  background: rope-break-background.jpg
   category: rope-break
   author: rope-break
   youtube_playlist_id: UUwaCrpSHMzhP6f6k7coKn8w
@@ -102,7 +102,7 @@
   spotify_show_id: 21dseWIXuF6HO8shYfOo9t
 
 - title: THE EWOKK & JB SHOW
-  background: ewokk-jb-show-background.png
+  background: ewokk-jb-show-background.jpg
   category: ewokk-jb-show
   author: ewokk-jb-show
   youtube_playlist_id: UUnArx5z00Kq8aHGZbeUclZg
@@ -124,7 +124,7 @@
   apple_url: da-call-up
 
 - title: The Bob Culture Podcast
-  background: bob-culture-background.png
+  background: bob-culture-background.jpg
   category: bob-culture
   author: bob-culture
   youtube_playlist_id: UUAuuUt0PNofT1l8rIHUModQ
@@ -176,7 +176,7 @@
   apple_url: such-good-shoot
 
 - title: Toilet-Side Wrestling Talk
-  background: toilet-side-wrestling-talk-background.jpeg
+  background: toilet-side-wrestling-talk-background.jpg
   category: toilet-side-wrestling-talk
   author: toilet-side-wrestling-talk
   youtube_playlist_id: UU0md5lXLI-qOEibvuwNOemg
@@ -209,7 +209,7 @@
   apple_url: pull-up-a-seat-a-wrestling-podcast
 
 - title: DOA's Bookerman Podcast
-  background: doa-bookerman-podcast-background.png
+  background: doa-bookerman-podcast-background.jpg
   category: doa-bookerman-podcast
   author: doa-bookerman-podcast
   spotify_show_id: 3sOuXLPNpBtBvLKLsYEYwQ
