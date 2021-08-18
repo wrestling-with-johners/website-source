@@ -258,3 +258,12 @@
   spotify_show_id: 2kAbDiINhs0vebZd2ILTKN
   apple_podcast_id: 1532744934
   apple_url: champs-out-last
+
+- title: Ringside Rant
+  background: ringside-rant-background.jpg
+  category: ringside-rant
+  author: ringside-rant
+  youtube_playlist_id: UU4_NeGd4oMfDy6FhHPY3rNg
+  spotify_show_id: 4xj20QAScG2P6f8FBe5iTX
+  apple_podcast_id: 1460265667
+  apple_url: ringside-rant

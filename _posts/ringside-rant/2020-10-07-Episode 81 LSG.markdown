@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 81: LSG"
+date: 2020-10-07
+categories: ringside-rant
+author: ringside-rant
+spotify_track_id: 1pmUvUdIkVqNTBuyqZVnul
+youtube_video_id: 
+apple_track_id: 1000493933833
+youtube_metadata: 
+---
