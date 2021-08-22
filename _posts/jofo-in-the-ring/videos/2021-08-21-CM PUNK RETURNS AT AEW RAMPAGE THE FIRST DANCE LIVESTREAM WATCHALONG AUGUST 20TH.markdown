@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEW RAMPAGE THE FIRST DANCE LIVESTREAM WATCH-ALONG AUGUST 20TH"
+title: "CM PUNK RETURNS AT AEW RAMPAGE THE FIRST DANCE LIVESTREAM WATCH-ALONG AUGUST 20TH"
 date: 2021-08-21
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
