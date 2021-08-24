@@ -267,3 +267,30 @@
   spotify_show_id: 4xj20QAScG2P6f8FBe5iTX
   apple_podcast_id: 1460265667
   apple_url: ringside-rant
+
+- title: WHAT DO YOU CALL IT? PODCAST!
+  background: what-do-you-call-it-background.jpg
+  category: what-do-you-call-it
+  author: what-do-you-call-it
+  youtube_playlist_id: UU7kPWBWE8dVNDTZGedSz_Pw
+  spotify_show_id: 5z2U45OagymjgUsQE2Jbrw
+  apple_podcast_id: 1573713527
+  apple_url: what-do-you-call-it-podcast
+
+- title: Bucklebomb Entertainment
+  background: bucklebomb-entertainment-background.jpg
+  category: bucklebomb-entertainment
+  author: bucklebomb-entertainment
+  youtube_playlist_id: UUoTL7Ra-SdlOSEQwsgZ6dzg
+  spotify_show_id: 7heMt5rPyoxbKZN2thxo3o
+  apple_podcast_id: 1540713421
+  apple_url: bucklebomb-entertainment
+
+- title: Tornado Tag Podcast
+  background: tornado-tag-background.jpg
+  category: tornado-tag
+  author: tornado-tag
+  spotify_show_id: 3Yqm2WvnyRo1yREE8L39Ul
+  apple_podcast_id: 1552649201
+  apple_url: tornado-tag-podcast
+

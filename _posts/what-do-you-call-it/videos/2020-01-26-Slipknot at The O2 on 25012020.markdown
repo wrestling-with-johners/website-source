@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Slipknot at The O2 on 25/01/2020"
+date: 2020-01-26
+categories: videos what-do-you-call-it
+author: what-do-you-call-it
+spotify_track_id: 
+youtube_video_id: l23I4v4ApW8
+apple_track_id: 
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Brighton 2 - 0 Norwich - Shane Duffy's Goal!"
+date: 2019-11-03
+categories: videos what-do-you-call-it
+author: what-do-you-call-it
+spotify_track_id: 
+youtube_video_id: d6FjtP7dMyA
+apple_track_id: 
+youtube_metadata: 
+---
