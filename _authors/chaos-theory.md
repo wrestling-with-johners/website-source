@@ -6,7 +6,7 @@ position: Podcast
 social:
   facebook_username: TheChaosTheoryPod
   twitter_username: CHAOS_THEORYPOD
-  instagram_username: KINGCHAOS210
+  instagram_username: chaostheorypod
   website_url:
     - https://chaosclub.creator-spring.com/
     - https://whatamaneuver.net/collections/chaos-theory-podcast
