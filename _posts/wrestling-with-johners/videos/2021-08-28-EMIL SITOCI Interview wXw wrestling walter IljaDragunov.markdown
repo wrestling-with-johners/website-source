@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMIL SITOCI Interview - Wrestling With Johners LIVE!"
+title: "EMIL SITOCI Interview #wXw #wrestling #walter #IljaDragunov"
 date: 2021-08-28
 categories: videos wrestling-with-johners
 author: john
