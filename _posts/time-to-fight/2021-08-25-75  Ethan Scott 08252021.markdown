@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#75 - Ethan Scott 08/25/2021"
+date: 2021-08-25
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 61d7nnaXMGpqv0axKR1dxZ
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---

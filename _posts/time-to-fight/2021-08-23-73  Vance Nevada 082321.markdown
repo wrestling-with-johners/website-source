@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#73 - Vance Nevada 08/23/21"
+date: 2021-08-23
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 1mkMVx2bJO6mSujrPq2LrZ
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---

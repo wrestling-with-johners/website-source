@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep. #23 - Tim Nutt"
+date: 2021-05-25
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 3BYAc1U9zdmDanabSr9GXS
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
