@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Week in History Episode #37  August 27 - September 2"
-date: 2021-09-01
+date: 2021-09-02
 categories: scumbags-of-wrestling videos
 author: scumbags-of-wrestling
 spotify_track_id: 
