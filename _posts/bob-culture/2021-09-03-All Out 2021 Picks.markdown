@@ -1,0 +1,11 @@
+---
+layout: post
+title: "All Out 2021 Picks"
+date: 2021-09-03
+categories: bob-culture
+author: bob-culture
+spotify_track_id: 1pNuuHAJ4Z0sOyJtIO6cCT
+youtube_video_id: 
+apple_track_id: 1000534249737
+youtube_metadata: 
+---
