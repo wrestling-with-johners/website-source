@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAKE CRIST'S CONTACT STATUS WITH IMPACT WRESTLING"
+title: "JAKE CRIST'S CONTRACT STATUS WITH IMPACT WRESTLING AFTER RETURNING!"
 date: 2021-09-03
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
