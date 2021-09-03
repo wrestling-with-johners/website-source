@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NWA 73"
+date: 2021-09-03
+categories: turning-heel
+author: turning-heel
+spotify_track_id: 7suyT6n48t7D4gN4EOvNPt
+youtube_video_id: 
+apple_track_id: 1000534260261
+youtube_metadata: 
+---
