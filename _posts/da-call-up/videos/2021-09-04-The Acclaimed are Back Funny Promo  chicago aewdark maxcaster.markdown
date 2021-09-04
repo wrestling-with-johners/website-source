@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Acclaimed are Back #AEWDark Match Chicago"
+title: "The Acclaimed are Back Funny Promo  #chicago #aewdark #maxcaster"
 date: 2021-09-04
 categories: da-call-up videos
 author: da-call-up
