@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#84 - Justin Cousineau 09/08/2021"
+date: 2021-09-08
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 3kphzHB1fRrOuL9BNMuKQ8
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
