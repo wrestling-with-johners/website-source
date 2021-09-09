@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shooting Sh*t Episode 2-The guys are going All Out"
+title: "Shooting Sh*t Episode 2-Still Waiting In the Merch Line at All Out"
 date: 2021-09-09
 categories: shootin-sht videos
 author: shootin-sht
