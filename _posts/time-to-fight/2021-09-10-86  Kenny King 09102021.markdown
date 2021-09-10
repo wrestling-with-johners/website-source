@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#86 - Kenny King 09/10/2021"
+date: 2021-09-10
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 6S7H4WQs2EL1y63yoQIhYO
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
