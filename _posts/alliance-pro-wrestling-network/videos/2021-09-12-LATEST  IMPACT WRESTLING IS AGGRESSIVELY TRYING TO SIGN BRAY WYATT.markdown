@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LATEST - IMPACT WRESTLING IS AGRESSIVELY TRYING TO SIGN BRAY WYATT!"
+title: "LATEST - IMPACT WRESTLING IS AGGRESSIVELY TRYING TO SIGN BRAY WYATT!"
 date: 2021-09-12
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
