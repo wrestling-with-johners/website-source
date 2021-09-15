@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ring of Honors Amy Rose Talks Womens Wrestling, AEW, LFI, Maria Kanellis & More"
+date: 2021-08-27
+categories: its-my-wrestling videos
+author: its-my-wrestling
+spotify_track_id: 
+youtube_video_id: 2o3_Vg6hovQ
+apple_track_id: 
+youtube_metadata: 
+---
