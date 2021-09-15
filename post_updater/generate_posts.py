@@ -14,6 +14,8 @@ import requests
 from googleapiclient.discovery import build
 import frontmatter
 
+from get_apple_auth import get_auth
+
 
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
@@ -187,7 +189,7 @@ class AppleScraper:
   def __init__(self, search_from_date):
     self.search_from_date = search_from_date
 
-  def get_tracks(self, next_url_part):
+  def get_tracks(self, next_url_part, retry_apple_auth = True):
     response = requests.get('https://amp-api.podcasts.apple.com{}'.format(next_url_part), headers = {
       'Accept': 'application/json',
       'Referer': 'https://podcasts.apple.com/',
@@ -218,14 +220,21 @@ class AppleScraper:
       
       if continue_search and 'next' in response_json:
         print (response_json['next'])
-        return data + self.get_tracks(response_json['next'])
+        return data + self.get_tracks(response_json['next'], retry_apple_auth)
       else:
         print('no more data')
         return data
 
     elif response.status_code == 429:
-      print ('Apple responded with 429, halting search')
-      return []
+      print ('Apple responded with 429')
+      if retry_apple_auth:
+        auth_token = get_auth()
+        with open(os.path.join(os.path.dirname(__file__), 'apple_auth'), 'w') as file:
+          file.write(auth_token)
+        return self.get_tracks(next_url_part, False)
+      else:
+        print ('Halting attempts, unable to reacquire auth')
+        return []
     else:
       response.raise_for_status()
 
