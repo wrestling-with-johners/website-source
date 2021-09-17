@@ -188,6 +188,8 @@ class AppleData:
 class AppleScraper:
   def __init__(self, search_from_date):
     self.search_from_date = search_from_date
+    with open(os.path.join(os.path.dirname(__file__), 'apple_auth'), 'r') as file:
+      self.auth = file.readline()
 
   def get_tracks(self, next_url_part, retry_apple_auth = True):
     response = requests.get('https://amp-api.podcasts.apple.com{}'.format(next_url_part), headers = {
@@ -225,12 +227,12 @@ class AppleScraper:
         print('no more data')
         return data
 
-    elif response.status_code == 429:
-      print ('Apple responded with 429')
+    elif response.status_code == 401:
+      print ('Apple responded with 401')
       if retry_apple_auth:
-        auth_token = get_auth()
+        self.auth = get_auth()
         with open(os.path.join(os.path.dirname(__file__), 'apple_auth'), 'w') as file:
-          file.write(auth_token)
+          file.write(self.auth)
         return self.get_tracks(next_url_part, False)
       else:
         print ('Halting attempts, unable to reacquire auth')
