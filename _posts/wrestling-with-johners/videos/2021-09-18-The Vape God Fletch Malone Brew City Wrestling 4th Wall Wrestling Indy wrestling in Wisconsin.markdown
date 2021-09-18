@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'The Vape God' Fletch Malone - Wrestling With Johners LIVE!!"
+title: "'The Vape God' Fletch Malone (Brew City Wrestling, 4th Wall Wrestling, Indy wrestling in Wisconsin)"
 date: 2021-09-18
 categories: videos wrestling-with-johners
 author: john
