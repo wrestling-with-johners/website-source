@@ -206,19 +206,22 @@ class AppleScraper:
       continue_search = True
       for episode in response_json['data']:
         track_id = episode['id']
-        attributes = episode['attributes']
-        title = escape_for_frontmatter(attributes['name'])
-        print ('Apple `{}`'.format(title))
-        date = datetime.datetime.strptime(attributes['releaseDateTime'], '%Y-%m-%dT%H:%M:%S%z').date()
-        if 'episodeNumber' in attributes:
-          episode_number = attributes['episodeNumber']
+        if 'attributes' in episode:
+          attributes = episode['attributes']
+          title = escape_for_frontmatter(attributes['name'])
+          print ('Apple `{}`'.format(title))
+          date = datetime.datetime.strptime(attributes['releaseDateTime'], '%Y-%m-%dT%H:%M:%S%z').date()
+          if 'episodeNumber' in attributes:
+            episode_number = attributes['episodeNumber']
+          else:
+            episode_number = find_episode_number(title)
+          if date >= self.search_from_date:
+            data.append(AppleData(episode_number, title, date, track_id))
+          else:
+            continue_search = False
+            break
         else:
-          episode_number = find_episode_number(title)
-        if date >= self.search_from_date:
-          data.append(AppleData(episode_number, title, date, track_id))
-        else:
-          continue_search = False
-          break
+          print (f'Unable to get apple data for track {track_id}.')
       
       if continue_search and 'next' in response_json:
         print (response_json['next'])
