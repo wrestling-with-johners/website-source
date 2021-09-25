@@ -6,6 +6,6 @@ categories: keepin-it-kayfabe
 author: keepin-it-kayfabe
 spotify_track_id: 3VGrfOuYpwRbXdi8vVCE5m
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000536592506
 youtube_metadata: 
 ---
