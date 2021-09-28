@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WWE Extreme Rules 2021 En Español | Resumen y Resultados"
-date: 2021-09-28
+date: 2021-09-27
 categories: rope-break videos
 author: rope-break
 spotify_track_id: 
