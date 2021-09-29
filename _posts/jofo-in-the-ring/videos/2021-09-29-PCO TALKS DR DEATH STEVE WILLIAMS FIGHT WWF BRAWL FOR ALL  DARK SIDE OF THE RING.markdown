@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWF BRAWL FOR ALL PCO TALKS DR DEATH STEVE WILLIAMS FIGHT | DARK SIDE OF THE RING"
+title: "PCO TALKS DR DEATH STEVE WILLIAMS FIGHT WWF BRAWL FOR ALL | DARK SIDE OF THE RING"
 date: 2021-09-29
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
