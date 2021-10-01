@@ -33,6 +33,7 @@ module WrestlingWithJohners
       self.data['start_day'] = start_date.wday
       self.data['start_date'] = start_date.strftime("%Y/%m/%d")
       self.data['end_date'] = date.strftime("%Y/%m/%d")
+      self.data['background'] = '/img/calendar-background.jpg'
 
       if page_num != nil
         if page_num < last_page_num

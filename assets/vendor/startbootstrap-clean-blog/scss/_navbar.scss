@@ -44,7 +44,22 @@
         text-align: center;
       }
     }
+    .nav-image {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      > a {
+        width: 100%;
+        padding: 1em;
+        > img {
+          width: 15em;
+        }
+      }
+    }
     > li.dropdown {
+      > a {
+        display: none;
+      }
       > .dropdown-button {
         display: none;
       }
