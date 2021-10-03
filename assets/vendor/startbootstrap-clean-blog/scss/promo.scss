@@ -7,16 +7,16 @@
   height: 100%;
   z-index: 1029;
   justify-items: center;
-  padding-top: 10em;
+  padding-top: 1em;
   pointer-events: none;
 
   > div {
     width: 70%;
+    text-align: center;
     > a {
       pointer-events: all;
       > img {
-        transform: rotate(-90deg);
-        width: 100%;
+        width: 35%;
       }
     }
   }
