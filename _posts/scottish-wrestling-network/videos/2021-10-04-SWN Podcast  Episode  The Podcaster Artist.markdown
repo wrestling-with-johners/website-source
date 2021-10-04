@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SWN Podcast | Episode 💯: The Podcaster Artist"
-date: 2021-10-02
+date: 2021-10-04
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
 spotify_track_id: 
