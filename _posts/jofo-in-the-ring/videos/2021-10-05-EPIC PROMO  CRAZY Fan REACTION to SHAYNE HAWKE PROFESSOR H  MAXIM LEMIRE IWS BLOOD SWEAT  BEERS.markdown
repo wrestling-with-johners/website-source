@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EPIC PROMO & CRAZY Fan REACTION to SHAYNE HAWKE PROFESSOR H & MAXIM LEMIRE IWS BLOOD, SWEAT & BEERS"
-date: 2021-09-29
+date: 2021-10-05
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
