@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Behind the Curtain Episode#"
+date: 2021-01-17
+categories: chokeslam-wrestling-report
+author: chokeslam-wrestling-report
+spotify_track_id: 1gUot9s0cL6T5p2avCuD5K
+youtube_video_id: 
+apple_track_id: 1000505549422
+youtube_metadata: 
+---
