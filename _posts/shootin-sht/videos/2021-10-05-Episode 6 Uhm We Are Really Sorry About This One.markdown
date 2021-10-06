@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shootin' Sh*t! Episode 6: Uhm... We Are Really Sorry About This One"
+title: "Episode 6: Uhm... We Are Really Sorry About This One"
 date: 2021-10-05
 categories: shootin-sht videos
 author: shootin-sht
