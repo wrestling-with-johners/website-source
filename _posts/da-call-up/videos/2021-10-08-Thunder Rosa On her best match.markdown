@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thunder Rosa Describing her best Match ￼"
+title: "Thunder Rosa On her best match  ￼"
 date: 2021-10-08
 categories: da-call-up videos
 author: da-call-up
