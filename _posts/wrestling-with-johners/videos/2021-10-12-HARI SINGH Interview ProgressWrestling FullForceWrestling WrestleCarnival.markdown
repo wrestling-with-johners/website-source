@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HARI SINGH Interview - Wrestling With Johners LIVE!!"
+title: "HARI SINGH Interview #ProgressWrestling #FullForceWrestling #WrestleCarnival"
 date: 2021-10-12
 categories: videos wrestling-with-johners
 author: john
