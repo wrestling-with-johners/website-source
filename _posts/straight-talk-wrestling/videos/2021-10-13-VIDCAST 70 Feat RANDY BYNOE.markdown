@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 70! Feat RANDY BYNOE"
-date: 2021-10-09
+date: 2021-10-13
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
