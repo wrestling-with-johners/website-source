@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SEXXXY EDDY & THE ANIMAL BOB ANGER INTERVIEW ROAD TO IWS SCARRED 4 LIFE 2021 1ST TIME AS A TEAM #72"
-date: 2021-10-13
+date: 2021-10-14
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
