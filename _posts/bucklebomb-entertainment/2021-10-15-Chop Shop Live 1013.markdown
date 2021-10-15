@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Chop Shop Live 10/13"
+date: 2021-10-15
+categories: bucklebomb-entertainment
+author: bucklebomb-entertainment
+spotify_track_id: 0Q2SlmTJljw79QuSKdD5Cn
+youtube_video_id: 
+apple_track_id: 1000538641115
+youtube_metadata: 
+---
