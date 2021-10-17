@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BRAUN STROWMAN HAS CONFIRMED MEETING WITH TOP IMPACT WRESTLING OFFICIAL"
+title: "BRAUN STROWMAN HAS CONFIRMED MEETING WITH TOP IMPACT WRESTLING OFFICIAL LAST NIGHT IN DETROIT!"
 date: 2021-10-17
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
