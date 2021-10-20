@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WILL KROOS Interview - Wrestling With Johners LIVE!"
+title: "WILL KROOS Interview #WrestleCarnival #PCW #WorldWarWrestling #Tidal #NJPW & so much more!"
 date: 2021-10-20
 categories: videos wrestling-with-johners
 author: john
