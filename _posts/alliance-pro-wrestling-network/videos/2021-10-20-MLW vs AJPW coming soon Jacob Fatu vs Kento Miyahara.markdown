@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HAS AN MLW & AJPW WORKING RELATIONSHIP BEEN CONFIRMED?"
+title: "MLW vs AJPW coming soon? Jacob Fatu vs Kento Miyahara??"
 date: 2021-10-20
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
