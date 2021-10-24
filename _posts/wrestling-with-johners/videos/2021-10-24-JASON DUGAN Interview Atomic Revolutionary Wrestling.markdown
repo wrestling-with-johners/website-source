@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JASON DUGAN Interview - Wrestling With Johners LIVE!"
+title: "JASON DUGAN Interview (Atomic Revolutionary Wrestling)"
 date: 2021-10-24
 categories: videos wrestling-with-johners
 author: john
