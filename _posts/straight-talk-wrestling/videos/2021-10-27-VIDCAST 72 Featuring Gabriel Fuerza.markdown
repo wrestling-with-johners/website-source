@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 72! Featuring Gabriel Fuerza"
-date: 2021-10-22
+date: 2021-10-27
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
