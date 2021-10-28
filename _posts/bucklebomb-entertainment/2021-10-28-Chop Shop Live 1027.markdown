@@ -4,7 +4,7 @@ title: "Chop Shop Live 10/27"
 date: 2021-10-28
 categories: bucklebomb-entertainment
 author: bucklebomb-entertainment
-spotify_track_id: 
+spotify_track_id: 15sZh4xgTdYvVQgNYLRGvw
 youtube_video_id: 
 apple_track_id: 1000539971836
 youtube_metadata: 
