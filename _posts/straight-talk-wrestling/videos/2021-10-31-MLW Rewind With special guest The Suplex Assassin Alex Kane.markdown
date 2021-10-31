@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind With special guest The Suplex Assassin Alex Kane"
-date: 2021-10-30
+date: 2021-10-31
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
