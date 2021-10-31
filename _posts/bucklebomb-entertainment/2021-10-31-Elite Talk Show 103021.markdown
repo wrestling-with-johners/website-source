@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Elite Talk Show 10/30/21"
+date: 2021-10-31
+categories: bucklebomb-entertainment
+author: bucklebomb-entertainment
+spotify_track_id: 49MWcUuWtA07mX1W0esjD2
+youtube_video_id: 
+apple_track_id: 1000540311988
+youtube_metadata: 
+---
