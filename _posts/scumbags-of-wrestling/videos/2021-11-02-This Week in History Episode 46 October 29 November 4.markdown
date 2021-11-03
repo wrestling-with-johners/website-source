@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Week in History Episode #46: October 29- November 4"
-date: 2021-11-03
+date: 2021-11-02
 categories: scumbags-of-wrestling videos
 author: scumbags-of-wrestling
 spotify_track_id: 
