@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE TO RELEASE MORE TALENT TAODAY?"
+title: "WWE TO RELEASE MORE TALENT TODAY?"
 date: 2021-11-04
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
