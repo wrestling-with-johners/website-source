@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fantasy Warfare Tournament  Greatest Franken-Tag Yeams"
-date: 2021-10-13
+title: "Fantasy Warfare Tournament  Greatest Franken-Tag Teams"
+date: 2021-11-08
 categories: scumbags-of-wrestling videos
 author: scumbags-of-wrestling
 spotify_track_id: 
