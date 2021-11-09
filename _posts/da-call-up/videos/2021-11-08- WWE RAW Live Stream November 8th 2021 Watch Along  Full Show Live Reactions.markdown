@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔴 WWE RAW Live Stream November 8th 2021 Watch Along - Full Show Live Reactions"
-date: 2021-11-09
+date: 2021-11-08
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
