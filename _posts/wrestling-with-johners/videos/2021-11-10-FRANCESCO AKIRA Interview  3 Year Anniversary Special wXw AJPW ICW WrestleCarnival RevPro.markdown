@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FRANCESCO AKIRA Interview - 3 Year Anniversary Special LIVE!"
+title: "FRANCESCO AKIRA Interview - 3 Year Anniversary Special #wXw #AJPW #ICW #WrestleCarnival #RevPro"
 date: 2021-11-10
 categories: videos wrestling-with-johners
 author: john
