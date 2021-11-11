@@ -4,7 +4,7 @@ title: "Chop Shop 11/10/21"
 date: 2021-11-11
 categories: bucklebomb-entertainment
 author: bucklebomb-entertainment
-spotify_track_id: 
+spotify_track_id: 3cjAO9T4zaFgAPCjnQcYbx
 youtube_video_id: 
 apple_track_id: 1000541452340
 youtube_metadata: 
