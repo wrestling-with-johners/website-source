@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Chop Shop 11/10/21"
+date: 2021-11-11
+categories: bucklebomb-entertainment videos
+author: bucklebomb-entertainment
+spotify_track_id: 
+youtube_video_id: _cId0lb6Z40
+apple_track_id: 
+youtube_metadata: 
+---
