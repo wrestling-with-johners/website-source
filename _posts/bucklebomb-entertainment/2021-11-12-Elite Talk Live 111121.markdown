@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Elite Talk Live 11/11/21"
+date: 2021-11-12
+categories: bucklebomb-entertainment
+author: bucklebomb-entertainment
+spotify_track_id: 2Z6ZRyQkvLPkuw4RtBWdqW
+youtube_video_id: 
+apple_track_id: 1000541656152
+youtube_metadata: 
+---
