@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MLW REWIND! Rerviewing WAR CHAMBER!"
+title: "MLW REWIND! Reviewing WAR CHAMBER!"
 date: 2021-11-18
 categories: straight-talk-wrestling videos
 author: george-mckay
