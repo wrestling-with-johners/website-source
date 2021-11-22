@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Becky vs Charlotte Survivor Series Brooklyn Ny"
+title: "Becky lynch vs Charlotte Flair Survivor Series #wwe"
 date: 2021-11-22
 categories: da-call-up videos
 author: da-call-up
