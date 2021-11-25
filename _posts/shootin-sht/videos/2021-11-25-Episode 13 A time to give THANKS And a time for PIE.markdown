@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 13: The Guys Are Thankful...For Another Episode"
+title: "Episode 13: A time to give THANKS…. And a time for PIE!"
 date: 2021-11-25
 categories: shootin-sht videos
 author: shootin-sht
