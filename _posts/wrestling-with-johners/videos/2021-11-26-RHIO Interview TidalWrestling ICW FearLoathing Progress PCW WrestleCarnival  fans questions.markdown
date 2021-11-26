@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RHIO Interview - Wrestling With Johners LIVE!"
+title: "RHIO Interview #TidalWrestling #ICW #Fear&Loathing #Progress #PCW #WrestleCarnival + fans questions"
 date: 2021-11-26
 categories: videos wrestling-with-johners
 author: john
