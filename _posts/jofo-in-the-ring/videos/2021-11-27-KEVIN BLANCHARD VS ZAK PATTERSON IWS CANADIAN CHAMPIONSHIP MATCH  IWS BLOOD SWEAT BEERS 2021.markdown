@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KEVIN BLANCHARD VS ZAK PATTERSON IWS CANADIAN CHAMPIONSHIP MATCH | IWS BLOOD SWEAT BEERS 2021"
-date: 2021-11-24
+date: 2021-11-27
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
