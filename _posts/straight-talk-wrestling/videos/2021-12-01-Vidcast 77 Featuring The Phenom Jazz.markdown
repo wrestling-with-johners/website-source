@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 77! Featuring The Phenom Jazz"
-date: 2021-11-27
+date: 2021-12-01
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
