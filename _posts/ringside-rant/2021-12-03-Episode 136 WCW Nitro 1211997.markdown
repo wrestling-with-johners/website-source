@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 136: WCW Nitro 12/1/1997"
+date: 2021-12-03
+categories: ringside-rant
+author: ringside-rant
+spotify_track_id: 2gdVixPcmVmHeNryBa46N7
+youtube_video_id: 
+apple_track_id: 1000543862554
+youtube_metadata: 
+---
