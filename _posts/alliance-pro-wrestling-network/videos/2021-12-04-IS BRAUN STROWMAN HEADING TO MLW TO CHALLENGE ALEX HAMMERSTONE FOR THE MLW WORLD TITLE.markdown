@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALEX HAMMERSTONE TO DEFEND THE MLW WORLD CHAMPIONSHIP AGAINST BRAUN STROWMAN?"
+title: "IS BRAUN STROWMAN HEADING TO MLW TO CHALLENGE ALEX HAMMERSTONE FOR THE MLW WORLD TITLE?"
 date: 2021-12-04
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
