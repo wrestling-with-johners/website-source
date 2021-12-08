@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 78! Featuring EL Reverso"
-date: 2021-12-05
+date: 2021-12-08
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
