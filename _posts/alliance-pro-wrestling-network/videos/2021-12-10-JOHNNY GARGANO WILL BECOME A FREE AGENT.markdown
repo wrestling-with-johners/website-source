@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HUGE UPDATE ON JOHNNY GARGANO AND HIS PENDING FREE AGENCY"
+title: "JOHNNY GARGANO WILL BECOME A FREE AGENT"
 date: 2021-12-10
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
