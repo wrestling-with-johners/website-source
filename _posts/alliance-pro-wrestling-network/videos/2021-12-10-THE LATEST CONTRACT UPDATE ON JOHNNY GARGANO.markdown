@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Huge update on Johnny Gargano"
+title: "THE LATEST CONTRACT UPDATE ON JOHNNY GARGANO"
 date: 2021-12-10
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
