@@ -6,6 +6,6 @@ categories: interviews its-my-wrestling
 author: its-my-wrestling
 spotify_track_id: 19vYdXAhW6CF6IA8Xi2xbL
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000534748671
 youtube_metadata: 
 ---

@@ -6,6 +6,6 @@ categories: its-my-wrestling
 author: its-my-wrestling
 spotify_track_id: 6wdDPu2hsh1f51fC9ZvobR
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000534748698
 youtube_metadata: 
 ---
