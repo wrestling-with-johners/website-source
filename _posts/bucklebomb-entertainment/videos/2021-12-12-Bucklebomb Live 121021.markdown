@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Bucklebomb Live 12/10/21"
+date: 2021-12-12
+categories: bucklebomb-entertainment videos
+author: bucklebomb-entertainment
+spotify_track_id: 
+youtube_video_id: nwC_DGdd-Do
+apple_track_id: 
+youtube_metadata: 
+---
