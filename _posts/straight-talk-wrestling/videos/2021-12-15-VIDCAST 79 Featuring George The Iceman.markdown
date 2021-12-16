@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 79! Featuring George The Iceman"
-date: 2021-12-12
+date: 2021-12-15
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
