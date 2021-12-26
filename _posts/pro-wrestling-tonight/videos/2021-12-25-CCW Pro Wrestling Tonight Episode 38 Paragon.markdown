@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CCW Pro Wrestling Tonight: Episode 38: Paragon"
-date: 2021-12-26
+date: 2021-12-25
 categories: pro-wrestling-tonight videos
 author: chicagoland-championship-wrestling
 spotify_track_id: 
