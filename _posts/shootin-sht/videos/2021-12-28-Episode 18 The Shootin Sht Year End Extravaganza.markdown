@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 18"
+title: "Episode 18: The Shootin’ Sh*t! Year End Extravaganza!!!"
 date: 2021-12-28
 categories: shootin-sht videos
 author: shootin-sht
