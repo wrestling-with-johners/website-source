@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 81! FEATURING Jackson Stone"
-date: 2021-12-27
+date: 2021-12-29
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
