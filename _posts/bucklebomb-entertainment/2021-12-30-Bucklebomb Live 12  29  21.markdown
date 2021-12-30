@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Bucklebomb Live 12 - 29 - 21"
+date: 2021-12-30
+categories: bucklebomb-entertainment
+author: bucklebomb-entertainment
+spotify_track_id: 1bXUYEWzLLhsdtu9Zmhz5Q
+youtube_video_id: 
+apple_track_id: 1000546533015
+youtube_metadata: 
+---
