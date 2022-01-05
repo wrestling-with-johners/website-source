@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rise of the Footsoldier Chat w/ Liam Edwards, George Russo &  Ryan Barber - BUKA BONUS!"
+title: "Rise of the Footsoldier Chat w/ Liam Edwards, George Russo &  Ryan Barby - BUKA BONUS!"
 date: 2022-01-05
 categories: videos what-do-you-call-it
 author: what-do-you-call-it
