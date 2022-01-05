@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 82! Featuring the Renegade Twins Charlette and Robyn Renegade"
-date: 2022-01-01
+date: 2022-01-05
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
