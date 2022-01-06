@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chelsea Green, Rosemary & Tasha Steelz Hype Up Hard To Kill Womens Ultimate X Match"
+title: "Chelsea Green, Rosemary & Tasha Steelz Hype Up Womens Ultimate X Match"
 date: 2022-01-05
 categories: its-my-wrestling videos
 author: its-my-wrestling
