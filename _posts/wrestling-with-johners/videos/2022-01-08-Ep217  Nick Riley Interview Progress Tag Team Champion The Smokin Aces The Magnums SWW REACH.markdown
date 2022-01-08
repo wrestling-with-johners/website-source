@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NICK RILEY Interview - Wrestling With Johners LIVE!"
+title: "Ep217 - Nick Riley Interview (Progress Tag Team Champion, The Smokin' Aces, The Magnums, SWW, REACH)"
 date: 2022-01-08
 categories: videos wrestling-with-johners
 author: john
