@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPOLIER ALERT - Former WWE Ruthless Aggression era star makes Impact Wrestling debut at TV tapings."
+title: "SPOILER ALERT - Former WWE Ruthless Aggression era star makes Impact Wrestling debut at TV tapings."
 date: 2022-01-10
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
