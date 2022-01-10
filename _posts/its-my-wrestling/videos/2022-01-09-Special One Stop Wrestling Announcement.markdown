@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Special One Stop Wrestling Announcement!menu"
+title: "Special One Stop Wrestling Announcement!"
 date: 2022-01-09
 categories: its-my-wrestling videos
 author: its-my-wrestling
