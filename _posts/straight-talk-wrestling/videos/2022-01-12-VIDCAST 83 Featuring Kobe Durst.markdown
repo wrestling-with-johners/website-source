@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 83! Featuring Kobe Durst"
-date: 2022-01-09
+date: 2022-01-12
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
