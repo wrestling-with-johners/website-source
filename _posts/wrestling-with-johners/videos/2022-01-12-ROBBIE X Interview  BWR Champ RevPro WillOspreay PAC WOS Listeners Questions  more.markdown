@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROBBIE X Interview - Wrestling With Johners LIVE!"
+title: "ROBBIE X Interview - BWR Champ #RevPro #WillOspreay #PAC #WOS Listeners Questions + more"
 date: 2022-01-12
 categories: videos wrestling-with-johners
 author: john
