@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Madi Wrenkowski Talks Working In AEW, Thunder Rosa, Jazz, Womens Wrestling & More"
+title: "Madi Wrenkowski Talks Working In AEW, Training With Thunder Rosa, Jazz, Womens Wrestling & More"
 date: 2022-01-14
 categories: its-my-wrestling videos
 author: its-my-wrestling
