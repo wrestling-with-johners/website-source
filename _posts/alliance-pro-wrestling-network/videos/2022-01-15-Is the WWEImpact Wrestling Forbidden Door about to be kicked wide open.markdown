@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mickie James teases a match with Charlotte Flair for the Impact Knockouts Title"
+title: "Is the WWE/Impact Wrestling Forbidden Door about to be kicked wide open?"
 date: 2022-01-15
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
