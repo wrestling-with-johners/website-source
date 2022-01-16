@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Possible reason for Mustafa Ali requesting his WWE release"
+title: "Details on Mustafa Ali requesting his release from the WWE"
 date: 2022-01-16
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
