@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Details on Mustafa Ali requesting his release from the WWE"
+title: "Details On ‘Heated Argument’ With Vince McMahon Before Mustafa Ali Requested WWE Release"
 date: 2022-01-16
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
