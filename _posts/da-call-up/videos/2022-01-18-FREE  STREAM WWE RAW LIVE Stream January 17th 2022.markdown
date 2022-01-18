@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔴FREE  STREAM WWE RAW LIVE Stream January 17th 2022 Watch Along"
+title: "🔴FREE  STREAM WWE RAW LIVE Stream January 17th 2022"
 date: 2022-01-18
 categories: da-call-up videos
 author: da-call-up
