@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Disciple"
+date: 2020-06-24
+categories: my-britwres-journey
+author: my-britwres-journey
+spotify_track_id: 16OYSVrO7sggQmmbZ1OFJz
+youtube_video_id: 
+apple_track_id: 1000479425096
+youtube_metadata: 
+---

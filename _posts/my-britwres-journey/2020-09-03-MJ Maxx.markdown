@@ -1,0 +1,11 @@
+---
+layout: post
+title: "MJ Maxx"
+date: 2020-09-03
+categories: my-britwres-journey
+author: my-britwres-journey
+spotify_track_id: 6xt1T6mCnNzdryiw4UZLEg
+youtube_video_id: 
+apple_track_id: 1000489952337
+youtube_metadata: 
+---
