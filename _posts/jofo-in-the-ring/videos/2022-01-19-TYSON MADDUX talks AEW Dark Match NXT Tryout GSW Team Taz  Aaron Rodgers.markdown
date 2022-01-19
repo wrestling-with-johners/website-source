@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "TYSON MADDUX talks AEW Dark Match, NXT Tryout, GSW, Wrestling Goals for 2022"
-date: 2022-01-07
+title: "TYSON MADDUX talks AEW Dark Match, NXT Tryout, GSW, Team Taz & Aaron Rodgers"
+date: 2022-01-19
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
