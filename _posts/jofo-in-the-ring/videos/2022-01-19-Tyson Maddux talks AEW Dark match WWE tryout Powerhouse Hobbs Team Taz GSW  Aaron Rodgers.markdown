@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TYSON MADDUX talks AEW Dark Match, NXT Tryout, GSW, Team Taz & Aaron Rodgers"
+title: "Tyson Maddux talks AEW Dark match, WWE tryout, Powerhouse Hobbs, Team Taz, GSW & Aaron Rodgers"
 date: 2022-01-19
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
