@@ -1,0 +1,11 @@
+---
+layout: post
+title: "CJ Carter"
+date: 2022-01-21
+categories: my-britwres-journey
+author: my-britwres-journey
+spotify_track_id: 6HI1hZlpWeIcvf45oHBSq8
+youtube_video_id: 
+apple_track_id: 1000548581796
+youtube_metadata: 
+---
