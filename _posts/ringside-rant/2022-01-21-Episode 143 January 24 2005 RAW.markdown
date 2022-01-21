@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 143: January 24, 2005 RAW"
+date: 2022-01-21
+categories: ringside-rant
+author: ringside-rant
+spotify_track_id: 7jaVwKK2OLWrmSeT8JCLtH
+youtube_video_id: 
+apple_track_id: 1000548587725
+youtube_metadata: 
+---
