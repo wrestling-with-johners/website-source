@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3 February 2022"
+title: "Vince Russo Shoots On Vince McMahon!"
 date: 2022-02-03
 categories: its-my-wrestling videos
 author: its-my-wrestling
