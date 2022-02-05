@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No way!!!!!!! Goldberg challenges Roman Reigns for WWE Universal Title match at Elimination Chamber!"
+title: "Watch my reaction to Goldberg challenging Roman Reigns for the WWE Universal Title!"
 date: 2022-02-05
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
