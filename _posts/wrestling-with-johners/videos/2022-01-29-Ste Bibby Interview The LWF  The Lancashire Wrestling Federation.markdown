@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ste Bibby Interview (The LWF - The Lancashire Wrestling Federation)"
-date: 2022-01-28
+date: 2022-01-29
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 

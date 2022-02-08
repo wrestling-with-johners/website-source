@@ -60,11 +60,11 @@ class YoutubeScraper:
 
   def get_youtube_videos_with_token(self, next_page_token):
     results = self.youtube.playlistItems().list(
-      part = 'snippet',
+      part = 'snippet,contentDetails',
       playlistId = YOUTUBE_PLAYLIST_ID,
       maxResults = 50,
       pageToken = next_page_token,
-      fields="nextPageToken,items(snippet(publishedAt,title,resourceId(videoId),description))"
+      fields="nextPageToken,items(snippet(title,resourceId(videoId),description),contentDetails(videoPublishedAt))"
     ).execute()
 
     data = []
@@ -85,7 +85,7 @@ class YoutubeScraper:
       else:
         part_number = find_part_number(title)
       video_id = snippet['resourceId']['videoId']
-      date_time = snippet['publishedAt']
+      date_time = result['contentDetails']['videoPublishedAt']
       date = datetime_parser.isoparse(date_time).date()
       if date >= self.search_from_date:
         data.append(YoutubeData(episode_number, part_number, title, date, video_id))
