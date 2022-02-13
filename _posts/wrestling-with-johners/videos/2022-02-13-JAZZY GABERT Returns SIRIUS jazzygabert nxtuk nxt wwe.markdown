@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAZZY GABERT Returns to Wrestling With Johners LIVE!"
+title: "JAZZY GABERT Returns #SIRIUS #jazzygabert #nxtuk #nxt #wwe"
 date: 2022-02-13
 categories: videos wrestling-with-johners
 author: john
