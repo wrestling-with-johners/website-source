@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eddie Edwards speaks out on Josh Alexander expired Impact Wrestling Contract"
+title: "Eddie Edwards speaks out on Josh Alexander’s expired Impact Wrestling Contract"
 date: 2022-02-14
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
