@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pat McAfee reaction to the Super Bowl Coin Flip 🏈 #Shorts"
+title: "Pat McAfee reacts to the Super Bowl Coin Flip 🏈 #Shorts"
 date: 2022-02-15
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
