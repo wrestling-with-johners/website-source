@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cody Rhodes UNCLE Fred Ottman on Cody & Dustin Rhodes in AEW & there RUN in WWE"
+title: "Fred Ottman on Dustin and Cody Rhodes in AEW & there RUN in WWE"
 date: 2022-02-16
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
