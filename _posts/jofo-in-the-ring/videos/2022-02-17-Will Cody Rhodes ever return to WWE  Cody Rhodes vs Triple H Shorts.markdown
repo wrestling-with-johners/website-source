@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cody Rhodes vs Triple H Could we see it happen in WWE #Shorts"
+title: "Will Cody Rhodes ever return to WWE | Cody Rhodes vs Triple H #Shorts"
 date: 2022-02-17
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
