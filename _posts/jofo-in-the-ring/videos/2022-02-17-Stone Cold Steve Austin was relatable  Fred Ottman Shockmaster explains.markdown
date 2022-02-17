@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fred Ottman on why Stone Cold Steve Austin was relatable"
+title: "\"Stone Cold\" Steve Austin was relatable | Fred Ottman Shockmaster explains"
 date: 2022-02-17
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
