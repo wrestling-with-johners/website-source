@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethan Edwards Interview (Odyssey Pro Wrestling) - Wrestling With Johners LIVE!"
+title: "Ethan Edwards Interview (Odyssey Pro Wrestling)"
 date: 2022-02-18
 categories: videos wrestling-with-johners
 author: john

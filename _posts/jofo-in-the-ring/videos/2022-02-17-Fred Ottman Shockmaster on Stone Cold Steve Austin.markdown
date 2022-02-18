@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fred Ottman \"Shockmaster\" talks Stone Cold Steve Austin"
+title: "Fred Ottman \"Shockmaster\" on Stone Cold Steve Austin"
 date: 2022-02-17
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
