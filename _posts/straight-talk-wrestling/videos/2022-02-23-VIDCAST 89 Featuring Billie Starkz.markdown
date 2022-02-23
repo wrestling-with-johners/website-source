@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 89! Featuring Billie Starkz"
-date: 2022-02-21
+date: 2022-02-23
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
