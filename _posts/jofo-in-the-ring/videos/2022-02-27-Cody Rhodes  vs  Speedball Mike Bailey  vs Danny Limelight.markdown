@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CODY RHODES vs MIKE BAILEY vs DANNY LIMELIGHT"
+title: "Cody Rhodes  vs \" Speedball\" Mike Bailey  vs Danny Limelight"
 date: 2022-02-27
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
