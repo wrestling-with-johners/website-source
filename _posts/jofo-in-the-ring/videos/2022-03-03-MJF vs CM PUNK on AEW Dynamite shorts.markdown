@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MJF vs CM PUNK on #AEW Dynamite #shorts #aewdynamite"
+title: "MJF vs CM PUNK on AEW Dynamite #shorts"
 date: 2022-03-03
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
