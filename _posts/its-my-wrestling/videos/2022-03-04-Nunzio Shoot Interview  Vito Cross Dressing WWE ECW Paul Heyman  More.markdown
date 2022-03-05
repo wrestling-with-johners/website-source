@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reupload - Nunzio Shoot Interview - Vito Cross Dressing, WWE ECW, Paul Heyman & More"
+title: "Nunzio Shoot Interview - Vito Cross Dressing, WWE ECW, Paul Heyman & More"
 date: 2022-03-04
 categories: its-my-wrestling videos
 author: its-my-wrestling
