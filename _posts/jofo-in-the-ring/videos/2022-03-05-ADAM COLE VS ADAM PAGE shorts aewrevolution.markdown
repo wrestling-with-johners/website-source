@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADAM COLE PINS “HANGMAN” ADAM PAGE #shorts"
+title: "ADAM COLE VS ADAM PAGE #shorts #aewrevolution"
 date: 2022-03-05
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
