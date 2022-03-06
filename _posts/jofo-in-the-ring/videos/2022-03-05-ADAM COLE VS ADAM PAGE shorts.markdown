@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADAM COLE VS ADAM PAGE #shorts #aewrevolution"
+title: "ADAM COLE VS ADAM PAGE #shorts"
 date: 2022-03-05
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
