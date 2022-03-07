@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sami Zayn Promo on Kevin Owens Montreal WWE #shorts"
+title: "Sami Zayn Promo on Kevin Owens in Montreal WWE live event #shorts"
 date: 2022-03-07
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring

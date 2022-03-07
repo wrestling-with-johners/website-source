@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Roman Reigns Promo Montreal acknowledge me WWE Live"
+title: "Roman Reigns acknowledge me Montreal WWE live event"
 date: 2022-03-07
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
