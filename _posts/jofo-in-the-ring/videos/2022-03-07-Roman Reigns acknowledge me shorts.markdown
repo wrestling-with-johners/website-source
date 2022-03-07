@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Montreal acknowledges Roman Reigns #shorts"
+title: "Roman Reigns acknowledge me #shorts"
 date: 2022-03-07
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
