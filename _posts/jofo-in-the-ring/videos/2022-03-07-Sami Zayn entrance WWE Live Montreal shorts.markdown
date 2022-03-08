@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE Montreal crowd pops for Sami Zayn #shorts"
+title: "Sami Zayn entrance WWE Live Montreal #shorts"
 date: 2022-03-07
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
