@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sami Zayn Full Promo Montreal LIVE WWE Event"
+title: "Sami Zayn Montreal Promo LIVE WWE Event"
 date: 2022-03-07
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
