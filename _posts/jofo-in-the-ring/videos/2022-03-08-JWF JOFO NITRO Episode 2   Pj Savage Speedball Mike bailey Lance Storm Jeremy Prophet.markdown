@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE 2K JWF NITRO Pj Savage, Speedball Mike bailey, Lance Storm, Jeremy Prophet EP 2"
+title: "JWF “JOFO NITRO” Episode 2 |  Pj Savage, Speedball Mike bailey, Lance Storm, Jeremy Prophet"
 date: 2022-03-08
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
