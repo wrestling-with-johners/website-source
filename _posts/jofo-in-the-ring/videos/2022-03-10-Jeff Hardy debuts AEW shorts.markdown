@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jeff Hardy returns to help Matt Hardy on AEW Dynamite #shorts"
+title: "Jeff Hardy debuts AEW #shorts"
 date: 2022-03-10
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
