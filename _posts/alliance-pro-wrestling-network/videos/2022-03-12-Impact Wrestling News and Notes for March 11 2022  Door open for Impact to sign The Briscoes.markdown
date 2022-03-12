@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Impact Wrestling News and Notes for March 11 2022"
+title: "Impact Wrestling News and Notes for March 11 2022 - Door open for Impact to sign The Briscoes?"
 date: 2022-03-12
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
