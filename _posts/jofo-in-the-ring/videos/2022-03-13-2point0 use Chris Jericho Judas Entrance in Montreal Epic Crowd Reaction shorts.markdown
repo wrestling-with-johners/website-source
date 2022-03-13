@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2 Point 0 Judas Entrance in Montreal"
+title: "2point0 use Chris Jericho Judas Entrance in Montreal Epic Crowd Reaction #shorts"
 date: 2022-03-13
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
