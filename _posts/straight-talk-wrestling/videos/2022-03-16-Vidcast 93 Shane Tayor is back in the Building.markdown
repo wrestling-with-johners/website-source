@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 93! Shane Tayor is back in the Building"
-date: 2022-03-13
+date: 2022-03-16
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
