@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Impact Wrestling News and Notes for March 15 2022 - Deonna Purrazzo talks ROH & Tony Khan buying it"
+title: "Impact Wrestling News & Notes for March 15 2022 -Will Deonna Purrazzo be a part of Tony Khan’s ROH?"
 date: 2022-03-15
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
