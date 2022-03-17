@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Impact Wrestling News and Notes for March 16 2022 - Huge title match signed for Philly!"
+title: "Impact Wrestling News and Notes for March 16 2022 - Another huge title match signed for Philly!"
 date: 2022-03-17
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
