@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Black Quebecois Entrance #shorts"
+title: "Blaq Quebecois Entrance #shorts"
 date: 2022-03-19
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
