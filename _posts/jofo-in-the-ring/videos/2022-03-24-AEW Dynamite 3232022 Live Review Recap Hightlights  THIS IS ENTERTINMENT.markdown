@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEW Dynamite 3/23/2022 Live Review, Recap, Hightlights Today. THIS IS ENTERTINMENT!"
+title: "AEW Dynamite 3/23/2022 Live Review, Recap, Hightlights  THIS IS ENTERTINMENT!"
 date: 2022-03-24
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
