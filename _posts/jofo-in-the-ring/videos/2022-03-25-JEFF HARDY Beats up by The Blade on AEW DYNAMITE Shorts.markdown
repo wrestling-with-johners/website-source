@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JEFF HARDY Beat up by The Blade! AEW DYNAMITE #Shorts"
+title: "JEFF HARDY Beats up by The Blade on AEW DYNAMITE #Shorts"
 date: 2022-03-25
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
