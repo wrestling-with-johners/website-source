@@ -36,7 +36,7 @@ I got a gut feeling that Leyton Buzzard is converting from a heel to either a tw
 
 Angel Hayze has become one of my favorites as well, proving that she has what it takes to climb to the championship, even if it’s in the form of what the Beatles would call “The Long and Winding Road.” Her first title defense against Anastasia was pretty good; both she and her opponent did very well in the main event.
 
-![pro darin](/assets/posts/2022-03-23/Ivy Nyle.png){:class="restrict-width"}
+![pro darin](/assets/posts/2022-03-24/Angel Hayes.PNG){:class="restrict-width"}
 
 Onto the results of the matches that took place in Glasgow, scoring and all…
 
@@ -57,7 +57,7 @@ Post-match, Molly Spartan attacked Angel back into the ring, and Kasey challenge
 
 ## wXw We Love Wrestling 26
 
-![wxw we love wrestling 26](/assets/posts/2022-03-23/wxw we love wrestling 26.png){:class="restrict-width"}
+![wxw we love wrestling 26](/assets/posts/2022-03-24/wxw we love wrestling 26.PNG){:class="restrict-width"}
 
 In the first newsletter, I noted that it was a “look back” at this wXw event; the reason why I said that is because it took place on December 17, 2021, one month before Peacock gave us that episode.
 
@@ -102,7 +102,7 @@ Axel “The Axeman” Tischer still proves to be a fighting champion, even after
 
 The ending of the match however looked controversial; unless, you’re ahead of the game when it comes to wXw, it was hard to tell if Tischer botched a punch near the end of the match before defeating Simmons with the second Liger Bomb attempt or if he really did thumb him in the eye on purpose.
 
-![walter cara noir](/assets/posts/2022-03-23/cara noir walter.png){:class="restrict-width"}
+![walter cara noir](/assets/posts/2022-03-24/cara noir walter.PNG){:class="restrict-width"}
 
 The five-star matchup for the week (or December 2021 I guess you can say) had to be the dream match between Walter and Cara Noir. It was indeed a dream come true for fans of European pro wrestling, as well as fans in Europe, to see those two competitors clash. Walter still proves to be a dominant competitor in any promotion, including those that are sanctioned by the WWE; he has been one of my favorite European competitors before I even checked out wXw more often, and that includes his reign as NXT United Kingdom champion from April of 2019 in Brooklyn, New York all the way to August of last year in Orlando, Florida. Cara Noir is also one of my favorite European pro wrestlers since his one-on-one matches—from Progress to wXw and other promotions—have never disappointed me one bit; his other matches—tag team, triple threat, etc.—may be hit or miss to me, but he has proven to be one hell of a competitor—especially as the current and long-reigning Progress World champion—and not a one-trick pony, “Swan Song”, choreography and all.
 
@@ -150,7 +150,7 @@ I’m looking forward to seeing the 2022 Dusty Rhodes Tag Team Classic next week
 
 I’m curious to see what Carmelo Hayes has in store after winning in the championship unification match last week, besides continuing to call himself “The A champion” ever since retaining the NXT North American championship which of course absorbed the NXT Cruiserweight title; he, along with Trick Williams, have impressed me as of late.
 
-![AJ Styles Grasson Waller](/assets/posts/2022-03-23/AJ Stles Grasson Waller.png){:class="restrict-width"}
+![AJ Styles Grasson Waller](/assets/posts/2022-03-24/AJ Stles Grasson Waller.PNG){:class="restrict-width"}
 
 Despite seeing quick matches that lasted for a few minutes—including less two minutes—slowing things down (like they have ever since the 2.0 era began), I was a big fan of—you guessed it!—the main event. Great to see a competitor without NXT experience, such as AJ Styles, compete against an up-and-comer like Grayson Waller. (P.S.: To correct Vic Joseph, I believe it was the second time that Styles ever competed on NXT; I seem to remember him together with Luke Gallows and Karl Anderson in six-man tag team action back in late 2019.) Plus, it had a surprise ending after the matchup!
 
@@ -186,7 +186,7 @@ I expected 2/3 of Die Familie (Teoman & Rohan Raja) to advance to the next round
 
 Even though the match lasted for a little over three minutes, Amale’s return was worth the wait.
 
-![Walter NXTUK](/assets/posts/2022-03-23/walter nxtuk.png){:class="restrict-width"}
+![Walter NXTUK](/assets/posts/2022-03-24/walter nxtuk.PNG){:class="restrict-width"}
 
 Walter’s “Last Stand” match was a great way of ending his NXT UK tenure on a high note, even with Nathan Frazer giving him a run for his money from start to finish, before moving to American soil and competing on the multicolored brand that’s also known as NXT 2.0.
 
@@ -209,7 +209,7 @@ Meanwhile, back in Orlando for Evolve…I mean, 205 Live…
 
 Only two matches took place, followed by Bron Breakker’s promo on NXT which wrapped up the episode that lasted for 23 minutes. I only paid attention to the matches (regardless of how short they were), and not the promo, so…
 
-![Ivy Nyle](/assets/posts/2022-03-23/Ivy Nyle.png){:class="restrict-width"}
+![Ivy Nyle](/assets/posts/2022-03-24/Ivy Nyle.PNG){:class="restrict-width"}
 
 Out of the two matches, Valentina Feroz vs. Ivy Nile was my favorite; it was fun while it lasted, especially when Ivy did pushups while holding her opponent in headscissors.
 Anyway, here are the results of the two bouts…
