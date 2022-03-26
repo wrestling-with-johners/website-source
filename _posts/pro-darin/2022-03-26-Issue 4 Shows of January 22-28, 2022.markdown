@@ -109,7 +109,7 @@ Out of both no DQ/FCA matches that occurred this week, Dragunov vs. Devlin was s
 
 Speaking of no DQ/FCA, I’m definitely excited to see the rematch between Meiko Satomura and Blair Davenport for the NXT UK Women’s championship; we learned on NXT UK this week, that their rematch will be a Japanese Street Fight.
 
-![Gallus](/assets/posts/2022-03-24/NXTUK4.PNG){:class="restrict-width"}
+![Gallus](/assets/posts/2022-03-24/NXTUK 4.PNG){:class="restrict-width"}
 
 I enjoyed the opener between Die Familie and Gallus, regardless of how much the trio of Teoman, Rohan Raja and Charlie Dempsey had up in their sleeves while fighting the trio of Mark and Joe Coffey and Wolfgang. It could have gone either way, a Gallus win or a Die Familie win. Plus, it was noted by the commentators—Andy Shepherd and Nigel McGuinness—that it was two down and one to go for Dempsey making Gallus members lose to him; Dempsey defeated Joe Coffey in the past and then made Wolfgang submit, and he has yet to clash with Mark Coffey in another matchup (one-on-one, tag team, etc.).
 
