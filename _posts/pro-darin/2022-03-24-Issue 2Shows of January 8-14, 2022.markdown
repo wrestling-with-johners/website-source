@@ -88,7 +88,7 @@ all managers were banned from ringside for this match. Post-match, Dreissker ran
 ## Main event: Levaniel & Jurn Simmons defeated Tristan Archer & Bobby Gunns after Simmons hit Gunns with a piledriver; 
 Harras was scheduled to be Gunns’ tag team partner before walking off after winning the Shotgun title and caring less about both the main event and fans. **My score: 3.75/5**
 
-## wXw Anniversary XXI##
+## wXw Anniversary XXI
 
 One day later, wXw went to the Turbinenhalle in Oberhausen, Germany for the 21st anniversary of wXw.
 
