@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Will Smith Chris Rock at Oscars with Jim Ross Commentating plus The Rock speaks"
+title: "Jim Ross Commentating at Oscars Will Smith Chris Rock plus The Rock speaks"
 date: 2022-03-28
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
