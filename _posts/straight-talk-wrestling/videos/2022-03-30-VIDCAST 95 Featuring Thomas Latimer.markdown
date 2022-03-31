@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 95! Featuring Thomas Latimer"
-date: 2022-03-25
+date: 2022-03-30
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
