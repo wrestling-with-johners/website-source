@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LEVEL X / INTERNATIONAL SUPERSTARS Interview - Wrestling With Johners LIVE!"
+title: "LEVEL X / INTERNATIONAL SUPERSTARS Exclusive Interview"
 date: 2022-03-30
 categories: videos wrestling-with-johners
 author: john
