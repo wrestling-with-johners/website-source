@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 96! Featuring Channing Decker"
-date: 2022-03-27
+date: 2022-04-01
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
