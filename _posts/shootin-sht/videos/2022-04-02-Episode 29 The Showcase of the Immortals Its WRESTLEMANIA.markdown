@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shooting Shit Episode 29"
+title: "Episode 29: The Showcase of the Immortals! It’s WRESTLEMANIA!!!!!"
 date: 2022-04-02
 categories: shootin-sht videos
 author: shootin-sht
