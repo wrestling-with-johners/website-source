@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Chokeslam Wrestling Report: ROH Supercard of Honor Review"
+title: "ROH Supercard of Honor Review, what happened who showed up and my opinion where all this is going?"
 date: 2022-04-02
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
