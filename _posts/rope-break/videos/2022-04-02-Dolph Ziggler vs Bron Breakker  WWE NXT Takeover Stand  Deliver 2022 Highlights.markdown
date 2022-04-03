@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dolph Ziggler vs Bron Breakker | WWE NXT Takeover Stand & Deliver Highlights"
+title: "Dolph Ziggler vs Bron Breakker | WWE NXT Takeover Stand & Deliver 2022 Highlights"
 date: 2022-04-02
 categories: rope-break videos
 author: rope-break
