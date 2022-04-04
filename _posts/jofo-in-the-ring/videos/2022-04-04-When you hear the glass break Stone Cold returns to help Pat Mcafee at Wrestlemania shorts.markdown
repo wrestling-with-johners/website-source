@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When you hear the glass break Stone Cold returns to Wrestlemania #shorts"
+title: "When you hear the glass break Stone Cold returns to help Pat Mcafee at Wrestlemania #shorts"
 date: 2022-04-04
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
