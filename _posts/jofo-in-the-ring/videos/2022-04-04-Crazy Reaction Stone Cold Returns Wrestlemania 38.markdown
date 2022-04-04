@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Crazy Reaction Stone Cold Returns Wrestlemania 38"
+date: 2022-04-04
+categories: jofo-in-the-ring videos
+author: jofo-in-the-ring
+spotify_track_id: 
+youtube_video_id: hTXKrbFHo9U
+apple_track_id: 
+youtube_metadata: 
+---
