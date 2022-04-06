@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 97! Featuring Amy Crimson"
-date: 2022-04-03
+date: 2022-04-06
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
