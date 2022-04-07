@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jeff Hardy Swanton bomb off the top of a ladder on AEW Dynamite live"
+title: "Jeff Hardy Swanton Bombs off a ladder on AEW Dynamite"
 date: 2022-04-07
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
