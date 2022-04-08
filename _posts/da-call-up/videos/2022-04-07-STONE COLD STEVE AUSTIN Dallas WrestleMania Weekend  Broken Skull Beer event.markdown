@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STONE COLD STEVE AUSTIN ( Broken Skull Beer event ) Dallas Wrestlemania Weekend"
+title: "STONE COLD STEVE AUSTIN Dallas WrestleMania Weekend ( Broken Skull Beer event )"
 date: 2022-04-07
 categories: da-call-up videos
 author: da-call-up
