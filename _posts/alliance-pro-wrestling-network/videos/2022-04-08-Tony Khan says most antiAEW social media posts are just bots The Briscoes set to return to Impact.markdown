@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tony Khan claims most anti-AEW social media posts are just bots; The Briscoes on another Impact show"
+title: "Tony Khan says most anti-AEW social media posts are just bots; The Briscoes set to return to Impact"
 date: 2022-04-08
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
