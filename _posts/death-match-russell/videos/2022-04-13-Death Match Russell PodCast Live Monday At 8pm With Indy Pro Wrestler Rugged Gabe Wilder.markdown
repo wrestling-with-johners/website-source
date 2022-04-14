@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Death Match Russell PodCast Live Monday Night April 18TH With Indy Pro Wrestler IshmaelVaughn"
+title: "Death Match Russell PodCast Live Monday At 8pm With Indy Pro Wrestler Rugged Gabe Wilder"
 date: 2022-04-13
 categories: death-match-russell videos
 author: death-match-russell
