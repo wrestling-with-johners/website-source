@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Week in History: April 1-7"
+title: "This Week in History: April 8-14"
 date: 2022-04-13
 categories: scumbags-of-wrestling videos
 author: scumbags-of-wrestling
