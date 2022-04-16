@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strowman made a fool on Twitter, Satnam Sing horrible debut on AEW  plus Wrestling news round up!,,"
+title: "Strowman made a fool on Twitter, Satnam Singh horrible debut on AEW  plus Wrestling news round up!,,"
 date: 2022-04-16
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
