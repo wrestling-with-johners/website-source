@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jay White (IMMORTAL Wrestling) - Wrestling With Johners LIVE!"
+title: "Jay White Interview (IMMORTAL Wrestling)"
 date: 2022-04-20
 categories: videos wrestling-with-johners
 author: john
