@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IESTYN REES Interview"
+title: "'The Alpha Male' IESTYN REES Interview (PCW, WPW, WOS, ICW, IMMORTAL, Body Building, On-Line Coach)"
 date: 2022-04-23
 categories: videos wrestling-with-johners
 author: john
