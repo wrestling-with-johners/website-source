@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "She-Wolves Exclusive Interview (Sirens Fury) - Wrestling With Johners"
+title: "She-Wolves Exclusive Interview (TNT Extreme Wrestling - Sirens Fury)"
 date: 2022-04-24
 categories: videos wrestling-with-johners
 author: john
