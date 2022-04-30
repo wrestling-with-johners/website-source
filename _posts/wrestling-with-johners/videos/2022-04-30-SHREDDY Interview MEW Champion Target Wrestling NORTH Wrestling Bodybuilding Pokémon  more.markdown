@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SHREDDY Interview - Wrestling With Johners LIVE!"
+title: "SHREDDY Interview (MEW Champion, Target Wrestling, NORTH Wrestling, Body-building, Pokémon & more!)"
 date: 2022-04-30
 categories: videos wrestling-with-johners
 author: john
