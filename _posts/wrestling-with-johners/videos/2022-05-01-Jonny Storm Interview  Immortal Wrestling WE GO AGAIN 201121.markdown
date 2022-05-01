@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Camus Socrates Interview - Immortal Wrestling WE GO AGAIN - 20/11/22"
+title: "Jonny Storm Interview - Immortal Wrestling 'WE GO AGAIN!' 20/11/21"
 date: 2022-05-01
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
-youtube_video_id: 3jPpVV3dOv0
+youtube_video_id: 6VwC7lD_urM
 apple_track_id: 
 youtube_metadata: 
 ---
