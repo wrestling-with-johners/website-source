@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NJPW Best of the Super Jr 29 cards have released and Ace Austin's first opponent has been announced"
+title: "Impact’s Ace Austin’s first BOSJ 29 opponent has been announced as NJPW BOSJ 29 cards released."
 date: 2022-05-03
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
