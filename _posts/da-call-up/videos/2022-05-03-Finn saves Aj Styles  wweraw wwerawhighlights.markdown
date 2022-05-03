@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are we getting the Bullet Club in WWE ? #wweraw #wwerawhighlights"
+title: "Finn saves Aj Styles  #wweraw #wwerawhighlights"
 date: 2022-05-03
 categories: da-call-up videos
 author: da-call-up
