@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ricky Knight Jr. Interview (King of England , Rev Pro, WAW, Will Ospreay, Progress Wrestling + more)"
+title: "Ricky Knight Jr. Interview (IMMORTAL King of England, Rev Pro, WAW, Will Ospreay, Progress & MORE)"
 date: 2022-05-06
 categories: videos wrestling-with-johners
 author: john
