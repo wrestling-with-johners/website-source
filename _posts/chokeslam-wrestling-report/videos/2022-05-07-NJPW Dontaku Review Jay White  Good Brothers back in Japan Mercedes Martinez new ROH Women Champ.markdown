@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NJPW Dontaku Review: Bullet Club's White & Good Brothers back in Japan, Juice Robinson newest member"
+title: "NJPW Dontaku Review: Jay White & Good Brothers back in Japan, Mercedes Martinez new ROH Women Champ!"
 date: 2022-05-07
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
