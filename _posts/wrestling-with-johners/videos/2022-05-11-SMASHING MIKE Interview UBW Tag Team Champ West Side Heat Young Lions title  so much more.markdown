@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMASHING MIKE Interview - Wrestling With Johners LIVE!"
+title: "SMASHING MIKE Interview (UBW Tag Team Champ, West Side Heat, Young Lions title & so much more!)"
 date: 2022-05-11
 categories: videos wrestling-with-johners
 author: john
