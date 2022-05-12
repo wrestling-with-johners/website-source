@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vince the Voice Intervierw"
+title: "Vince the Voice Interview"
 date: 2022-05-12
 categories: bob-culture videos
 author: bob-culture
