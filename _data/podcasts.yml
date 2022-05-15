@@ -367,3 +367,10 @@
   youtube_playlist_id: UU6qyBp_AFQsaXAIgIfhEzNw
   spotify_show_id: 0L3VJhyCb06ZXTkyUm88DR
   apple_podcast_id: 1471778112
+
+- title: The Everett Lee Show
+  background: the-everett-lee-show-background.jpg
+  category: the-everett-lee-show
+  author: the-everett-lee-show
+  apple_url: the-everett-lee-show
+  apple_podcast_id: 1199668898
