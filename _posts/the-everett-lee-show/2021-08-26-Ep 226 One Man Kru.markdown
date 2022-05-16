@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 226, One Man Kru"
+date: 2021-08-26
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 0ABS86TbY9soYRRLsIVnRL
+youtube_video_id: 
+apple_track_id: 1000533157359
+youtube_metadata: 
+---

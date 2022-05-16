@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 248, Jacob Rose"
+date: 2022-04-26
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 5pv4yaJBn56yZuTVUqV7oq
+youtube_video_id: 
+apple_track_id: 1000558792556
+youtube_metadata: 
+---

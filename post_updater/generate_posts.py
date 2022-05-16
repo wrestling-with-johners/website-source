@@ -295,7 +295,7 @@ class Matcher:
   def __init__(self, spotify_data, apple_data):
     self.spotify_data = spotify_data
     self.apple_data = apple_data
-    self.title_regex = re.compile(r'(ep ?\d+(( – )|(–))?)|([\W_]+)')
+    self.title_regex = re.compile(r' ')
 
   def title_to_key(self, title):
     return self.title_regex.sub('', title.lower())

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 218, One Man Kru"
+date: 2021-02-23
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 48vstvap7yT3e2HILvqJx3
+youtube_video_id: 
+apple_track_id: 1000510441494
+youtube_metadata: 
+---

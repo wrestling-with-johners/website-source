@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep196, One Man Kru"
+date: 2020-05-21
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 64VElEpYUXYjEkB6wiNZvE
+youtube_video_id: 
+apple_track_id: 1000475330099
+youtube_metadata: 
+---
