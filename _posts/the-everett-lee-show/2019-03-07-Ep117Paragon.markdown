@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep117,Paragon"
+date: 2019-03-07
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 3dsXFLl2qp1FECGyl3r52C
+youtube_video_id: 
+apple_track_id: 1000431287426
+youtube_metadata: 
+---

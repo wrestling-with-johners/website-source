@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep139,Jacob Rose"
+date: 2019-08-03
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 33Z0Kc36SFco7NzPqvRqYa
+youtube_video_id: 
+apple_track_id: 1000446054541
+youtube_metadata: 
+---

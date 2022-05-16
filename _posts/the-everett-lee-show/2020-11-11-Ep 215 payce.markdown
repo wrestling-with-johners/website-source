@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 215, $payce"
+date: 2020-11-11
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 76bq5biT4b89f1yZTk7B9q
+youtube_video_id: 
+apple_track_id: 1000498162642
+youtube_metadata: 
+---

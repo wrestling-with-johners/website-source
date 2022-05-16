@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep180, Ty Asbury"
+date: 2020-04-15
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 0jzjNIefHGwuu3am2FlOu9
+youtube_video_id: 
+apple_track_id: 1000471580911
+youtube_metadata: 
+---
