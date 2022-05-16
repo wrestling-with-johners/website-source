@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep115,Chris Rose"
+date: 2019-02-24
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 1o0fINmYGPZWqmFTIjiXI5
+youtube_video_id: 
+apple_track_id: 1000430502569
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep103, J J Maguire"
+date: 2018-11-17
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 2Wnxwu3XP9wv4SsKMJzBXP
+youtube_video_id: 
+apple_track_id: 1000424032127
+youtube_metadata: 
+---

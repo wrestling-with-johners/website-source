@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep107,Big Facts"
+date: 2018-12-17
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 71u7bjOxyIm1FcGcYR5ZS3
+youtube_video_id: 
+apple_track_id: 1000425922074
+youtube_metadata: 
+---

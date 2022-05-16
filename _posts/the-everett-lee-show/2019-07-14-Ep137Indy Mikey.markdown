@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep137,Indy Mikey"
+date: 2019-07-14
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 220Lstcn3A9ORTz8uQZCHn
+youtube_video_id: 
+apple_track_id: 1000444429706
+youtube_metadata: 
+---

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "SMASHING MIKE Interview - Wrestling With Johners LIVE!"
-date: 2022-05-06
+title: "MIA CORTEZ Interview - Wrestling With Johners LIVE!"
+date: 2022-05-12
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
-youtube_video_id: BwFWrqw7O8M
+youtube_video_id: Ed15Y3GuPzY
 apple_track_id: 
 youtube_metadata: 
 ---

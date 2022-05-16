@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep112,Krutch"
+date: 2019-02-10
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 6PixqL30g84YvtPG7rtIRO
+youtube_video_id: 
+apple_track_id: 1000429561560
+youtube_metadata: 
+---

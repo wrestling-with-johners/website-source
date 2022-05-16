@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 185, Jay West"
+date: 2020-04-28
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 6XBLEkF2NycW31XE3UNeej
+youtube_video_id: 
+apple_track_id: 1000473014138
+youtube_metadata: 
+---

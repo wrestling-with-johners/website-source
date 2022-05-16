@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 214, Mikey Wood"
+date: 2020-11-05
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 5qIxWxIR386jLrQ4TS4eS5
+youtube_video_id: 
+apple_track_id: 1000497259520
+youtube_metadata: 
+---
