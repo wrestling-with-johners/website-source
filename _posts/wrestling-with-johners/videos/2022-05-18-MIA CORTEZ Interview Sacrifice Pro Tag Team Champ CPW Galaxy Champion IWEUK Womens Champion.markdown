@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIA CORTEZ Interview - Wrestling With Johners LIVE!"
+title: "MIA CORTEZ Interview (Sacrifice Pro Tag Team Champ, CPW Galaxy Champion, IWE:UK Women's Champion)"
 date: 2022-05-18
 categories: videos wrestling-with-johners
 author: john
