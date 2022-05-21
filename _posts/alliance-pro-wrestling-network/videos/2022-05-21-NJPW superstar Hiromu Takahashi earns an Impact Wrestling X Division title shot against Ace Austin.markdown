@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NJPW superstar Hiromu Takahashi earns an X Division title shot plus updated NJPW BOSJ's 29 standings"
+title: "NJPW superstar Hiromu Takahashi earns an Impact Wrestling X Division title shot against Ace Austin"
 date: 2022-05-21
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
