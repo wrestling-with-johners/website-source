@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "May 20, 2022"
+title: "Brock Lesnar talks getting low blowed #shorts"
 date: 2022-05-20
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring

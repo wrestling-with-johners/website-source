@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NJPW's Hiromu Takahashi coming to Impact Wrestling for a X Division title shot against Ace Austin?"
+title: "Impact Wrestling X Division Champion Ace Austin to defend against NJPW superstar Hiromu Takahashi?"
 date: 2022-05-20
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
