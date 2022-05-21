@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NJPW superstar Hiromu Takahashi wants an X Division title shot against Ace Austin"
+title: "NJPW's Hiromu Takahashi coming to Impact Wrestling for a X Division title shot against Ace Austin?"
 date: 2022-05-20
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
