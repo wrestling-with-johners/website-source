@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Join us every Monday night at 7:30pm est for our Monday Night Raw Watch Party #wweraw #wwe"
+title: "Monday night at 7:30pm est for our Monday Night Raw Watch Party"
 date: 2022-05-22
 categories: da-call-up videos
 author: da-call-up
