@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Power w:Vito Thomaselli"
+title: "The Power Hour w/Vito Thomaselli"
 date: 2022-05-25
 categories: power-hour videos
 author: power-hour
