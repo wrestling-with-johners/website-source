@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Death Match Russell PodCast Live With Pro Wrestler & Painter Dave Cole Aka Davey Painting"
-date: 2022-05-22
+date: 2022-05-25
 categories: death-match-russell videos
 author: death-match-russell
 spotify_track_id: 
