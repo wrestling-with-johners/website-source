@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wardlow hits MJF with a chair #shorts"
+title: "Shawn Speas hits MJF with a chair #shorts"
 date: 2022-05-26
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
