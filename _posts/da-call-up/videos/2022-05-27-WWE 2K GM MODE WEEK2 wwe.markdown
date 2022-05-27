@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE 2K GM MODE #wwe"
+title: "WWE 2K GM MODE WEEK2 #wwe"
 date: 2022-05-27
 categories: da-call-up videos
 author: da-call-up
