@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Progress Wrestling 'SSS16' Hype Show (Part 2) - LIVE Thurs 26 May 7pm"
-date: 2022-05-24
+title: "Progress Wrestling 'SSS16' Official Hype Show (Part 2)"
+date: 2022-05-27
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
