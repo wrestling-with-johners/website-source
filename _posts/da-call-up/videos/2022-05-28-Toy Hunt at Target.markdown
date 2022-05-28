@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cool stuff I seen at #target this week #wwe #buzzlightyear"
+title: "Toy Hunt at Target"
 date: 2022-05-28
 categories: da-call-up videos
 author: da-call-up
