@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The latest update on the AEW/MJF situation"
+title: "The latest update on the AEW/MJF situation - Will MJF be at Double or Nothing?"
 date: 2022-05-29
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
