@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Impact Wrestling Digital Media Championship changes hands"
+title: "Rich Swann becomes the new Impact Wrestling Digital Media Championship"
 date: 2022-05-29
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
