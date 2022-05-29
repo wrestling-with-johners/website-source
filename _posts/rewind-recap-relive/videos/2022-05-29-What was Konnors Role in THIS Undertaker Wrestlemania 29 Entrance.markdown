@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ascension's Konnor talks Undertaker Wrestlemania 29 Entrance"
+title: "What was Konnor's Role in THIS Undertaker Wrestlemania 29 Entrance?"
 date: 2022-05-29
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
