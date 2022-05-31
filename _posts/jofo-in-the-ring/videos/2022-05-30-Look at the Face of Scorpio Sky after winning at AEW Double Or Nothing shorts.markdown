@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Look at the Face of Scorpio after winning at AEW Double Or Nothing #shorts"
+title: "Look at the Face of Scorpio Sky after winning at AEW Double Or Nothing #shorts"
 date: 2022-05-30
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
