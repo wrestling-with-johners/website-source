@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "TOMMY KYLE Interview - Wrestling With Johners LIVE!"
-date: 2022-05-29
+title: "TOMMY KYLE Interview (Sacrifice Pro, UBW, Jurassic Pro, Wrestle Carnival, Star Wars, SSS16 and more)"
+date: 2022-06-04
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
