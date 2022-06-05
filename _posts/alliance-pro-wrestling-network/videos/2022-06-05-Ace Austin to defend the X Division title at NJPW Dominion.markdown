@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ace Austin offers to defend the X Division title at the huge NJPW Dominion event"
+title: "Ace Austin to defend the X Division title at NJPW Dominion??"
 date: 2022-06-05
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
