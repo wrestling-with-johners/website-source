@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How The Godfather met #therock 🤨 #wwe"
+title: "How The Godfather met the rock 🤨 #wwe"
 date: 2022-06-05
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
