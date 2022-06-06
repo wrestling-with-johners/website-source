@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#ProgressWrestling #SSS16 Another holy shit moment at Day 2 of Super Strong Style"
+title: "#ProgressWrestling #SSS16 Another Incredible moment at Super Strong Style Day 2"
 date: 2022-06-05
 categories: videos wrestling-with-johners
 author: john
