@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mandy Rose !!!!!  #nxt #inyourhouse #mandyrose"
+title: "Mandy Rose !!!!!  #shorts"
 date: 2022-06-05
 categories: da-call-up videos
 author: da-call-up
