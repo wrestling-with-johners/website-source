@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jonah/Impact Wrestling latest update"
+title: "The latest Jonah/Impact Wrestling update"
 date: 2022-06-06
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
