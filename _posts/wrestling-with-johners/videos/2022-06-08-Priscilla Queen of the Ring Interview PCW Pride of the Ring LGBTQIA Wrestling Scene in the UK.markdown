@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Priscilla 'Queen of the Ring' LIVE Interview - Wrestling With Johners LIVE!"
+title: "Priscilla 'Queen of the Ring' Interview (PCW Pride of the Ring, LGBTQIA+ Wrestling Scene in the UK)"
 date: 2022-06-08
 categories: videos wrestling-with-johners
 author: john
