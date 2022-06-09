@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NEW FRONTIER IMMORTALITY PREDICTIONS"
-date: 2022-06-08
+date: 2022-06-09
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
