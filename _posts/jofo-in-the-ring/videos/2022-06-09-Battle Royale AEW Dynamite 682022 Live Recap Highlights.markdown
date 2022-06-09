@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Battle Royale! AEW Dynamite 6/8/2022 Live, Recap, Highlights"
-date: 2022-06-08
+date: 2022-06-09
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
