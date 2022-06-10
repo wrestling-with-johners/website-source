@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind! June 9th Watch Along"
-date: 2022-06-09
+date: 2022-06-10
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
