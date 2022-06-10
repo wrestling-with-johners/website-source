@@ -1,0 +1,11 @@
+---
+layout: post
+title: "June 13, 2002 Smackdown"
+date: 2022-06-10
+categories: ringside-rant
+author: ringside-rant
+spotify_track_id: 7Jwh8s0jIDUTAjkEDYTA3o
+youtube_video_id: 
+apple_track_id: 1000565969206
+youtube_metadata: 
+---
