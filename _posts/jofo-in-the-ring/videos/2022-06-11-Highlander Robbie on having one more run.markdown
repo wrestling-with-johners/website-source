@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robbie McAllister on having one more run as Highlander Robbie"
+title: "Highlander Robbie on having one more run"
 date: 2022-06-11
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
