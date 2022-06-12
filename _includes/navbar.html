@@ -20,7 +20,7 @@
         <li class="dropdown nav-item">
           <a href="{{ 'podcasts' | relative_url }}" class="nav-link dropdown-button">Podcasts <i class="fa fa-caret-down"></i></a>
           <ul class="dropdown-content navbar-nav ml-auto">
-            {% assign podcasts = site.data['podcasts'] %}
+            {% assign podcasts = site.data['podcasts'] | where_exp: "podcast", "podcast.inactive != true" %}
             {% for podcast_data in podcasts %}
             <li class="nav-item">
               <a class="nav-link" href="{{ "/" | append: podcast_data.category | relative_url }}">{{ podcast_data.title }}</a>
@@ -28,8 +28,16 @@
             {% endfor %}
           </ul>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ "/calendar" | relative_url }}">Calendar</a>
+        <li class="dropdown nav-item">
+          <a href="{{ 'podcasts' | relative_url }}" class="nav-link dropdown-button">Archive <i class="fa fa-caret-down"></i></a>
+          <ul class="dropdown-content navbar-nav ml-auto">
+            {% assign podcasts = site.data['podcasts'] | where_exp: "podcast", "podcast.inactive == true" %}
+            {% for podcast_data in podcasts %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ "/" | append: podcast_data.category | relative_url }}">{{ podcast_data.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{ "/interviews" | relative_url }}">Interviews</a>
