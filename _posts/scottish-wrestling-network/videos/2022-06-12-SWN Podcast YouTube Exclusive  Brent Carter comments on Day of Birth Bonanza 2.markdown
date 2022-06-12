@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWN Podcast Exclusive | Brent Carter comments on Day of Birth Bonanza 2"
+title: "SWN Podcast YouTube Exclusive | Brent Carter comments on Day of Birth Bonanza 2"
 date: 2022-06-12
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
