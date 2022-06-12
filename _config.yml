@@ -73,7 +73,7 @@ collections:
   output: true
   
 # Variables
-default-background: /img/default-background.jpg
+default-background: /img/default-background.png
 
 defaults:
   -
