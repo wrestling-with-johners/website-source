@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Godfather Stood out, Becasye he was different"
+title: "The Godfather Stood out, Because he was different"
 date: 2022-06-12
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
