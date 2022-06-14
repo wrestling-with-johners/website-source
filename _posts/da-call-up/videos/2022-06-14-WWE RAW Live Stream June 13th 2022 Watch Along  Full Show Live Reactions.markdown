@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WWE RAW Live Stream June 13th 2022 Watch Along - Full Show Live Reactions"
-date: 2022-06-13
+date: 2022-06-14
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
