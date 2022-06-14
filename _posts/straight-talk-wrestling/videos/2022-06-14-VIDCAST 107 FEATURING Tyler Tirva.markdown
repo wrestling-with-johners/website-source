@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 107! FEATURING Tyler Tirva"
-date: 2022-06-11
+date: 2022-06-14
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
