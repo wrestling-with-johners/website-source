@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "STRAIGHT TALK EXCLUSIVE Featuring Josh Alexander!"
-date: 2022-06-13
+date: 2022-06-15
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
