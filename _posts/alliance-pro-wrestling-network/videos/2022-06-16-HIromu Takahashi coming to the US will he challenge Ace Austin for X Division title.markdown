@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NJPW superstar Hiromu Takahashi is heading to the USA, is a showdown w/ Impact's Ace Austin coming?"
+title: "HIromu Takahashi coming to the US, will he challenge Ace Austin for X Division title?"
 date: 2022-06-16
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
