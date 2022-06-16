@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "And Newwww Tag team Champions .. | AEW Dynamite 6/15/2022 Live, Recap, Highlights"
+title: "New Tag team Champions | AEW Dynamite 6/15/2022 Live, Recap, Highlights"
 date: 2022-06-16
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
