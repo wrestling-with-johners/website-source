@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Jack NV"
+date: 2022-06-17
+categories: my-britwres-journey
+author: my-britwres-journey
+spotify_track_id: 2SZls4prHYD4EfKx4tqDji
+youtube_video_id: 
+apple_track_id: 1000566823982
+youtube_metadata: 
+---
