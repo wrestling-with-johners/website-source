@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chris Jericho defeats Ortiz in the Hair vs Hair match | Sammy Guevara returns AEW Dynamite Review"
+title: "Why Chris Jericho wasn't losing to Ortiz in the Hair vs Hair match | Sammy Guevara returns to AEW"
 date: 2022-06-17
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
