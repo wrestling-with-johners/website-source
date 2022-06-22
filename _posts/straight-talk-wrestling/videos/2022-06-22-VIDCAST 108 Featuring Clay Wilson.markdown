@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 108! Featuring Clay Wilson"
-date: 2022-06-21
+date: 2022-06-22
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
