@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L A TAYLOR Interview - Wrestling With Johners LIVE!"
+title: "L.A TAYLOR Interview (SWW Warriors Champion)"
 date: 2022-06-22
 categories: videos wrestling-with-johners
 author: john
