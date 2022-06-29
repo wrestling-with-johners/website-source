@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "REECE & ROGAN Interview - Wrestling With Johners LIVE!"
+title: "REECE & ROGAN Interview (ICW Fight Club, Tag Team Wrestling, The Dudley Boyz, Listeners' Questions)"
 date: 2022-06-29
 categories: videos wrestling-with-johners
 author: john
