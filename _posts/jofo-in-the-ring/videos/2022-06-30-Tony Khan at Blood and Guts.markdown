@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tony Khan thanks the city of Detroit at Blood and Guts"
+title: "Tony Khan at Blood and Guts"
 date: 2022-06-30
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
