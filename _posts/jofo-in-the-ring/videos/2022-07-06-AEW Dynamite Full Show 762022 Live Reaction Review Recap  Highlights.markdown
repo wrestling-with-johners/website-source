@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEW Dynamite Full Show7/6/2022 Live Reaction, Review, Recap & Highlights"
+title: "AEW Dynamite Full Show 7/6/2022 Live Reaction, Review, Recap & Highlights"
 date: 2022-07-06
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring

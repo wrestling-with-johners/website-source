@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#99 - Kidd Bandit 07/07/2022"
+date: 2022-07-07
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 6HxeMYeg6lVxMdDYEN6qcM
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
