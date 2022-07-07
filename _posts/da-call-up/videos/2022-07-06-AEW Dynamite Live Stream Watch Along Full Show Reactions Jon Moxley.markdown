@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEW DYNAMITE LIVE STREAM 7/6/22"
+title: "AEW Dynamite Live Stream Watch Along Full Show Reactions; Jon Moxley"
 date: 2022-07-06
 categories: da-call-up videos
 author: da-call-up
