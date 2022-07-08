@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rory McAllister of The HIghlanders Full Interview"
+title: "The HIghlanders Rory McAllister Full Interview"
 date: 2022-07-08
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
