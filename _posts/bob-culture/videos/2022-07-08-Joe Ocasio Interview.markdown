@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joe Ocasio Interview"
-date: 2022-07-07
+date: 2022-07-08
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
