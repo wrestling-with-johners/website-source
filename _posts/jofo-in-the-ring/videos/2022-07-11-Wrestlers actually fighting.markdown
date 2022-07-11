@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "REAL FIGHT after wrestler throws beer"
+title: "Wrestlers actually fighting"
 date: 2022-07-11
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
