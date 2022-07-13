@@ -6,6 +6,7 @@ position: Podcast
 social:
   twitter_username: BuckleBombEnt
   instagram_username: bucklebombent
+  facebook_group_id: bucklebombentertainment
   website_url:
     - https://bucklebombentertainment.com/
     - https://shopbucklebomb.com/
