@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 111! Featuring Beaa Moss"
-date: 2022-07-11
+date: 2022-07-13
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
