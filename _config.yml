@@ -75,6 +75,10 @@ collections:
 # Variables
 default-background: /img/default-background.png
 
+ads:
+  thirteenTen:
+    enabled: false
+
 defaults:
   -
     scope:
@@ -96,3 +100,4 @@ defaults:
       path: "interviews/page/*/"
     values:
       sitemap: false
+
