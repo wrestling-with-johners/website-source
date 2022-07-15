@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ACT TWO Interview - Wrestling With Johners LIVE!"
+title: "ACT TWO Interview (Saints of Sacrifice Champs, Progress, Tag Team Wrestling & Listeners' Questions)"
 date: 2022-07-15
 categories: videos wrestling-with-johners
 author: john
