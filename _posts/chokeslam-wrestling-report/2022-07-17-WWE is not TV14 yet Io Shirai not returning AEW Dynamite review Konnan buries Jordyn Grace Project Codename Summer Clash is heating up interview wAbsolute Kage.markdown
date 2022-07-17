@@ -6,6 +6,6 @@ categories: chokeslam-wrestling-report interviews
 author: chokeslam-wrestling-report
 spotify_track_id: 0uJX9wteoMYTW2uaMEZPaR
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000570207376
 youtube_metadata: 
 ---
