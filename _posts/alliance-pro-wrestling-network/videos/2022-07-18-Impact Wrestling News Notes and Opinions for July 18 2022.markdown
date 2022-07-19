@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Impact Wrestling News, Notes and Opinions for July 18 2020"
+title: "Impact Wrestling News, Notes and Opinions for July 18 2022"
 date: 2022-07-18
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
