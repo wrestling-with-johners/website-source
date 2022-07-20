@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KAY JUTLER Interview - Wrestling With Johners LIVE!"
+title: "KAY JUTLER Interview (Stand Up Comedy, Wrestling Across Europe, Japan and USA, Bodybuilding)"
 date: 2022-07-20
 categories: videos wrestling-with-johners
 author: john
