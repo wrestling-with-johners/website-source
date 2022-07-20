@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anthony Cole talks BCW 5th Anniversary"
-date: 2022-07-19
+date: 2022-07-20
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
