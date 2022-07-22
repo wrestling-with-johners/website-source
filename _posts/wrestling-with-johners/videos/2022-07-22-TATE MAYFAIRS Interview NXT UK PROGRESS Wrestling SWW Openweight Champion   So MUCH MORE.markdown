@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TATE MAYFAIRS, Live Interview - Wrestling With Johners LIVE!"
+title: "TATE MAYFAIRS Interview (NXT UK, PROGRESS Wrestling, SWW Openweight Champion  + So, MUCH MORE!)"
 date: 2022-07-22
 categories: videos wrestling-with-johners
 author: john
