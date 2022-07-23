@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prediction for Chris Curtis vs Jack Hermansson UFC Fight Night"
+title: "UFC Fight Night London Prediction for Chris Curtis vs Jack Hermansson"
 date: 2022-07-22
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
