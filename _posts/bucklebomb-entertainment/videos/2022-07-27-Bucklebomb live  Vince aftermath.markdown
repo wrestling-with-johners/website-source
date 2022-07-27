@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bucklebomb live - Vince aftermath"
-date: 2022-07-26
+date: 2022-07-27
 categories: bucklebomb-entertainment videos
 author: bucklebomb-entertainment
 spotify_track_id: 
