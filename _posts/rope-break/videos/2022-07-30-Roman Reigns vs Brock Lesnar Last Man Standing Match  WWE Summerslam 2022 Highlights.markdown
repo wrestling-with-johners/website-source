@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE Summerslam 2022 Review | Reigns vs Lesnar"
+title: "Roman Reigns vs Brock Lesnar Last Man Standing Match | WWE Summerslam 2022 Highlights"
 date: 2022-07-30
 categories: rope-break videos
 author: rope-break
