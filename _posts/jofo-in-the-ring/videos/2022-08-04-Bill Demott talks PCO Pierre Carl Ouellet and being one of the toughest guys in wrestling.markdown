@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bill Demott talks PCO Pierre Carl Ouellet and being the toughest guy in wrestling"
+title: "Bill Demott talks PCO Pierre Carl Ouellet and being one of the toughest guys in wrestling"
 date: 2022-08-04
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
