@@ -1,0 +1,11 @@
+---
+layout: post
+title: "August 5, 1996 RAW"
+date: 2022-08-05
+categories: ringside-rant
+author: ringside-rant
+spotify_track_id: 0d7jRAIGe0wjzL7AdP42we
+youtube_video_id: 
+apple_track_id: 1000575127517
+youtube_metadata: 
+---
