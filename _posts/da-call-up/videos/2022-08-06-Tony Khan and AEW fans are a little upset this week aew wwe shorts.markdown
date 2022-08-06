@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Somebody check on Tony Khan #aew #wwe #shorts"
+title: "Tony Khan and AEW fans are a little upset this week #aew #wwe #shorts"
 date: 2022-08-06
 categories: da-call-up videos
 author: da-call-up
