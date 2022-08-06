@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Valentina Vazquez"
-date: 2022-08-05
+date: 2022-08-06
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
