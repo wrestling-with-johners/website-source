@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Echo Reed"
+date: 2022-08-09
+categories: my-britwres-journey
+author: my-britwres-journey
+spotify_track_id: 2Q0tNpXdGyrvIrxI7twHGl
+youtube_video_id: 
+apple_track_id: 1000575516702
+youtube_metadata: 
+---
