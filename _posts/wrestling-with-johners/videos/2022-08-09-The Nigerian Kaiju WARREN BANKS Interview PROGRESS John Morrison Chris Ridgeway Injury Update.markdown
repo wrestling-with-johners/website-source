@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "WARREN BANKS Interview - Wrestling With Johners LIVE!"
-date: 2022-08-02
+title: "'The Nigerian Kaiju' WARREN BANKS Interview (PROGRESS, John Morrison, Chris Ridgeway, Injury Update)"
+date: 2022-08-09
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
