@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 115! Featuring Vaughn Vertigo"
-date: 2022-08-08
+date: 2022-08-10
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
