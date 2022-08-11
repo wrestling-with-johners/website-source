@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind! Our Conversation with Joe Dombrowski"
-date: 2022-08-09
+date: 2022-08-11
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
