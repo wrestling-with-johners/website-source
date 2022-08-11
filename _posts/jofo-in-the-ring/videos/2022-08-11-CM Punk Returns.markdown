@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CM Punk Returns On AEW Dynamite 08/10/2022"
+title: "CM Punk Returns"
 date: 2022-08-11
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
