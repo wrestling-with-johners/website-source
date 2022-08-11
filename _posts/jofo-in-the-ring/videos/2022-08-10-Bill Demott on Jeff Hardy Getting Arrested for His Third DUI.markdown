@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bill Demott on AEW Wrestler Jeff Hardy Getting Arrested for His Third DUI"
+title: "Bill Demott on Jeff Hardy Getting Arrested for His Third DUI"
 date: 2022-08-10
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
