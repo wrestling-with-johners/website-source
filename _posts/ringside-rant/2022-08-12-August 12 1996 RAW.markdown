@@ -1,0 +1,11 @@
+---
+layout: post
+title: "August 12, 1996 RAW"
+date: 2022-08-12
+categories: ringside-rant
+author: ringside-rant
+spotify_track_id: 1o6j5WvSFffexon8c6KKpk
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
