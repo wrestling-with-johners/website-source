@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zac Amico talks The Dave LaGreca Roast"
+title: "Zac Amico on his appearance at Dave LaGreca’s Roast"
 date: 2022-08-16
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
