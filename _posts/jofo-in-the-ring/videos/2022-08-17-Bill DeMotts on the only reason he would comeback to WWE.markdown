@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bill DeMott's only reason he would comeback to WWE"
+title: "Bill DeMott's on the only reason he would comeback to WWE"
 date: 2022-08-17
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
