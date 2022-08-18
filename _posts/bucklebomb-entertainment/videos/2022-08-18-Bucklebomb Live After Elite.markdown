@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bucklebomb Live After Elite"
-date: 2022-08-16
+date: 2022-08-18
 categories: bucklebomb-entertainment videos
 author: bucklebomb-entertainment
 spotify_track_id: 
