@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Summer Slam 1996 "
+date: 2022-08-19
+categories: ringside-rant
+author: ringside-rant
+spotify_track_id: 7iuEucTmBzK8is8x9GwfCS
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
