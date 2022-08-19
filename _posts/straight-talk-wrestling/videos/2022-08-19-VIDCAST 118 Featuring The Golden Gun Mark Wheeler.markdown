@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 118! Featuring The Golden Gun Mark Wheeler"
-date: 2022-08-16
+date: 2022-08-19
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
