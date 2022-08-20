@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kevin Owens Sami Zayn Hug It Out Thanks To Riddle after Smackdown in Montreal"
+title: "Kevin Owens Sami Zayn Hug It Out after Smackdown in Montreal"
 date: 2022-08-20
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
