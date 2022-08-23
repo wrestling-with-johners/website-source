@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Findlay Martin Interview (The Legacy of SummerSlam '92)"
-date: 2022-08-18
+date: 2022-08-23
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
