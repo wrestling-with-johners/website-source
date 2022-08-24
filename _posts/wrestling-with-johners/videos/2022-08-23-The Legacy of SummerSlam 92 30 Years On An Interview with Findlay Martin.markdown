@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Findlay Martin Interview (The Legacy of SummerSlam '92)"
+title: "The Legacy of SummerSlam '92 (30 Years On) An Interview with Findlay Martin"
 date: 2022-08-23
 categories: videos wrestling-with-johners
 author: john
