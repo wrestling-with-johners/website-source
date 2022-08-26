@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jon Moxley is Undisputed Champion AEW Dynamite  Live Reaction, Review |  August 24th /2022"
+title: "Jon Moxley is Undisputed Champion AEW Dynamite  Live Reaction, Review | August 24th 2022"
 date: 2022-08-25
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
