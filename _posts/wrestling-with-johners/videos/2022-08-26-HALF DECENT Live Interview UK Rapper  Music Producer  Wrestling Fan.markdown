@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HALF DECENT, Live Interview (UK Rapper - Music Producer - Wrestling Fan)"
-date: 2022-08-24
+date: 2022-08-26
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
