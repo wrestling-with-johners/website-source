@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Profesional Podcasters or Podcast entertainers?"
+title: "Professional Podcasters or Podcast entertainers?"
 date: 2022-08-27
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
