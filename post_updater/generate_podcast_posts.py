@@ -48,7 +48,7 @@ with open(podcasts_file, 'r') as stream:
         command += ['--spotifysecret', str(spotify_secret)]
         command += ['--spotifyshowid', str(spotify_show_id)]
 
-      if 'apple_podcast_id' in podcast:
+      if 'apple_podcast_id' in podcast and not 'apple_search_disabled' in podcast:
         apple_podcast_id = podcast['apple_podcast_id']
         command += ['--applepodcastid', str(apple_podcast_id)]
 
