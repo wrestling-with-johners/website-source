@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shane Taylor talks his future after ROH, AEW Trios Titles, Keith Lee, STP, Jon Gresham | Aug 2022"
+title: "Shane Taylor on the AEW Trios Titles, Keith Lee, STP, Jon Gresham | Aug 2022"
 date: 2022-08-28
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
