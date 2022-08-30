@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seth Rollins & Riddle fighting in the parking lot before Monday Night Raw"
+title: "Seth Rollins Riddle before Monday Night Raw"
 date: 2022-08-29
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
