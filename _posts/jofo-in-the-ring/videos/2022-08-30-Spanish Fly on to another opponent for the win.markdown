@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spanish Fly on to another opponent for the win! #jeremyprophet"
+title: "Spanish Fly on to another opponent for the win"
 date: 2022-08-30
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
