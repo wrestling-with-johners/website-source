@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Impact Wrestling star Joe Doering stepping away from active competition due to health issues"
+title: "Impact Wrestling star Joe Doering stepping away from active competition due as brain cancer returns"
 date: 2022-08-30
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
