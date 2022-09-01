@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shane Taylor has a message for the winners of the AEW Trios Titles & The Young Bucks"
+title: "Message to the AEW Trios Championship winners"
 date: 2022-08-31
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
