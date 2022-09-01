@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shane Taylor on Keith Lee in WWE 18 months later wins AEW Tag Team Titles Swerve in our Glory"
+title: "Shane Taylor on Keith Lee winning AEW Tag Team Titles with Swerve Strickland"
 date: 2022-08-31
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
