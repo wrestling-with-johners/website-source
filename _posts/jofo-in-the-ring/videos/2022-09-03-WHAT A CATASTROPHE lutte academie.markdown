@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WHAT A CATOSTRAPHE lutte academie"
+title: "WHAT A CATASTROPHE lutte academie"
 date: 2022-09-03
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
