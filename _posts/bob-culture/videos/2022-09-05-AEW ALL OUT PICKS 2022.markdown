@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AEW ALL OUT PICKS 2022"
-date: 2022-09-04
+date: 2022-09-05
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 

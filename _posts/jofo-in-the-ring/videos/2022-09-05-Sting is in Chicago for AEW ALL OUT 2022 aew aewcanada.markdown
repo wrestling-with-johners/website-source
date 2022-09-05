@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "AEW ALL OUT 2022 🚨 - CM Punk vs Jon Moxley Live Stream Watch Along"
-date: 2022-09-04
+title: "Sting is in Chicago for AEW ALL OUT 2022 #aew #aewcanada"
+date: 2022-09-05
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
-youtube_video_id: fGVAcA1-A_8
+youtube_video_id: lF1YKgRxE8U
 apple_track_id: 
 youtube_metadata: 
 ---
