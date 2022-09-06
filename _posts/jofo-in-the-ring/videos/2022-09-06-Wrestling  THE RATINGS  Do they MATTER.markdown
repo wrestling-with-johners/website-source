@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THE RATINGS , Do they MATTER?"
+title: "Wrestling & THE RATINGS , Do they MATTER?"
 date: 2022-09-06
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
