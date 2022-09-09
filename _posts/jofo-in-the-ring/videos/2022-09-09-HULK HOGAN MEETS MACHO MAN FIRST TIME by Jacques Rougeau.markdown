@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HOGAN MEETS MACHO MAN FIRST TIME by Jacques Rougeau"
+title: "HULK HOGAN MEETS MACHO MAN FIRST TIME by Jacques Rougeau"
 date: 2022-09-09
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
