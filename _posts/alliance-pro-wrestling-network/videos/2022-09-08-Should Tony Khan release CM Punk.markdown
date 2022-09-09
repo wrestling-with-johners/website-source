@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My thoughts on if Tony Khan should release CM Punk"
+title: "Should Tony Khan release CM Punk?"
 date: 2022-09-08
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
