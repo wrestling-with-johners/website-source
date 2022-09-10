@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "More details on Danny Limelight's departure from MLW"
+title: "More details on talent departure from MLW"
 date: 2022-09-10
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
