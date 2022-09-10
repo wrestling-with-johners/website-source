@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NBA2k23 GAMEPLAY REVIEW"
-date: 2022-09-08
+date: 2022-09-10
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
