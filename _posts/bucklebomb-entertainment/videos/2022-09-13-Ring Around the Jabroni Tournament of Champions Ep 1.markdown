@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ring Around the Jabroni, Tournament of Champions Ep 1"
-date: 2022-09-12
+date: 2022-09-13
 categories: bucklebomb-entertainment videos
 author: bucklebomb-entertainment
 spotify_track_id: 
