@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Issue 33 Shows of August 7-13, 2022"
+title: "Issue 33 Shows of August 14-20, 2022"
 date: 2022-09-13
 categories: articles
 author: pro-darin
