@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NEW FRONTIER WORLDS COLLIDE PREDICTIONS SHOW"
-date: 2022-09-14
+date: 2022-09-15
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
