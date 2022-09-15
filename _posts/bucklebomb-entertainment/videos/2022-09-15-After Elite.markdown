@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "After Elite"
-date: 2022-09-14
+date: 2022-09-15
 categories: bucklebomb-entertainment videos
 author: bucklebomb-entertainment
 spotify_track_id: 
