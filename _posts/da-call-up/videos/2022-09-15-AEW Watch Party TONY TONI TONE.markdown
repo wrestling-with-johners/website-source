@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AEW Watch Party: TONY, TONI, TONE"
-date: 2022-09-14
+date: 2022-09-15
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
