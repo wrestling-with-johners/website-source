@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Akwired Tastes Fall Favorites Edition"
-date: 2022-09-15
+date: 2022-09-16
 categories: bucklebomb-entertainment videos
 author: bucklebomb-entertainment
 spotify_track_id: 
