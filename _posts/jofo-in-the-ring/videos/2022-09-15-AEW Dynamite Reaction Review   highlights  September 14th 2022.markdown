@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEW Dynamite Live Reaction, Review  🚨 highlights  September 14th 2022  Live Reaction, Review  🚨"
+title: "AEW Dynamite Reaction, Review  🚨 highlights  September 14th 2022"
 date: 2022-09-15
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
