@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WRESTLING LEGENDS SHOOT INTERVIEWS , The Godfather , PCO ,  Rougeau , dvon dudley"
+title: "WRESTLING SHOOT INTERVIEWS  with Legends The Godfather , PCO ,  Rougeau , dvon dudley"
 date: 2022-09-17
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
