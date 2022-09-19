@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE WAR GAMES #shorts"
+title: "Survivor Series News  #shorts"
 date: 2022-09-19
 categories: da-call-up videos
 author: da-call-up
