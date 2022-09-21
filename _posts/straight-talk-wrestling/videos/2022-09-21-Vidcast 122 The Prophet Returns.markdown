@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 122! The Prophet Returns"
-date: 2022-09-17
+date: 2022-09-21
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
