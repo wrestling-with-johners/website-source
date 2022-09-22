@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Acclaimed win the TagTeam titles Grand Slam #shorts #aewdynamite"
+title: "The acclaimed vs Swerve In Our Glory #shorts"
 date: 2022-09-22
 categories: da-call-up videos
 author: da-call-up
