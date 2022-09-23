@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#102 - Geoffrey Cole"
+date: 2022-09-23
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 2GdTf0WypIl6UWf36iAcRy
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
