@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Such Good Shoot: Eryn Thacker Memorial episode"
-date: 2022-09-22
+date: 2022-09-23
 categories: such-good-shoot videos
 author: such-good-shoot
 spotify_track_id: 
