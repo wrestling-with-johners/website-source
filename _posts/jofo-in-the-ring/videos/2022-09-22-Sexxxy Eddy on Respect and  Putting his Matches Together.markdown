@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sexxxy Eddy on Putting his Matches Together respect for wrestlers moves ahead of you on the card"
+title: "Sexxxy Eddy on Respect and  Putting his Matches Together"
 date: 2022-09-22
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
