@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the BOSTON BRAWLER, Brooklyn Brawler on WHY he turned the"
+title: "the BOSTON BRAWLER wasn't a good idea"
 date: 2022-09-23
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
