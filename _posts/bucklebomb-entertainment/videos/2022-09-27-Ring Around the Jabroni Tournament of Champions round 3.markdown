@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ring Around the Jabroni Tournament of Champions round 3"
-date: 2022-09-26
+date: 2022-09-27
 categories: bucklebomb-entertainment videos
 author: bucklebomb-entertainment
 spotify_track_id: 
