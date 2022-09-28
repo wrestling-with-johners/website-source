@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TEDDY LONG SHOOTS on ROMAN REIGNS #shorts"
+title: "TEDDY LONG on ROMAN REIGNS #shorts"
 date: 2022-09-28
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
