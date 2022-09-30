@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#103 - Brad Myers 09/30/2022"
+date: 2022-09-30
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 7ucfKBNyFm3mZtFJcSfTcD
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
