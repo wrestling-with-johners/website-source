@@ -1,0 +1,11 @@
+---
+layout: post
+title: "December 28, 1982 WCCW"
+date: 2022-09-30
+categories: ringside-rant
+author: ringside-rant
+spotify_track_id: 1pV8S240JdnPuWUDpH1gv4
+youtube_video_id: 
+apple_track_id: 1000581152313
+youtube_metadata: 
+---
