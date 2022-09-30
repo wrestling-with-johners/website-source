@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RJ SINGH Live Interview - Wrestling With Johners LIVE!"
+title: "'The King' RJ SINGH Live Interview"
 date: 2022-09-29
 categories: videos wrestling-with-johners
 author: john
