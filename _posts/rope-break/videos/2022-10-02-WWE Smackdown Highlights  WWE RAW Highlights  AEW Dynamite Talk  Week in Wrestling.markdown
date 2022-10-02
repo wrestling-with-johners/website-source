@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "WWE Smackdown Highlights | AEW Recap | WWE RAW Talk"
-date: 2022-09-30
+title: "WWE Smackdown Highlights | WWE RAW Highlights | AEW Dynamite Talk | Week in Wrestling"
+date: 2022-10-02
 categories: rope-break videos
 author: rope-break
 spotify_track_id: 
