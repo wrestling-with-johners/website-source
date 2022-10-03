@@ -6,6 +6,6 @@ categories: guilmy-talks
 author: justin-guilmette
 spotify_track_id: 4nGAnPB5T78BDbkwYUXDT7
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000581461338
 youtube_metadata: 
 ---

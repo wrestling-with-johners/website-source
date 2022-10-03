@@ -1,0 +1,11 @@
+---
+layout: post
+title: "EP 47 - 1PW Round Up"
+date: 2022-10-03
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: o_jD-pQA5eU
+apple_track_id: 
+youtube_metadata: 
+---
