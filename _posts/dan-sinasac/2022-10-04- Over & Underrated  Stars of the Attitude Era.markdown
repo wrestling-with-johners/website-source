@@ -8,7 +8,7 @@ youtube_video_id:
 apple_track_id:
 author: dan-sinasac
 ---
-### Overrated & Underrated Stars of the Attitude Era
+# Overrated & Underrated Stars of the Attitude Era
 
 The Attitude Era was a watershed moment for WWE. Since the early 1980s, the company held a monopoly over professional wrestling. It was happenstance that pushed them into a lull and after a while began producing less than stellar wrestling. This allowed WCW to move up in the ratings and become the most popular organization in North America. 
 
