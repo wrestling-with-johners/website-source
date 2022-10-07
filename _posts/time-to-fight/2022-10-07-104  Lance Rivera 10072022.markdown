@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#104 - Lance Rivera 10/07/2022"
+date: 2022-10-07
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 1s3zRXrv1lJgG6T8hsW6JT
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
