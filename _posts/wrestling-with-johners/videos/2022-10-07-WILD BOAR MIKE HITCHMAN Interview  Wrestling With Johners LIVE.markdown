@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'WILD BOAR' MIKE HITCHMAN Interview - Wrestling With Johners LIVE!"
-date: 2022-10-03
+date: 2022-10-07
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
