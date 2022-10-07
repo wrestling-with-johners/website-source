@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'WILD BOAR' MIKE HITCHMAN Interview - Wrestling With Johners LIVE!"
+title: "'WILD BOAR' MIKE HITCHMAN (WWE Release, His time in NXTUK, Being back on the Indies + so much more!)"
 date: 2022-10-07
 categories: videos wrestling-with-johners
 author: john
