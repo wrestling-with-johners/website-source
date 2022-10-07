@@ -1,0 +1,11 @@
+---
+layout: post
+title: "EP 81 WE’RE BACK"
+date: 2022-10-07
+categories: chaos-theory
+author: chaos-theory
+spotify_track_id: 3YMumXoCV5AqJ64zB55bjo
+youtube_video_id: 
+apple_track_id: 1000581950606
+youtube_metadata: 
+---
