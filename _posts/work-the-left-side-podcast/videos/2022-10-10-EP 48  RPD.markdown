@@ -1,0 +1,11 @@
+---
+layout: post
+title: "EP 48 - RPD"
+date: 2022-10-10
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: Lv_wOAbgGDM
+apple_track_id: 
+youtube_metadata: 
+---
