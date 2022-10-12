@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ring Around the Jabroni Championship"
-date: 2022-10-11
+date: 2022-10-12
 categories: bucklebomb-entertainment videos
 author: bucklebomb-entertainment
 spotify_track_id: 
