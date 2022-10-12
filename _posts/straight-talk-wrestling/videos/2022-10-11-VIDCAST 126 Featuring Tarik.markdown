@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIDCAST 126! Featurifn Tarik"
+title: "VIDCAST 126! Featuring Tarik"
 date: 2022-10-11
 categories: straight-talk-wrestling videos
 author: george-mckay
