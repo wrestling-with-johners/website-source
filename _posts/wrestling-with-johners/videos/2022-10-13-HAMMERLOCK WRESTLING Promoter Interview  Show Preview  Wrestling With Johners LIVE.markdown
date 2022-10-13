@@ -1,0 +1,11 @@
+---
+layout: post
+title: "HAMMERLOCK WRESTLING (Promoter Interview & Show Preview) - Wrestling With Johners LIVE!"
+date: 2022-10-13
+categories: videos wrestling-with-johners
+author: john
+spotify_track_id: 
+youtube_video_id: X8ZmCXl_nUA
+apple_track_id: 
+youtube_metadata: 
+---
