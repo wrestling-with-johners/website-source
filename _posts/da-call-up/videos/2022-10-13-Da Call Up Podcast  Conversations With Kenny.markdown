@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Da Call Up Podcast : Conversations With Kenny"
-date: 2022-10-12
+date: 2022-10-13
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
