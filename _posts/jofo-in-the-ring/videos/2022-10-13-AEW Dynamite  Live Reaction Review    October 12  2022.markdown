@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AEW Dynamite  Live Reaction, Review  🚨 | October 12 , 2022"
-date: 2022-10-12
+date: 2022-10-13
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
