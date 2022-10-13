@@ -96,7 +96,7 @@ If Kanji lost by disqualification, Laura would become the new champion. Laura bl
 Both bumped fists before the match. As soon as the bell rang, Moloney hit Damo with a spear for two until the action spilled out of the ring; Damo came back and stood on Moloney like a surfboard before hitting him with a senton on the floor. Later on, Moloney hit Damo with a deadlift slam followed by a German suplex for two. Towards the end, after Damo hit Moloney with a uranage from the apron followed by a hilo for two, Moloney made a comeback until Damo hit him with a clothesline, Wasteland, a senton and the Belfast Blitz for a near fall; Moloney came back with a second spear followed by the Drilla until all of the sudden, Spike Trivet ran in and hit Moloney in the head with a bottle, giving the “Drilla” a win by DQ. **My score: 4.25/5**
 
 ## Main event: Spike Trivet defeated Big Damo in five seconds to become the new Progress World Champion. 
-After attacking Moloney, Trivet beat down Damo with a steel chair several times and then used his key to open the championship opportunity. Then, as soon as the bell rang, Trivet pinned Damo for the win; he would then taunt the irate fans at ringside before leaving with the belt afterwards. **No score.*8
+After attacking Moloney, Trivet beat down Damo with a steel chair several times and then used his key to open the championship opportunity. Then, as soon as the bell rang, Trivet pinned Damo for the win; he would then taunt the irate fans at ringside before leaving with the belt afterwards. **No score.**
 
 ## ICW Fight Club
 
