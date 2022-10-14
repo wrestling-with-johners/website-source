@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jungle Boy Jack Perry entrance AEW DYNAMITE Toronto"
+title: "Jungle Boy Jack Perry AEW Dynamite Toronto"
 date: 2022-10-13
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
