@@ -159,6 +159,7 @@
   background: tornado-tag-background.jpg
   category: tornado-tag
   author: tornado-tag
+  inactive: true
   spotify_show_id: 3Yqm2WvnyRo1yREE8L39Ul
   apple_podcast_id: 1552649201
   apple_url: tornado-tag-podcast
@@ -209,12 +210,14 @@
   background: kurt-johansson-show-background.jpg
   category: kurt-johansson-show
   author: kurt-johansson
+  inactive: true
   youtube_playlist_id: UUcoJBKF4zD1p6FR7tKRQbKw
 
 - title: Pro Wrestling Tonight
   background: pro-wrestling-tonight-background.jpg
   category: pro-wrestling-tonight
   author: chicagoland-championship-wrestling
+  inactive: true
   youtube_playlist_id: UU0U0XXugwAMNUWIYKh9iK7w
 
 - title: Work The Left Side Podcast
@@ -342,7 +345,6 @@
   background: champs-out-last-background.jpg
   category: champs-out-last
   author: champs-out-last
-  inactive: true
   spotify_show_id: 2kAbDiINhs0vebZd2ILTKN
   apple_podcast_id: 1532744934
   apple_url: champs-out-last
