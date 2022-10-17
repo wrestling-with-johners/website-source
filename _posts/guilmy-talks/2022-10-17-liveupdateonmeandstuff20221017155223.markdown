@@ -1,0 +1,11 @@
+---
+layout: post
+title: "live_updateonmeandstuff_20221017_155223"
+date: 2022-10-17
+categories: guilmy-talks
+author: justin-guilmette
+spotify_track_id: 1WETokZ9NPd00SP0S0cx1e
+youtube_video_id: 
+apple_track_id: 1000582939681
+youtube_metadata: 
+---
