@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HAMMERLOCK WRESTLING (Promoter Interview & Show Preview) - Wrestling With Johners LIVE!"
-date: 2022-10-13
+date: 2022-10-18
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
