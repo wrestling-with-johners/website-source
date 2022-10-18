@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HAMMERLOCK WRESTLING (Promoter Interview & Show Preview) - Wrestling With Johners LIVE!"
+title: "HAMMERLOCK WRESTLING (Promoter Interview & Show Preview)"
 date: 2022-10-18
 categories: videos wrestling-with-johners
 author: john
