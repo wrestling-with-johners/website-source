@@ -14,7 +14,7 @@ WWE has always been a tradition in the United States.  Starting as the Capitol W
 
 As much as its roots have been set in the United States there have been some great moments that have taken place outside of it. When WWE has chosen to venture outside of its backyard there have been some fantastic matches to take place on foreign soil. With Crown Jewel coming up on the WWE schedule now is the perfect time to take a look at some of these great moments. 
 
-## Hulk Hogan v The Ultimate Warrior ( Wrestlemania 6, Toronto, Ontario Canada)
+## Hulk Hogan v The Ultimate Warrior (Wrestlemania 6, Toronto, Ontario Canada)
 
 One of the first big PPVs to make its way north of the border showcased one of the great matches in WWE history. 
 
@@ -42,7 +42,7 @@ Orton was well on his way to becoming a main event star, but he was missing some
 
 Foley and Orton had been at odds for months before their no holds barred match, but it was this contest that pushed them over the top. It was an incredibly brutal match that utilized all the gimmicks Foley was famous for. What was different was the brutality shown by Orton. It was a side to the Viper that we had not seen before. It added another layer to his character and it was an edge that he kept for the rest of his career. 
 
-## The Hart Foundation v The Americans ( In Your House: Canadian Stampede, Calgary, Alberta, Canada)
+## The Hart Foundation v The Americans (In Your House: Canadian Stampede, Calgary, Alberta, Canada)
 	
 The feud between Bret Hart and the United States was one of the more intriguing of 1997. It blurred the lines between fiction and reality and got some great heat on Hart and his compatriots. 
 
@@ -70,7 +70,7 @@ The history of WWE is not kind to this PPV. It was on this night that HBK pulled
 	
 This match between Bret and ‘Taker was an underrated one. It showcased the fantastic technical knowledge that The Undertaker had. He was always shoehorned into programs opposite terrible workers and this was the first time he had someone great. They meshed well together and gave us a great match. 
 
-## Edge v Seth Rollins ( Crown Jewel, Riyadh, Saudi Arabia)
+## Edge v Seth Rollins (Crown Jewel, Riyadh, Saudi Arabia)
 	
 When Edge returned to WWE fans salivated at the prospect of so many new wrestlers for him to face. Near the top of that list was Seth Rollins. Rollins was the perfect cocky heel to go up against Edge, and their matches proved this. Every match was great and they kept adding layers as the feud went on.
 
