@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gringo Loco is fucking Awesome.  #fyp #wrestling #indywrestling #luchalibre"
+title: "Gringo Loco is just Awesome.  #fyp #wrestling #indywrestling #luchalibre"
 date: 2022-10-22
 categories: straight-talk-wrestling videos
 author: george-mckay
