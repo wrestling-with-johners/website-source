@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Impact Wrestling Weekend Talk - PCO Signs New Deal, Chris Bey, Brian Hebner and More!"
-date: 2022-10-22
+date: 2022-10-23
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
 spotify_track_id: 
