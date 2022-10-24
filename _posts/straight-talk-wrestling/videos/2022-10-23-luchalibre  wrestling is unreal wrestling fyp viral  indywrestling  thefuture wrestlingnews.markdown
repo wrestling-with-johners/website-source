@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#asf is unreal #iykyk #wrestling #fyp #viral #luchalibre  #indywrestling  #thefuture #wrestlingnews"
+title: "#luchalibre  wrestling is unreal #wrestling #fyp #viral  #indywrestling  #thefuture #wrestlingnews"
 date: 2022-10-23
 categories: straight-talk-wrestling videos
 author: george-mckay
