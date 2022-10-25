@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "⚡️'The Lightning Kid' Oli Blake - Live Stream Interview!⚡️"
+title: "⚡️'The Lightning Kid' OLI BLAKE Interview (NXTUK, 2022 So Far, Joel Redman, Skye Smitson + More!)"
 date: 2022-10-25
 categories: videos wrestling-with-johners
 author: john
