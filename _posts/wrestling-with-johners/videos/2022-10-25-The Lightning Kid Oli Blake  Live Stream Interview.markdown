@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "'The Lightning Kid' Oli Blake, Live Interview - Wrestling With Johners LIVE!"
-date: 2022-10-20
+title: "⚡️'The Lightning Kid' Oli Blake - Live Stream Interview!⚡️"
+date: 2022-10-25
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
