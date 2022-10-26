@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ring of Honor Rev Ron Hunt of Shane Taylor Promotions Interview"
+title: "Rev Ron Hunt of Shane Taylor Promotions Interview | Ring of Honor"
 date: 2022-10-25
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
