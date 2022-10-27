@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bjorg & Shane Pinto of Torture Chamber talk Straight Outta Chamber V"
+title: "Bjorg Haaken & Shane Pinto of Torture Chamber talk Straight Outta Chamber V"
 date: 2022-10-27
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
