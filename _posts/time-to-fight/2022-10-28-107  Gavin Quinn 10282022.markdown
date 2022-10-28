@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#107 - Gavin Quinn 10/28/2022"
+date: 2022-10-28
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 101rFFmlESpxE5UVHW3wkS
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
