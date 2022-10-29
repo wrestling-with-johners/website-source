@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carving Haddonfield a deep dive of halloween ends and the 44 year franchise."
+title: "Carving Haddonfield a deep dive of Halloween Ends and the 44 year franchise."
 date: 2022-10-29
 categories: straight-talk-wrestling videos
 author: george-mckay
