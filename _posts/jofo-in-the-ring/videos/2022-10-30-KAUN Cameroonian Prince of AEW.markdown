@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KAUN Cameronian Prince"
+title: "KAUN Cameroonian Prince of AEW"
 date: 2022-10-30
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
