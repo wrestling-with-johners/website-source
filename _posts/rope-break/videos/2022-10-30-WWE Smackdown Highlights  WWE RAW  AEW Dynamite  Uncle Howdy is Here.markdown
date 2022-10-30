@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Uncle Howdy is Here | WWE Smackdown Highlights | WWE RAW | AEW Dynamite"
+title: "WWE Smackdown Highlights | WWE RAW | AEW Dynamite | Uncle Howdy is Here"
 date: 2022-10-30
 categories: rope-break videos
 author: rope-break
