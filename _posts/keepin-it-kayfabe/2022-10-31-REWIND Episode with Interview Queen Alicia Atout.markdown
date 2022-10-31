@@ -6,6 +6,6 @@ categories: interviews keepin-it-kayfabe
 author: keepin-it-kayfabe
 spotify_track_id: 3gXnKVMLMVUdbivtX4jDai
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000584456407
 youtube_metadata: 
 ---
