@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dru Onyx Talks Tales From The Territories"
+title: "Tales From The Territories, Dru Onyx Behind the scenes"
 date: 2022-11-01
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
