@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zac Amico on Ari Shaffir vs Luis J Gomez Who wins in a Wrestling Match"
+title: "Ari Shaffir vs Luis J Gomez, Who would win in a Wrestling Match"
 date: 2022-11-03
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
