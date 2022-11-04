@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raj Singh Impact Wrestling talks Jinder Mahal Gama Singh WWE tryout"
+title: "Raj Singh Impact Wrestling talks Jinder Mahal Gama Singh | Full Interview"
 date: 2022-11-04
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
