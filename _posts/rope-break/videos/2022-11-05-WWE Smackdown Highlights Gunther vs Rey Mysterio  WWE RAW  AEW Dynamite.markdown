@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week In Wrestling | WWE Smackdown Highlights | WWE RAW | AEW Dynamite"
+title: "WWE Smackdown Highlights Gunther vs Rey Mysterio | WWE RAW | AEW Dynamite"
 date: 2022-11-05
 categories: rope-break videos
 author: rope-break
