@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 8th June 2021"
+date: 2021-06-09
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 15pxKDv72PCKaZzonJuF4s
+youtube_video_id: 
+apple_track_id: 1000524871992
+youtube_metadata: 
+---

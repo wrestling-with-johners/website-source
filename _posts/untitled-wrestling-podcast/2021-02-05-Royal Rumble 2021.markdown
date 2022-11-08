@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Royal Rumble 2021"
+date: 2021-02-05
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 44HbvClql1Y5GD1sRwwQBg
+youtube_video_id: 
+apple_track_id: 1000507884454
+youtube_metadata: 
+---

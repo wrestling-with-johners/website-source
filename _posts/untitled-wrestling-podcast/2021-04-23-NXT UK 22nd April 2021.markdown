@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 22nd April 2021"
+date: 2021-04-23
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 4VC6vPWOlGSUXy2b3bbzI1
+youtube_video_id: 
+apple_track_id: 1000518355314
+youtube_metadata: 
+---

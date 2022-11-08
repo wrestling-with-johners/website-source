@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 14th October 2021"
+date: 2021-10-17
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 2OSGu5JMvDzP4Pps15j7i1
+youtube_video_id: 
+apple_track_id: 1000538858457
+youtube_metadata: 
+---

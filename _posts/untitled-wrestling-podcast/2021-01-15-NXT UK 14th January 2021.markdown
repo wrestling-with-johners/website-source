@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 14th January 2021"
+date: 2021-01-15
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 3KWJDGsijA3Xl0zo0M3fFD
+youtube_video_id: 
+apple_track_id: 1000505472811
+youtube_metadata: 
+---

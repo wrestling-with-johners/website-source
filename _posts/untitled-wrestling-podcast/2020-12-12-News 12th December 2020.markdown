@@ -1,0 +1,11 @@
+---
+layout: post
+title: "News 12th December 2020"
+date: 2020-12-12
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 4maH0mmnAhd3qoInKTFqjG
+youtube_video_id: 
+apple_track_id: 1000502171393
+youtube_metadata: 
+---

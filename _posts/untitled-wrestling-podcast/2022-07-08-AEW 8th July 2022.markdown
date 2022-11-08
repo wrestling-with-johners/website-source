@@ -1,0 +1,11 @@
+---
+layout: post
+title: "AEW 8th July 2022"
+date: 2022-07-08
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 3dNXXwLBhtB4wgfIV5AaKE
+youtube_video_id: 
+apple_track_id: 1000569319229
+youtube_metadata: 
+---

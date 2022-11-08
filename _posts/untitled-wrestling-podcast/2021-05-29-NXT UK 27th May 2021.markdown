@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 27th May 2021"
+date: 2021-05-29
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 18n3x8j9ZP55nSHpx5rU7w
+youtube_video_id: 
+apple_track_id: 1000523457420
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 12th August 2021"
+date: 2021-08-13
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 3ZuZqaZNum28TVvCPfKh3F
+youtube_video_id: 
+apple_track_id: 1000531947468
+youtube_metadata: 
+---

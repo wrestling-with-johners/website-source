@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 2.0 1st March 2022"
+date: 2022-03-02
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 7tyuhCkfN0rjP9xZj9I514
+youtube_video_id: 
+apple_track_id: 1000552748794
+youtube_metadata: 
+---

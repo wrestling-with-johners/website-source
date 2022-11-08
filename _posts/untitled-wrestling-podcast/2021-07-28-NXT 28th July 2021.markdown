@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 28th July 2021"
+date: 2021-07-28
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 4IoNj9taNUQEEk6ic3Itod
+youtube_video_id: 
+apple_track_id: 1000530322583
+youtube_metadata: 
+---

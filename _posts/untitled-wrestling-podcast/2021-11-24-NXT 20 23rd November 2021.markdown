@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 2.0 23rd November 2021"
+date: 2021-11-24
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 1FrFfkOeVlxhvr7nvten9Z
+youtube_video_id: 
+apple_track_id: 1000543000444
+youtube_metadata: 
+---

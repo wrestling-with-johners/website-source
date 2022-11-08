@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 2.0 5th October 2021"
+date: 2021-10-07
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 0amlg40UW7j3Nz9DV2DKqs
+youtube_video_id: 
+apple_track_id: 1000537907708
+youtube_metadata: 
+---

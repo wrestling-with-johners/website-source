@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 26th August 2021"
+date: 2021-08-27
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 6qgiNpblbeciS9rVJ7K8km
+youtube_video_id: 
+apple_track_id: 1000533336312
+youtube_metadata: 
+---

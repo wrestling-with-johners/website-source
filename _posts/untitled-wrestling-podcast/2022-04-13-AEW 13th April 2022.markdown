@@ -1,0 +1,11 @@
+---
+layout: post
+title: "AEW 13th April 2022"
+date: 2022-04-13
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 31SC6G3tkAHuFm3MArtsVn
+youtube_video_id: 
+apple_track_id: 1000557525076
+youtube_metadata: 
+---

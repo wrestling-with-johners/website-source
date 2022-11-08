@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 14th September 2021"
+date: 2021-09-15
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 32XkEIkiYO5B9SyIUGaI7w
+youtube_video_id: 
+apple_track_id: 1000535466025
+youtube_metadata: 
+---

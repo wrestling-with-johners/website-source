@@ -1,0 +1,11 @@
+---
+layout: post
+title: "AEW All Out 2020 PPV"
+date: 2020-09-12
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 5DZVJCL0DklCRwMixoGH5Y
+youtube_video_id: 
+apple_track_id: 1000490980548
+youtube_metadata: 
+---

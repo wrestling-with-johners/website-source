@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 8th July 2021"
+date: 2021-07-09
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 61uKlRl1cnJAwmguEc1il3
+youtube_video_id: 
+apple_track_id: 1000528394634
+youtube_metadata: 
+---

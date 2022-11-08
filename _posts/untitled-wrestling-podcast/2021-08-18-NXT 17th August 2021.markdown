@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 17th August 2021"
+date: 2021-08-18
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 5Ct1NyMPoVnqMt0S90da5n
+youtube_video_id: 
+apple_track_id: 1000532408332
+youtube_metadata: 
+---
