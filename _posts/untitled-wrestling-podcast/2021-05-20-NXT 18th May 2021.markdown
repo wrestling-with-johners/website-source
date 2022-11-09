@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 18th May 2021"
+date: 2021-05-20
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 2D6BeFhzXbHz7mku4bsNU4
+youtube_video_id: 
+apple_track_id: 1000522528336
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 2.0 28th December 2021"
+date: 2021-12-30
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 2wOaBCiPbuY5cnlNkaDIlO
+youtube_video_id: 
+apple_track_id: 1000546491413
+youtube_metadata: 
+---

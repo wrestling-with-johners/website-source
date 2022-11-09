@@ -170,7 +170,7 @@
   author: world-elite
   apple_url: world-elite-podcast
   #youtube_playlist_id: UULf302_veM2Mw4z3vl09NVQ
-  spotify_show_id: 7hNcRd2OfiR3VqG8y3lVUZ
+  #spotify_show_id: 7hNcRd2OfiR3VqG8y3lVUZ
   apple_podcast_id: 1540010010
 
 - title: Where Is My Mind? A Deep Dive Into Curtis Rich
@@ -387,3 +387,12 @@
   category: wrestle-rage
   author: wrestle-rage
   spotify_show_id: 4FbKqZNfS7wOkK0HSr0HeA
+
+- title: Untitled Wrestling Podcast
+  background: untitled-wrestling-podcast-background.png
+  category: untitled-wrestling-podcast
+  author: untitled-wrestling-podcast
+  apple_url: untitled-wrestling-podcast
+  apple_podcast_id: 1531222142
+  youtube_playlist_id: UUprlGgBm8_Ziu7zsxyjfMZw
+  spotify_show_id: 2GmcYXvpVe1UEDFuAbSTa0

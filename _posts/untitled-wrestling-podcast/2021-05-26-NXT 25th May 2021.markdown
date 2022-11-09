@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 25th May 2021"
+date: 2021-05-26
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 5m6tG4MphCc9RrHTD4ow2l
+youtube_video_id: 
+apple_track_id: 1000523220189
+youtube_metadata: 
+---

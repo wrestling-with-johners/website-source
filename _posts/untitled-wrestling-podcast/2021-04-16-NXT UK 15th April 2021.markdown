@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 15th April 2021"
+date: 2021-04-16
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 3RTZyVbbLuQWssMVqT3CNj
+youtube_video_id: 
+apple_track_id: 1000517422811
+youtube_metadata: 
+---

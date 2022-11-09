@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 13th May 2021"
+date: 2021-05-14
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 2xFmYposz5XMBVI3SytRzU
+youtube_video_id: 
+apple_track_id: 1000521725948
+youtube_metadata: 
+---

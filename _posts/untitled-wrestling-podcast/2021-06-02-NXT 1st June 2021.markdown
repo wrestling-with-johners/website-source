@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 1st June 2021"
+date: 2021-06-02
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 6Ef7SdOu2KhYMNS6bXaa0r
+youtube_video_id: 
+apple_track_id: 1000523992177
+youtube_metadata: 
+---

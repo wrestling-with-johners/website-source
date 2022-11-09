@@ -1,0 +1,11 @@
+---
+layout: post
+title: "AEW All Out 2021"
+date: 2021-09-07
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 2zoVWEyIDaGPevPZqtQ7iP
+youtube_video_id: 
+apple_track_id: 1000534626086
+youtube_metadata: 
+---

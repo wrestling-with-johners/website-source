@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 3rd June 2021"
+date: 2021-06-04
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 6ZJVPO1wlM4Ropst1AL9h6
+youtube_video_id: 
+apple_track_id: 1000524283049
+youtube_metadata: 
+---

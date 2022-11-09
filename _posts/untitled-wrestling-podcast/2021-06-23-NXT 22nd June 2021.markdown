@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 22nd June 2021"
+date: 2021-06-23
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 3aPUoCsnoICkEOwtoOcVqb
+youtube_video_id: 
+apple_track_id: 1000526662957
+youtube_metadata: 
+---

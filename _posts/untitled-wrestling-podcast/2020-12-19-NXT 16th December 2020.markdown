@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 16th December 2020"
+date: 2020-12-19
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 459Jj2VYyNZbtnczBCqYJF
+youtube_video_id: 
+apple_track_id: 1000502880550
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 21st April 2021"
+date: 2021-04-22
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 10wGdzNgq1hJig00VEmQFM
+youtube_video_id: 
+apple_track_id: 1000518278266
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 2nd April 2021"
+date: 2021-04-02
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 0EfKQE1iF0T6ko2GkYcRw0
+youtube_video_id: 
+apple_track_id: 1000515531859
+youtube_metadata: 
+---

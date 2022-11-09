@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 27th April 2021"
+date: 2021-04-28
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 4N3sa6iGg8zcHuaKEIQMa1
+youtube_video_id: 
+apple_track_id: 1000519109197
+youtube_metadata: 
+---

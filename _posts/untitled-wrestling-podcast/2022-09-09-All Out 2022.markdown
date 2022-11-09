@@ -1,0 +1,11 @@
+---
+layout: post
+title: "All Out 2022"
+date: 2022-09-09
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 6z1olnNHrmYN5QukEcexE5
+youtube_video_id: 
+apple_track_id: 1000579002710
+youtube_metadata: 
+---

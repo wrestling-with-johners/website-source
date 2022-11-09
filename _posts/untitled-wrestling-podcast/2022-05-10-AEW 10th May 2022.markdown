@@ -1,0 +1,11 @@
+---
+layout: post
+title: "AEW 10th May 2022"
+date: 2022-05-10
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 27mzhGI5eA3zhUbiDCwCsc
+youtube_video_id: 
+apple_track_id: 1000560371492
+youtube_metadata: 
+---

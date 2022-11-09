@@ -1,0 +1,11 @@
+---
+layout: post
+title: "AEW 20th April 2022"
+date: 2022-04-20
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 6kK2VSCdXEVyaQNQpyz7Lh
+youtube_video_id: 
+apple_track_id: 1000558165724
+youtube_metadata: 
+---

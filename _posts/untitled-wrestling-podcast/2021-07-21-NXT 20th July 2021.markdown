@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 20th July 2021"
+date: 2021-07-21
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 2csU1HiyVdIHx3bwhuVXEa
+youtube_video_id: 
+apple_track_id: 1000529629838
+youtube_metadata: 
+---

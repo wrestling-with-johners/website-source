@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT UK 22nd July 2021"
+date: 2021-07-25
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 1qTKzHkUOtthahaNHa7cYC
+youtube_video_id: 
+apple_track_id: 1000529950449
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 15th June 2021"
+date: 2021-06-16
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 5yzhkgkVMmZIbsDe74OwJh
+youtube_video_id: 
+apple_track_id: 1000525786358
+youtube_metadata: 
+---

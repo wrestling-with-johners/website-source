@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 11th May 2021"
+date: 2021-05-13
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 6x5BSLqw8upizUX4Nvug2J
+youtube_video_id: 
+apple_track_id: 1000521597152
+youtube_metadata: 
+---

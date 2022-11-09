@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NXT 2.0 28th September 2021"
+date: 2021-09-29
+categories: untitled-wrestling-podcast
+author: untitled-wrestling-podcast
+spotify_track_id: 1CsIeG1oCpgVEqGAYEI13N
+youtube_video_id: 
+apple_track_id: 1000537034978
+youtube_metadata: 
+---
