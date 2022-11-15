@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ELIJAH, Live Interview - Wrestling With Johners LIVE!"
-date: 2022-11-08
+title: "ELIJAH, Live Interview (PROGRESS, Pro Wrestling Chaos, Dragon Pro, ATTACK! Cara Noir + so much more)"
+date: 2022-11-15
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
