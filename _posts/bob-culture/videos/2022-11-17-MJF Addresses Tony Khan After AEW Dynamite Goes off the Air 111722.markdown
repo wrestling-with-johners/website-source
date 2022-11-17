@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MJF after AEW Dynamite Goes off the air"
+title: "MJF Addresses Tony Khan After AEW Dynamite Goes off the Air 11/17/22"
 date: 2022-11-17
 categories: bob-culture videos
 author: bob-culture
