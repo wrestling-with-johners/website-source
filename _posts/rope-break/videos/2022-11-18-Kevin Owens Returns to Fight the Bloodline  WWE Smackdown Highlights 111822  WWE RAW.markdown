@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE Smackdown Highlights 11/18/22 | WWE RAW | NXT | The Week in WWE"
+title: "Kevin Owens Returns to Fight the Bloodline | WWE Smackdown Highlights 11/18/22 | WWE RAW"
 date: 2022-11-18
 categories: rope-break videos
 author: rope-break
