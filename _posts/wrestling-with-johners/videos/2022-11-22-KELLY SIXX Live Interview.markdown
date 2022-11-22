@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "KELLY SIXX, Live Interview - Wrestling With Johners LIVE!"
-date: 2022-11-17
+title: "KELLY SIXX, Live Interview"
+date: 2022-11-22
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
