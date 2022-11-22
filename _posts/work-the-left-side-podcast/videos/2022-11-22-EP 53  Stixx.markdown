@@ -1,0 +1,11 @@
+---
+layout: post
+title: "EP 53 - Stixx"
+date: 2022-11-22
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: e54wSSr-WyU
+apple_track_id: 
+youtube_metadata: 
+---
