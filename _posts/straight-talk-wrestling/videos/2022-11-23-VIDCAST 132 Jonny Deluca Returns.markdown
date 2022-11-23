@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 132! Jonny Deluca Returns"
-date: 2022-11-22
+date: 2022-11-23
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
