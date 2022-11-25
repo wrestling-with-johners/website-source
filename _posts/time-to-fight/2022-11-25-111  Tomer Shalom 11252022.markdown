@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#111 - Tomer Shalom 11/25/2022"
+date: 2022-11-25
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 4rHFhHeRmRt9ZJn8f7NHGw
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
