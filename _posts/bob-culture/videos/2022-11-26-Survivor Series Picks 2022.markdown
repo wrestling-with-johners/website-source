@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Survivor Series Picks 2022"
-date: 2022-11-25
+date: 2022-11-26
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
