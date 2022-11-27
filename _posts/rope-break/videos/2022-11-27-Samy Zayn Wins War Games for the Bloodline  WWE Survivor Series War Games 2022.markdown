@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Samy Zayn is Loyal to the Bloodline | WWE Survivor Series War Games 2022"
+title: "Samy Zayn Wins War Games for the Bloodline | WWE Survivor Series War Games 2022"
 date: 2022-11-27
 categories: rope-break videos
 author: rope-break
