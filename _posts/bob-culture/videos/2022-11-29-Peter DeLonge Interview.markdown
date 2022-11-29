@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peter Delonge Interview"
+title: "Peter DeLonge Interview"
 date: 2022-11-29
 categories: bob-culture videos
 author: bob-culture
