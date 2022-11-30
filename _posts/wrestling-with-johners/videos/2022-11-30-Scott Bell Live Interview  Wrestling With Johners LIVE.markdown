@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scott Bell, Live Interview - Wrestling With Johners LIVE!"
-date: 2022-11-26
+date: 2022-11-30
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
