@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 133! Featuring Destiny  Heavyweight Champion Aiden Prince"
-date: 2022-11-29
+date: 2022-11-30
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
