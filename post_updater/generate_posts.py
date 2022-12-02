@@ -401,36 +401,43 @@ class PostWriter:
   def match_with_existing(self, parent_directory, data, filename_pattern):
     for name in os.listdir(parent_directory):
       if re.match(filename_pattern, name):
-        print ('Matched {} with existing {}'.format(data.title, name))
+        print ('Potential Match for {} with existing {}'.format(data.title, name))
         filename = name
         existing_file = open(os.path.join(parent_directory, name), 'r')
         lines = existing_file.readlines()
-        title = lines[2].split(':', 1)[1].strip()
-        title = title[1:-1]
-        data.title = title
-        data.date = datetime.datetime.strptime(lines[3].split(':')[1].strip(), '%Y-%m-%d').date()
-        data.categories.update(lines[4].split(':', 1)[1].strip().split(' '))
-        data.author = lines[5].split(':', 1)[1].strip()
-        spotify_track_id = lines[6].split(':', 1)[1].strip()
-        youtube_video_id = lines[7].split(':', 1)[1].strip()
-        apple_track_id = lines[8].split(':', 1)[1].strip()
-        if lines[9].strip() == '---':
-          print('Existing youtube metadata not found')
-          youtube_metadata = None
+
+        # If an item has a matching title and release date within a week of another we assume they're the same thing
+        date_in_file = datetime.datetime.strptime(lines[3].split(':')[1].strip(), '%Y-%m-%d').date()
+        if abs((date_in_file - data.date).days) <= 7:
+          print ('Matched {} with existing {}'.format(data.title, name))
+          data.date = date_in_file
+          title = lines[2].split(':', 1)[1].strip()
+          title = title[1:-1]
+          data.title = title
+          data.categories.update(lines[4].split(':', 1)[1].strip().split(' '))
+          data.author = lines[5].split(':', 1)[1].strip()
+          spotify_track_id = lines[6].split(':', 1)[1].strip()
+          youtube_video_id = lines[7].split(':', 1)[1].strip()
+          apple_track_id = lines[8].split(':', 1)[1].strip()
+          if lines[9].strip() == '---':
+            print('Existing youtube metadata not found')
+            youtube_metadata = None
+          else:
+            youtube_metadata = self.parse_youtube_metadata(lines[9].strip())
+          if spotify_track_id:
+            data.spotify_track_id = spotify_track_id
+          if youtube_video_id:
+            data.youtube_video_id = youtube_video_id
+          if apple_track_id:
+            data.apple_track_id = apple_track_id
+          if youtube_metadata:
+            new_youtube_metadata = data.youtube_metadata
+            data.youtube_metadata = youtube_metadata
+            for metadata in new_youtube_metadata:
+              data.add_youtube_metadata(metadata)
+          break
         else:
-          youtube_metadata = self.parse_youtube_metadata(lines[9].strip())
-        if spotify_track_id:
-          data.spotify_track_id = spotify_track_id
-        if youtube_video_id:
-          data.youtube_video_id = youtube_video_id
-        if apple_track_id:
-          data.apple_track_id = apple_track_id
-        if youtube_metadata:
-          new_youtube_metadata = data.youtube_metadata
-          data.youtube_metadata = youtube_metadata
-          for metadata in new_youtube_metadata:
-            data.add_youtube_metadata(metadata)
-        break
+          print('Unable to match, file date ({}) and data date ({}) are not within a week of each other'.format(date_in_file, date.date))
 
   def output_to_file(self, parent_directory, data):
     data.categories.update(self.categories)

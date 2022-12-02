@@ -2,12 +2,14 @@
   > * {
     margin-bottom: 1rem;
   }
+
   .social-flexbox {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 0;
     margin-bottom: 0;
+
     .anchor-image {
       width: 2.2em;
       height: 1.8em;

@@ -65,7 +65,7 @@ exclude:
   - post_updater/
 
 # Categories
-permalink: /:categories/:title/
+permalink: pretty
 
 # Collections
 collections:

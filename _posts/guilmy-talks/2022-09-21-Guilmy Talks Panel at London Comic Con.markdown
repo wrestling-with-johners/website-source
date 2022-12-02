@@ -1,4 +1,4 @@
----
+/:categories/:title/---
 layout: post
 title: "Guilmy Talks Panel at London Comic Con"
 date: 2022-09-21
