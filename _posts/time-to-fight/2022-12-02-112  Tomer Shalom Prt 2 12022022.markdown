@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#112 - Tomer Shalom (Prt 2) 12/02/2022"
+date: 2022-12-02
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 78Q1QneTsaHxDuYiUaZSlb
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
