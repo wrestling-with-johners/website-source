@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind! Fusion watch along Dec 1"
-date: 2022-12-01
+date: 2022-12-02
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
