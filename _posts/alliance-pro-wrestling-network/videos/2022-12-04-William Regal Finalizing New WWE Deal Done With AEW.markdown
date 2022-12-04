@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "William Regal Is Done With The Company As Per AEW Sources, Regal Finalizing New WWE Deal?"
+title: "William Regal Finalizing New WWE Deal, Done With AEW"
 date: 2022-12-04
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
