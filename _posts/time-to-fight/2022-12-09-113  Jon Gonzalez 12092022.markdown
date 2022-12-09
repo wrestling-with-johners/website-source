@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#113 - Jon Gonzalez 12/09/2022"
+date: 2022-12-09
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 02qlTjy6tKTP7pyqtPNO2g
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
