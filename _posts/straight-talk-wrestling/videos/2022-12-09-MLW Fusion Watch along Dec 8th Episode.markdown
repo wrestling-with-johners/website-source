@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Fusion Watch along Dec 8th Episode"
-date: 2022-12-08
+date: 2022-12-09
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
