@@ -72,26 +72,29 @@ class YoutubeScraper:
     continue_search = True
 
     for result in results.get('items', []):
-      snippet = result['snippet']
-      title = escape_for_frontmatter(html.unescape(snippet['title']))
-      print ('Youtube `{}`'.format(title))
-      episode_number = find_episode_number(title)
-      if episode_number == None:
-        description = snippet['description']
-        description_split = description.split('\n')
-        description_last_line = description_split[-1]
-        episode_number = find_episode_number(description_last_line)
-        part_number = find_part_number(description_last_line)
-      else:
-        part_number = find_part_number(title)
-      video_id = snippet['resourceId']['videoId']
-      date_time = result['contentDetails']['videoPublishedAt']
-      date = datetime_parser.isoparse(date_time).date()
-      if date >= self.search_from_date:
-        data.append(YoutubeData(episode_number, part_number, title, date, video_id))
-      else:
-        continue_search = False
-        break
+      # Ignore any video without a published at, they're private or otherwise not applicable
+      content_details = result['contentDetails']
+      if 'videoPublishedAt' in content_details:
+        date_time = content_details['videoPublishedAt']
+        date = datetime_parser.isoparse(date_time).date()
+        snippet = result['snippet']
+        title = escape_for_frontmatter(html.unescape(snippet['title']))
+        print ('Youtube `{}`'.format(title))
+        episode_number = find_episode_number(title)
+        if episode_number == None:
+          description = snippet['description']
+          description_split = description.split('\n')
+          description_last_line = description_split[-1]
+          episode_number = find_episode_number(description_last_line)
+          part_number = find_part_number(description_last_line)
+        else:
+          part_number = find_part_number(title)
+        video_id = snippet['resourceId']['videoId']
+        if date >= self.search_from_date:
+          data.append(YoutubeData(episode_number, part_number, title, date, video_id))
+        else:
+          continue_search = False
+          break
 
     if continue_search and 'nextPageToken' in results:
       print ('token {}'. format(results['nextPageToken']))
