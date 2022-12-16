@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#114 - Ronnie Gaffe 12/16/2022"
+date: 2022-12-16
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 3ObDbSxa1oJg0SX09xCROd
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
