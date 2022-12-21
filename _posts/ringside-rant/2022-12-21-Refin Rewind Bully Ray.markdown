@@ -6,6 +6,6 @@ categories: ringside-rant
 author: ringside-rant
 spotify_track_id: 50TIBgYpgQ7axUjOyMeW0k
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000590880319
 youtube_metadata: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 136! Featuring Warhorse"
-date: 2022-12-18
+date: 2022-12-21
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
