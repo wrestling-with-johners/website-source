@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNBOXING LIVE V HYPE SHOW - Wrestling With Johners & The Mad Dog Mike Angus"
+title: "Progress Wrestling - UNBOXING LIVE V HYPE SHOW - Wrestling With Johners & The Mad Dog Mike Angus"
 date: 2022-12-22
 categories: videos wrestling-with-johners
 author: john
