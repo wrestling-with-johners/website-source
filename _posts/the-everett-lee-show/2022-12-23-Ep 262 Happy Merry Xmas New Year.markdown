@@ -6,6 +6,6 @@ categories: the-everett-lee-show
 author: the-everett-lee-show
 spotify_track_id: 2ekMcrUlsK5UVCba9wzkEc
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000591132508
 youtube_metadata: 
 ---
