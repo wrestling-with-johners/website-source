@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 137!  Gabriel Fuerza is back for round 4!"
-date: 2022-12-27
+date: 2022-12-28
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
