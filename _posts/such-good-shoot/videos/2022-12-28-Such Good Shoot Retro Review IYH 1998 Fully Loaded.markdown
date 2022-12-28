@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Such Good Shoot: Retro Review IYH 1998 Fully Loaded"
-date: 2022-12-27
+date: 2022-12-28
 categories: such-good-shoot videos
 author: such-good-shoot
 spotify_track_id: 
