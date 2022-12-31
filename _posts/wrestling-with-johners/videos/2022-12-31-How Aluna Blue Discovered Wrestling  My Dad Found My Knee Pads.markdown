@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Aluna Blue Discovered Wrestling 💙 \"My Dad Found My Knee Pads...\""
-date: 2022-12-29
+date: 2022-12-31
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
