@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind Jan 5th Watch Along"
-date: 2023-01-05
+date: 2023-01-06
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
