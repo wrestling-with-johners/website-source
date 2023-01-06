@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Alliance Pro Wrestling Special Interview with Impact Wrestling Superstar Mickie James"
+title: "A Very Special Interview With Impact Wrestling Superstar Mickie James"
 date: 2023-01-05
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
