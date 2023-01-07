@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vince McMahon Returns to WWE | WWE Smackdown Review 1/6/23"
+title: "Vince McMahon Officially Returns to WWE | WWE Smackdown Review 1/6/23"
 date: 2023-01-07
 categories: rope-break videos
 author: rope-break
