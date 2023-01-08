@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Such Good Shoot- The chokehold chinlock episode"
-date: 2023-01-07
+date: 2023-01-08
 categories: such-good-shoot videos
 author: such-good-shoot
 spotify_track_id: 
