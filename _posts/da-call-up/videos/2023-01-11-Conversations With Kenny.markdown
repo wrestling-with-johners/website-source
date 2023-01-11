@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conversations With Kenny"
-date: 2023-01-10
+date: 2023-01-11
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
