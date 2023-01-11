@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'The Brilliance' JAMES ELLIS, Live Interview - Wrestling With Johners LIVE!"
-date: 2023-01-05
+date: 2023-01-11
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
