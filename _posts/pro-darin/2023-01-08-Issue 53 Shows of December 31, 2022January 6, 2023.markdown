@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Issue 53 Shows of December 31, 2022January 6, 2023"
+title: "Issue 53 Shows of December 31, 2022 January 6, 2023"
 date: 2023-01-08
 categories:   articles
 spotify_track_id:
