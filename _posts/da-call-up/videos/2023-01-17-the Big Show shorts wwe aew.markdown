@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best of the Big Show #shorts #wwe #aew"
+title: "the Big Show #shorts #wwe #aew"
 date: 2023-01-17
 categories: da-call-up videos
 author: da-call-up
