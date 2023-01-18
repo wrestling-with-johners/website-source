@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 140! Featuring Owner of Destiny World Wrestling Emilio Albi"
-date: 2023-01-15
+date: 2023-01-18
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
