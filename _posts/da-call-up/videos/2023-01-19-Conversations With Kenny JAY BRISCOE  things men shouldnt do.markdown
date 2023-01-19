@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conversations With Kenny: JAY BRISCOE , things men shouldn’t do"
-date: 2023-01-18
+date: 2023-01-19
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
