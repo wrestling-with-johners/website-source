@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Fusion watch along Jan 19th"
-date: 2023-01-19
+date: 2023-01-20
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
