@@ -440,7 +440,7 @@ class PostWriter:
               data.add_youtube_metadata(metadata)
           break
         else:
-          print('Unable to match, file date ({}) and data date ({}) are not within a week of each other'.format(date_in_file, date.date))
+          print('Unable to match, file date ({}) and data date ({}) are not within a week of each other'.format(date_in_file, data.date))
 
   def output_to_file(self, parent_directory, data):
     data.categories.update(self.categories)
