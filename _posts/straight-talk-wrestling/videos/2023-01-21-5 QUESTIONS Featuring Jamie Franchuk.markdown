@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 QUESTIONS! Featuring Jamie Franchuk"
-date: 2023-01-19
+date: 2023-01-21
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
