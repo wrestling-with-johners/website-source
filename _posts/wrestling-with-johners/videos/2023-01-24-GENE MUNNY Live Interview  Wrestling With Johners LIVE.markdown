@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GENE MUNNY, Live Interview - Wrestling With Johners LIVE!"
-date: 2023-01-11
+date: 2023-01-24
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
