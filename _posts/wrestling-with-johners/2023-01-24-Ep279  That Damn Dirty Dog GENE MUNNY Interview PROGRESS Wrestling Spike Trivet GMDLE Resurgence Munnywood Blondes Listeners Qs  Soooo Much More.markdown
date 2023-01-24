@@ -6,6 +6,6 @@ categories: interviews wrestling-with-johners
 author: john
 spotify_track_id: 3UIvjw3BJ1IOFI12UmQOox
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000596374415
 youtube_metadata: 
 ---
