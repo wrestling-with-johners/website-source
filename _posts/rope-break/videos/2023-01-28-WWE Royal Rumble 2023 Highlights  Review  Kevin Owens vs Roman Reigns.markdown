@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE Royal Rumble 2023 Highlights & Review"
+title: "WWE Royal Rumble 2023 Highlights & Review | Kevin Owens vs Roman Reigns"
 date: 2023-01-28
 categories: rope-break videos
 author: rope-break
