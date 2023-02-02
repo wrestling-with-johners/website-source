@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kenny King Re-signs With Impact; Could a Josh Alexander vs Kota Ibushi Dream Match Become A Reality?"
+title: "Kenny King Re-Signs With Impact; Could a Josh Alexander vs Kota Ibushi Dream Match Become A Reality?"
 date: 2023-02-02
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
