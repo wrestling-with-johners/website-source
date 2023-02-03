@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ryan lowe"
+title: "Interview with The Real Ryan Lowe Brand"
 date: 2023-02-03
 categories: my-britwres-journey videos
 author: my-britwres-journey
