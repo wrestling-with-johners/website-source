@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joshi Star Unagi Sayaka Wants To Wrestle For Impact Wrestling"
+title: "Former STARDOM Star Unagi Sayaka Wants To Wrestle For Impact Wrestling"
 date: 2023-02-04
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
