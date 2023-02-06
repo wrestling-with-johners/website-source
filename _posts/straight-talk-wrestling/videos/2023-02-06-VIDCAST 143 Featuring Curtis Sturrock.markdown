@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 143! Featuring Curtis Sturrock"
-date: 2023-02-05
+date: 2023-02-06
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
