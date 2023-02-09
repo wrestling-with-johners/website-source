@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 145! Emilio Albi Returns"
-date: 2023-02-08
+date: 2023-02-09
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
