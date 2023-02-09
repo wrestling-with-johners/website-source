@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Being  a guest coach ain’t easy @battleartsprofessionalwres8555  #wrestling #biral"
+title: "Being  a guest coach ain’t easy @battleartsprofessionalwres8555  #wrestling #virl #indywrestling"
 date: 2023-02-09
 categories: straight-talk-wrestling videos
 author: george-mckay
