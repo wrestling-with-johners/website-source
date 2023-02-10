@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NWP Eminent 8"
+title: "New Wave Pro - Eminent 8 Tournament Recap"
 date: 2023-02-10
 categories: toilet-side-wrestling-talk videos
 author: toilet-side-wrestling-talk
