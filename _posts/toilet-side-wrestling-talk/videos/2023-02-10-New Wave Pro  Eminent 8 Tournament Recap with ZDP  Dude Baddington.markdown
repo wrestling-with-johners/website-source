@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Wave Pro - Eminent 8 Tournament Recap"
+title: "New Wave Pro - Eminent 8 Tournament Recap with Z.D.P. & Dude Baddington"
 date: 2023-02-10
 categories: toilet-side-wrestling-talk videos
 author: toilet-side-wrestling-talk
