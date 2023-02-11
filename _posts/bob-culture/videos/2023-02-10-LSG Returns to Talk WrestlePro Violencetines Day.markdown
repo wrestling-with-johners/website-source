@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSG Returns to Talk WrestlePro Violenctine's Day"
+title: "LSG Returns to Talk WrestlePro Violencetine's Day"
 date: 2023-02-10
 categories: bob-culture videos
 author: bob-culture
