@@ -6,6 +6,6 @@ categories: alliance-pro-wrestling-network interviews
 author: lewis-carlan
 spotify_track_id: 0bjvtEj18JCD4870aRzwgS
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000599214749
 youtube_metadata: 
 ---
