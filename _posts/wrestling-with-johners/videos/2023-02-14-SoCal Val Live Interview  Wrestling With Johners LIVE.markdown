@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "SoCal Val, Live Interview - Wrestling With Johners LIVE!"
-date: 2023-02-04
+title: "SoCal Val, Live Interview 💄 Wrestling With Johners LIVE!"
+date: 2023-02-14
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
