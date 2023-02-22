@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 147! Jacques Rougeau Returns"
-date: 2023-02-21
+date: 2023-02-22
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
