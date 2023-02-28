@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Walk and Talk Feb 23, 2023"
+date: 2023-02-27
+categories: guilmy-talks
+author: justin-guilmette
+spotify_track_id: 3I673XTiT3hRiSZQnVQQba
+youtube_video_id: 
+apple_track_id: 1000601963147
+youtube_metadata: 
+---

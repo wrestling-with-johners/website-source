@@ -44,3 +44,17 @@ JavaScript warning: https://podcasts.apple.com/assets/vendor-a5a4010aa5f0690db29
 1677575872286	Marionette	INFO	Stopped listening on port 45449
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1677585906400	geckodriver	INFO	Listening on 127.0.0.1:55245
+1677585907406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileByVPIM"
+*** You are running in headless mode.
+1677585907656	Marionette	INFO	Marionette enabled
+1677585907660	Marionette	INFO	Listening on port 35573
+1677585907831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677585907942	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42697","noProxy":[],"sslProxy":"127.0.0.1:42697"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileByVPIM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://podcasts.apple.com/assets/vendor-a5a4010aa5f0690db294f545165dd8ab.js, line 5431: unreachable code after return statement
+1677585917277	Marionette	INFO	Stopped listening on port 35573
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
