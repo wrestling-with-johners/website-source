@@ -1,4 +1,5 @@
 from seleniumwire import webdriver
+from selenium.webdriver.common.by import By
 
 def get_auth():
   # Setup headless Firefox web driver.
@@ -11,7 +12,7 @@ def get_auth():
     driver.scopes = ['https://amp-api.podcasts.apple.com/v1/*']
     driver.get('https://podcasts.apple.com/us/podcast/wrestling-with-johners-podcast/id1442108418')
 
-    driver.find_element_by_css_selector('body > div.ember-view > main > div.animation-wrapper.is-visible > div > section:nth-child(1) > div > div.l-column.small-12.medium-7.large-8.small-valign-top > div.product-hero__tracks > div > div > button').click()
+    driver.find_element(By.CSS_SELECTOR, 'body > div.ember-view > main > div.animation-wrapper.is-visible > div > section:nth-child(1) > div > div.l-column.small-12.medium-7.large-8.small-valign-top > div.product-hero__tracks > div > div > button').click()
 
     # Wait for a request which contains the authorisation token.
     request = driver.wait_for_request('https://amp-api.podcasts.apple.com/', 90)
