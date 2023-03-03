@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'The Bastard Son' BEVAN, Live Interview - Wrestling With Johners LIVE!"
-date: 2023-02-27
+date: 2023-03-03
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
