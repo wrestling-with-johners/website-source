@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DEATH MATCH RUSSELL PODCAST LIVE WITH DEATH MATCH PRO WRESTLER JUDGE JOE DRED"
-date: 2023-03-02
+date: 2023-03-05
 categories: death-match-russell videos
 author: death-match-russell
 spotify_track_id: 
