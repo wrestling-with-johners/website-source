@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Check out The Chokeslam Wrestling Report new episode. AEW Revolution predictions"
+title: "TCWR EP#129 AEW Revolution predictions new episode available on the channel"
 date: 2023-03-05
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
