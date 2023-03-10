@@ -3,4 +3,4 @@ _site
 .jekyll-metadata
 /vendor/
 .jekyll-cache
-post_updater/__pycache__/
+post-updater/__pycache__/

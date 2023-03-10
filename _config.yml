@@ -62,7 +62,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - post_updater/
+  - post-updater/
 
 # Categories
 permalink: pretty

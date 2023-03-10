@@ -21,7 +21,7 @@ jobs:
       - name: Checkout source branch
         run: |
           mkdir source
-          git clone ssh://git@github.com/wrestling-with-johners/website-source.git source
+          git clone --recurse-submodules ssh://git@github.com/wrestling-with-johners/website-source.git source
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -31,11 +31,11 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r source/post_updater/requirements.txt
+          pip install -r source/post-updater/requirements.txt
 
       - name: Update Lucha Libre & Laughs
         run: |
-          ./source/post_updater/generate_posts.py \
+          ./source/post-updater/generate_posts.py \
             --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
             --output source/_posts/lucha-libre-and-laughs/ \
             --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
@@ -45,7 +45,7 @@ jobs:
           
       - name: Update All Podcasts
         run: |
-          ./source/post_updater/generate_podcast_posts.py \
+          ./source/post-updater/generate_podcast_posts.py \
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
           --output source/_posts/ \
           --podcastsfile source/_data/podcasts.yml \
@@ -55,7 +55,7 @@ jobs:
 
       - name: Update Half Decent
         run: |
-          ./source/post_updater/generate_posts.py \
+          ./source/post-updater/generate_posts.py \
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
           --output source/_posts/half-decent/ \
           --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
