@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Message to Triple H from The Mountie, Jacques Rougeau"
+title: "Hall of Fame Message to Triple H from The Mountie, Jacques Rougeau"
 date: 2023-03-11
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
