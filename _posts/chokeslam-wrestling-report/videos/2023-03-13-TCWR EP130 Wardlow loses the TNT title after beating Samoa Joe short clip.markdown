@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The new episode on my channel."
+title: "TCWR EP#130: Wardlow loses the TNT title after beating Samoa Joe, short clip"
 date: 2023-03-13
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
