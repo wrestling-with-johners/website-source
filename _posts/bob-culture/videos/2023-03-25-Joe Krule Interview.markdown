@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joe Krule Interview"
-date: 2023-03-24
+date: 2023-03-25
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
