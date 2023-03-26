@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CM Punk rant on Moxley, Jericho & AEW, Goldberg AEW bound?  NJPW & WWE news!"
+title: "TCWR Ep:#132: CM Punk rant on Moxley, Jericho & AEW, Goldberg AEW bound?  NJPW & WWE news!"
 date: 2023-03-25
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
