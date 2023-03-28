@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 153! Destiny President Emilo Albi Returns"
-date: 2023-03-27
+date: 2023-03-28
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
