@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCWR EP:# 133 ROH Supercard of Honor Review, Wrestlemania talk, Danielson heel turn plus more"
+title: "TCWR EP:#133 ROH Supercard of Honor Review, Wrestlemania talk, Danielson heel turn plus more"
 date: 2023-04-01
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
