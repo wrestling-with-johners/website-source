@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wrestlemania Pre show prediction party"
-date: 2023-04-01
+date: 2023-04-02
 categories: such-good-shoot videos
 author: such-good-shoot
 spotify_track_id: 
