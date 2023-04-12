@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Double Feature of Doom, Episode 9"
-date: 2023-04-11
+date: 2023-04-12
 categories: lucha-libre-and-laughs videos
 author: lucha-libre-and-laughs
 spotify_track_id: 
