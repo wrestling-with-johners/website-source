@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Roger Mendez Interview"
-date: 2023-04-11
+date: 2023-04-12
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
