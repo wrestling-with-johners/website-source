@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Bloodline BOOSTED WWE attendance numbers"
+title: "How The Bloodline BOOSTED WWE attendance numbers"
 date: 2023-04-12
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
