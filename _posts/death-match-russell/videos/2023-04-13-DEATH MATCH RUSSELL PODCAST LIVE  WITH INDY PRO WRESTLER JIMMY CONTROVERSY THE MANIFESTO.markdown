@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DEATH MATCH RUSSELL PODCAST LIVE  WITH INDY PRO WRESTLER JIMMY CONTROVERSY THE MANIFESTO"
-date: 2023-04-12
+date: 2023-04-13
 categories: death-match-russell videos
 author: death-match-russell
 spotify_track_id: 
