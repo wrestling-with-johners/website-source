@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 273, Jus Sayin"
+date: 2023-04-13
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 7MyB8374F4Gq24KIRRvlkp
+youtube_video_id: 
+apple_track_id: 1000608861380
+youtube_metadata: 
+---
