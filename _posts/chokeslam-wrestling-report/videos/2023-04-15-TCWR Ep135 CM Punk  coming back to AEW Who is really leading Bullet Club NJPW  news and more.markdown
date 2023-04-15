@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CM Punk coming back to AEW? Who is really leading Bullet Club, New Japan News plus more"
+title: "TCWR Ep#135: CM Punk  coming back to AEW? Who is really leading Bullet Club, NJPW  news and more!"
 date: 2023-04-15
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
