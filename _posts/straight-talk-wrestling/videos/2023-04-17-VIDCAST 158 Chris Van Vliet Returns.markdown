@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 158! Chris Van Vliet Returns"
-date: 2023-04-15
+date: 2023-04-17
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
