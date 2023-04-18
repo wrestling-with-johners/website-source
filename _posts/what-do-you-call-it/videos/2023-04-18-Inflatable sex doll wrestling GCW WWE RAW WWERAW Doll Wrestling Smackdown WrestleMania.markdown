@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inflatable sex doll gets the win #GCW #WWE #RAW #WWERAW #Doll #Wrestling #Smackdown #WrestleMania"
+title: "Inflatable sex doll wrestling #GCW #WWE #RAW #WWERAW #Doll #Wrestling #Smackdown #WrestleMania"
 date: 2023-04-18
 categories: videos what-do-you-call-it
 author: what-do-you-call-it
