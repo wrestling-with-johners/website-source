@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind! Rewind Battle riot 5"
-date: 2023-04-25
+date: 2023-04-26
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
