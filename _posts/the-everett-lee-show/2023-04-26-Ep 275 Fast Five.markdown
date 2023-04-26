@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 275, Fast Five"
+date: 2023-04-26
+categories: the-everett-lee-show
+author: the-everett-lee-show
+spotify_track_id: 6iNmB86vPy4LBvNqe3MpP4
+youtube_video_id: 
+apple_track_id: 1000610789098
+youtube_metadata: 
+---
