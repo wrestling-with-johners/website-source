@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#119 - Kobe Durst 04/28/2023"
+date: 2023-04-28
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 6yBRfU7M6lmMVRHgPsoqk6
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
