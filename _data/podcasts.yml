@@ -141,6 +141,8 @@
   background: chaos-theory-background.jpg
   category: chaos-theory
   author: chaos-theory
+  inactive: true
+  apple_search_disabled: true
   youtube_playlist_id: UUcADpfyDa-WwPuOLlyItuCg
   spotify_show_id: 6EyavTabhfyWahfaFRjzTf
   apple_podcast_id: 1520596733
