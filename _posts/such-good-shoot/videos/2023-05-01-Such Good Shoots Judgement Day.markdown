@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Such Good Shoot's Judgement Day"
-date: 2023-04-29
+date: 2023-05-01
 categories: such-good-shoot videos
 author: such-good-shoot
 spotify_track_id: 
