@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE’s new World Heavyweight Championship #shorts"
+title: "TCWR Ep:#137: WWE’s new World Heavyweight Championship #shorts"
 date: 2023-05-01
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
