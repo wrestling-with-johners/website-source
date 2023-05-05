@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#120 - Pretty Ricky Wildy 05/05/2023"
+date: 2023-05-05
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 1vHiAAIvOOknkC4ac8T9eK
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
