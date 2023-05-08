@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crowbar Interview"
-date: 2023-05-07
+date: 2023-05-08
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
