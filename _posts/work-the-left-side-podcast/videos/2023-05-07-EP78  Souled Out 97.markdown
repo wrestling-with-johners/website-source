@@ -1,0 +1,11 @@
+---
+layout: post
+title: "EP78 - Souled Out 97"
+date: 2023-05-07
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: 9tQFqlPgP68
+apple_track_id: 
+youtube_metadata: 
+---
