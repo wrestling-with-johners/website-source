@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Prince of Pace' Callum Newman, Live Interview - Wrestling With Johners LIVE!"
-date: 2023-05-06
+date: 2023-05-11
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
