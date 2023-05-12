@@ -22,6 +22,21 @@ jobs:
         run: |
           mkdir source
           git clone --recurse-submodules ssh://git@github.com/wrestling-with-johners/website-source.git source
+          cd source
+          git config --local user.email 'action@github.com'
+          git config --local user.name 'GitHub Action'
+
+      - name: Update submodules
+        run : |
+          cd source
+          git submodule update --remote --rebase
+          if [ "$(git status --porcelain)" ]; then
+            echo "Submodule updated"
+            git add post-updater
+            git commit -m 'Updated posts'
+          else
+            echo "Submodule not updated"
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,14 +45,16 @@ jobs:
 
       - name: Install dependencies
         run: |
+          cd source
           python -m pip install --upgrade pip
-          pip install -r source/post-updater/requirements.txt
+          pip install -r post-updater/requirements.txt
 
       - name: Update Lucha Libre & Laughs
         run: |
-          ./source/post-updater/generate_posts.py \
+          cd source
+          ./post-updater/generate_posts.py \
             --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
-            --output source/_posts/lucha-libre-and-laughs/ \
+            --output _posts/lucha-libre-and-laughs/ \
             --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
             --youtubeplaylistid UUaKig-if6R4tPedRhbu2g6A \
             --category lucha-libre-and-laughs \
@@ -45,19 +62,21 @@ jobs:
           
       - name: Update All Podcasts
         run: |
-          ./source/post-updater/generate_podcast_posts.py \
+          cd source
+          ./post-updater/generate_podcast_posts.py \
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
-          --output source/_posts/ \
-          --podcastsfile source/_data/podcasts.yml \
+          --output _posts/ \
+          --podcastsfile _data/podcasts.yml \
           --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
           --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
           --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
       - name: Update Half Decent
         run: |
-          ./source/post-updater/generate_posts.py \
+          cd source
+          ./post-updater/generate_posts.py \
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
-          --output source/_posts/half-decent/ \
+          --output _posts/half-decent/ \
           --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
           --youtubeplaylistid UU7gyM94WNIEE2LAllK1V_3A \
           --category half-decent \
@@ -66,8 +85,6 @@ jobs:
       - name: Add, Commit then Push
         run: |
           cd source
-          git config --local user.email 'action@github.com'
-          git config --local user.name 'GitHub Action'
           git add -A .
           if [ "$(git status --porcelain)" ]; then
             echo "Commit required"
