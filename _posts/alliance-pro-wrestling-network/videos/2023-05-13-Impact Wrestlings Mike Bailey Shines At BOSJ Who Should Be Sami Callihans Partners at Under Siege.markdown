@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mike Bailey Shines At NJPW BOSJ; Who I Think Should Be Sami Callihan's Partners at Under Siege"
+title: "Impact Wrestling’s Mike Bailey Shines At BOSJ; Who Should Be Sami Callihan's Partners at Under Siege"
 date: 2023-05-13
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
