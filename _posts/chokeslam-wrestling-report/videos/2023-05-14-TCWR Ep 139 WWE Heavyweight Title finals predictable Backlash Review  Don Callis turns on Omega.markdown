@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "World Heavyweight Title tourney finals predictable, Backlash Review & Don Callis turns on Omega"
+title: "TCWR Ep #139: WWE Heavyweight Title finals predictable, Backlash Review & Don Callis turns on Omega!"
 date: 2023-05-14
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
