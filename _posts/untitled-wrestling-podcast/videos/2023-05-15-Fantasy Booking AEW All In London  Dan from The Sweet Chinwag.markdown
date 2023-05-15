@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fantasy Booking AEW All In London : Dan from The Sweet Chinwag"
-date: 2023-05-10
+date: 2023-05-15
 categories: untitled-wrestling-podcast videos
 author: untitled-wrestling-podcast
 spotify_track_id: 
