@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sheldon Jean Deserves A Push From IMPACT Wrestling Right Now; Sami Callihan Picks Rich Swann"
+title: "Sheldon Jean Deserves A Major Push From IMPACT Wrestling Right Now; Sami Callihan Picks Rich Swann"
 date: 2023-05-16
 categories: alliance-pro-wrestling-network videos
 author: lewis-carlan
