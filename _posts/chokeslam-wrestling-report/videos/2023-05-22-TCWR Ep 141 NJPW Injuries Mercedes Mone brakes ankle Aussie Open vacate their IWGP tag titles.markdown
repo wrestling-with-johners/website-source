@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NJPW Injuries, Mercedes Mone brakes ankle, Aussie Open vacate the Strong & IWGP tag titles?"
+title: "TCWR Ep: #141 NJPW Injuries, Mercedes Mone brakes ankle, Aussie Open vacate their IWGP tag titles."
 date: 2023-05-22
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
