@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 164! Featuring Sam Adonis"
-date: 2023-04-30
+date: 2023-05-24
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
