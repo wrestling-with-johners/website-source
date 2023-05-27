@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Night of Champions Picks 2023"
-date: 2023-05-26
+date: 2023-05-27
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
