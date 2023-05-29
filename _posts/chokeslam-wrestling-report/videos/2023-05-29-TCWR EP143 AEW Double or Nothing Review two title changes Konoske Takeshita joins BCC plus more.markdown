@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEW Double or Nothing Review, two title changes, Konoske Takeshita joins BCC plus more!"
+title: "TCWR EP:#143 AEW Double or Nothing Review, two title changes, Konoske Takeshita joins BCC plus more!"
 date: 2023-05-29
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
