@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Fantasy Booking AEW All In London : DJ King"
-date: 2023-05-24
-categories: untitled-wrestling-podcast videos
+date: 2023-05-29
+categories: untitled-wrestling-podcast
 author: untitled-wrestling-podcast
-spotify_track_id: 
-youtube_video_id: uH1widJCl3o
+spotify_track_id: 3CjYh229oZPwWPm1PyVaAv
+youtube_video_id: 
 apple_track_id: 
 youtube_metadata: 
 ---
