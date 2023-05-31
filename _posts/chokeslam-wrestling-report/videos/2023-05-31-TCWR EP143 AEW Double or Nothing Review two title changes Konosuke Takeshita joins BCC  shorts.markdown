@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sabu a bust as he appeared on AEW double or nothing #shorts #aew #sabu #adamcolebaybay"
+title: "TCWR EP:#143 AEW Double or Nothing Review, two title changes, Konosuke Takeshita joins BCC + #shorts"
 date: 2023-05-31
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
