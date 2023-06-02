@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind! June 1 Fusion Recap"
-date: 2023-06-01
+date: 2023-06-02
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
