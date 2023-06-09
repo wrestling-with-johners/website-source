@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind June 8th Recap"
-date: 2023-06-08
+date: 2023-06-09
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
