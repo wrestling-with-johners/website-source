@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Such Good Shoot Fall Brawl \"WAR GAMES\" but not really"
-date: 2023-06-11
+date: 2023-06-12
 categories: such-good-shoot videos
 author: such-good-shoot
 spotify_track_id: 
