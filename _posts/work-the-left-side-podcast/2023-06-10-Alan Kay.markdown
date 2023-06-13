@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Alan Kay "
+date: 2023-06-10
+categories: work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 1APxq1vJN3Thtzu6bDNYXE
+youtube_video_id: 
+apple_track_id: 1000616405458
+youtube_metadata: 
+---

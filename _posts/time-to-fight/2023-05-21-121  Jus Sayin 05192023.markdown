@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#121 - Jus Sayin' 05/19/2023"
+date: 2023-05-21
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 24pPjPxZ6vt4cNKoCb5jLN
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
