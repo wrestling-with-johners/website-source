@@ -27,7 +27,7 @@ jobs:
           git config --local user.name 'GitHub Action'
 
       - name: Update submodules
-        run : |
+        run: |
           cd source
           git submodule update --remote --rebase
           if [ "$(git status --porcelain)" ]; then
@@ -59,7 +59,7 @@ jobs:
             --youtubeplaylistid UUaKig-if6R4tPedRhbu2g6A \
             --category lucha-libre-and-laughs \
             --author lucha-libre-and-laughs
-          
+
       - name: Update All Podcasts
         run: |
           cd source
