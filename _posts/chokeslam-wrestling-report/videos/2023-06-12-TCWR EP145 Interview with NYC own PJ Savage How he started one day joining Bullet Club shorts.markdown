@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interview with NYC own PJ Savage. How he started in wrestling, one day joining BC? #shorts"
+title: "TCWR EP#145 Interview with NYC own PJ Savage. How he started, one day joining Bullet Club? #shorts"
 date: 2023-06-12
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
