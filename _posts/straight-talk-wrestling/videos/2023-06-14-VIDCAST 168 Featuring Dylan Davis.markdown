@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 168! Featuring Dylan Davis"
-date: 2023-06-13
+date: 2023-06-14
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
