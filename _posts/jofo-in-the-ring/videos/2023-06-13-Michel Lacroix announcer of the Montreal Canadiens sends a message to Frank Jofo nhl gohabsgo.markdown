@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Michel Lacroix announcer of the Montreal Canadiens   sends a message to Frank Jofo #nhl #gohabsgo"
+title: "Michel Lacroix announcer of the Montreal Canadiens sends a message to Frank Jofo #nhl #gohabsgo"
 date: 2023-06-13
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
