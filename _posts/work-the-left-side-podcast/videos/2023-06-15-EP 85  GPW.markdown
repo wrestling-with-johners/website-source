@@ -1,0 +1,11 @@
+---
+layout: post
+title: "EP 85 - GPW"
+date: 2023-06-15
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: yRKzRZS1oIw
+apple_track_id: 
+youtube_metadata: 
+---
