@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCWR Ep #Jey146 Jey Uso turns on Roman ending the Bloodline? CM Punk Drama, AEW Dynamite Feedback"
+title: "TCWR Ep #146 Jey Uso turns on Roman ending the Bloodline? CM Punk Drama, AEW Dynamite Review"
 date: 2023-06-17
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
