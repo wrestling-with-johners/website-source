@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "IRS holds a baby in WHAT?!?!? WWF FAMILY FEUD 1993 part 2"
-date: 2023-06-15
+title: "IRS holds a baby in WHAT?!?!? WWF FAMILY FEUD 1993"
+date: 2023-06-22
 categories: untitled-wrestling-podcast videos
 author: untitled-wrestling-podcast
 spotify_track_id: 
