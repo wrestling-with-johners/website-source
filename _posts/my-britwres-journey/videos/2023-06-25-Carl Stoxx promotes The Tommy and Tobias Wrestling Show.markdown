@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6,CS2"
+title: "Carl Stoxx promotes The Tommy and Tobias Wrestling Show"
 date: 2023-06-25
 categories: my-britwres-journey videos
 author: my-britwres-journey
