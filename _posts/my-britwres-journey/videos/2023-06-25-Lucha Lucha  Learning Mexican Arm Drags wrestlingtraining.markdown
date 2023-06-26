@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lucha Luch - Learning Mexican Arm Drags #wrestlingtraining"
+title: "Lucha Lucha - Learning Mexican Arm Drags #wrestlingtraining"
 date: 2023-06-25
 categories: my-britwres-journey videos
 author: my-britwres-journey
