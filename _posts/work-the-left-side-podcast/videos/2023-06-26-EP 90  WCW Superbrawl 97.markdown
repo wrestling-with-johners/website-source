@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "26 June 2023"
+title: "EP 90 - WCW Superbrawl 97"
 date: 2023-06-26
 categories: videos work-the-left-side-podcast
 author: nik-towers
