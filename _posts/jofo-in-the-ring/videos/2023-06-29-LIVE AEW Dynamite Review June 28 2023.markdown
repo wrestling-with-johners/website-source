@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEW Dynamite Review June 28, 2023"
+title: "LIVE AEW Dynamite Review June 28, 2023"
 date: 2023-06-29
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
