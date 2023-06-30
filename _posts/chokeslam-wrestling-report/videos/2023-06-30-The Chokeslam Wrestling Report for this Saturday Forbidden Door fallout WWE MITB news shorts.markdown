@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Chokeslam Wrestling Report promo for this Saturday. Forbidden Door fallout, WWE MITB news!"
+title: "The Chokeslam Wrestling Report for this Saturday. Forbidden Door fallout, WWE MITB news! #shorts"
 date: 2023-06-30
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
