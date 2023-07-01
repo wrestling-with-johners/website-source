@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Forbidden Door fallout, Omega vs Ospreay 3? Money in The Bank news? plus more"
+title: "TCWR Ep #148 Forbidden Door Review, Omega vs Ospreay 3? MITB Bloodline match not the main event?"
 date: 2023-07-01
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
