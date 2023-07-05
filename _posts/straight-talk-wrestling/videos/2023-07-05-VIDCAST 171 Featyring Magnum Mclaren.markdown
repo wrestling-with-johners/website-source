@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIDCAST 171! Featyring Magnum Mclaren"
-date: 2023-07-03
+date: 2023-07-05
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
