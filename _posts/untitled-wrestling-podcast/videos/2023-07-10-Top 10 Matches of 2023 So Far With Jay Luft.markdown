@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Top Ten Matches of 2023... So Far! With Jay Luft"
+title: "Top 10 Matches of 2023... So Far! With Jay Luft"
 date: 2023-07-10
 categories: untitled-wrestling-podcast videos
 author: untitled-wrestling-podcast
