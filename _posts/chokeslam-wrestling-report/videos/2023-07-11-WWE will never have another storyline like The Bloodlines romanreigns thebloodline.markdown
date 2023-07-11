@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Short #25 WWE will never have another storyline like The Bloodlines #romanreigns #thebloodline"
+title: "WWE will never have another storyline like The Bloodlines #romanreigns #thebloodline"
 date: 2023-07-11
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
