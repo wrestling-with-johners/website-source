@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMPACT Wrestling Slammiversary Press Pass with Deonna Purrazzo and Trinity."
+title: "IMPACT Wrestling Slammiversary Press Pass with Deonna Purrazzo and Trinity"
 date: 2023-07-11
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
