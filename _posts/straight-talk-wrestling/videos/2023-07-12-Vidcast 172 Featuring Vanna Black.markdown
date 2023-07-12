@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 172! Featuring Vanna Black"
-date: 2023-07-08
+date: 2023-07-12
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
