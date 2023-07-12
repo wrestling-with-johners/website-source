@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joel Redman (ASW South Live Wrestling Preview) Wrestling With Johners LIVE!"
-date: 2023-07-06
+date: 2023-07-12
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
