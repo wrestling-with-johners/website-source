@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind! MLW CHAMPION Alex Kane Is back"
-date: 2023-07-12
+date: 2023-07-13
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
