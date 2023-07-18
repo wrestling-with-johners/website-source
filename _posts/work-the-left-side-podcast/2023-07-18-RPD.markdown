@@ -1,0 +1,11 @@
+---
+layout: post
+title: "RPD"
+date: 2023-07-18
+categories: work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 55LBUfugx3nElKDeBfYuxS
+youtube_video_id: 
+apple_track_id: 1000621532884
+youtube_metadata: 
+---
