@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 173! Featuring Janai Kai"
-date: 2023-07-18
+date: 2023-07-19
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
