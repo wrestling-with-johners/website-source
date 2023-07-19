@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TAJ KAUR (Tidal Wrestling) 'WALK THE PLANK' Preview / Interview"
-date: 2023-07-12
+date: 2023-07-19
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
