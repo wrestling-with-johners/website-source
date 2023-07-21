@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gabriel savage jeremy prophet"
+title: "Gabriel Savage talks wrestling Jeremy Prophet"
 date: 2023-07-20
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
