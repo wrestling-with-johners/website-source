@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gabriel Savage talks wrestling Jeremy Prophet"
+title: "The Impact of Wrestling Jeremy Prophet: Gabriel Savage's Unforgettable Moment"
 date: 2023-07-20
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
