@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 174! Featuring Jack Cartwheel"
-date: 2023-07-25
+date: 2023-07-26
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
