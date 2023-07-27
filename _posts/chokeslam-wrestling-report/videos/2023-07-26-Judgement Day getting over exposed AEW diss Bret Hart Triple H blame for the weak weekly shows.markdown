@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Judgement Day getting over exposed?, AEW rejects Bret Hart? Triple H blamed for Raw's & SD shows?"
+title: "Judgement Day getting over exposed?, AEW diss Bret Hart? Triple H blame for the weak weekly shows?"
 date: 2023-07-26
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
