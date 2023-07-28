@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind July 27TH Rewind"
-date: 2023-07-27
+date: 2023-07-28
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
