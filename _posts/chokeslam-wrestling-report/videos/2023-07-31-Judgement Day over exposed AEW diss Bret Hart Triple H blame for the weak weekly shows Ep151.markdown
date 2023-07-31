@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Judgement Day getting over exposed?, AEW diss Bret Hart? Triple H blame for the weak weekly shows?"
-date: 2023-07-26
+title: "Judgement Day over exposed?, AEW diss Bret Hart? Triple H blame for the weak weekly shows? Ep#151"
+date: 2023-07-31
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
 spotify_track_id: 
