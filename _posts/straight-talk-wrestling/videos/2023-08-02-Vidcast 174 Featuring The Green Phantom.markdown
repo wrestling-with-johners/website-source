@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidcast 174! Featuring The Green Phantom"
-date: 2023-07-31
+date: 2023-08-02
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
