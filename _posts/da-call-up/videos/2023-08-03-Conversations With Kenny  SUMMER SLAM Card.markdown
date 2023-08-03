@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conversations With Kenny : SUMMER SLAM Card"
-date: 2023-07-30
+date: 2023-08-03
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
