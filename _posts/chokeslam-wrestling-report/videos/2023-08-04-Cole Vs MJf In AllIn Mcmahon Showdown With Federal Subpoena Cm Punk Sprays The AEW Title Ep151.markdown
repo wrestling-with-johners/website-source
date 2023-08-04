@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MJF vs Cole for ALL-IN, Mcmahon hit with Federal subpoena, CM Punk spray paints the AEW World title?"
+title: "Cole Vs MJf In All-In, Mcmahon Showdown With Federal Subpoena! Cm Punk Sprays The AEW Title Ep#151"
 date: 2023-08-04
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
