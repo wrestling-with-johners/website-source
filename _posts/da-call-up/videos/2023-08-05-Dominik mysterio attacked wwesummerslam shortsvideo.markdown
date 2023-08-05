@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Slam dominik attacked #wwesummerslam #shortsvideo"
+title: "Dominik mysterio attacked #wwesummerslam #shortsvideo"
 date: 2023-08-05
 categories: da-call-up videos
 author: da-call-up
