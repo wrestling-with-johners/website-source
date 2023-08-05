@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rhea Ripley meets a fan #wwesummerslam #wwerawhighlights"
+title: "Dominik Mysterio attacked by fan #shortsvideo #summerslam"
 date: 2023-08-05
 categories: da-call-up videos
 author: da-call-up
