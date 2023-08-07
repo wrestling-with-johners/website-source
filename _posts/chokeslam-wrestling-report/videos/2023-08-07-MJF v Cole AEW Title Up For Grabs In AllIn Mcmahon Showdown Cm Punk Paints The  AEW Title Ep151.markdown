@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MJF v Cole for All-In, Mcmahon Showdown With Federal Subpoena, CM Punk paints The AEW title EP#151"
+title: "MJF v Cole AEW Title Up For Grabs In All-In, Mcmahon Showdown! Cm Punk Paints The  AEW Title Ep#151"
 date: 2023-08-07
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
