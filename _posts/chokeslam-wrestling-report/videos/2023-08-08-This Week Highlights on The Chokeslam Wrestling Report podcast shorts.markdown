@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Week Highlights on   The podcast. #shorts"
+title: "This Week Highlights on The Chokeslam Wrestling Report podcast. #shorts"
 date: 2023-08-08
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
