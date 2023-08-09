@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Week Highlights on The Chokeslam Wrestling Report podcast. #shorts"
+title: "Why Gunther deserve to beat Drew Mcintyre? The Chokeslam Wrestling Report #shorts"
 date: 2023-08-08
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
