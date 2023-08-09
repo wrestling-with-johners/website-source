@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WCW Uncensored 97"
+title: "EP 99 - WCW Uncensored 97"
 date: 2023-08-09
 categories: videos work-the-left-side-podcast
 author: nik-towers
