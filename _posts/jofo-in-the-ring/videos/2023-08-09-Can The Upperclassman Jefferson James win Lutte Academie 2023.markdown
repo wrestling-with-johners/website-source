@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Can The Upperclassman Jefferson James win Lutte Academie 2023"
+title: "Can \"The Upperclassman\" Jefferson James win Lutte Academie 2023"
 date: 2023-08-09
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
