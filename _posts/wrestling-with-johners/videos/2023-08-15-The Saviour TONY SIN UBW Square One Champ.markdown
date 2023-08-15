@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "TONY SIN, Live Interview - Wrestling With Johners LIVE!"
-date: 2023-08-06
+title: "'The Saviour' TONY SIN (UBW Square One Champ)"
+date: 2023-08-15
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
