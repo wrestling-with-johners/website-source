@@ -1397,3 +1397,35 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:54349/devtools/browser/2e6771b1-6f02-4d51-bf86-0b287b3cca29
 JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
 1692191329238	Marionette	INFO	Stopped listening on port 33029
+1692194790102	geckodriver	INFO	Listening on 127.0.0.1:43505
+1692194790594	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "59979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel5JKoQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1692194793954	Marionette	INFO	Marionette enabled
+1692194794613	Marionette	INFO	Listening on port 34043
+WebDriver BiDi listening on ws://127.0.0.1:59979
+Read port: 34043
+1692194795415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692194795416	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33207","sslProxy":"127.0.0.1:33207"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59979/devtools/browser/7d6fc1db-dc12-4ada-992b-06fb85310b56
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1692194832370	Marionette	INFO	Stopped listening on port 34043
+JavaScript warning: https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js, line 305: Script terminated by timeout at:
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:305:85
+
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: security-state/cert-revocations pruneAttachments() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.error: (new StorageError("Storage error: Error: IndexedDB: security-state/cert-revocations pruneAttachments() IndexedDB:  execute() The application is shutting down", "resource://services-settings/RemoteSettingsClient.sys.mjs", 157))
