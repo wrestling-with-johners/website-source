@@ -1328,3 +1328,35 @@ t.flush@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62
 r._end@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3491:9
 e/this._boundAutorunEnd@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3442:574
 
+1692183953383	geckodriver	INFO	Listening on 127.0.0.1:38929
+1692183953598	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "41559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezj0lG2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1692183962717	Marionette	INFO	Marionette enabled
+1692183964570	Marionette	INFO	Listening on port 39915
+Read port: 39915
+WebDriver BiDi listening on ws://127.0.0.1:41559
+1692183964746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692183964807	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38665","sslProxy":"127.0.0.1:38665"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41559/devtools/browser/dfe1cb77-28b5-41c8-abe5-b67777cdf568
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1692183980970	Marionette	INFO	Stopped listening on port 39915
+JavaScript warning: https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js, line 1: Script terminated by timeout at:
+get@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:19735
+_createfontSizeObserver@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:61490
+__triggerMethod@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:21716
+value@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:18445
+mounted@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:60504
+__triggerEvent@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:21441
+value@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:18142
+ra@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:16:8942
+ho/<@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:47:10420
+xt@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:14183
+Kn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:12804
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:308:52
+
+JavaScript error: https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js, line 1: TypeError: can't redefine non-configurable property "__path"
