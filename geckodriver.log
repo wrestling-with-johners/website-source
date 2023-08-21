@@ -5288,3 +5288,49 @@ t.flush@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62
 r._end@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3491:9
 e/this._boundAutorunEnd@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3442:574
 
+1692598205044	geckodriver	INFO	Listening on 127.0.0.1:34427
+1692598205646	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "36095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilen78ZHS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1692598211193	Marionette	INFO	Marionette enabled
+1692598212152	Marionette	INFO	Listening on port 36127
+WebDriver BiDi listening on ws://127.0.0.1:36095
+Read port: 36127
+1692598213356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1692598213357	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36193","sslProxy":"127.0.0.1:36193"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36095/devtools/browser/980da7ed-3890-443b-8309-05293605bb85
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1692598223399	Marionette	INFO	Stopped listening on port 36127
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 3199: Script terminated by timeout at:
+e.unwrapHandle@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3199:41
+i.compile@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3052:74
+@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2767:12
+t.evaluate@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2669:13
+t.evaluateSyscall@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2990:73
+t.evaluateInner@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2984:162
+t.evaluateOuter@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2984:71
+i.next@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3063:26
+i._execute@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3062:25
+i.execute@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3061:382
+i.insertItem@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3020:15
+i.sync@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3018:81
+i.evaluate@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3009:54
+n._execute@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2994:14
+n.execute@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2992:37
+t.rerender@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3026:32
+e/this.render/l.render@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:579:30
+o._renderRoots/<@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:609:31
+It@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2979:5
+o._renderRoots@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:608:34
+o._renderRootsTransaction@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:613:10
+o._revalidate@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:613:581
+t.invoke@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3422:153
+t.flush@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3414:74
+t.flush@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3428:207
+r._end@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3491:9
+e/this._boundAutorunEnd@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3442:574
+
