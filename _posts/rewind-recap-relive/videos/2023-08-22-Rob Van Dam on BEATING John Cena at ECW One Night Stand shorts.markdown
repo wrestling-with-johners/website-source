@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rob Van Dam on The ECW Crowd TURNING on John Cena #shorts"
+title: "Rob Van Dam on BEATING John Cena at ECW One Night Stand #shorts"
 date: 2023-08-22
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
