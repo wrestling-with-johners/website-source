@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"The Flynn Daddy\" Flynn Burden, Live Interview - Wrestling With Johners LIVE!"
-date: 2023-08-04
+date: 2023-08-22
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
