@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PROGRESS 'It's Clobberin' Time' & DEFY Official Hype Show #thisisprogress #progresswrestling"
-date: 2023-08-22
+date: 2023-08-23
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
