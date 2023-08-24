@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MSG Interview"
-date: 2023-08-23
+date: 2023-08-24
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
