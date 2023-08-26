@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Josh Alexander Talker Emergence, Alex Shelly, turning Canada"
+date: 2023-08-26
+categories: straight-talk-wrestling videos
+author: george-mckay
+spotify_track_id: 
+youtube_video_id: -DxrOdhFuVs
+apple_track_id: 
+youtube_metadata: 
+---
