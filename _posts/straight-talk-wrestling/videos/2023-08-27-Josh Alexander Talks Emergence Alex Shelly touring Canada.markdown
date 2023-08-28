@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Josh Alexander Talker Emergence, Alex Shelly, touring Canada"
+title: "Josh Alexander Talks Emergence, Alex Shelly, touring Canada"
 date: 2023-08-27
 categories: straight-talk-wrestling videos
 author: george-mckay
