@@ -13882,3 +13882,23 @@ console.warn: services.settings: security-state/cert-revocations sync interrupte
 console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
 console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
 console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+1693346791283	geckodriver	INFO	Listening on 127.0.0.1:41989
+1693346791829	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "53549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWLxgsF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1693346794917	Marionette	INFO	Marionette enabled
+1693346795556	Marionette	INFO	Listening on port 44247
+WebDriver BiDi listening on ws://127.0.0.1:53549
+Read port: 44247
+1693346795770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1693346795821	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33643","sslProxy":"127.0.0.1:33643"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53549/devtools/browser/53055f9a-79ef-4a25-9559-8ee0f1a1dfab
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1693346804827	Marionette	INFO	Stopped listening on port 44247
+JavaScript warning: https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js, line 305: Script terminated by timeout at:
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:305:85
+
