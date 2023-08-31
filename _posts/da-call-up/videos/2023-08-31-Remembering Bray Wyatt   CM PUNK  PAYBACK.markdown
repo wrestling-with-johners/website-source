@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remembering Bray Wyatt ,  CM PUNK , PAYBACK"
-date: 2023-08-30
+date: 2023-08-31
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
