@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#123 - Luna Trix 09/01/2023"
+date: 2023-09-02
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 1lSs1aazRydd8NyA9tNlyp
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
