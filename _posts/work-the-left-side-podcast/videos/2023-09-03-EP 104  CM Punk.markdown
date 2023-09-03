@@ -1,0 +1,11 @@
+---
+layout: post
+title: "EP 104 - CM Punk"
+date: 2023-09-03
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: WJ6FYeK1uQg
+apple_track_id: 
+youtube_metadata: 
+---
