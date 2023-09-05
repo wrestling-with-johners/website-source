@@ -18755,3 +18755,23 @@ console.warn: services.settings: main/anti-tracking-url-decoration sync interrup
 console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
 console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
 console.error: (new AbortError("IndexedDB: main/pioneer-study-addons getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1693940744225	geckodriver	INFO	Listening on 127.0.0.1:37175
+1693940744732	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "51273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec0rQNr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1693940745261	Marionette	INFO	Marionette enabled
+1693940745369	Marionette	INFO	Listening on port 33831
+Read port: 33831
+WebDriver BiDi listening on ws://127.0.0.1:51273
+1693940745506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1693940745515	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40753","sslProxy":"127.0.0.1:40753"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51273/devtools/browser/3b9b8ba5-7f51-4ef1-b401-2c4b43eb4872
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1693940752947	Marionette	INFO	Stopped listening on port 33831
+JavaScript warning: https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js, line 305: Script terminated by timeout at:
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:305:85
+
