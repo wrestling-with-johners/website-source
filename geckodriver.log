@@ -22554,3 +22554,23 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:33529/devtools/browser/5f6d43bf-823e-4231-a761-a387d778fa25
 JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
 1694437849976	Marionette	INFO	Stopped listening on port 44435
+1694441220391	geckodriver	INFO	Listening on 127.0.0.1:59767
+1694441220920	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "49201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6wQkAh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1694441224814	Marionette	INFO	Marionette enabled
+1694441225606	Marionette	INFO	Listening on port 41753
+Read port: 41753
+WebDriver BiDi listening on ws://127.0.0.1:49201
+1694441225777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694441225818	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44721","sslProxy":"127.0.0.1:44721"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49201/devtools/browser/322a8041-6083-4e72-8b06-26b7b2022222
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1694441254833	Marionette	INFO	Stopped listening on port 41753
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1694441255451	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
