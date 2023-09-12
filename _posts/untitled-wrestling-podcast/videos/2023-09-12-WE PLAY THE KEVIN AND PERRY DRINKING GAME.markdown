@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WE PLAY THE KEVIN ANDS PERRY DRINKING GAME!"
+title: "WE PLAY THE KEVIN AND PERRY DRINKING GAME!"
 date: 2023-09-12
 categories: untitled-wrestling-podcast videos
 author: untitled-wrestling-podcast
