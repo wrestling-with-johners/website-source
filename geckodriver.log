@@ -22895,3 +22895,41 @@ t.flush@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62
 r._end@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3491:9
 e/this._boundAutorunEnd@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3442:574
 
+1694491725627	geckodriver	INFO	Listening on 127.0.0.1:40849
+1694491726149	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "33899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewJtqUZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1694491729223	Marionette	INFO	Marionette enabled
+1694491729802	Marionette	INFO	Listening on port 42155
+Read port: 42155
+WebDriver BiDi listening on ws://127.0.0.1:33899
+1694491729978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694491730016	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36643","sslProxy":"127.0.0.1:36643"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33899/devtools/browser/04330b04-2ebf-4280-9b39-4bc23d92eaf9
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1694491737655	Marionette	INFO	Stopped listening on port 42155
+JavaScript warning: https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js, line 42: Script terminated by timeout at:
+M.__b@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:42:4269
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:4985
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+pt/<@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:1986
+pt@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:1883
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:308:52
+
