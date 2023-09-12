@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tea & Tights: A Great British Wrestling Podcast - AEW All In Weekend - Fallout and Review"
-date: 2023-09-11
+date: 2023-09-12
 categories: tea-and-tights videos
 author: tea-and-tights
 spotify_track_id: 
