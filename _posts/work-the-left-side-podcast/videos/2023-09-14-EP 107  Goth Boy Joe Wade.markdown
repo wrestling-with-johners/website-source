@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EP 107 Goth Boy Joe Wade"
+title: "EP 107 - Goth Boy Joe Wade"
 date: 2023-09-14
 categories: videos work-the-left-side-podcast
 author: nik-towers
