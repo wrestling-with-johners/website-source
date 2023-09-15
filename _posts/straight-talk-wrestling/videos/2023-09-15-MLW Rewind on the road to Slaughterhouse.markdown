@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind on the road to Slaughterhouse"
-date: 2023-09-14
+date: 2023-09-15
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
