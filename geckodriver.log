@@ -29269,3 +29269,20 @@ console.error: RemoteSecuritySettings.jsm:
   Failed to download attachment: TypeError: NetworkError: Network request failed
 console.error: RemoteSecuritySettings.jsm: 
   Failed to download attachment: TypeError: NetworkError: Network request failed
+1694804755566	geckodriver	INFO	Listening on 127.0.0.1:54677
+1694804756103	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "43915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4ijnLb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1694804763515	Marionette	INFO	Marionette enabled
+1694804764973	Marionette	INFO	Listening on port 33757
+Read port: 33757
+WebDriver BiDi listening on ws://127.0.0.1:43915
+1694804765200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694804765296	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44391","sslProxy":"127.0.0.1:44391"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43915/devtools/browser/e162a9aa-7920-494e-8d73-ef786183b6ce
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1694804775557	Marionette	INFO	Stopped listening on port 33757
