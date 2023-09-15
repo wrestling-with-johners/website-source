@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mal Sanders Interview 'Legends Masterclass' Part 1"
-date: 2023-09-12
+date: 2023-09-15
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
