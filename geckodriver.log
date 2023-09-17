@@ -29978,3 +29978,40 @@ t.flush@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62
 r._end@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3491:9
 e/this._boundAutorunEnd@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3442:574
 
+1694910938184	geckodriver	INFO	Listening on 127.0.0.1:54809
+1694910938698	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "51295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBEm5T2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1694910943813	Marionette	INFO	Marionette enabled
+1694910944638	Marionette	INFO	Listening on port 43135
+Read port: 43135
+WebDriver BiDi listening on ws://127.0.0.1:51295
+1694910944863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694910944920	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:32919","sslProxy":"127.0.0.1:32919"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51295/devtools/browser/8920fc45-4a1c-4f35-b1e9-0ad26bf72200
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1694910953932	Marionette	INFO	Stopped listening on port 43135
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 3282: Script terminated by timeout at:
+e.prototype[f]@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3282:46
+p@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3276:59
+m@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2514:31
+e.prototype.evaluate@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2776:22
+n._execute@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2994:14
+n.execute@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2992:37
+t.rerender@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3026:32
+e/this.render/l.render@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:579:30
+o._renderRoots/<@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:609:31
+It@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2979:5
+o._renderRoots@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:608:34
+o._renderRootsTransaction@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:613:10
+o._revalidate@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:613:581
+t.invoke@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3422:153
+t.flush@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3414:74
+t.flush@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3428:207
+r._end@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3491:9
+e/this._boundAutorunEnd@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3442:574
+
