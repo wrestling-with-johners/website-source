@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mike Knox Had a SHOOT Match with Samoa Joe in Japan"
+title: "Mike Knox and Samoa Joe Had a SHOOT Match in Japan"
 date: 2023-09-18
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
