@@ -31324,3 +31324,70 @@ JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a220
 console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
 1695078490194	Marionette	INFO	Stopped listening on port 42193
 console.error: (new Error("IndexedDB: main/quicksuggest getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1695083647871	geckodriver	INFO	Listening on 127.0.0.1:38791
+1695083648477	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "35637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqrfH7z"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1695083670605	Marionette	INFO	Marionette enabled
+1695083674607	Marionette	INFO	Listening on port 44371
+Read port: 44371
+WebDriver BiDi listening on ws://127.0.0.1:35637
+1695083675275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1695083675451	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44745","sslProxy":"127.0.0.1:44745"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35637/devtools/browser/c51c8776-64e9-438a-a35a-182578139364
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1695083695683	Marionette	INFO	Stopped listening on port 44371
+JavaScript warning: https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js, line 1: Script terminated by timeout at:
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2196
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+Wn@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:7950
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6904
+rs@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:2645
+$t@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:6721
+pt/<@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:1986
+pt@https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js:1:1883
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:308:52
+
