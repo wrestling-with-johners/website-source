@@ -39638,3 +39638,20 @@ observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
 
 console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
 console.error: (new Error("IndexedDB: main/nimbus-desktop-experiments getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1695398951423	geckodriver	INFO	Listening on 127.0.0.1:47309
+1695398951894	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "51345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOGYmNx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1695398956347	Marionette	INFO	Marionette enabled
+1695398957224	Marionette	INFO	Listening on port 33413
+WebDriver BiDi listening on ws://127.0.0.1:51345
+Read port: 33413
+1695398957459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1695398957531	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38957","sslProxy":"127.0.0.1:38957"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51345/devtools/browser/de20c56c-0890-47a7-b1d9-97e678d660b4
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1695398967443	Marionette	INFO	Stopped listening on port 33413
