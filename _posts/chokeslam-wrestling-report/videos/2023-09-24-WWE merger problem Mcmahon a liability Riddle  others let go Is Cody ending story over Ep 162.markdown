@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WWE merger problem; Mcmahon a liability? Riddle & others let go? Is Cody ending story over? Ep #162"
-date: 2023-09-23
+date: 2023-09-24
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
 spotify_track_id: 
