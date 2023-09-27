@@ -42639,3 +42639,28 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:46449/devtools/browser/fc40b34b-b75c-42c9-bfb1-b0cf9e937694
 JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
 1695809304354	Marionette	INFO	Stopped listening on port 36085
+1695812781819	geckodriver	INFO	Listening on 127.0.0.1:57471
+1695812782360	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "44905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8x1owS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1695812782809	Marionette	INFO	Marionette enabled
+1695812782920	Marionette	INFO	Listening on port 38061
+WebDriver BiDi listening on ws://127.0.0.1:44905
+Read port: 38061
+1695812783146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1695812783158	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44567","sslProxy":"127.0.0.1:44567"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44905/devtools/browser/39b2593a-4319-4547-81ec-d98d1a731318
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1695812789013	Marionette	INFO	Stopped listening on port 38061
+JavaScript warning: https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js, line 44: Script terminated by timeout at:
+L@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:44:230
+70171/t.prototype._domBreadcrumb@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:336:40
+callback@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:343:18
+dt@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:150:6
+70171/bt/</mt<@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:151:135
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:308:52
+
