@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mane Event Talks MLW, Being in the ring with Ftr, Disney, the tag team brotherhood and more"
-date: 2023-09-24
+date: 2023-09-27
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
