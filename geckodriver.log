@@ -42965,3 +42965,42 @@ console.warn: services.settings: main/addons-manager-settings sync interrupted b
 console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
 console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
 console.error: (new Error("IndexedDB: main/query-stripping getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1695852390870	geckodriver	INFO	Listening on 127.0.0.1:52939
+1695852391378	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "35991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileo5PT8R"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1695852395819	Marionette	INFO	Marionette enabled
+1695852396701	Marionette	INFO	Listening on port 39865
+WebDriver BiDi listening on ws://127.0.0.1:35991
+Read port: 39865
+1695852396984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1695852397029	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37761","sslProxy":"127.0.0.1:37761"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35991/devtools/browser/65a5641a-09ef-48c8-8afe-cbf3a654480a
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1695852406667	Marionette	INFO	Stopped listening on port 39865
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 3062: Script terminated by timeout at:
+i._execute@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3062:5
+i.execute@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3061:382
+n.handleException@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3001:70
+t.handleException@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3023:177
+n.throw@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2994:163
+e.prototype.evaluate@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2776:29
+n._execute@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2994:14
+n.execute@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2992:37
+t.rerender@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3026:32
+e/this.render/l.render@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:579:30
+o._renderRoots/<@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:609:31
+It@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:2979:5
+o._renderRoots@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:608:34
+o._renderRootsTransaction@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:613:10
+o._revalidate@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:613:581
+t.invoke@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3422:153
+t.flush@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3414:74
+t.flush@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3428:207
+r._end@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3491:9
+e/this._boundAutorunEnd@https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js:3442:574
+
