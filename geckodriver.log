@@ -43083,3 +43083,23 @@ console.error: "update.locale" " file doesn't exist in either the application or
 1695865332644	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: null, errorCode: 5, reason: error
 console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
 console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1695870469992	geckodriver	INFO	Listening on 127.0.0.1:46987
+1695870470513	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "39061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegVBPhu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1695870474990	Marionette	INFO	Marionette enabled
+1695870475860	Marionette	INFO	Listening on port 34045
+Read port: 34045
+WebDriver BiDi listening on ws://127.0.0.1:39061
+1695870476052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1695870476089	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35665","sslProxy":"127.0.0.1:35665"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39061/devtools/browser/4c69eb59-b2b6-44f1-910d-3721e49aafbc
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1695870503987	Marionette	INFO	Stopped listening on port 34045
+JavaScript warning: https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js, line 305: Script terminated by timeout at:
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:305:85
+
