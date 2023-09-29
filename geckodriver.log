@@ -44505,3 +44505,20 @@ console.warn: services.settings: main/devtools-compatibility-browsers sync inter
 console.warn: services.settings: main/sites-classification sync interrupted by shutdown
 console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
 console.error: (new AbortError("IndexedDB: main/tracking-protection-lists getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1696018084440	geckodriver	INFO	Listening on 127.0.0.1:39139
+1696018084959	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "52199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile16W8ej"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1696018087929	Marionette	INFO	Marionette enabled
+1696018088597	Marionette	INFO	Listening on port 44071
+WebDriver BiDi listening on ws://127.0.0.1:52199
+Read port: 44071
+1696018088834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1696018088912	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45771","sslProxy":"127.0.0.1:45771"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52199/devtools/browser/140bbe8e-7b7d-406e-a3f7-575b7ba3ada4
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1696018098060	Marionette	INFO	Stopped listening on port 44071
