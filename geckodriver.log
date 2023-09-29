@@ -44420,3 +44420,23 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:41559/devtools/browser/9f22d713-acc4-4e62-9cdf-f2d9250c1be0
 JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
 1696007226467	Marionette	INFO	Stopped listening on port 34803
+1696010989712	geckodriver	INFO	Listening on 127.0.0.1:46365
+1696010990218	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "42731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF4XMGN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1696010990963	Marionette	INFO	Marionette enabled
+1696010991116	Marionette	INFO	Listening on port 35491
+WebDriver BiDi listening on ws://127.0.0.1:42731
+Read port: 35491
+1696010991530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1696010991531	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:43665","sslProxy":"127.0.0.1:43665"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42731/devtools/browser/3a7f33e1-0b58-44c3-b4d2-d8b4eb33cd08
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1696010998761	Marionette	INFO	Stopped listening on port 35491
+JavaScript warning: https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js, line 305: Script terminated by timeout at:
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:305:85
+
