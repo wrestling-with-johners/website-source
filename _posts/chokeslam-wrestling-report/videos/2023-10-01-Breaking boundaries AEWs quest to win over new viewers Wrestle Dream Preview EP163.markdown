@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New era claimed; Can AEW attract new viewers to their programs, Wrestle Dream Preview & more EP#163"
+title: "Breaking boundaries: AEW's quest to win over new viewers! Wrestle Dream Preview EP#163"
 date: 2023-10-01
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
