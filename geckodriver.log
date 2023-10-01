@@ -45492,3 +45492,26 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:51309/devtools/browser/075e82d5-1ae2-4f73-851c-9aa5f11d7116
 JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
 1696169190030	Marionette	INFO	Stopped listening on port 40903
+1696172787759	geckodriver	INFO	Listening on 127.0.0.1:44685
+1696172788249	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "37127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledG02lk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1696172793350	Marionette	INFO	Marionette enabled
+1696172794422	Marionette	INFO	Listening on port 44633
+Read port: 44633
+WebDriver BiDi listening on ws://127.0.0.1:37127
+1696172794622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1696172794688	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38449","sslProxy":"127.0.0.1:38449"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37127/devtools/browser/75c25f1a-08d5-4675-8ab3-095a9ceaca24
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1696172822998	Marionette	INFO	Stopped listening on port 44633
+JavaScript warning: https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js, line 305: Script terminated by timeout at:
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:305:85
+
+JavaScript error: resource://gre/modules/AddonManager.sys.mjs, line 1284: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
