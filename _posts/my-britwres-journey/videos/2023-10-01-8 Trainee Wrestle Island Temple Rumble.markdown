@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "8 Man Wrestle Island Temple Trainee Rumble"
+title: "8 Trainee Wrestle Island Temple Rumble"
 date: 2023-10-01
 categories: my-britwres-journey videos
 author: my-britwres-journey
