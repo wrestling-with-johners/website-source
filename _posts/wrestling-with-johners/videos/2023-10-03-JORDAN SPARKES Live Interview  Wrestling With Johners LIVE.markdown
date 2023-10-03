@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JORDAN SPARKES, Live Interview - Wrestling With Johners LIVE!"
-date: 2023-09-23
+date: 2023-10-03
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
