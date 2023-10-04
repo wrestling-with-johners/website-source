@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ultra Violette talks, evolution of womans wrestling, 80's action Movies and more"
-date: 2023-10-03
+date: 2023-10-04
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
