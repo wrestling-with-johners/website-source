@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind Oct 5th Rewind"
-date: 2023-10-05
+date: 2023-10-06
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
