@@ -52413,3 +52413,24 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:47995/devtools/browser/5781b765-5181-4e14-805a-de2132b2c23a
 JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
 1696590425412	Marionette	INFO	Stopped listening on port 39787
+1696594431662	geckodriver	INFO	Listening on 127.0.0.1:36615
+1696594432191	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "59719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7gAo4w"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1696594436037	Marionette	INFO	Marionette enabled
+1696594436706	Marionette	INFO	Listening on port 37581
+WebDriver BiDi listening on ws://127.0.0.1:59719
+Read port: 37581
+1696594437486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1696594437487	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36393","sslProxy":"127.0.0.1:36393"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59719/devtools/browser/dd0f0fe4-5205-4282-ad63-0f7fae763f56
+JavaScript warning: https://podcasts.apple.com/assets/vendor-95465a836150547a2204d47dc8e9c62c.js, line 5420: unreachable code after return statement
+1696594444496	Marionette	INFO	Stopped listening on port 37581
+JavaScript warning: https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js, line 305: Script terminated by timeout at:
+r@https://podcasts.apple.com/assets/chunk.171.19746297f5822d0ef4bf.js:305:85
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
