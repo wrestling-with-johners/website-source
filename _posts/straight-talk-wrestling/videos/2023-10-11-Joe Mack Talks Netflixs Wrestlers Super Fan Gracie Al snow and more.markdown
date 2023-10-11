@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joe Mack Talks Netflix's Wrestlers, Super Fan Gracie, Al snow and more"
-date: 2023-10-07
+date: 2023-10-11
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
