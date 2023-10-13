@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Diving off the balcony"
+title: "Wrestler Maverick Wheeler dives off the balcony"
 date: 2023-10-13
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
