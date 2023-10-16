@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MLW Rewind! Slaughterhouse Review"
-date: 2023-10-15
+date: 2023-10-16
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
