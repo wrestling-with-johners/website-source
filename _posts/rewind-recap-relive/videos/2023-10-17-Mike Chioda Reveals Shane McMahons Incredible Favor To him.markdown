@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mike Chioda Reveals the Incredible Favor Shane McMahon Did For Him"
+title: "Mike Chioda Reveals Shane McMahon’s Incredible Favor To him"
 date: 2023-10-17
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
