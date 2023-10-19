@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MILA SMIDT, Live Interview - Wrestling With Johners LIVE!"
+title: "'The Giant Killer' MILA SMIDT, Live Interview - Wrestling With Johners LIVE!"
 date: 2023-10-19
 categories: videos wrestling-with-johners
 author: john
