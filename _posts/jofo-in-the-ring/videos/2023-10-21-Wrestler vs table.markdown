@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wrestler vs table #shorts"
+title: "Wrestler vs table"
 date: 2023-10-21
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
