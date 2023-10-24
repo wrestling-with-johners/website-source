@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Week in The Chokeslam Wrestling Report. Will Ospreay new home in 2024! #shorts"
-date: 2023-10-23
+date: 2023-10-24
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
 spotify_track_id: 
