@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SCOTT GARLAND (Fka, Scotty 2 Hotty in WWE) RETURNS to Wrestling With Johners LIVE!"
-date: 2023-10-16
+date: 2023-10-24
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
