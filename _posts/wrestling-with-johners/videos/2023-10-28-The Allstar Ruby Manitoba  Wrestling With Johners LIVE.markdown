@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'The Allstar' Ruby Manitoba - Wrestling With Johners LIVE!"
-date: 2023-10-21
+date: 2023-10-28
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
