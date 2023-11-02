@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TOM SCARBOROUGH, Live Interview - 5th ANNIVERSARY SPECIAL"
-date: 2023-10-25
+date: 2023-11-02
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
