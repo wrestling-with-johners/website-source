@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mass Effect Playthrough - Part 1"
+title: "The UN7itled Wrestling Podcast  Presents Mass Effect  - Part 1 : Eden Primed"
 date: 2023-11-09
 categories: untitled-wrestling-podcast videos
 author: untitled-wrestling-podcast
