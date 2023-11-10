@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#124 - John Scott 11/10/2023"
+date: 2023-11-10
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 6Mq2FZllJ30fu0LDJrQ0cO
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
