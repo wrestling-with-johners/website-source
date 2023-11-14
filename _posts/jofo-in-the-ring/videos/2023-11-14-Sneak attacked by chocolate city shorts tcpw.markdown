@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sneak attacked by chocolate city #shorts #tcpw 1"
+title: "Sneak attacked by chocolate city #shorts #tcpw"
 date: 2023-11-14
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
