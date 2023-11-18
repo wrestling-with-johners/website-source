@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matt Rehwoldt FKA Aiden English talks, Rusev Day, Reunting with Simon Gotch, Persuing Acting and mor"
+title: "Matt Rehwoldt FKA Aiden English talks, Rusev Day, Reunting with Simon Gotch, Persuing Acting"
 date: 2023-11-18
 categories: straight-talk-wrestling videos
 author: george-mckay
