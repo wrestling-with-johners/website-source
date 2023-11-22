@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wrestling Showdown: Ari Shaffir vs Luis J Gomez | No Rules, No DQ, Anything Goes!"
+title: "Zac Amico gives his prediction on a Ari Shaffir vs Luis J. Gomez | No Rules, No DQ Match"
 date: 2023-11-22
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
