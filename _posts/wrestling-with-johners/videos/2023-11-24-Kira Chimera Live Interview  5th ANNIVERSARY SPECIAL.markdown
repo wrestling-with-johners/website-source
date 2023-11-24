@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kira Chimera, Live Interview - 5th ANNIVERSARY SPECIAL"
-date: 2023-11-17
+date: 2023-11-24
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
