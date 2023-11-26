@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paul London Talks The Miz Ahead of Survivor Series Match with Gunther #shorts"
+title: "Paul London Talks The Miz #shorts"
 date: 2023-11-26
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
