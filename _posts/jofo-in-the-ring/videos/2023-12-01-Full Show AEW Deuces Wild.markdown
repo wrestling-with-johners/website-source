@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEW Deuces Wild Toronto! What REALLY Happened After the Cameras Stopped Rolling? Unbelievable Chaos"
+title: "Full Show: AEW Deuces Wild"
 date: 2023-12-01
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
