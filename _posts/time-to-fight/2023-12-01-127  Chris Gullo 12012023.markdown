@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#127 - Chris Gullo 12/01/2023"
+date: 2023-12-01
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 3XbUSlGMRLm4MsB2KVdf3n
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
