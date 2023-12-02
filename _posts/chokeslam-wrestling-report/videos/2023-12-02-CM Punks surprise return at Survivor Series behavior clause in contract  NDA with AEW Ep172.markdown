@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CM Punk's surprise return at Survivor Series, behavior clause in contract &(NDA) with AEW. Ep#172"
+title: "CM Punk's surprise return at Survivor Series, behavior clause in contract & NDA with AEW. Ep#172"
 date: 2023-12-02
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
