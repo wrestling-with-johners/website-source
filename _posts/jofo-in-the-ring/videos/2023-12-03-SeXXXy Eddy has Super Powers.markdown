@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SeXXXy Eddy is The Strongest Wrestler in The World"
+title: "SeXXXy Eddy has Super Powers"
 date: 2023-12-03
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
