@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strongest WRESTLER In The World"
+title: "SeXXXy Eddy Freestyle Wrestling Techniques"
 date: 2023-12-03
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
