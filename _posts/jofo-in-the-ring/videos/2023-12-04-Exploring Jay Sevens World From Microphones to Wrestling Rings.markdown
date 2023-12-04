@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploring Jay Seven's World: From Microphones to Wrestling Rings\""
+title: "Exploring Jay Seven's World: From Microphones to Wrestling Rings"
 date: 2023-12-04
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
