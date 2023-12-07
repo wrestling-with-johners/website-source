@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daddy Magic gets the Bell Center going crazy after AEW DYNAMITE went off air #aewmontreal"
+title: "Daddy Magic gets the Bell Centre going crazy after AEW DYNAMITE went off air"
 date: 2023-12-07
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
