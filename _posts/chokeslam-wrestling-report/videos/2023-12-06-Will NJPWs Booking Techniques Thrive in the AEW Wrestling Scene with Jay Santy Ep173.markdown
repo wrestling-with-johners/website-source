@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Will NJPW's Booking Techniques Thrive in the AEW Wrestling Scene?"
+title: "Will NJPW's Booking Techniques Thrive in the AEW Wrestling Scene? with Jay Santy Ep#173"
 date: 2023-12-06
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
