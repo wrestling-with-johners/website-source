@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#128 - Joseph Montecillo 12/09/2023"
+date: 2023-12-08
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 4OsUJl8bSmyHmOYDfhtdSm
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
