@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daddy Magic and Bryce Remsberg with a double clothesline! #montrealwrestling #aew"
+title: "Daddy Magic and Bryce Remsberg with a double clothesline"
 date: 2023-12-07
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
