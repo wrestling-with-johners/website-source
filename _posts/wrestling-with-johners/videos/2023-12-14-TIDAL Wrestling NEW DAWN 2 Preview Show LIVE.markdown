@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TIDAL Wrestling 'NEW DAWN 2' Preview Show LIVE!"
-date: 2023-12-09
+date: 2023-12-14
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
