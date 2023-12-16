@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dr. Tom Prichard on Paul Boesch & Houston Wrestling"
-date: 2023-12-15
+date: 2023-12-16
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
