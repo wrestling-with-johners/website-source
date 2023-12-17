@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dr. Tom Prichard on Ivy Nile and \"Stacks\" Lorenzo"
-date: 2023-12-15
+date: 2023-12-17
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
