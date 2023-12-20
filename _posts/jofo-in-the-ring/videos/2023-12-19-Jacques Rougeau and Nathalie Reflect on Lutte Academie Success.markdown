@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exclusive Interview: Jacques Rougeau and Nathalie Reflect on Lutte Academie Success"
+title: "Jacques Rougeau and Nathalie Reflect on Lutte Academie Success"
 date: 2023-12-19
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
