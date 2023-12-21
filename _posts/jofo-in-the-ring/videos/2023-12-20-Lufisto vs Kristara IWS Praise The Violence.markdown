@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lufisto vs Kristara IWS Bain Mathieu"
+title: "Lufisto vs Kristara IWS Praise The Violence"
 date: 2023-12-20
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
