@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pro Wrestler Unveils Surprising Secrets About Winning Championship Titles"
+title: "John Tella Unveils Surprising Secrets About Winning Championship Titles"
 date: 2023-12-22
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
