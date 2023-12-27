@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CM PUNK MSG DEBUT #wwemsg #wweholidaytour #shortvideo"
+title: "CM PUNK MSG  #wwemsg #wweholidaytour #shortvideo"
 date: 2023-12-27
 categories: da-call-up videos
 author: da-call-up
