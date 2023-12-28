@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Insane Surprise  Wrestler Exposes Shocking Secret on His Shirt"
+title: "Insane Surprise Wrestler Exposes Shocking Secret on His Shirt"
 date: 2023-12-28
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
