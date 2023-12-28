@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unveiling Triumph: Mathis Myre's Journey at Lutte Academie 2023 and the Quest fo Glory!"
+title: "Mathis Myre's Journey at Lutte Academie 2023 and the Quest fo Glory!"
 date: 2023-12-28
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
