@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Full Match: IWS Praise The Violence Green Phantom vs Maredes"
+title: "Full Match: Green Phantom vs Maredes IWS Praise The Violence"
 date: 2023-12-29
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
