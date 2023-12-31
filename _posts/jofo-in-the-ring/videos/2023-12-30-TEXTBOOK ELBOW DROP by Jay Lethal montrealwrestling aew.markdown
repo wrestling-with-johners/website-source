@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "December 30, 2023"
+title: "TEXTBOOK ELBOW DROP by Jay Lethal #montrealwrestling #aew"
 date: 2023-12-30
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
