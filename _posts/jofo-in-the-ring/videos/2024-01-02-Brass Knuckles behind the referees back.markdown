@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "copy_05EC0CF4-C28A-43E5-A9A3-ECF50A8FDBA1.mov"
+title: "Brass Knuckles behind the referees back"
 date: 2024-01-02
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
