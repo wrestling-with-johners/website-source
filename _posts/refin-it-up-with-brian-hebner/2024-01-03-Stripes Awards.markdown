@@ -6,6 +6,6 @@ categories: refin-it-up-with-brian-hebner
 author: refin-it-up-with-brian-hebner
 spotify_track_id: 0qds9Kek7e5DYO57Jurttk
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000640432773
 youtube_metadata: 
 ---
