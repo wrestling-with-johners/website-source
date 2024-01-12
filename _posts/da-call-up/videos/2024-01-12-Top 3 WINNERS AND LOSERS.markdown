@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Top 3 WINNERS AND LOSERS"
-date: 2024-01-10
+date: 2024-01-12
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 

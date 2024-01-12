@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chuck Palumbo Explains How He Felt About the Billy and Chuck Gimmick"
-date: 2024-01-11
+date: 2024-01-12
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
 spotify_track_id: 
