@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "January 12, 2024"
+title: "BRASS KNUCKS! #montrealwrestling  #prowrestling #tcpw"
 date: 2024-01-13
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
