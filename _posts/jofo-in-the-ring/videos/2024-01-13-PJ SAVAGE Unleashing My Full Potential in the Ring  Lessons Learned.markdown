@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unleashing My Full Potential in the Ring  Lessons Learned"
+title: "PJ SAVAGE: Unleashing My Full Potential in the Ring  Lessons Learned"
 date: 2024-01-13
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring

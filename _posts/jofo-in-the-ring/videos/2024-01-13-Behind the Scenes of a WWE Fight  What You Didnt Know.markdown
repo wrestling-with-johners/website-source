@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Behind the Scenes of a WWE Fight  What You Didn t Know"
+title: "Behind the Scenes of a WWE Fight  What You Didn't Know"
 date: 2024-01-13
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
