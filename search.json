@@ -5,13 +5,13 @@ layout: none
   {% for post in site.posts %}
   {
 
-    "title"    : "{{ post.title | strip_html | escape  }}",
+    "title"    : "{{ post.title | strip_html | escape }}",
     "url"      : "{{ site.baseurl }}{{ post.url }}",
-    "category" : "{{post.categories | join: ', '}}",
+    "category" : "{{ post.categories | join: ', '}}",
     "date"     : "{{ post.date | date: '%B %d, %Y' }}",
-    "excerpt"  : "{{ post.excerpt | strip_html | strip_newlines | truncatewords: 15 | append: ' ' }}",
+    "excerpt"  : "{{ post.excerpt | strip_html | strip_newlines | truncatewords: 15 | escape | append: ' ' }}",
     {% assign author = site.authors | where: "short_name", post.author | first %}
-    "author"   : "{{ author.name }}",
+    "author"   : "{{ author.name | escape }}",
     "author-url": "authors/{{ author.short_name }}"
 
   } {% unless forloop.last %},{% endunless %}
