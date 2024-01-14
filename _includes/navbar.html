@@ -29,7 +29,7 @@
           </ul>
         </li>
         <li class="dropdown nav-item">
-          <a href="{{ 'podcasts' | relative_url }}" class="nav-link dropdown-button">Archive <i class="fa fa-caret-down"></i></a>
+          <a href="{{ 'podcasts' | relative_url }}" class="nav-link dropdown-button">Inactive <i class="fa fa-caret-down"></i></a>
           <ul class="dropdown-content navbar-nav ml-auto">
             {% assign podcasts = site.data['podcasts'] | where_exp: "podcast", "podcast.inactive == true" %}
             {% for podcast_data in podcasts %}
