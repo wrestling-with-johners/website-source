@@ -6,6 +6,6 @@ categories: bob-culture interviews
 author: bob-culture
 spotify_track_id: 02vUpecwCUss9mFJmrj8jK
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000641555891
 youtube_metadata: 
 ---
