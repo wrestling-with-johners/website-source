@@ -7,14 +7,14 @@
   spotify_show_id: 0s5QReHi6jMO3Kmm1I2yCd
   apple_podcast_id: 1442108418
 
-- title: My Brit Wres Journey
-  background: my-britwres-journey-background.jpg
-  category: my-britwres-journey
-  author: my-britwres-journey
-  apple_url: my-britwres-journey
-  youtube_playlist_id: UUT1y3AAiUKTMkLQxISmjy3A
-  spotify_show_id: 4V8qHYn26M3l054VJnJS6l
-  apple_podcast_id: 1513781780
+- title: Work The Left Side Podcast
+  background: work-the-left-side-podcast-background.jpg
+  category: work-the-left-side-podcast
+  author: nik-towers
+  youtube_playlist_id: UU1hrk8NkrIXjqKniLiqeBeQ
+  spotify_show_id: 1eyWZ0Pwjtn1jPfvPF45xa
+  apple_podcast_id: 1552723799
+  apple_url: work-the-left-side-podcast
 
 - title: Straight Talk Wrestling
   background: straight-talk-wrestling-background.jpg
@@ -38,6 +38,95 @@
   author: jofo-in-the-ring
   youtube_playlist_id: UUrV1g-MsY7ndPSUP4O4HxFg
   spotify_show_id: 5HnjfXkVKceDsP5LkY9bJV
+
+- title: Rewind Recap Relive
+  background: rewind-recap-relive-background.jpg
+  category: rewind-recap-relive
+  author: rewind-recap-relive
+  youtube_playlist_id: UU46zRme2Bk0iCdhT-3J-Sjw
+
+- title: Scottish Wrestling Network
+  background: scottish-wrestling-network-background.png
+  category: scottish-wrestling-network
+  author: scottish-wrestling-network
+  youtube_playlist_id: UU5KSl5gFVrW1SKQnt7FAdPw
+  spotify_show_id: 37fOiMLbz04G5hZAhBFh1v
+  apple_podcast_id: 1519632490
+  apple_url: swn-podcast
+
+- title: "REFIN’ IT UP! with BRIAN HEBNER"
+  background: refin-it-up-with-brian-hebner-background.jpg
+  category: refin-it-up-with-brian-hebner
+  author: refin-it-up-with-brian-hebner
+  apple_url: refin-it-up-with-brian-hebner
+  spotify_show_id: 0w1WyY0H5kLvH9TPUHFMS0
+  apple_podcast_id: 1611913006
+
+- title: WHAT DO YOU CALL IT? PODCAST!
+  background: what-do-you-call-it-background.jpg
+  category: what-do-you-call-it
+  author: what-do-you-call-it
+  youtube_playlist_id: UU6s3aN7MM021k936okztKYw
+  spotify_show_id: 5z2U45OagymjgUsQE2Jbrw
+  apple_podcast_id: 1573713527
+  apple_url: what-do-you-call-it-podcast
+
+- title: The Chokeslam Wrestling Report
+  background: chokeslam-logo-background.jpg
+  category: chokeslam-wrestling-report
+  author: chokeslam-wrestling-report
+  apple_url: the-chokeslam-wrestling-report
+  youtube_playlist_id: UU6qyBp_AFQsaXAIgIfhEzNw
+  spotify_show_id: 0L3VJhyCb06ZXTkyUm88DR
+  apple_podcast_id: 1471778112
+
+- title: Tree Hill Wrestling Federation
+  background: tree-hill-wrestling-federation-background.png
+  category: tree-hill-wrestling-federation
+  author: tree-hill-wrestling-federation
+  apple_url: tree-hill-wrestling-federation
+  apple_podcast_id: 1669187496
+  spotify_show_id: 5h0yhevyV0bsznrZDIARxj
+
+- title: Untitled Wrestling Podcast
+  background: untitled-wrestling-podcast-background.png
+  category: untitled-wrestling-podcast
+  author: untitled-wrestling-podcast
+  apple_url: untitled-wrestling-podcast
+  apple_podcast_id: 1531222142
+  youtube_playlist_id: UUprlGgBm8_Ziu7zsxyjfMZw
+  spotify_show_id: 2GmcYXvpVe1UEDFuAbSTa0
+
+- title: WOMBTRAVEL "Wrestling & Travel"
+  background: wombtravel-background.jpg
+  category: wombtravel
+  author: wombtravel
+  youtube_playlist_id: UULFEHdYbDlkOMt4TCQ5OrHSaw
+
+- title: DA CALL UP
+  background: da-call-up-background.jpg
+  category: da-call-up
+  author: da-call-up
+  youtube_playlist_id: UUCFrkyaHneXvsRYiMmvquuA
+  spotify_show_id: 6kU1SYjEpD0r8xTciHUXUR
+  apple_podcast_id: 1533850464
+  apple_url: da-call-up
+
+- title: Hidden Gem Hunters
+  background: hidden-gem-hunters-background.jpg
+  category: hidden-gem-hunters
+  author: hidden-gem-hunters
+  #youtube_playlist_id: UUNXUWqJA-ZcsHPuWGP2pGOA
+  spotify_show_id: 4d0cR0UeL26kskVBxSn1AR
+
+- title: My Brit Wres Journey
+  background: my-britwres-journey-background.jpg
+  category: my-britwres-journey
+  author: my-britwres-journey
+  apple_url: my-britwres-journey
+  youtube_playlist_id: UUT1y3AAiUKTMkLQxISmjy3A
+  spotify_show_id: 4V8qHYn26M3l054VJnJS6l
+  apple_podcast_id: 1513781780
 
 - title: Tea And Tights Podcast
   background: tea-and-tights-background.jpg
@@ -68,6 +157,7 @@
   background: toilet-side-wrestling-talk-background.jpg
   category: toilet-side-wrestling-talk
   author: toilet-side-wrestling-talk
+  inactive: true
   youtube_playlist_id: UU0md5lXLI-qOEibvuwNOemg
   spotify_show_id: 2y6hu88ydgoAtsDVN83ZLg
   apple_podcast_id: 1570946809
@@ -81,14 +171,6 @@
   spotify_show_id: 4xj20QAScG2P6f8FBe5iTX
   apple_podcast_id: 1460265667
   apple_url: ringside-rant
-
-- title: "REFIN’ IT UP! with BRIAN HEBNER"
-  background: refin-it-up-with-brian-hebner-background.jpg
-  category: refin-it-up-with-brian-hebner
-  author: refin-it-up-with-brian-hebner
-  apple_url: refin-it-up-with-brian-hebner
-  spotify_show_id: 0w1WyY0H5kLvH9TPUHFMS0
-  apple_podcast_id: 1611913006
 
 - title: The Power Hour
   subtitle: With C Red and Steve Ahrendt.
@@ -107,41 +189,15 @@
   background: scumbags-of-wrestling-background.jpg
   category: scumbags-of-wrestling
   author: scumbags-of-wrestling
+  inactive: true
   youtube_playlist_id: UUCX3lmOlBb7Cg79VaJpKZuA
   spotify_show_id: 74uutvD2y5phokQvagJpOV
-
-- title: DA CALL UP
-  background: da-call-up-background.jpg
-  category: da-call-up
-  author: da-call-up
-  youtube_playlist_id: UUCFrkyaHneXvsRYiMmvquuA
-  spotify_show_id: 6kU1SYjEpD0r8xTciHUXUR
-  apple_podcast_id: 1533850464
-  apple_url: da-call-up
-
-- title: Scottish Wrestling Network
-  background: scottish-wrestling-network-background.png
-  category: scottish-wrestling-network
-  author: scottish-wrestling-network
-  youtube_playlist_id: UU5KSl5gFVrW1SKQnt7FAdPw
-  spotify_show_id: 37fOiMLbz04G5hZAhBFh1v
-  apple_podcast_id: 1519632490
-  apple_url: swn-podcast
-
-- title: WHAT DO YOU CALL IT? PODCAST!
-  background: what-do-you-call-it-background.jpg
-  category: what-do-you-call-it
-  author: what-do-you-call-it
-  youtube_playlist_id: UU6s3aN7MM021k936okztKYw
-  spotify_show_id: 5z2U45OagymjgUsQE2Jbrw
-  apple_podcast_id: 1573713527
-  apple_url: what-do-you-call-it-podcast
 
 - title: Chaos Theory Podcast
   background: chaos-theory-background.jpg
   category: chaos-theory
   author: chaos-theory
-  inactive: true
+  inactive: false
   apple_search_disabled: true
   youtube_playlist_id: UUcADpfyDa-WwPuOLlyItuCg
   spotify_show_id: 6EyavTabhfyWahfaFRjzTf
@@ -161,7 +217,7 @@
   background: tornado-tag-background.jpg
   category: tornado-tag
   author: tornado-tag
-  inactive: true
+  inactive: false
   spotify_show_id: 3Yqm2WvnyRo1yREE8L39Ul
   apple_podcast_id: 1552649201
   apple_url: tornado-tag-podcast
@@ -195,6 +251,7 @@
   background: death-match-russell-background.png
   category: death-match-russell
   author: death-match-russell
+  inactive: true
   youtube_playlist_id: UUYoDFwEa5sgA1JqwlbYQf9g
   apple_podcast_id: 1409462149
   apple_url: death-match-russell-podcast
@@ -221,15 +278,6 @@
   author: chicagoland-championship-wrestling
   inactive: true
   youtube_playlist_id: UU0U0XXugwAMNUWIYKh9iK7w
-
-- title: Work The Left Side Podcast
-  background: work-the-left-side-podcast-background.jpg
-  category: work-the-left-side-podcast
-  author: nik-towers
-  youtube_playlist_id: UU1hrk8NkrIXjqKniLiqeBeQ
-  spotify_show_id: 1eyWZ0Pwjtn1jPfvPF45xa
-  apple_podcast_id: 1552723799
-  apple_url: work-the-left-side-podcast
 
 - title: Turning Heel Podcast
   background: turning-heel-background.jpg
@@ -271,12 +319,6 @@
   youtube_playlist_id: UUnArx5z00Kq8aHGZbeUclZg
   spotify_show_id: 3OUqh3hLiNLC9SgLP5RkOy
 
-- title: Rewind Recap Relive
-  background: rewind-recap-relive-background.jpg
-  category: rewind-recap-relive
-  author: rewind-recap-relive
-  youtube_playlist_id: UU46zRme2Bk0iCdhT-3J-Sjw
-
 - title: Whaddya Say? With DDJ
   background: whaddya-say-with-ddj-background.jpg
   category: whaddya-say-with-ddj
@@ -301,7 +343,7 @@
   category: turnbuckle-arms-podcast
   author: turnbuckle-arms-podcast
   apple_url: turnbuckle-arms-podcast
-  inactive: false
+  inactive: true
   youtube_playlist_id: UUYDa5yBbWML_3LzTVCBraDQ
   spotify_show_id: 3tyyGlrWUfCi4AwRrHkADd
   apple_podcast_id: 1519669566
@@ -347,6 +389,7 @@
   background: champs-out-last-background.jpg
   category: champs-out-last
   author: champs-out-last
+  inactive: true
   spotify_show_id: 2kAbDiINhs0vebZd2ILTKN
   apple_podcast_id: 1532744934
   apple_url: champs-out-last
@@ -358,28 +401,11 @@
   youtube_playlist_id: UU0J3yx7NfEg9Ve_-Ry8Bykw
   spotify_show_id: 6SHCfC0V5ii4WxMRGHdEiX
 
-- title: ‘Keepin’ It Kayfabe’ a 4CNRS Pro Wrestling Podcast
-  background: keepin-it-kayfabe-background.jpg
-  category: keepin-it-kayfabe
-  author: keepin-it-kayfabe
-  inactive: true
-  spotify_show_id: 4bAb7gCv6WSHWoKmALv4V0
-  apple_podcast_id: 1361342419
-  apple_url: keepin-it-kayfabe-a-4cnrs-podcast-by-thirteen10-apparel
-
-- title: The Chokeslam Wrestling Report
-  background: chokeslam-logo-background.jpg
-  category: chokeslam-wrestling-report
-  author: chokeslam-wrestling-report
-  apple_url: the-chokeslam-wrestling-report
-  youtube_playlist_id: UU6qyBp_AFQsaXAIgIfhEzNw
-  spotify_show_id: 0L3VJhyCb06ZXTkyUm88DR
-  apple_podcast_id: 1471778112
-
 - title: The Everett Lee Show
   background: the-everett-lee-show-background.jpg
   category: the-everett-lee-show
   author: the-everett-lee-show
+  inactive: true
   apple_url: the-everett-lee-show
   spotify_show_id: 45BaFmaBEyl0RZsWF5DJfZ
   apple_podcast_id: 1199668898
@@ -389,30 +415,6 @@
   category: wrestle-rage
   author: wrestle-rage
   spotify_show_id: 4FbKqZNfS7wOkK0HSr0HeA
-
-- title: Untitled Wrestling Podcast
-  background: untitled-wrestling-podcast-background.png
-  category: untitled-wrestling-podcast
-  author: untitled-wrestling-podcast
-  apple_url: untitled-wrestling-podcast
-  apple_podcast_id: 1531222142
-  youtube_playlist_id: UUprlGgBm8_Ziu7zsxyjfMZw
-  spotify_show_id: 2GmcYXvpVe1UEDFuAbSTa0
-
-- title: Hidden Gem Hunters
-  background: hidden-gem-hunters-background.jpg
-  category: hidden-gem-hunters
-  author: hidden-gem-hunters
-  #youtube_playlist_id: UUNXUWqJA-ZcsHPuWGP2pGOA
-  spotify_show_id: 4d0cR0UeL26kskVBxSn1AR
-
-- title: Tree Hill Wrestling Federation
-  background: tree-hill-wrestling-federation-background.png
-  category: tree-hill-wrestling-federation
-  author: tree-hill-wrestling-federation
-  apple_url: tree-hill-wrestling-federation
-  apple_podcast_id: 1669187496
-  spotify_show_id: 5h0yhevyV0bsznrZDIARxj
 
 - title: Sky Creates
   background: sky-creates-background.jpg
@@ -425,9 +427,3 @@
   category: off-the-top-rope
   author: off-the-top-rope
   youtube_playlist_id: UUUPxwWgHFZLjKAGWFIPl1RA
-
-- title: WOMBTRAVEL "Wrestling & Travel"
-  background: wombtravel-background.jpg
-  category: wombtravel
-  author: wombtravel
-  youtube_playlist_id: UULFEHdYbDlkOMt4TCQ5OrHSaw
