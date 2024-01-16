@@ -6,6 +6,6 @@ categories: work-the-left-side-podcast
 author: nik-towers
 spotify_track_id: 6BV1Nso3bBRrWtpO8OrHM6
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000641878226
 youtube_metadata: 
 ---
