@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kenny Omega vs Ethan Page AEW Collision #montreal #montrealwrestling"
+title: "Kenny Omega vs Ethan Page AEW Collision"
 date: 2024-01-17
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
