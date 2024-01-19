@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KENNY OMEGA highlights AEW collision Montreal vs Ethan Page"
+title: "KENNY OMEGA vs ETHAN PAGE Highlights AEW Collision in Montreal"
 date: 2024-01-19
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
