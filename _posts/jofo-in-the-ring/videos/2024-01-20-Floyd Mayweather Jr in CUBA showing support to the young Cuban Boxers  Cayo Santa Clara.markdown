@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Floyd Mayweather Jr. in CUBA , showing his support to the young Cuban Boxers | Cayo Santa Clara"
+title: "Floyd Mayweather Jr. in CUBA showing support to the young Cuban Boxers | Cayo Santa Clara"
 date: 2024-01-20
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
