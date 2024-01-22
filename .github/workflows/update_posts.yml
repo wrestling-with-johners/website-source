@@ -54,7 +54,7 @@ jobs:
           cd source
           ./post-updater/generate_posts.py \
             --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
-            --output _posts/lucha-libre-and-laughs/ \
+            --output content/lucha-libre-and-laughs/ \
             --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
             --youtubeplaylistid UUaKig-if6R4tPedRhbu2g6A \
             --category lucha-libre-and-laughs \
@@ -65,8 +65,8 @@ jobs:
           cd source
           ./post-updater/generate_podcast_posts.py \
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
-          --output _posts/ \
-          --podcastsfile _data/podcasts.yml \
+          --output content/podcasts/ \
+          --podcastsfile prebuild/data/podcasts.yml \
           --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
           --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
           --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}
@@ -76,7 +76,7 @@ jobs:
           cd source
           ./post-updater/generate_posts.py \
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
-          --output _posts/half-decent/ \
+          --output content/half-decent/ \
           --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
           --youtubeplaylistid UU7gyM94WNIEE2LAllK1V_3A \
           --category half-decent \

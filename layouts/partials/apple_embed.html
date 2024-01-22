@@ -1,0 +1,8 @@
+<h2>Apple Podcast</h2>
+{{ $podcast := .Scratch.Get "podcast" }}
+<a href="https://podcasts.apple.com/us/podcast/{{ $podcast.apple_url }}/id{{ $podcast.apple_podcast_id }}?i={{ .Params.apple_track_id }}" target="_blank">
+  <span class="fa-stack fa-lg">
+    <i class="fas fa-circle fa-stack-2x"></i>
+    <i class="fab fa-apple fa-stack-1x fa-inverse"></i>
+  </span>
+</a>

@@ -1,0 +1,58 @@
+<article class="post-preview">
+    <a href="{{ .Permalink }}">
+        <h2 class="post-title">{{ if eq .FirstSection (.Site.GetPage "/authors") }} {{ .Params.Name }} {{ else }} {{ .Title }} {{ end }}</h2>
+        {{ if .Params.subtitle }}
+        <h3 class="post-subtitle">
+            {{ .Params.subtitle }}
+        </h3>
+        {{ end }}
+        {{ if .Params.image }}
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-title" />
+        {{ end }}
+        {{ if .Params.video }}
+        <video loop autoplay muted playsinline class="img-title">
+            <source src="{{ .Params.video }}">
+        </video>
+        {{ end }}
+    </a>
+
+    {{ if and (not .IsSection) (eq .FirstSection (.Site.GetPage "/podcasts")) }}
+        <p class="post-meta">
+            {{ partial "post_meta.html" . }}
+        </p>
+    {{ end }}
+    <div class="post-entry">
+        {{ if .Params.spotify_track_id }}
+            {{ partial "spotify_embed.html" . }}
+        {{ end }}
+
+        {{ if .Params.youtube_video_id }}
+            {{ partial "youtube_embed.html" . }}
+        {{ end }}
+
+        {{ if .Params.apple_track_id }}
+            {{ partial "apple_embed.html" . }}
+        {{ end }}
+
+        {{ $context := . }}
+        {{ if and .IsSection (eq .FirstSection (.Site.GetPage "/podcasts")) }}
+            {{ $context = partial "find_author.html" . }}
+        {{ end }}
+        {{ with $context }}
+            {{ if or (.Truncated) (.Params.summary) }}
+                {{ .Summary }}
+            {{ else }}
+                {{ .Content }}
+            {{ end }}
+        {{ end }}
+    </div>
+
+    {{ if .Params.tags }}
+    <div class="blog-tags">
+        {{ range .Params.tags }}
+        <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+        {{ end }}
+    </div>
+    {{ end }}
+
+</article>

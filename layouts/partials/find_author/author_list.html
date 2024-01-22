@@ -1,0 +1,5 @@
+{{ $authors := newScratch }}
+{{ range where .Site.RegularPages "Section" "authors" }}
+    {{ $authors.Set .Params.short_name . }}
+{{ end }}
+{{ return $authors }}

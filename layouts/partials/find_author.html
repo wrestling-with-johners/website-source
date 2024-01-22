@@ -1,0 +1,11 @@
+{{ $authorId := .Params.author }}
+{{ $authors := partialCached "find_author/author_list" . }}
+
+{{ $author := false }}
+{{ if $authorId }}
+    {{ $author = $authors.Get $authorId }}
+{{ end }}
+{{ if not $author }}
+    {{ $author = $authors.Get "john" }}
+{{ end }}
+{{ return $author }}

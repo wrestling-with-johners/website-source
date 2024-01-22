@@ -1,0 +1,119 @@
+{{- partial "load-photoswipe-theme.html" . }}
+
+{{ if eq .Type "authors" }}
+  {{ $.Scratch.Set "social" (dict "Social" .Params.social "Page" .) }}
+{{ else }}
+  {{ $author := partial "find_author.html" . }}
+  {{ if $author }}
+    {{ $.Scratch.Set "social" (dict "Social" $author.Params.social "Page" .) }}
+  {{ end }}
+{{ end }}
+
+{{ if .IsHome }}
+  {{ if .Site.Params.homeTitle }}{{ $.Scratch.Set "title" .Site.Params.homeTitle }}{{ else }}{{ $.Scratch.Set "title" .Site.Title }}{{ end }}
+  {{ if .Site.Params.subtitle }}{{ $.Scratch.Set "subtitle" .Site.Params.subtitle }}{{ end }}
+  {{ if .Site.Params.bigimg }}{{ $.Scratch.Set "bigimg" .Site.Params.bigimg }}{{ end }}
+{{ else }}
+  {{ if not .IsSection }}
+    {{ if eq .Type "authors" }}
+      {{ $.Scratch.Set "title" .Params.name }}
+    {{ else }}
+      {{ $.Scratch.Set "title" .Title }}
+    {{ end }}
+    {{ if .Params.subtitle }}{{ $.Scratch.Set "subtitle" .Params.subtitle }}{{ end }}
+  {{ end }}
+
+  {{ if .Params.bigimg }}
+    {{ $.Scratch.Set "bigimg" .Params.bigimg }}
+  {{ else if and (not .IsSection) (not (eq .Type "authors")) }}
+    {{ $.Scratch.Set "bigimg" .CurrentSection.Params.bigimg }}
+  {{ else }}
+    {{ $.Scratch.Set "bigimg" $.Site.Params.defaults.bigimg }}
+  {{ end }}
+{{ end }}
+
+{{ $bigimg := $.Scratch.Get "bigimg" }}
+{{ $title := $.Scratch.Get "title" }}
+{{ $subtitle := $.Scratch.Get "subtitle" }}
+
+{{ if or $bigimg $title }}
+  {{ if $bigimg }}
+    <div id="header-big-imgs" data-num-img={{len $bigimg}}
+      {{range $i, $img := $bigimg}}
+         {{ if (fileExists $img.src)}}
+          data-img-src-{{add $i 1}}="{{$img.src | absURL }}"
+         {{else}}
+          data-img-src-{{add $i 1}}="{{$img.src}}"
+         {{end}}
+         {{ if $img.desc}}data-img-desc-{{add $i 1}}="{{$img.desc}}"{{end}}
+      {{end}}></div>
+  {{ end }}
+
+  <header class="header-section {{ if $bigimg }}has-img{{ end }}">
+    {{ if $bigimg }}
+      {{ $firstimg := index $bigimg 0 }}
+      <div class="intro-header big-img" style="background-image: url('{{$firstimg.src}}');">
+        {{ $subtitle := $.Scratch.Get "subtitle" }}
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+              <div class="{{ .Type }}-heading{{ if .IsSection }} section-heading{{ end }}">
+                {{ with $.Scratch.Get "title" }}<h1>{{.}}</h1>{{ end }}
+                  {{ if $subtitle }}
+                    {{ if eq .Type "page" }}
+                      <hr class="small">
+                      <span class="{{ .Type }}-subheading">{{ $subtitle }}</span>
+                    {{ else }}
+                      <h2 class="{{ .Type }}-subheading">{{ $subtitle }}</h2>
+                    {{ end }}
+                  {{ end }}
+                  {{ if and (or (eq .Type "podcasts") (eq .Type "lucha-libre-and-laughs") (eq .Type "half-decent")) (not .IsSection) }}
+                    {{ partial "post_meta.html" . }}
+                  {{ end }}
+                  {{ with $.Scratch.Get "social" }}
+                    {{ partial "social.html" . }}
+                  {{ end }}
+              </div>
+            </div>
+          </div>
+        </div>
+        <span class="img-desc" style="display: {{ cond (isset $firstimg "desc") "inline" "none"}};">{{$firstimg.desc}}</span>
+      </div>
+    {{end}}
+    {{ if $title }}
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="{{ .Type }}-heading">
+              {{ if eq .Type "list" }}
+                <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
+              {{ else }}
+                <h1>{{ with $title }}{{.}}{{ else }}<br/>{{ end }}</h1>
+              {{ end }}
+              {{ if ne .Type "post" }}
+                <hr class="small">
+              {{ end }}
+              {{ if $subtitle }}
+                {{ if eq .Type "page" }}
+                  <span class="{{ .Type }}-subheading">{{ $subtitle }}</span>
+                {{ else }}
+                  <h2 class="{{ .Type }}-subheading">{{ $subtitle }}</h2>
+                {{ end }}
+              {{ end }}
+              {{ if and (eq .Type "podcasts") (not .IsSection) }}
+                {{ partial "post_meta.html" . }}
+              {{ end }}
+              {{ with $.Scratch.Get "social" }}
+                {{ partial "social.html" . }}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+  </header>
+{{ else }}
+  <div class="intro-header"></div>
+{{ end }}

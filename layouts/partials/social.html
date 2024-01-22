@@ -1,0 +1,52 @@
+{{ define "partials/social-single.html" }}
+<li>
+    {{ if or ( hasPrefix .Social "http://" ) ( hasPrefix .Social "https://" ) }}
+    <a {{ if .Entry.rel }}rel="{{ .Entry.rel }}"{{- end -}} href="{{ printf "%s" .Social }}" title="{{ .Entry.title }}" target="_blank">
+    {{ else }}
+    <a {{ if .Entry.rel }}rel="{{ .Entry.rel }}"{{- end -}} href="{{ printf .Entry.url .Social }}" title="{{ .Entry.title }}" target="_blank">
+        {{ end }}
+        <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="{{ .Entry.icon }} fa-stack-1x fa-inverse"></i>
+                  </span>
+    </a>
+</li>
+{{ end }}
+
+<ul class="list-inline text-center footer-links social">
+    {{ range .Page.Site.Data.beautifulhugo.social.social_icons }}
+        {{- if isset $.Social .id }}
+            {{ $social := index $.Social .id }}
+            {{ $icon_entry := . }}
+            {{ $type := (printf "%T" $social) }}
+            {{ if eq $type "[]interface {}" }}
+                {{ range $social }}
+                    {{ partial "social-single.html" (dict "Social" . "Entry" $icon_entry) }}
+                {{ end }}
+            {{ else }}
+                {{ partial "social-single.html" (dict "Social" $social "Entry" $icon_entry) }}
+            {{ end }}
+        {{- end -}}
+    {{ end }}
+    {{ if isset .Social "anchor" }}
+    <li>
+        {{ $anchor_url := printf "https://anchor.fm/%s" .Social.anchor }}
+        <a href="{{ $anchor_url }}" title="Anchor" target="_blank">
+            <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <img class="fa-stack-2x anchor-image" src="/vendor/iconfinder/anchor_fm.svg">
+              </span>
+        </a>
+    </li>
+    {{ end }}
+    {{ if .Page.Site.Params.rss }}
+    <li>
+        <a href="{{ with $.Page.OutputFormats.Get "RSS" }}{{ .Page.RelPermalink }}{{ end }}" title="RSS">
+        <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+        </a>
+    </li>
+    {{ end }}
+</ul>

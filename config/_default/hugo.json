@@ -1,0 +1,56 @@
+{
+  "languageCode": "en-gb",
+  "title": "Johners Podcasting Network",
+  "theme": "beautifulhugo",
+  "author": {
+    "name": "John Scott"
+  },
+  "params": {
+    "defaults": {
+      "bigimg": [
+        {
+          "src": "/img/default-background.png"
+        }
+      ]
+    },
+    "mainSections": [
+      "podcast",
+      "podcasts"
+    ],
+    "bigimg": [
+      {
+        "src": "/img/johners-network-banner.png"
+      }
+    ],
+    "homeTitle": " "
+  },
+  "disableKinds": [
+    "taxonomy",
+    "term"
+  ],
+  "cleanDestinationDir": true,
+  "module": {
+    "mounts": [
+      {
+        "source": "content",
+        "target": "content"
+      },
+      {
+        "source": "content/podcasts",
+        "target": "content/podcasts"
+      },
+      {
+        "source": "prebuild/public/podcasts",
+        "target": "content/podcasts"
+      },
+      {
+        "source": "data",
+        "target": "data"
+      },
+      {
+        "source": "prebuild/data",
+        "target": "data"
+      }
+    ]
+  }
+}

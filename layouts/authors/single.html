@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        {{ .Content }}
+
+        <h2>Posts</h2>
+        <ul>
+          {{ range where .Site.RegularPages ".Params.author" .Params.short_name }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+        {{ if .Params.tags }}
+          <div class="blog-tags">
+            {{ range .Params.tags }}
+              <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+            {{ end }}
+          </div>
+        {{ end }}
+
+        {{ if $.Param "socialShare" }}
+            <hr/>
+            <section id="social-share">
+              <div class="list-inline footer-links">
+                {{ partial "share-links" . }}
+              </div>
+            </section>
+        {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

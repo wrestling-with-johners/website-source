@@ -1,0 +1,10 @@
+{{ with os.ReadFile "/data/podcasts.yml" }}
+    {{ $podcasts := unmarshal . }}
+    {{ range $index, $value := $podcasts }}
+        {{ $data := merge . (dict "order" $index "type" "podcast" "bigimg" (slice (dict "src" (printf "/img/%s" $value.background))) ) }}
+        {{ $string := jsonify (dict "prefix" " " "indent" "  ") $data }}
+        {{ $filename := printf "podcasts/%s/_index.md" $data.category }}
+        {{ $resource := resources.FromString $filename $string }}
+        {{ $file := $resource.RelPermalink }}
+    {{ end }}
+{{ end }}

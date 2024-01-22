@@ -2,3 +2,6 @@
 	path = post-updater
 	url = git@github.com:mpforce1/post-updater.git
 	branch = main
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git

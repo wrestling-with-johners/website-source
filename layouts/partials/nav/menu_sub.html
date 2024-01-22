@@ -1,0 +1,11 @@
+<li class="navlinks-container">
+    <a class="navlinks-parent">{{ .Name }}</a>
+    <div class="navlinks-children">
+        {{ if isset . "URL" }}
+            <a class="navlinks-list" href="{{ .URL }}">All</a>
+        {{ end }}
+        {{ range .Children }}
+            <a href="{{ .URL | relLangURL }}"{{ if .Remote }} target="_blank" {{ end }}>{{ .Name }}</a>
+        {{ end }}
+    </div>
+</li>

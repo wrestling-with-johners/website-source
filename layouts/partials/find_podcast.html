@@ -1,0 +1,6 @@
+{{ $podcasts := (index (where .Site.Sections "Section" "podcasts" ) 0).Sections }}
+{{ $result := false }}
+{{ if in $podcasts .Parent }}
+    {{ $result = .Parent }}
+{{ end }}
+{{ return $result }}
