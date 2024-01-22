@@ -59,14 +59,29 @@ a {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      background-color: #444;
+
+      @media (prefers-color-scheme: dark) {
+        background-color: #444;
+      }
+      @media (prefers-color-scheme: light) {
+        background-color: #fff;
+      }
 
       * {
         border: none;
         padding: 2em;
 
+        @media (prefers-color-scheme: light) {
+          background-color: #fff;
+        }
+
         &:hover {
-          background-color: #666;
+          @media (prefers-color-scheme: dark) {
+            background-color: #666;
+          }
+          @media (prefers-color-scheme: light) {
+            background-color: #eee;
+          }
         }
       }
     }

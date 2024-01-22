@@ -1,4 +1,4 @@
 ---
 bigimg:
-  - src: "/img/authors-background.jpg"
+  - src: "/img/johners-network-banner.png"
 ---

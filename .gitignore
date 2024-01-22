@@ -5,3 +5,4 @@ public
 .jekyll-cache
 post-updater/__pycache__/
 geckodriver.log
+/resources/_gen/
