@@ -1,7 +1,6 @@
 {
   "languageCode": "en-gb",
   "title": "Johners Podcasting Network",
-  "description": "Pro Wrestling podcast with news, reviews and debate from WWE, NXT, NXT:UK, AEW, NJPW, Indy Wrestling and so much more. Listen to Wrestling With Johners on Apple Podcasts, Google Podcasts, Spotify, Podbean, Podcast Addict, Castbox, YouTube or wherever you get your podcasts.",
   "theme": "beautifulhugo",
   "author": {
     "name": "John Scott"
@@ -24,6 +23,7 @@
       }
     ],
     "logo": "/img/johners-network-banner.png",
+    "description": "Pro Wrestling podcast with news, reviews and debate from WWE, NXT, NXT:UK, AEW, NJPW, Indy Wrestling and so much more. Listen to Wrestling With Johners on Apple Podcasts, Google Podcasts, Spotify, Podbean, Podcast Addict, Castbox, YouTube or wherever you get your podcasts.",
     "homeTitle": " "
   },
   "disableKinds": [
