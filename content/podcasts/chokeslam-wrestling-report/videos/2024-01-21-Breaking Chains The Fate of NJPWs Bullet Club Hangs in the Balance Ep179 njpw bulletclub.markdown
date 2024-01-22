@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Breaking Chains: The Fate of NJPW's Bullet Club Hangs in the Balance! Okada, Tama out of NJPW Ep#179"
+title: "Breaking Chains: The Fate of NJPW's Bullet Club Hangs in the Balance! Ep#179 #njpw #bulletclub"
 date: 2024-01-21
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
