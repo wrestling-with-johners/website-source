@@ -39,7 +39,7 @@ jobs:
           hugo --gc --minify
 
       - name: Clone repo for GitHub Pages
-        run: git clone git@github.com:wrestling-with-johners/wrestling-with-johners.github.io.git published
+        run: git clone --depth 1 git@github.com:wrestling-with-johners/wrestling-with-johners.github.io.git published
 
       - name: Copy built site files into Git branch
         run: |
