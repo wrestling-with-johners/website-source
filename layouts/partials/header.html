@@ -67,7 +67,7 @@
                       <h2 class="{{ .Type }}-subheading">{{ $subtitle }}</h2>
                     {{ end }}
                   {{ end }}
-                  {{ if and (or (eq .Type "podcasts") (eq .Type "lucha-libre-and-laughs") (eq .Type "half-decent")) (not .IsSection) }}
+                  {{ if and (or (eq .Type "podcasts") (eq .Type "lucha-libre-and-laughs") (eq .Type "half-decent") (eq .Type "united-wrestling")) (not .IsSection) }}
                     {{ partial "post_meta.html" . }}
                   {{ end }}
                   {{ with $.Scratch.Get "social" }}

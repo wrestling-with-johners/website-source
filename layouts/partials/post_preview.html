@@ -16,7 +16,7 @@
         {{ end }}
     </a>
 
-    {{ if and (not .IsSection) (eq .FirstSection (.Site.GetPage "/podcasts")) }}
+    {{ if and (not .IsSection) (not (eq .FirstSection (.Site.GetPage "/authors"))) }}
         <p class="post-meta">
             {{ partial "post_meta.html" . }}
         </p>
