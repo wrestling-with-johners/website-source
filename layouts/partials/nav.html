@@ -12,11 +12,21 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li class="nav-item nav-image">
-          <a href="/lucha-libre-and-laughs">
-            <img src="/img/lucha-libre-and-laughs-logo.png" alt="Lucha Libre & Laughs">
-          </a>
-        </li>
+        {{ partial "nav/menu_single_img.html"
+          (dict
+            "URL" "/lucha-libre-and-laughs"
+            "img" "/img/lucha-libre-and-laughs-logo.png"
+            "alt" "Lucha Libre & Laughs"
+          )
+        }}
+
+        {{ partial "nav/menu_single_img.html"
+          (dict
+            "URL" "/united-wrestling"
+            "img" "/img/united-wrestling-logo.png"
+            "alt" "UNITED WRESTLING"
+          )
+        }}
 
         {{ $podcasts := (index (where .Site.Sections "Section" "podcasts" ) 0).Sections }}
         {{ $podcasts := sort $podcasts ".Params.order" }}

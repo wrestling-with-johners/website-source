@@ -49,17 +49,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r post-updater/requirements.txt
 
-      - name: Update Lucha Libre & Laughs
-        run: |
-          cd source
-          ./post-updater/generate_posts.py \
-            --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
-            --output content/lucha-libre-and-laughs/ \
-            --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
-            --youtubeplaylistid UUaKig-if6R4tPedRhbu2g6A \
-            --category lucha-libre-and-laughs \
-            --author lucha-libre-and-laughs
-
       - name: Update All Podcasts
         run: |
           cd source
@@ -71,16 +60,16 @@ jobs:
           --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
           --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
-      - name: Update Half Decent
+      - name: Update All Promotions
         run: |
           cd source
-          ./post-updater/generate_posts.py \
+          ./post-updater/generate_podcast_posts.py \
           --mindate "$(date -d "yesterday" '+%Y-%m-%d')" \
-          --output content/half-decent/ \
+          --output content/ \
+          --podcastsfile prebuild/data/promotions.yml \
           --youtubekey ${{ secrets.YOUTUBE_API_KEY }} \
-          --youtubeplaylistid UU7gyM94WNIEE2LAllK1V_3A \
-          --category half-decent \
-          --author half-decent
+          --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
+          --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
       - name: Add, Commit then Push
         run: |
