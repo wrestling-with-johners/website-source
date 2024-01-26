@@ -5,7 +5,7 @@
             <a class="navlinks-list" href="{{ .URL }}">All</a>
         {{ end }}
         {{ range .Children }}
-            <a href="{{ .URL | relLangURL }}"{{ if .Remote }} target="_blank" {{ end }}>{{ .Name }}</a>
+            <a href="{{ .URL }}"{{ if .Remote }} target="_blank" {{ end }}>{{ .Name }}</a>
         {{ end }}
     </div>
 </li>
