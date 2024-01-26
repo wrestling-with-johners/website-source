@@ -6,7 +6,7 @@ position: Podcast
 social:
   twitter: untitledwrespod
   instagram: untitledwrestlingpodcast
-  facebook: 100040638681882
+  facebook: "100040638681882"
   twitch: untitledwrespod
   website: https://discord.gg/8SSM6w6j
 ---

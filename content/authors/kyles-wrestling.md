@@ -4,7 +4,6 @@ short_name: kyles-wrestling
 name: "Kyle's Wrestling"
 position: Podcast
 social:
-  twitter:
   instagram: kylerogers9977
   facebook: Kyle-wreslting-podcsst-102511398408429
 ---

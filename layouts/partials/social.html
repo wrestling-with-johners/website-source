@@ -1,14 +1,20 @@
 {{ define "partials/social-single.html" }}
+{{ $title := .Entry.title }}
+{{ $url := .Social }}
+{{ if not (eq (printf "%T" .Social) "string") }}
+    {{ $title = .Social.title }}
+    {{ $url = .Social.url }}
+{{ end }}
+{{ $href := printf .Entry.url $url }}
+{{ if or ( hasPrefix $url "http://" ) ( hasPrefix $url "https://" ) }}
+    {{ $href = printf "%s" $url }}
+{{ end }}
 <li>
-    {{ if or ( hasPrefix .Social "http://" ) ( hasPrefix .Social "https://" ) }}
-    <a {{ if .Entry.rel }}rel="{{ .Entry.rel }}"{{- end -}} href="{{ printf "%s" .Social }}" title="{{ .Entry.title }}" target="_blank">
-    {{ else }}
-    <a {{ if .Entry.rel }}rel="{{ .Entry.rel }}"{{- end -}} href="{{ printf .Entry.url .Social }}" title="{{ .Entry.title }}" target="_blank">
-        {{ end }}
+    <a {{ if .Entry.rel }}rel="{{ .Entry.rel }}"{{- end -}} href="{{ $href }}" title="{{ $title }}" target="_blank">
         <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="{{ .Entry.icon }} fa-stack-1x fa-inverse"></i>
-                  </span>
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="{{ .Entry.icon }} fa-stack-1x fa-inverse"></i>
+        </span>
     </a>
 </li>
 {{ end }}
