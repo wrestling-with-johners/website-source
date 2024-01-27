@@ -125,6 +125,12 @@ title = "Spotify"
 icon = "fab fa-spotify"
 
 [[social_icons]]
+id = "spotify_show"
+url = "https://open.spotify.com/show/%s"
+title = "Spotify"
+icon = "fab fa-spotify"
+
+[[social_icons]]
 id = "bandcamp"
 url = "https://%s.bandcamp.com/"
 title = "Bandcamp"
