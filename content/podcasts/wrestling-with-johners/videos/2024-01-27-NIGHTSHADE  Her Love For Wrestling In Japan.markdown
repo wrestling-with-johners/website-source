@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NIGHTSHADE & Her Love For Wrestling In Japan"
-date: 2024-01-26
+date: 2024-01-27
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
