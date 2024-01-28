@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 120-Royal Rumble Live"
-date: 2024-01-27
+date: 2024-01-28
 categories: shootin-sht videos
 author: shootin-sht
 spotify_track_id: 
