@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXEL CARTER, Live Interview - Wresting With Johners LIVE!"
+title: "AXEL CARTER, Full Interview"
 date: 2024-01-31
 categories: videos wrestling-with-johners
 author: john
