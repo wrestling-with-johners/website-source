@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Full Match: PAOLO TRIASSI VS JIMMY WOODS | TCPW JANUARY Jackpot 2024"
+title: "Full Match: PAOLO TRIASSI vs JIMMY WOODS | TCPW JANUARY Jackpot 2024"
 date: 2024-02-01
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
