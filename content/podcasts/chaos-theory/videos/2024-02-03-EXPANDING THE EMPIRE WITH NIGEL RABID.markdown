@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EXPANDING THE EMPIRE WITH NIGEL RABID"
-date: 2024-02-02
+date: 2024-02-03
 categories: chaos-theory videos
 author: chaos-theory
 spotify_track_id: 
