@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I feel for it, but he made it weird! Dammit"
+title: "I fell for it, but he made it weird! Dammit"
 date: 2024-02-06
 categories: straight-talk-wrestling videos
 author: george-mckay
