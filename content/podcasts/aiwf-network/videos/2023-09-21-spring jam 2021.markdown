@@ -1,0 +1,11 @@
+---
+layout: post
+title: "spring jam 2021"
+date: 2023-09-21
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: o0fHS6dmRz4
+apple_track_id: 
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Midatlantic 399"
+date: 2019-10-15
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: Ms3hlg4nFx8
+apple_track_id: 
+youtube_metadata: 
+---

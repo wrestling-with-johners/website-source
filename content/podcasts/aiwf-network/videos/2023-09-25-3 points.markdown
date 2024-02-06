@@ -1,0 +1,11 @@
+---
+layout: post
+title: "3 points"
+date: 2023-09-25
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: EmT3ckMXaqQ
+apple_track_id: 
+youtube_metadata: 
+---

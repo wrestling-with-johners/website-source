@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 122"
+date: 2013-03-09
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: cTiPo-6zoTc
+apple_track_id: 
+youtube_metadata: 
+---

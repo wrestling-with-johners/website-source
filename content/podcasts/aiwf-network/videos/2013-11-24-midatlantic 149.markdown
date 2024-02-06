@@ -1,0 +1,11 @@
+---
+layout: post
+title: "midatlantic 149"
+date: 2013-11-24
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: XpJbaffM50Y
+apple_track_id: 
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "spring jam 96"
+date: 2023-10-15
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: Byv7ivGDHzU
+apple_track_id: 
+youtube_metadata: 
+---

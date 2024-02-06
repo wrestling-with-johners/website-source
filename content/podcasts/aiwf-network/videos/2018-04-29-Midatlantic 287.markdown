@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Midatlantic 287"
+date: 2018-04-29
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: Eixea5ZiiFE
+apple_track_id: 
+youtube_metadata: 
+---

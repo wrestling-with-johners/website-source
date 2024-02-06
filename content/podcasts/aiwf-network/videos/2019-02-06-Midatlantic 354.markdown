@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Midatlantic 354"
+date: 2019-02-06
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: gE7Do3yW7ZY
+apple_track_id: 
+youtube_metadata: 
+---

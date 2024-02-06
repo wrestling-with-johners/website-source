@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 337"
+date: 2018-12-08
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: IJGIT89e-Lk
+apple_track_id: 
+youtube_metadata: 
+---

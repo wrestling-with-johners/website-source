@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 250"
+date: 2016-11-05
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: 8CeV_yHBLoE
+apple_track_id: 
+youtube_metadata: 
+---

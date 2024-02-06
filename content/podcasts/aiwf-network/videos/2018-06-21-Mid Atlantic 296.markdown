@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 296"
+date: 2018-06-21
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: -8zxgI7TyFo
+apple_track_id: 
+youtube_metadata: 
+---

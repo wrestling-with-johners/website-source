@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 305"
+date: 2018-08-08
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: 0xRcYW03qbI
+apple_track_id: 
+youtube_metadata: 
+---

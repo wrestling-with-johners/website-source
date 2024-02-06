@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Midatlantic 369"
+date: 2019-04-14
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: hJzFtfmpXX4
+apple_track_id: 
+youtube_metadata: 
+---

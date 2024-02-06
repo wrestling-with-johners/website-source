@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Midatlantic 413"
+date: 2020-02-15
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: 7oYWo64lY50
+apple_track_id: 
+youtube_metadata: 
+---

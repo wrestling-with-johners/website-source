@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 347"
+date: 2019-01-14
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: WBV3_4p5e1Q
+apple_track_id: 
+youtube_metadata: 
+---

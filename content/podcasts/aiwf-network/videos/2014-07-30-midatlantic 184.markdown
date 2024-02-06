@@ -1,0 +1,11 @@
+---
+layout: post
+title: "midatlantic 184"
+date: 2014-07-30
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: yD5JjbtLMEc
+apple_track_id: 
+youtube_metadata: 
+---

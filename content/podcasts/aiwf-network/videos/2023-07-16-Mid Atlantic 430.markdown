@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 430"
+date: 2023-07-16
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: bKV3o2w2e4I
+apple_track_id: 
+youtube_metadata: 
+---

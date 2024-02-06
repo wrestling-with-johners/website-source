@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 216"
+date: 2015-05-17
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: jC16Zaqrg1k
+apple_track_id: 
+youtube_metadata: 
+---

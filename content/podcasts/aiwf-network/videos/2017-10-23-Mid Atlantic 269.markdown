@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 269"
+date: 2017-10-23
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: FD0yyhhzx28
+apple_track_id: 
+youtube_metadata: 
+---

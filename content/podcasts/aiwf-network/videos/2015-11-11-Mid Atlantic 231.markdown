@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 231"
+date: 2015-11-11
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: FAxhE3zDqyU
+apple_track_id: 
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Midatlantic 379"
+date: 2019-07-04
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: cr_apqkeups
+apple_track_id: 
+youtube_metadata: 
+---

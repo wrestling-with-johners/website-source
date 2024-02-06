@@ -1,0 +1,11 @@
+---
+layout: post
+title: "midatlantic 137"
+date: 2013-07-14
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: XJBZbkhI6ZI
+apple_track_id: 
+youtube_metadata: 
+---

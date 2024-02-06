@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Midatlantic 365"
+date: 2019-03-25
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: kAoCKnLTBuk
+apple_track_id: 
+youtube_metadata: 
+---

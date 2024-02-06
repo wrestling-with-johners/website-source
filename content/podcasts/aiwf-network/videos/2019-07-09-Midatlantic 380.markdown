@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Midatlantic 380"
+date: 2019-07-09
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: ZogxRpo2Hdo
+apple_track_id: 
+youtube_metadata: 
+---

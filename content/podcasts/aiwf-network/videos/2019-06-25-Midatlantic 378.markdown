@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Midatlantic 378"
+date: 2019-06-25
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: WYYt0qc7afo
+apple_track_id: 
+youtube_metadata: 
+---

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Fright Night 2023"
+date: 2023-11-18
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: DjU2lQqzAmg
+apple_track_id: 
+youtube_metadata: 
+---

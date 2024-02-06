@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 247"
+date: 2016-10-10
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: qG_7i7vKkzc
+apple_track_id: 
+youtube_metadata: 
+---

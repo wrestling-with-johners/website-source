@@ -1,0 +1,11 @@
+---
+layout: post
+title: "midatlantic 196"
+date: 2014-12-07
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: 8Wx3IioxuNg
+apple_track_id: 
+youtube_metadata: 
+---

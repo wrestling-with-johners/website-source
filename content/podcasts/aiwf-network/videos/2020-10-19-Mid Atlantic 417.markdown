@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 417"
+date: 2020-10-19
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: VgRtrm3GwSk
+apple_track_id: 
+youtube_metadata: 
+---

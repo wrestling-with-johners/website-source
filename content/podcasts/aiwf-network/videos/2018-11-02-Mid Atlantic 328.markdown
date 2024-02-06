@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 328"
+date: 2018-11-02
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: xT7yVmHSw6o
+apple_track_id: 
+youtube_metadata: 
+---

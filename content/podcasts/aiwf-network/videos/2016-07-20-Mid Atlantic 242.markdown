@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mid Atlantic 242"
+date: 2016-07-20
+categories: aiwf-network videos
+author: aiwf-network
+spotify_track_id: 
+youtube_video_id: yOwDCM17Pdo
+apple_track_id: 
+youtube_metadata: 
+---
