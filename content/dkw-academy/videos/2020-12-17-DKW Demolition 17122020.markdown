@@ -1,0 +1,11 @@
+---
+layout: post
+title: "DKW Demolition (17/12/2020)"
+date: 2020-12-17
+categories: dkw-academy videos
+author: dkw-academy
+spotify_track_id: 
+youtube_video_id: IxjHB4FxkxU
+apple_track_id: 
+youtube_metadata: 
+---
