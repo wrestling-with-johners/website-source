@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KAROU talks ROH, getting out there more, Making 2024 his year and more"
-date: 2024-02-06
+date: 2024-02-07
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
