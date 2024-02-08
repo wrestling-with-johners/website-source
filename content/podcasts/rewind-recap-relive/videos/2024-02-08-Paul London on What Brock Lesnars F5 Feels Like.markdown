@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paul London Describes What Brock Lesnar’s F5 Feels Like"
+title: "Paul London on What Brock Lesnar’s F5 Feels Like!"
 date: 2024-02-08
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
