@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAY JOSHUA, Live Interview - Wrestling Wth Johners LIVE!"
+title: "JAY JOSHUA, Full Live Interview!"
 date: 2024-02-09
 categories: videos wrestling-with-johners
 author: john
