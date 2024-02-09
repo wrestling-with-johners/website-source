@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 137 - KOTR 97"
+date: 2024-02-08
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: hX3hB_TLcTk
+apple_track_id: 
+youtube_metadata: 
+---
