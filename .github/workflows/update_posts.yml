@@ -73,7 +73,7 @@ jobs:
 
       - name: Add, Commit, then Push Post Updater
         run: |
-          cd post-updater
+          cd source/post-updater
           git add apple_auth
           if [ "$(git status --porcelain)" ]; then
             echo "Commit required"
