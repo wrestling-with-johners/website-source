@@ -71,7 +71,19 @@ jobs:
           --spotifyid ${{ secrets.SPOTIFY_CLIENT_ID }} \
           --spotifysecret ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
-      - name: Add, Commit then Push
+      - name: Add, Commit, then Push Post Updater
+        run: |
+          cd post-updater
+          git add apple_auth
+          if [ "$(git status --porcelain)" ]; then
+            echo "Commit required"
+            git commit -m 'Updated apple auth'
+            git push --quiet origin main
+          else
+            echo "No commit required"
+          fi
+
+      - name: Add, Commit, then Push Main
         run: |
           cd source
           git add -A .
