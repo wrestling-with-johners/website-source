@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "SCOTTY RAWK, Live Interview - Wresting With Johners LIVE!"
-date: 2024-02-07
+title: "SCOTTY RAWK, Full Live Interview"
+date: 2024-02-13
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
