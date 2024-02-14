@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Jesse Bieber Talks picking wrestling over Music, Serious Injuries, Crowd Insults that hurt and mor"
-date: 2024-02-11
+title: "Jesse Bieber Talks picking wrestling over Music, Serious Injuries, Crowd Insults that hurt and more"
+date: 2024-02-14
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
