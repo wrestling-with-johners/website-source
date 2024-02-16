@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Michael 'STARBUCK' Majalahti, Live Interview - Wrestling With Johners LIVE!"
+title: "Michael 'STARBUCK' Majalahti, Full Live Interview"
 date: 2024-02-16
 categories: videos wrestling-with-johners
 author: john
