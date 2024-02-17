@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marella Discovery Room Tour"
+title: "Marella Discovery Caribbean Cruise Room Tour"
 date: 2024-02-17
 categories: videos wombreezy
 author: wombreezy
