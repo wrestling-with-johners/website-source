@@ -1,0 +1,6 @@
+selenium_wire==5.1.0
+requests==2.31.0
+google_api_python_client==2.88.0
+python_dateutil==2.8.2
+python_frontmatter==1.0.0
+PyYAML==6.0
