@@ -10,7 +10,8 @@ import sys
 import datetime
 import dateutil.parser as datetime_parser
 import html
-import requests
+from requests import Session
+from requests.adapters import HTTPAdapter, Retry
 from googleapiclient.discovery import build
 import frontmatter
 
@@ -19,6 +20,14 @@ from get_apple_auth import get_auth
 
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
+
+http_session = Session()
+retries = Retry(
+  total = 5,
+  backoff_factor = 0.1,
+  status_forcelist = [500, 502, 503, 504, 404]
+)
+http_session.mount('https://', HTTPAdapter(max_retries=retries))
 
 def find_episode_number(title):
   ep_then_number = re.findall(r'EP ?\d+ ', title.lower(), re.IGNORECASE)
@@ -126,7 +135,7 @@ class SpotifyScraper:
     return 'Basic {}'.format(bytes_as_string)
 
   def get_access_key(self):
-    result = requests.post(
+    result = http_session.post(
       'https://accounts.spotify.com/api/token',
       data = {'grant_type': 'client_credentials'},
       headers = {'Authorization': self.get_authorization()}
@@ -137,7 +146,7 @@ class SpotifyScraper:
       result.raise_for_status()
 
   def get_tracks(self, access_key, url):
-    result = requests.get(
+    result = http_session.get(
       url,
       headers = {
         'Authorization': 'Bearer {}'.format(access_key),
@@ -195,7 +204,7 @@ class AppleScraper:
       self.auth = file.readline()
 
   def get_tracks(self, next_url_part, retry_apple_auth = True):
-    response = requests.get('https://amp-api.podcasts.apple.com{}'.format(next_url_part), headers = {
+    response = http_session.get('https://amp-api.podcasts.apple.com{}'.format(next_url_part), headers = {
       'Accept': 'application/json',
       'Referer': 'https://podcasts.apple.com/',
       'Origin': 'https://podcasts.apple.com',
