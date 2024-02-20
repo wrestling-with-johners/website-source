@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Full Match: Dru Onyx & Savage Paulson vs Bjorg Haaken & Genesis w"
+title: "Full Match: Dru Onyx & Savage Paulson vs Bjorg Haaken & Genesis"
 date: 2024-02-20
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
