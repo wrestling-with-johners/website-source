@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDP Gave LA Knight Some Fantastic Advice"
+title: "DDP on Why LA Knight WILL Be One of The Biggest Stars of All Time"
 date: 2024-02-20
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
