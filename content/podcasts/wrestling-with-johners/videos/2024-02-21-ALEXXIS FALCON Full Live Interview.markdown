@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ALEXXIS FALCON, Live Interview - Wresting With Johners LIVE!"
-date: 2024-01-19
+title: "ALEXXIS FALCON, Full Live Interview"
+date: 2024-02-21
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
