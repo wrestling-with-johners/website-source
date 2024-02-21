@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALEXXIS FALCON, Full Live Interview"
+title: "ALEXXIS FALCON, Full Live Interview 👸🐯"
 date: 2024-02-21
 categories: videos wrestling-with-johners
 author: john
