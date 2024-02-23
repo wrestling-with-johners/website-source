@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O’Shea Jackson Jr Talks AEW fans #wwe #rawlive #mondaynightraw #podcast #vincemcmahon #wrestlingshow"
+title: "O’Shea Jackson Jr Talks AEW fans #prowrestling #shortsviral"
 date: 2024-02-23
 categories: da-call-up videos
 author: da-call-up
