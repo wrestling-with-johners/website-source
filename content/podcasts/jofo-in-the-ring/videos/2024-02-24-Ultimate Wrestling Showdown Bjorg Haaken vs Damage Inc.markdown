@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ultimate Wrestling Showdown!: Bjorg Haaken vs Damage Inc"
+title: "Ultimate Wrestling Showdown!: Bjorg Haaken vs Damage Inc"
 date: 2024-02-24
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
