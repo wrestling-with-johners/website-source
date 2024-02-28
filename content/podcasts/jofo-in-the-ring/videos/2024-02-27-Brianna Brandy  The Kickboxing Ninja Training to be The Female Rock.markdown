@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brianna Brandy : The Kickboxing Ninja Training to Conquer WWE"
+title: "Brianna Brandy : The Kickboxing Ninja Training to be The Female Rock"
 date: 2024-02-27
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
