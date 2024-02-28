@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "February 27, 2024"
+title: "Innovation in the wrestling ring by The Worst #montrealwrestling #tcpw"
 date: 2024-02-28
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
