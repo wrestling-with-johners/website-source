@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THIS is What Nick Gage Wanted New Jack to Do to Him"
+title: "Did you know New Jack and Nick Gage had a Match?"
 date: 2024-02-29
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
