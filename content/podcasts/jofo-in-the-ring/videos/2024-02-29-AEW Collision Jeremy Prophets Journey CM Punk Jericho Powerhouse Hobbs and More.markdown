@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inside AEW Collision: Jeremy Prophet's Journey, CM Punk, Jericho, Powerhouse Hobbs, and More"
+title: "AEW Collision: Jeremy Prophet's Journey, CM Punk, Jericho, Powerhouse Hobbs, and More"
 date: 2024-02-29
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring

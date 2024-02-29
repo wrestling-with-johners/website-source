@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Insane Kerry Von Erich Stories ft. Brooklyn Brawler | Iron Sheik | Roddy Piper | WWF"
+title: "the Most Insane Kerry Von Erich Stories with Brooklyn Brawler, Iron Sheik, and Roddy Piper in WWF"
 date: 2024-02-28
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
