@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AARAN PLAYS: POKEMON INFINITE FUSION PART 1"
-date: 2024-02-26
+date: 2024-02-29
 categories: untitled-wrestling-podcast videos
 author: untitled-wrestling-podcast
 spotify_track_id: 
