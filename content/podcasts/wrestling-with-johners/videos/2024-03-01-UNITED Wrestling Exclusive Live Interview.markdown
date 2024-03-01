@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNITED Wrestling, Live Interview - Wresting With Johners LIVE!"
+title: "UNITED Wrestling, Exclusive Live Interview!"
 date: 2024-03-01
 categories: videos wrestling-with-johners
 author: john
