@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Rock said Fuck your story #prowrestling #shorts #wwe"
+title: "The Rock acknowledges Roman Reigns #prowrestling #shorts #wwe"
 date: 2024-03-01
 categories: da-call-up videos
 author: da-call-up
