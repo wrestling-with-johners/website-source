@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "EDDIE DENNIS, Live Interview - Wrestling With Johners LIVE!"
-date: 2024-01-26
+title: "EDDIE DENNIS Interview (Full Live & Exclusive Interview!)"
+date: 2024-03-05
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
