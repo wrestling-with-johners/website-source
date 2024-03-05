@@ -6,6 +6,6 @@ categories: bucklebomb-entertainment interviews
 author: bucklebomb-entertainment
 spotify_track_id: 7rLS6ttu5edMnfsQFhWk8M
 youtube_video_id: 
-apple_track_id: 
+apple_track_id: 1000648129775
 youtube_metadata: 
 ---
