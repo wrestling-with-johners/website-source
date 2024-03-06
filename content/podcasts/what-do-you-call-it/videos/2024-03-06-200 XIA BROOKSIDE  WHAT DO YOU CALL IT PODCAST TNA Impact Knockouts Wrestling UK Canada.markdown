@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(200) XIA BROOKSIDE - WHAT DO YOU CALL IT? PODCAST! #TNA #Impact #Knockouts #Wrestling #UK #Canada"
+title: "#200 XIA BROOKSIDE - WHAT DO YOU CALL IT? PODCAST! #TNA #Impact #Knockouts #Wrestling #UK #Canada"
 date: 2024-03-06
 categories: videos what-do-you-call-it
 author: what-do-you-call-it
