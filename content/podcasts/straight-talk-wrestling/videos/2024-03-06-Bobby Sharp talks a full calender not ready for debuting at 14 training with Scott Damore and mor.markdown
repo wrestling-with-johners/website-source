@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bobby Sharp talks a full calender, not ready for debuting at 14, training with Scott D'amore and mor"
-date: 2024-03-05
+date: 2024-03-06
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
