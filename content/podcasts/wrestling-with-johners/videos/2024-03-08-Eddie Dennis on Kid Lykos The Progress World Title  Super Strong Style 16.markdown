@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eddie Dennis on Kid Lykos & Progress World Title"
+title: "Eddie Dennis on Kid Lykos, The Progress World Title & Super Strong Style 16"
 date: 2024-03-08
 categories: videos wrestling-with-johners
 author: john
