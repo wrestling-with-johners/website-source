@@ -2,10 +2,10 @@
 layout: post
 title: "Interview with Chris Envy of The Dynasty Pro Wrestling"
 date: 2024-03-13
-categories: bucklebomb-entertainment interviews
+categories: bucklebomb-entertainment videos
 author: bucklebomb-entertainment
-spotify_track_id: 0VFA0sCIFhacphwM0jNT8Y
-youtube_video_id: 
-apple_track_id: 1000649038576
+spotify_track_id: 
+youtube_video_id: NbQrZ5eqsQg
+apple_track_id: 
 youtube_metadata: 
 ---
