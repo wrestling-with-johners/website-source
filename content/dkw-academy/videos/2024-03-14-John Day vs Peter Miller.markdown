@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "John Day vs Peter Miller"
-date: 2024-03-10
+date: 2024-03-14
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
