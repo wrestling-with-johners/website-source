@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TIDAL Wrestling, Live Preview Show 'Iron Will Tournament Final'"
-date: 2024-03-08
+date: 2024-03-14
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
