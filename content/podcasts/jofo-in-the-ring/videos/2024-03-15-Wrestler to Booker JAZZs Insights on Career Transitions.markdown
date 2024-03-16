@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Wrestler to Booker: JAZZ's Insights on Career Transitions"
+title: "Wrestler to Booker: JAZZ's Insights on Career Transitions"
 date: 2024-03-15
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
