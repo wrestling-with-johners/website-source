@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Spring Heeled' JACK LANDERS, Live Interview - Wrestling With Johners LIVE!"
+title: "'Spring Heeled' JACK LANDERS, Full Interview"
 date: 2024-03-16
 categories: videos wrestling-with-johners
 author: john
