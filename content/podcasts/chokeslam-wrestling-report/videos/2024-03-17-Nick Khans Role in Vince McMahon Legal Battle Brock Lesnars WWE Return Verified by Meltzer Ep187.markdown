@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nick Khan's Role in Vince McMahon Legal Battle! Brock Lesnar' WWE Return Verified by Meltzer Ep#187"
+title: "Nick Khan's Role in Vince McMahon Legal Battle! Brock Lesnar's WWE Return Verified by Meltzer Ep#187"
 date: 2024-03-17
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
