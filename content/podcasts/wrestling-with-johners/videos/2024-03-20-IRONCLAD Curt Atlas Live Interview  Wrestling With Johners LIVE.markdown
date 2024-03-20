@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'IRONCLAD' Curt Atlas, Live Interview - Wrestling With Johners LIVE!"
-date: 2024-03-14
+date: 2024-03-20
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
