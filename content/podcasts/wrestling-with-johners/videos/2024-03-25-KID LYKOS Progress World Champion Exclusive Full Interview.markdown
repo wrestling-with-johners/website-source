@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "KID LYKOS (Progress World Champion) Live & Exclusive Interview - Wrestling With Johners LIVE!"
-date: 2024-03-22
+title: "KID LYKOS (Progress World Champion) Exclusive Full Interview"
+date: 2024-03-25
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
