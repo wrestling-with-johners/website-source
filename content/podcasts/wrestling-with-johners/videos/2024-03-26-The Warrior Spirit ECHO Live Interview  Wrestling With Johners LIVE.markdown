@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'The Warrior Spirit' ECHO, Live Interview - Wrestling With Johners LIVE!"
-date: 2024-03-24
+date: 2024-03-26
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
