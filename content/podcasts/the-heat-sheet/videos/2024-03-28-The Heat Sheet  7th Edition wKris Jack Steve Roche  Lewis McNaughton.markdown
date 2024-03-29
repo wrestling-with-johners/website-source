@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Heat Sheet - 7th Edition"
+title: "The Heat Sheet | 7th Edition w/Kris Jack, Steve Roche, & Lewis McNaughton"
 date: 2024-03-28
 categories: the-heat-sheet videos
 author: the-heat-sheet
