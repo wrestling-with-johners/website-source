@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Air Ronan. WrestleZone Granite City Showdown"
+title: "Air Ronan The Prequel. WrestleZone Granite City Showdown"
 date: 2024-03-29
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
