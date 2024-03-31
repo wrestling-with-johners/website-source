@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KID LYKOS & His First World Title Defence vs. LIO RUSH"
-date: 2024-03-29
+date: 2024-03-31
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
