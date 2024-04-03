@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Rise of Chocolate City Wrestling In Ring Of Honor Debut with Mustapha Jordan and Wilson Colas"
+title: "ROH Debut & The Rise of Chocolate City with Mustapha Jordan and Wilson Colas"
 date: 2024-04-03
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring

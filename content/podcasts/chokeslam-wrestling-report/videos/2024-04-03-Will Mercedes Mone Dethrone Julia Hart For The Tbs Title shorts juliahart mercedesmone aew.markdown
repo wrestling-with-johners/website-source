@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mercedes Mone to challenge Julia Hart for the TBS Title? #shorts #juliahart #mercedesmone #aew"
+title: "Will Mercedes Mone Dethrone Julia Hart For The Tbs Title? #shorts #juliahart #mercedesmone #aew"
 date: 2024-04-03
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
