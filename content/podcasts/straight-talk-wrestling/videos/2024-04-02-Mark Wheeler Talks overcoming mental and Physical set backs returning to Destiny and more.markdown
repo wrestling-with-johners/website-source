@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Golden Gun Mark Wheeler Talks overcoming mental and Physical set backs, returning to Destiny and"
+title: "Mark Wheeler Talks overcoming mental and Physical set backs, returning to Destiny and more"
 date: 2024-04-02
 categories: straight-talk-wrestling videos
 author: george-mckay
