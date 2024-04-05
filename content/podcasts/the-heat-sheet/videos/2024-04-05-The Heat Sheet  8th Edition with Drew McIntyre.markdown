@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Heat Sheet - 8th Edition with Drew McIntyre"
+title: "The Heat Sheet | 8th Edition with Drew McIntyre"
 date: 2024-04-05
 categories: the-heat-sheet videos
 author: the-heat-sheet
