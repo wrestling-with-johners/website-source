@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Did Vince McMahon just ruin the Main Event of WrestleMania?"
+title: "Vince McMahon on Cody Rhodes finishing the story at WrestleMania"
 date: 2024-04-07
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
