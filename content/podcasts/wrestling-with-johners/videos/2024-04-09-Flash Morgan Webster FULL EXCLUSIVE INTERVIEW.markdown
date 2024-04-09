@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flash Morgan Webster, Live Interview - Wrestling With Johners LIVE!"
+title: "Flash Morgan Webster (FULL EXCLUSIVE INTERVIEW)"
 date: 2024-04-09
 categories: videos wrestling-with-johners
 author: john
