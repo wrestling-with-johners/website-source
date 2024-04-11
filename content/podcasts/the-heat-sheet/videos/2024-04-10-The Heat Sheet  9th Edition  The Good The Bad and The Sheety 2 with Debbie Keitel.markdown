@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Good, The Bad and The Sheety #2 with Debbie Keitel"
+title: "The Heat Sheet | 9th Edition | The Good, The Bad and The Sheety #2 with Debbie Keitel"
 date: 2024-04-10
 categories: the-heat-sheet videos
 author: the-heat-sheet
