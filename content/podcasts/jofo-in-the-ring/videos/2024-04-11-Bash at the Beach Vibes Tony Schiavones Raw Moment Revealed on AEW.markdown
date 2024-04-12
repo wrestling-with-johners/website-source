@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tony Schiavone feeling some WCW Bash At The Beach vibes on #aewdynamite"
+title: "Bash at the Beach Vibes: Tony Schiavone's Raw Moment Revealed on AEW"
 date: 2024-04-11
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring

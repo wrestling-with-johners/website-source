@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ricky Starks reaction to Cody Rhodes winning The WWE Championship at #wrestlemania"
+title: "Surround Yourself With People Who Lift You"
 date: 2024-04-12
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
