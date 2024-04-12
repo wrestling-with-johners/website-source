@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Subculture's \"Validation\" of winning IMPACT World Tag Titles"
+title: "Subculture's \"Validation\" by becoming IMPACT World Tag Title"
 date: 2024-04-11
 categories: videos wrestling-with-johners
 author: john
