@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Surround Yourself With People Who Lift You"
+title: "Watch AEW's Ricky Starks Go Wild Over Cody Rhodes' WrestleMania Win"
 date: 2024-04-12
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
