@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024 NFL Draft Preview"
-date: 2024-04-14
+date: 2024-04-15
 categories: chaos-theory videos
 author: chaos-theory
 spotify_track_id: 
