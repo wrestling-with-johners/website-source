@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arthur Skurro on Adonis Payne"
-date: 2024-04-14
+date: 2024-04-15
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
