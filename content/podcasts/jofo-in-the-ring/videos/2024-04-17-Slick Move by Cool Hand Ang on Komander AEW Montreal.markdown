@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cool hand Ang punches komander aew montreal"
+title: "Slick Move by Cool Hand Ang on Komander AEW Montreal"
 date: 2024-04-17
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
