@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alexxia Nicole Returns to talk, being a pilliar, down time, her trip to the UK and more"
-date: 2024-04-13
+date: 2024-04-17
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
