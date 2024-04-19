@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SOVEREIGN PRO WRESTLING, Live Interview - Wrestling With Johners LIVE!"
-date: 2024-04-11
+date: 2024-04-19
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
