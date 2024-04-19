@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jordynne Grace Killed it in The Royal Rumble 💪"
+title: "Jordynne Grace in The Royal Rumble 💪"
 date: 2024-04-18
 categories: rewind-recap-relive videos
 author: rewind-recap-relive

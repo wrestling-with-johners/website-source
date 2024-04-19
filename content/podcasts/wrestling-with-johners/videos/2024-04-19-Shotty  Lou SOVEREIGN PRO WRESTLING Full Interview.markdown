@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOVEREIGN PRO WRESTLING, Live Interview - Wrestling With Johners LIVE!"
+title: "Shotty & Lou (SOVEREIGN PRO WRESTLING) Full Interview"
 date: 2024-04-19
 categories: videos wrestling-with-johners
 author: john
