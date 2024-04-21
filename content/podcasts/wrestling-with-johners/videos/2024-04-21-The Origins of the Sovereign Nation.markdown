@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Origins of the Sovereign Nation"
-date: 2024-04-20
+date: 2024-04-21
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
