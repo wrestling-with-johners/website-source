@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Live Reaction To Cody Rhodes finishing the story at WrestleMania"
+title: "Rate This WrestleMania Reaction to Cody Rhodes finishing the  story"
 date: 2024-04-20
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
