@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JOE BLAZR, Full Exclusive Interview"
+title: "JOE BLAZR, Full Exclusive Interview ⚡⚡"
 date: 2024-04-25
 categories: videos wrestling-with-johners
 author: john
