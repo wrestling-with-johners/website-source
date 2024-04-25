@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Swoggle"
+date: 2024-04-25
+categories: ringside-rant
+author: ringside-rant
+spotify_track_id: 4OEXa2QTTahOw4ncviWScw
+youtube_video_id: 
+apple_track_id: 1000653615980
+youtube_metadata: 
+---
