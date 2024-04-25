@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "JOE BLAZR, Live Interview - Wrestling With Johners LIVE!"
-date: 2024-04-13
+title: "JOE BLAZR, Full Exclusive Interview"
+date: 2024-04-25
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
