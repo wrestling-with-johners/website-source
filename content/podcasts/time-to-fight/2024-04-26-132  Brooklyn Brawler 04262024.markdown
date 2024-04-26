@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#132 - Brooklyn Brawler 04/26/2024"
+date: 2024-04-26
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 234bs3XgqWAGtksyq711oN
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
