@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Celeste (fka Kaitlyn) on Rhea Ripley, AJ Lee Friendship, Learning to Wrestle \"On The Job\" in WWE"
-date: 2024-04-26
+date: 2024-04-27
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
 spotify_track_id: 
