@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'The Kid Without Fear' DANNY BLACK, Live Interview - Wrestling With Johners LIVE!"
-date: 2024-04-19
+date: 2024-04-27
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
