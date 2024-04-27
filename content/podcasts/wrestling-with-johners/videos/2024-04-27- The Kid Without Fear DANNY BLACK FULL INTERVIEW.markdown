@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'The Kid Without Fear' DANNY BLACK, Live Interview - Wrestling With Johners LIVE!"
+title: "😈 'The Kid Without Fear' DANNY BLACK, FULL INTERVIEW 😈"
 date: 2024-04-27
 categories: videos wrestling-with-johners
 author: john
