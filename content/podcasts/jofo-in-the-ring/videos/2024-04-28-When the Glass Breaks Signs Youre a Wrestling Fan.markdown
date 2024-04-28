@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You know your a wrestling fan when you hear Glass breaking #wwe"
+title: "When the Glass Breaks: Signs You're a Wrestling Fan"
 date: 2024-04-28
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
