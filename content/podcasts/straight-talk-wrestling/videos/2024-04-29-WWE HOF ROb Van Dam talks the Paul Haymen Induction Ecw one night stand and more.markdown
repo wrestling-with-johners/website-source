@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE HOF ROb Van Damn talks the Paul Haymen Induction, Ecw one night stand and more"
+title: "WWE HOF ROb Van Dam talks the Paul Haymen Induction, Ecw one night stand and more"
 date: 2024-04-29
 categories: straight-talk-wrestling videos
 author: george-mckay
