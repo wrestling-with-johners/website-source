@@ -36,6 +36,14 @@
           )
         }}
 
+        {{ partial "nav/menu_single_img.html"
+          (dict
+            "URL" "/no-mercy-wrestling"
+            "img" "/img/no-mercy-wrestling-logo.png"
+            "alt" "No Mercy Wrestling"
+          )
+        }}
+
         {{ $podcasts := (index (where .Site.Sections "Section" "podcasts" ) 0).Sections }}
         {{ $podcasts := sort $podcasts ".Params.order" }}
         {{ $active_podcasts := where $podcasts ".Params.inactive" "ne" true }}
