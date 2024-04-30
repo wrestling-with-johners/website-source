@@ -8,3 +8,21 @@
         {{ $file := $resource.RelPermalink }}
     {{ end }}
 {{ end }}
+
+{{ with os.ReadFile "/data/promotions.yml" }}
+    {{ $promotions := unmarshal . }}
+    {{ range $index, $value := $promotions }}
+        {{ $data := merge .
+            (dict
+                "order" $index
+                "type" "promotion"
+                "promotion" true
+                "bigimg" (slice (dict "src" (printf "/img/%s" $value.background)))
+            )
+        }}
+        {{ $string := jsonify (dict "prefix" " " "indent" "  ") $data }}
+        {{ $filename := printf "promotions/%s/_index.md" $data.category }}
+        {{ $resource := resources.FromString $filename $string }}
+        {{ $file := $resource.RelPermalink }}
+    {{ end }}
+{{ end }}

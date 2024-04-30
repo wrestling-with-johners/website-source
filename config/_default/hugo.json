@@ -46,6 +46,10 @@
         "target": "content/podcasts"
       },
       {
+        "source": "prebuild/public/promotions",
+        "target": "content"
+      },
+      {
         "source": "data",
         "target": "data"
       },

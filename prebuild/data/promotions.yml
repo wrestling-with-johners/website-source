@@ -1,5 +1,6 @@
 - title: "Lucha Libre & Laughs"
-  background: lucha-libre-and-laughs-background.png
+  background: lucha-libre-and-laughs-background.jpg
+  logo: lucha-libre-and-laughs-logo.png
   category: lucha-libre-and-laughs
   author: lucha-libre-and-laughs
   youtube_playlist_id: UUaKig-if6R4tPedRhbu2g6A
@@ -9,27 +10,32 @@
   category: half-decent
   author: half-decent
   youtube_playlist_id: UU7gyM94WNIEE2LAllK1V_3A
+  show_in_nav: false
 
 - title: "UNITED WRESTLING"
   background: united-wrestling-background.png
+  logo: united-wrestling-logo.png
   category: united-wrestling
   author: united-wrestling
   youtube_playlist_id: UULF5nnJdtpuqhNsHW8AOVw4bA
 
 - title: "The DKW Academy"
   background: dkw-academy-background.jpg
+  logo: dkw-academy-logo.png
   category: dkw-academy
   author: dkw-academy
   youtube_playlist_id: UUxebVT0HD_Frz3K7oV0skhw
 
 - title: "No Mercy Wrestling"
   background: no-mercy-wrestling-background.jpg
+  logo: no-mercy-wrestling-logo.png
   category: no-mercy-wrestling
   author: no-mercy-wrestling
   youtube_playlist_id: UULF6Knk6Rnj75YHXgh91_Sx8w
 
 - title: "VCW Pro Wrestling"
   background: vcw-pro-wrestling-background.png
+  logo: vcw-pro-wrestling-logo.png
   category: vcw-pro-wrestling
   author: vcw-pro-wrestling
   youtube_playlist_id: UULF8-tZ6T4Lhk1kMgQURMMpMg

@@ -12,45 +12,18 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
-        {{ partial "nav/menu_single_img.html"
-          (dict
-            "URL" "/lucha-libre-and-laughs"
-            "img" "/img/lucha-libre-and-laughs-logo.png"
-            "alt" "Lucha Libre & Laughs"
-          )
-        }}
-
-        {{ partial "nav/menu_single_img.html"
-          (dict
-            "URL" "/united-wrestling"
-            "img" "/img/united-wrestling-logo.png"
-            "alt" "UNITED WRESTLING"
-          )
-        }}
-
-        {{ partial "nav/menu_single_img.html"
-          (dict
-            "URL" "/dkw-academy"
-            "img" "/img/dkw-academy-logo.png"
-            "alt" "The DKW Academy"
-          )
-        }}
-
-        {{ partial "nav/menu_single_img.html"
-          (dict
-            "URL" "/no-mercy-wrestling"
-            "img" "/img/no-mercy-wrestling-logo.png"
-            "alt" "No Mercy Wrestling"
-          )
-        }}
-
-        {{ partial "nav/menu_single_img.html"
-          (dict
-            "URL" "/vcw-pro-wrestling"
-            "img" "/img/vcw-pro-wrestling-logo.png"
-            "alt" "VCW Pro Wrestling"
-          )
-        }}
+        {{ $promotions := site.Data.promotions }}
+        {{ range $promotions }}
+          {{ if default true .show_in_nav }}
+            {{ partial "nav/menu_single_img.html"
+              (dict
+                "URL" (printf "/%s" .author)
+                "img" (printf "/img/%s" .logo)
+                "alt" .title
+              )
+            }}
+          {{ end }}
+        {{ end }}
 
         {{ $podcasts := (index (where .Site.Sections "Section" "podcasts" ) 0).Sections }}
         {{ $podcasts := sort $podcasts ".Params.order" }}
