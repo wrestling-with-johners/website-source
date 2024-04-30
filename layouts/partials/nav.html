@@ -44,6 +44,14 @@
           )
         }}
 
+        {{ partial "nav/menu_single_img.html"
+          (dict
+            "URL" "/vcw-pro-wrestling"
+            "img" "/img/vcw-pro-wrestling-logo.png"
+            "alt" "VCW Pro Wrestling"
+          )
+        }}
+
         {{ $podcasts := (index (where .Site.Sections "Section" "podcasts" ) 0).Sections }}
         {{ $podcasts := sort $podcasts ".Params.order" }}
         {{ $active_podcasts := where $podcasts ".Params.inactive" "ne" true }}
