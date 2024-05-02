@@ -6,6 +6,6 @@ position: Podcast
 social:
   youtube: "@vcwpw"
   facebook: "VCWWrestling"
-  instagram: "vcw.wales"
+  instagram: "vcw_prowrestling"
   website: "https://vcwprowrestling.co.uk"
 ---
