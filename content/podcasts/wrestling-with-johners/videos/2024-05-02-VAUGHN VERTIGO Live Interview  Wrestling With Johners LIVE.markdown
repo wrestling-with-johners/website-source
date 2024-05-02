@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VAUGHN VERTIGO, Live Interview - Wrestling With Johners LIVE!"
-date: 2024-04-23
+date: 2024-05-02
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
