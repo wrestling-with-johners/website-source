@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gold Rush Pt 1"
+title: "Gold Rush 2024 (Part One)"
 date: 2024-05-03
 categories: dkw-academy videos
 author: dkw-academy
