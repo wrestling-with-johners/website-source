@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Birth of The DOGZ BOLLOX"
+title: "The Birth of The DOGZ BOLLOX - \"IN THEIR OWN WORD\""
 date: 2024-05-04
 categories: videos wrestling-with-johners
 author: john
