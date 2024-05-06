@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When The Subculture Wrestled Motor City Machine Guns (TNA IMPACT Wrestling)"
+title: "When Subculture Wrestled Motor City Machine Guns (TNA IMPACT Wrestling)"
 date: 2024-05-05
 categories: videos wrestling-with-johners
 author: john
