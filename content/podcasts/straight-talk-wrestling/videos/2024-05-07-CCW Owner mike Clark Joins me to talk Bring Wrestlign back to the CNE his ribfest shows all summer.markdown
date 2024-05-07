@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CCW Owner mike Clark Joins me to talk Bring Wrestlign back to the CNE, his ribfest shows all summer"
-date: 2024-05-06
+date: 2024-05-07
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
