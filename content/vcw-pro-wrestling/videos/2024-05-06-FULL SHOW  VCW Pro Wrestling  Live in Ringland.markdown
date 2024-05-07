@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ FULL SHOW ] | VCW Pro Wrestling - Live in Ringland!"
+title: "[FULL SHOW] | VCW Pro Wrestling - Live in Ringland!"
 date: 2024-05-06
 categories: vcw-pro-wrestling videos
 author: vcw-pro-wrestling
