@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NEW Commonwealth Cruiserweight Champion | interview with Paolo Triassi"
+title: "EXCLUSIVE | New NWA Commonwealth Cruiserweight Champion | interview with Paolo Triassi"
 date: 2024-05-09
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
