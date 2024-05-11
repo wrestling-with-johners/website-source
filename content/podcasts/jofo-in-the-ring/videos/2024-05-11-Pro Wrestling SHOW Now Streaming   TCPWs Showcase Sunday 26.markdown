@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pro Wrestling FULL SHOW TCPW’s Showcase Sunday 26!"
+title: "Pro Wrestling SHOW Now Streaming! |  TCPW’s Showcase Sunday 26!"
 date: 2024-05-11
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
