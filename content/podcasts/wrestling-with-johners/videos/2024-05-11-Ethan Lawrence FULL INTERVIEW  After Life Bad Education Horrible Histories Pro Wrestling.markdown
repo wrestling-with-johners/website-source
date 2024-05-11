@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethan Lawrence, Live Interview (Wrestling With Johners LIVE)"
+title: "Ethan Lawrence, FULL INTERVIEW ⭐ (After Life, Bad Education, Horrible Histories, Pro Wrestling) ⭐"
 date: 2024-05-11
 categories: videos wrestling-with-johners
 author: john
