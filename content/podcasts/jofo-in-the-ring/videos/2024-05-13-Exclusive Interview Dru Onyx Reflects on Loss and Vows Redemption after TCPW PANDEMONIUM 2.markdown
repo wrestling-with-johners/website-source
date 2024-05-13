@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exclusive Interview: Dru Onyx Reflects on Loss and Vows Redemption after TCPW PANDEMONIUM 2"
-date: 2024-05-11
+date: 2024-05-13
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
