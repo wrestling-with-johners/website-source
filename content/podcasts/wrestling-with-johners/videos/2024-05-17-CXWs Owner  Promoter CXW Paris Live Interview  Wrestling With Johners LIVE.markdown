@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "CXW's Owner & Promoter, Adam Paris Live Interview - Wrestling With Johners IVE!"
-date: 2024-05-13
+title: "CXW's Owner & Promoter, CXW Paris Live Interview - Wrestling With Johners LIVE!"
+date: 2024-05-17
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
