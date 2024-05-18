@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXW's Owner & Promoter, CXW Paris Live Interview - Wrestling With Johners LIVE!"
+title: "CXW Owner & Promoter, CXW Paris - FULL INTERVIEW"
 date: 2024-05-17
 categories: videos wrestling-with-johners
 author: john
