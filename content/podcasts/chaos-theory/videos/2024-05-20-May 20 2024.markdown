@@ -1,0 +1,11 @@
+---
+layout: post
+title: "May 20, 2024"
+date: 2024-05-20
+categories: chaos-theory videos
+author: chaos-theory
+spotify_track_id: 
+youtube_video_id: oedRhoGO_B4
+apple_track_id: 
+youtube_metadata: 
+---
