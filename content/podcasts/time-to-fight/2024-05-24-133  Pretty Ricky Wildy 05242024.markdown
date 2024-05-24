@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#133 - Pretty Ricky Wildy 05/24/2024"
+date: 2024-05-24
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 33aLqSBLphqROpsK90uyAg
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
