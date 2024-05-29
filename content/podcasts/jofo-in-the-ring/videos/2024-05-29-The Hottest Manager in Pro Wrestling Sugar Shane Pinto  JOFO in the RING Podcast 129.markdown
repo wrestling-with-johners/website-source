@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Hottest Pro Wrestling Manager in Pro Wrestling Sugar Shane Pinto | JOFO in the RING Podcast 129"
+title: "The Hottest Manager in Pro Wrestling Sugar Shane Pinto | JOFO in the RING Podcast 129"
 date: 2024-05-29
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
