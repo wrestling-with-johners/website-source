@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Heat Sheet - Double or Nothing Review"
+title: "The Heat Sheet: Extra Hot | AEW Double or Nothing Review"
 date: 2024-05-28
 categories: the-heat-sheet videos
 author: the-heat-sheet
