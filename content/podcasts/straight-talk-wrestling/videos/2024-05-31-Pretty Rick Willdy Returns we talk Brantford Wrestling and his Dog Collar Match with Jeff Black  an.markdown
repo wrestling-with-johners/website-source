@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pretty Rick Willdy Returns, we talk Brantford Wrestling and his Dog Collar Match with Jeff Black  an"
-date: 2024-05-30
+date: 2024-05-31
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
