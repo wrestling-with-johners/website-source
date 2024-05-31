@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MJF IS BACK and a new Champ is crowned"
-date: 2024-05-30
+date: 2024-05-31
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
