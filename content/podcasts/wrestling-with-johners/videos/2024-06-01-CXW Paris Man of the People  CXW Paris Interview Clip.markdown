@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CXW Paris, Man of the People - CXW Paris Interview Clip"
-date: 2024-05-31
+date: 2024-06-01
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
