@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#134 - Gunner Lang 06/02/2024"
+date: 2024-06-02
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 3LeLdZWaI8KyH4nerzAPfR
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
