@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moxley's IWGP Belt in Jeopardy? TNT Title Vacated, Ethan Page in NXT?, WWE & TNA? Ep#197"
+title: "Moxley's IWGP Belt in Jeopardy? TNT Title Vacated, Ethan Page in NXT?, WWE & TNA Team Up? Ep#197"
 date: 2024-06-02
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
