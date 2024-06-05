@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vinny Pacifico Talks,  HIs UK, Finland and France dates this summer, Zack Sabre JR, Rocky Romero"
-date: 2024-06-03
+date: 2024-06-05
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
