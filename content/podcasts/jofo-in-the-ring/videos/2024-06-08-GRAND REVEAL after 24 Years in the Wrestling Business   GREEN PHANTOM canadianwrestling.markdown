@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GREEN PHANTOM'S GRAND REVEAL after 24 Years in the Wrestling Business   #canadianwrestling"
+title: "GRAND REVEAL after 24 Years in the Wrestling Business  | GREEN PHANTOM #canadianwrestling"
 date: 2024-06-08
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
