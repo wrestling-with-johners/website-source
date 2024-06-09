@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Physicality & Blood Loss Inside The Cage - Kid Lykos Interview"
-date: 2024-06-07
+date: 2024-06-09
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
