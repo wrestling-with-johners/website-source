@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Josh's Wrestling Challenge on The Underdog: Josh Must Win"
-date: 2024-06-13
+date: 2024-06-14
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
