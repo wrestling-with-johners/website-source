@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CLASH AT THE CASTLE , saying goodbye to RICO"
-date: 2024-06-13
+date: 2024-06-14
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
