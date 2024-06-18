@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Heat Sheet - Clash at the Castle Melter Ratings"
+title: "The Heat Sheet: Extra Hot I WWE Clash at the Castle Melter Ratings"
 date: 2024-06-17
 categories: the-heat-sheet videos
 author: the-heat-sheet
