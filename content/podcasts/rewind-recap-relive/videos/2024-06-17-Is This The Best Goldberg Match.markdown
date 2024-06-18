@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Goldberg vs DDP Match Blurred The Lines"
+title: "Is This The Best Goldberg Match?"
 date: 2024-06-17
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
