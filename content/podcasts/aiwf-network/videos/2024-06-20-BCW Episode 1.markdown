@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BCW Episode 1 02"
+title: "BCW Episode 1"
 date: 2024-06-20
 categories: aiwf-network videos
 author: aiwf-network
