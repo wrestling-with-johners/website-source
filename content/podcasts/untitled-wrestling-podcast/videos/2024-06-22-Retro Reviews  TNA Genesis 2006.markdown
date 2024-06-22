@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Retro Reviews - TNA Genesis 2006"
-date: 2024-06-20
+date: 2024-06-22
 categories: untitled-wrestling-podcast videos
 author: untitled-wrestling-podcast
 spotify_track_id: 
