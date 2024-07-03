@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Janai Kai Talks MLW, Contra, Work with Salina, Being the first lady of Contra, Mads Krugger and more"
-date: 2024-07-01
+date: 2024-07-03
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
