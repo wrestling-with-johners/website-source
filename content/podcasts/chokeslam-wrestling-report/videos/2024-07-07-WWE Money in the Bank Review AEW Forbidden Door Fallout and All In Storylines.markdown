@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reviewing WWE Money in the Bank, AEW Forbidden Door Fallout, and All In Storylines\""
+title: "WWE Money in the Bank Review, AEW Forbidden Door Fallout, and All In Storylines"
 date: 2024-07-07
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
