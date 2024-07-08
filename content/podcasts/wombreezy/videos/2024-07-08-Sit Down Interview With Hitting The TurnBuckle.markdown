@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sit Down Interview With Hitting The TurnBuckles"
+title: "Sit Down Interview With Hitting The TurnBuckle"
 date: 2024-07-08
 categories: videos wombreezy
 author: wombreezy
