@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "July 8, 2024"
+title: "Vacating titles is never easy. To have to vacate it to your biggest rival that sucks part 1 #fyp"
 date: 2024-07-08
 categories: straight-talk-wrestling videos
 author: george-mckay
