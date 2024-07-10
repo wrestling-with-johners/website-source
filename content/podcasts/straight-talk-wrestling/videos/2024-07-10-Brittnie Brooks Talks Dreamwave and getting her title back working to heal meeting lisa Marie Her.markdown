@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brittnie Brooks Talk Dreamwave and getting her title back, workibng to heal, meeting lisa Marie, Her"
+title: "Brittnie Brooks Talks Dreamwave and getting her title back, working to heal, meeting lisa Marie, Her"
 date: 2024-07-10
 categories: straight-talk-wrestling videos
 author: george-mckay
