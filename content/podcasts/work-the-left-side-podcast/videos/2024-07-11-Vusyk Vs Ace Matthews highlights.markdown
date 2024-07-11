@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "few highlights from Vusyk Vs Ace Matthews at Tidal Wrestling"
+title: "Vusyk Vs Ace Matthews highlights"
 date: 2024-07-11
 categories: videos work-the-left-side-podcast
 author: nik-towers
