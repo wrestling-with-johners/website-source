@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FLOW Saturday Morning Grapple Masters episode 3- Chip Walker vs Nick Diamond"
-date: 2024-07-12
+date: 2024-07-13
 categories: pro-wrestling-tonight videos
 author: chicagoland-championship-wrestling
 spotify_track_id: 
