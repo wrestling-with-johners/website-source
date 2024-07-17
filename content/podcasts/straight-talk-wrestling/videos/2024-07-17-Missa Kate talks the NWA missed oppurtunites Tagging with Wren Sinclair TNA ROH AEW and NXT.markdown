@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Missa Kate talks the NWA, missed oppurtunites, Tagging with Wren Sinclair, TNA, ROH, AEW and NXT."
-date: 2024-07-14
+date: 2024-07-17
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
