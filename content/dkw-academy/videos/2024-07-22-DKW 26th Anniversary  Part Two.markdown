@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DKW 26th Anniversary - Part Two"
-date: 2024-07-21
+date: 2024-07-22
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
