@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚡️🎙️ TNT BARBED WIRE - PREVIEW SHOW EP.02 🎙️⚡️"
-date: 2024-07-21
+date: 2024-07-25
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
