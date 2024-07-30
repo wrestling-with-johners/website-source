@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sean Oliver Is Writing X-Pac's Autobiography"
-date: 2024-07-29
+date: 2024-07-30
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
 spotify_track_id: 
