@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nova Talks Demand Lucha, Creativity and evolving, Tapping into the heel and face work and more"
-date: 2024-07-29
+date: 2024-07-31
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
