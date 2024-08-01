@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "@AreYouSeeingThisWrestling On Rhea Ripley Liv Morgan Feud, Summerslam Plans For The Rest Of 2024"
+title: "@AreYouSeeingThisWrestling Talks Rhea Ripley Liv Morgan Feud, Summerslam Plans For The Rest Of 2024"
 date: 2024-08-01
 categories: videos wombreezy
 author: wombreezy
