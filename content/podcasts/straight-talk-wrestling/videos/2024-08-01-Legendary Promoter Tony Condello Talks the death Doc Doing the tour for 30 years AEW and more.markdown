@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Legendary Promoter Tony Condello Talks the death Doc, Doing the tour for 30+ years, AEW and more."
-date: 2024-07-31
+date: 2024-08-01
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
