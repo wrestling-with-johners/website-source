@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tea & Tights: A Great British Wrestling Podcast - Brit Wres Round Up 2025 Episode 8"
-date: 2024-08-01
+date: 2024-08-02
 categories: tea-and-tights videos
 author: tea-and-tights
 spotify_track_id: 
