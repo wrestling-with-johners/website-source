@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joe Hendry waving hands with Montreal Crowd TNA Impact Live"
+title: "Joe Hendry mesmerizes Montreal Crowd with epic hand waves"
 date: 2024-08-01
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
