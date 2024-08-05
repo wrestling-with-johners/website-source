@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DKW FALLOUT - PART TWO"
-date: 2024-08-04
+date: 2024-08-05
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
