@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Heat Sheet - SummerSlam Melter Ratings"
+title: "The Heat Sheet: Extra Hot | WWE SummerSlam Melter Ratings"
 date: 2024-08-05
 categories: the-heat-sheet videos
 author: the-heat-sheet
