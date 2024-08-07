@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fuerza talks his charity show Free Palestine with all proceeds going to the Gaza Kinder Relief Fund"
-date: 2024-08-05
+date: 2024-08-07
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
