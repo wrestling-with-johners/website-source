@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ROMAN IS BACK , GUNTHER IS CHAMP"
-date: 2024-08-08
+date: 2024-08-09
 categories: da-call-up videos
 author: da-call-up
 spotify_track_id: 
