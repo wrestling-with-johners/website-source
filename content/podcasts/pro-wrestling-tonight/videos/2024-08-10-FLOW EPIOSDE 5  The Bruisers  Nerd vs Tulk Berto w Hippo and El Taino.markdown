@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FLOW EPIOSDE 5  The Bruisers & Nerd vs Tulk, Berto w. Hippo and El Taino"
-date: 2024-08-06
+date: 2024-08-10
 categories: pro-wrestling-tonight videos
 author: chicagoland-championship-wrestling
 spotify_track_id: 
