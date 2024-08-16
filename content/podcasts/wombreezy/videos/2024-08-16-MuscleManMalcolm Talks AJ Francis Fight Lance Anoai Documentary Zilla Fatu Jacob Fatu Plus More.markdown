@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MuscleManMalcolm Talks AJ Francis Fight, Lance Anoa'i Documentary, Zilla Fatu,"
+title: "MuscleManMalcolm Talks AJ Francis Fight, Lance Anoa'i Documentary, Zilla Fatu, Jacob Fatu Plus More"
 date: 2024-08-16
 categories: videos wombreezy
 author: wombreezy
