@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire August 11th"
-date: 2024-08-18
+date: 2024-08-19
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
