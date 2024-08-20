@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 186 - Artemis"
+date: 2024-08-20
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: 6VpSXAhQSh0
+apple_track_id: 
+youtube_metadata: 
+---

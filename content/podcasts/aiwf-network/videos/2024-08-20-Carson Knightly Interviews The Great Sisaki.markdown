@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "AIWF Mid Atlantic 471"
-date: 2024-08-19
+title: "Carson Knightly Interviews The Great Sisaki"
+date: 2024-08-20
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
-youtube_video_id: XZtV2tM_MEc
+youtube_video_id: k1_1cr6G-9U
 apple_track_id: 
 youtube_metadata: 
 ---
