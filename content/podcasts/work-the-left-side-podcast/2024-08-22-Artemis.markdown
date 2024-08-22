@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Artemis"
+date: 2024-08-22
+categories: work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 2p5So6vY6yhmcuR5dnt4GR
+youtube_video_id: 
+apple_track_id: 1000666225281
+youtube_metadata: 
+---
