@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carson Knightly Interviews The Great Sisaki"
-date: 2024-08-20
+date: 2024-08-22
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
