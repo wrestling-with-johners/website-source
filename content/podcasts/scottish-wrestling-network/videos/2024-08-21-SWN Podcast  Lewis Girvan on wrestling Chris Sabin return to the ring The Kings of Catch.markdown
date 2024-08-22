@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scottish Wrestling Network Podcast | with Lewis Girvan"
+title: "SWN Podcast | Lewis Girvan on wrestling Chris Sabin, return to the ring, The Kings of Catch"
 date: 2024-08-21
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
