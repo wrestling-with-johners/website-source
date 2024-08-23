@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frank Jofo tells Jacques Rougeau how to say QT Marshall"
+title: "Frank Jofo calls out Jacques Rougeau on how to say QT Marshall"
 date: 2024-08-22
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
