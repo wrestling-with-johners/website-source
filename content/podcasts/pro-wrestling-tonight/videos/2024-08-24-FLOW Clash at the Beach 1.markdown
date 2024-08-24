@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FLOW Clash at the Beach 1"
-date: 2024-08-16
+date: 2024-08-24
 categories: pro-wrestling-tonight videos
 author: chicagoland-championship-wrestling
 spotify_track_id: 
