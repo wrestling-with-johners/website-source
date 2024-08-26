@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Live Reaction to Bryan Danielson becoming AEW World Champion | AEW ALL IN 2024"
+title: "Bryan Danielson becoming AEW World Champion, Live Reaction | AEW ALL IN 2024"
 date: 2024-08-26
 categories: videos wrestling-with-johners
 author: john
