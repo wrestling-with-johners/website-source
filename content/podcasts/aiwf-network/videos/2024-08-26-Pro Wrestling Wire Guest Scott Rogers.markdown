@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire Guest Scott Rogers"
-date: 2024-08-25
+date: 2024-08-26
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
