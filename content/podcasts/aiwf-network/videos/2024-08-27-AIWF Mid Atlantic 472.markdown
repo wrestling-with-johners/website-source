@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic 472"
-date: 2024-08-25
+date: 2024-08-27
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
