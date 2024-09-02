@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My interview w/ BBC Essex discussing OASIS Ticketmaster fiasco #Oasis #Ticketmaster #Concert #Music"
+title: "My interview on BBC Essex discussing OASIS Ticketmaster fiasco #Oasis #Ticketmaster #Concert #Music"
 date: 2024-09-02
 categories: videos what-do-you-call-it
 author: what-do-you-call-it

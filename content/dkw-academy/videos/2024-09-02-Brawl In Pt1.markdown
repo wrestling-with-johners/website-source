@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Brawl In Pt1"
+date: 2024-09-02
+categories: dkw-academy videos
+author: dkw-academy
+spotify_track_id: 
+youtube_video_id: ll-USBdlaOc
+apple_track_id: 
+youtube_metadata: 
+---
