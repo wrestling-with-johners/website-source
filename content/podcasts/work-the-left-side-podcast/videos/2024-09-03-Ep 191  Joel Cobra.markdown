@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 191 - Joel Cobra"
+date: 2024-09-03
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: 9BK4GjCpSzc
+apple_track_id: 
+youtube_metadata: 
+---
