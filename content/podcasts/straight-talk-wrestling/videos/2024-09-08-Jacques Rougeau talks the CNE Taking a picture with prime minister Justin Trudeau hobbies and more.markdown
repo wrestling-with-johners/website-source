@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jacques Rougeau talks the CNE, Taking a picture with prime minister Justin Trudeau, hobbies and more"
-date: 2024-09-07
+date: 2024-09-08
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
