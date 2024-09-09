@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Pro Wrestling Wire September 3rd 2024"
-date: 2024-09-08
+title: "Nerdic Pro Gareth Thompson"
+date: 2024-09-09
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
-youtube_video_id: a3Bqbf5gKOY
+youtube_video_id: N_6sPKUEJrE
 apple_track_id: 
 youtube_metadata: 
 ---
