@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kenny Hall Of Fame Induction 2024"
-date: 2024-09-11
+date: 2024-09-13
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
