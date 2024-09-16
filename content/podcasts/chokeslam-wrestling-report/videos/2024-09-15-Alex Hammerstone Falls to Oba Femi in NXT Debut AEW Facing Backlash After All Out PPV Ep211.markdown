@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alex Hammerstone Falls to Oba Femi in NXT Debut! AEW Facing Backlash After All Out PPV? Ep#211"
+title: "Alex Hammerstone Falls to Oba Femi in NXT Debut? AEW Facing Backlash After All Out PPV? Ep#211"
 date: 2024-09-15
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
