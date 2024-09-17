@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Ringside Wrestling 9 15 2024 video"
-date: 2024-09-16
+date: 2024-09-17
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
