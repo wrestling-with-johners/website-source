@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UPW Season 2 episode 32"
-date: 2024-09-17
+date: 2024-09-18
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
