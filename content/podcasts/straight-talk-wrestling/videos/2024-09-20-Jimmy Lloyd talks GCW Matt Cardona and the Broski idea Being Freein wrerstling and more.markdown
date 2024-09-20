@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jimmy Lloyd talks GCW, Matt Cardona and the Broski idea, Being Freein wrerstling and more"
-date: 2024-09-15
+date: 2024-09-20
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
