@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔥 PANDEMONIUM 2 PRE-SHOW | TCPW 🔥"
-date: 2024-09-18
+date: 2024-09-23
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
