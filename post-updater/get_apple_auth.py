@@ -12,7 +12,7 @@ def get_auth():
     driver.scopes = ['https://amp-api.podcasts.apple.com/v1/*']
     driver.get('https://podcasts.apple.com/us/podcast/wrestling-with-johners-podcast/id1442108418')
 
-    driver.find_element(By.CSS_SELECTOR, 'body > div.ember-view > main > div.animation-wrapper.is-visible > div > section:nth-child(1) > div > div.l-column.small-12.medium-7.large-8.small-valign-top > div.product-hero__tracks > div > div > button').click()
+    driver.find_element(By.CSS_SELECTOR, '#scrollable-page > main > div > div.section.section--linkListInline.svelte-1f64bnu > div > div > a').click()
 
     # Wait for a request which contains the authorisation token.
     request = driver.wait_for_request('https://amp-api.podcasts.apple.com/', 300)
