@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IAW Season 1 Episode 6"
-date: 2024-09-24
+date: 2024-09-26
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
