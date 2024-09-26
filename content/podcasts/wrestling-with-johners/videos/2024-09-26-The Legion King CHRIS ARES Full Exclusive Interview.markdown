@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "'The Legion King' CHRIS ARES, Live Interview - Wrestling With Johners LIVE!"
-date: 2024-09-23
+title: "'The Legion King' CHRIS ARES (Full Exclusive Interview)"
+date: 2024-09-26
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
