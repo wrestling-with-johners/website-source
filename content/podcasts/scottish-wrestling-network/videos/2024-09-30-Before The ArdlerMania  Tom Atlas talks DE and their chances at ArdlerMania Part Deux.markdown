@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Before The ArdlerMania | Tom Atlas Talks DE and their chances at ArdlerMania: Part Deux"
+title: "Before The ArdlerMania | Tom Atlas talks DE and their chances at ArdlerMania: Part Deux"
 date: 2024-09-30
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
