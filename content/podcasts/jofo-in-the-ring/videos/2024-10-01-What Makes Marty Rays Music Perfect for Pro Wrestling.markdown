@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Makes Marty Ray's Music Perfect for Pro Wrestling"
-date: 2024-09-27
+date: 2024-10-01
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
 spotify_track_id: 
