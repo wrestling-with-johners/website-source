@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Makes Marty Ray's Music Perfect for Pro Wrestling"
+title: "Marty Ray's Music is Perfect for Pro Wrestling!"
 date: 2024-10-01
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
