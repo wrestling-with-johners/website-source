@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Heat Sheet - 11th Edition"
+title: "The Heat Sheet | 11th Edition"
 date: 2024-10-03
 categories: the-heat-sheet videos
 author: the-heat-sheet
