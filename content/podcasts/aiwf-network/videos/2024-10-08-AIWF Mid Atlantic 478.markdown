@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic 478"
-date: 2024-10-07
+date: 2024-10-08
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
