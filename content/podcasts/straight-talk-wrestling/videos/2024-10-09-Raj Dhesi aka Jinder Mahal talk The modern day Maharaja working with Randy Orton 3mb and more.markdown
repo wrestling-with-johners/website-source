@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raj Deshi aka Jinder Mahal talk, The modern day Maharaja, working with Randy Orton, 3mb and more"
+title: "Raj Dhesi aka Jinder Mahal talk, The modern day Maharaja, working with Randy Orton, 3mb and more"
 date: 2024-10-09
 categories: straight-talk-wrestling videos
 author: george-mckay
