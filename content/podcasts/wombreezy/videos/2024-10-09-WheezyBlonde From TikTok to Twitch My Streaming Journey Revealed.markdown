@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WheezyBlonde From TikTok to Twitch: My Streaming Journey Revealed"
-date: 2024-10-08
+date: 2024-10-09
 categories: videos wombreezy
 author: wombreezy
 spotify_track_id: 
