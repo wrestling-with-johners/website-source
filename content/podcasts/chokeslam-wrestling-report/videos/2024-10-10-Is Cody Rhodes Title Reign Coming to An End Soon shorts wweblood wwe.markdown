@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Cody Rhodes Coming to An End Soon? #shorts #wweblood #wwe"
+title: "Is Cody Rhodes Title Reign Coming to An End Soon? #shorts #wweblood #wwe"
 date: 2024-10-10
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
