@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MEMES/BLUE PAIN, Live Interview (Wrestling With Johners LIVE!)"
+title: "MEMES/BLUE PAIN (Live Interview)"
 date: 2024-10-10
 categories: videos wrestling-with-johners
 author: john
