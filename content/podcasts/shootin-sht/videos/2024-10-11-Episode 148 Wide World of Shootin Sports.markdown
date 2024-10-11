@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 148: Title Coming Soon"
+title: "Episode 148: Wide World of Shootin Sports"
 date: 2024-10-11
 categories: shootin-sht videos
 author: shootin-sht
