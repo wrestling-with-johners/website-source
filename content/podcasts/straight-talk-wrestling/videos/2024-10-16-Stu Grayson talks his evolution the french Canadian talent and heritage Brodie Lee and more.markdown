@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stu Grayson talks, his evolution, the french Canadian talent and heritage, Brodie Lee, and more."
-date: 2024-10-14
+date: 2024-10-16
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
