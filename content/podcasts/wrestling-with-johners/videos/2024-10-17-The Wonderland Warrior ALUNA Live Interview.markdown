@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'The Wonderland Warrior' ALUNA, Live Interview (Wrestling With Johners LIVE)"
+title: "'The Wonderland Warrior' ALUNA, Live Interview"
 date: 2024-10-17
 categories: videos wrestling-with-johners
 author: john
