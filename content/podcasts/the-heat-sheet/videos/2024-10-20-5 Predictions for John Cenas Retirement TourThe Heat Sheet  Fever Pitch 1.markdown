@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Heat Sheet - Fever Pitch #1 - John Cena’s Retirement Run"
+title: "5 Predictions for John Cena’s Retirement Tour…The Heat Sheet - Fever Pitch #1"
 date: 2024-10-20
 categories: the-heat-sheet videos
 author: the-heat-sheet
