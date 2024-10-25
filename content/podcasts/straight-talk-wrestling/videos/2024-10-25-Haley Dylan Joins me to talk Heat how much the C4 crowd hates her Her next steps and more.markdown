@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Haley Dylan Joins me to talk Heat, how much the C4 crowd hates her, Her next steps and more"
-date: 2024-10-20
+date: 2024-10-25
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
