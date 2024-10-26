@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C4W Aaron Dravon vs The Juggulator"
-date: 2024-10-25
+date: 2024-10-26
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
