@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Rick Delsanto Show guest Bull Dredd"
-date: 2024-10-27
+date: 2024-10-28
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
