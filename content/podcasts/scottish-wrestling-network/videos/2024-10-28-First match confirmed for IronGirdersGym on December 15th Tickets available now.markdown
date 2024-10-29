@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First match confirmed for @IronGirdersGym  on December 15th. Tickets available now."
+title: "First match confirmed for @IronGirdersGym on December 15th. Tickets available now."
 date: 2024-10-28
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
