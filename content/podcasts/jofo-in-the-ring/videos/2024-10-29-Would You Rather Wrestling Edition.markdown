@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wrestling Would You Rather: Hilarious Choices That Stump Fans"
+title: "Would You Rather: Wrestling Edition"
 date: 2024-10-29
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
