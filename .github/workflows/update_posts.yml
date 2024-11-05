@@ -29,13 +29,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.7
+          python-version: 3.12
 
       - name: Install dependencies
         run: |
           cd source
           python -m pip install --upgrade pip
-          pip install -r post-updater/requirements.txt
+          PIP_CONSTRAINT=./post-updater/cython_constraint.txt pip install -r post-updater/requirements.txt --no-cache-dir
 
       - name: Update All Podcasts
         run: |

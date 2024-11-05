@@ -162,16 +162,17 @@ class SpotifyScraper:
       continue_search = True
 
       for result in result_json['items']:
-        name = escape_for_frontmatter(html.unescape(result['name']))
-        print ('Spotify `{}`'.format(name))
-        episode_number = find_episode_number(name)
-        track_id = result['id']
-        date = datetime.datetime.strptime(result['release_date'], '%Y-%m-%d').date()
-        if date >= self.search_from_date:
-          data.append(SpotifyData(episode_number, name, date, track_id))
-        else:
-          continue_search = False
-          break
+        if result is not None:
+          name = escape_for_frontmatter(html.unescape(result['name']))
+          print ('Spotify `{}`'.format(name))
+          episode_number = find_episode_number(name)
+          track_id = result['id']
+          date = datetime.datetime.strptime(result['release_date'], '%Y-%m-%d').date()
+          if date >= self.search_from_date:
+            data.append(SpotifyData(episode_number, name, date, track_id))
+          else:
+            continue_search = False
+            break
 
       if continue_search and 'next' in result_json and result_json['next']:
         return data + self.get_tracks(access_key, result_json['next'])
@@ -570,7 +571,7 @@ YOUTUBE_PLAYLIST_ID = args.youtubeplaylistid
 SPOTIFY_SHOW_ID = args.spotifyshowid
 APPLE_PODCAST_ID = args.applepodcastid
 
-print ('Searching for posts from {}'.format(search_from_date))
+print('Searching for posts for {} from {}'.format(author, search_from_date))
 
 if any([args.youtubekey, args.youtubeplaylistid]):
   youtube_data = YoutubeScraper(search_from_date).get_youtube_videos()
