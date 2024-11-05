@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rick Del Santo show guest Chris Mooch"
-date: 2024-11-03
+date: 2024-11-05
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
