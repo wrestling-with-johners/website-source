@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6th Anniversary Special - 'The Absolute Maverick' Tommy Kyle - Live & Exclusive Interview"
-date: 2024-11-03
+date: 2024-11-08
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
