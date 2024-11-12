@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "The Rick Del Santo show with guest Kaizo"
-date: 2024-11-10
+title: "AIWF Mid Atlantic 483"
+date: 2024-11-11
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
-youtube_video_id: H94ilvO5BKc
+youtube_video_id: zUdR8JYNY5w
 apple_track_id: 
 youtube_metadata: 
 ---
