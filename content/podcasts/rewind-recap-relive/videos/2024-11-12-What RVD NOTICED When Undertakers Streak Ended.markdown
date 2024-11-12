@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RVD’s Reaction To Undertaker’s Streak Ending!"
+title: "What RVD NOTICED When Undertaker’s Streak Ended!"
 date: 2024-11-12
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
