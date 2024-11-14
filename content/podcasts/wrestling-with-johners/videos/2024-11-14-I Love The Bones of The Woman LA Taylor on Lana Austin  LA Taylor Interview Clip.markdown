@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"I Love The Bones of The Women\" LA Taylor on Lana Austin - LA Taylor Interview Clip"
+title: "\"I Love The Bones of The Woman\" LA Taylor on Lana Austin - LA Taylor Interview Clip"
 date: 2024-11-14
 categories: videos wrestling-with-johners
 author: john
