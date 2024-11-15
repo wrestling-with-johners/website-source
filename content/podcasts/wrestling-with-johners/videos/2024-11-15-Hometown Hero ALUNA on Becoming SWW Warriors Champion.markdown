@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALUNA on Becoming SWW Warriors Champion!"
+title: "Hometown Hero ALUNA on Becoming SWW Warriors Champion!"
 date: 2024-11-15
 categories: videos wrestling-with-johners
 author: john
