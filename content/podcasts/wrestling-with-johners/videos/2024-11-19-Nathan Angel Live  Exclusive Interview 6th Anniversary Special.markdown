@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "6th Anniversary Special - Nathan Angel, Live & Exclusive Interview"
-date: 2024-11-13
+title: "Nathan Angel, Live & Exclusive Interview (6th Anniversary Special)"
+date: 2024-11-19
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
