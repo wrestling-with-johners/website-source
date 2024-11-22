@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COLD DAY IN HELL & NO LIMIT 2024 | The TNT Pre-Show | BARBED WIRE"
+title: "NO LIMIT & COLD DAY IN HELL 2024 | The TNT Pre-Show | BARBED WIRE"
 date: 2024-11-21
 categories: videos wrestling-with-johners
 author: john
