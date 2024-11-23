@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Golddust finally getting the recognition he deserves? #WWE #HallOfFame #Goldust #JaySeven"
+title: "Is Goldust finally getting the recognition he deserves? #WWE #HallOfFame #Goldust #JaySeven"
 date: 2024-11-22
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
