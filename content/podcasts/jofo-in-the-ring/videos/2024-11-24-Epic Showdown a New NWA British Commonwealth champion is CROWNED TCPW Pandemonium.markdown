@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Epic Showdown a New NWA British Commenwealth champion is CROWNED #TCPW Pandemonium"
+title: "Epic Showdown a New NWA British Commonwealth champion is CROWNED #TCPW Pandemonium"
 date: 2024-11-24
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
