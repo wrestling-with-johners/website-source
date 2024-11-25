@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S being time in the Dungen! #wrestling #fyp"
+title: "Spending time in the Dungen! #wrestling #fyp"
 date: 2024-11-25
 categories: straight-talk-wrestling videos
 author: george-mckay
