@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C4W Terry Funk vs Doug Gilbert"
-date: 2024-11-27
+date: 2024-11-29
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
