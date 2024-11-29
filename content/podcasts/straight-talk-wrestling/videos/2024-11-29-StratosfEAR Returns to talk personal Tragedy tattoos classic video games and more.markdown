@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StratosfEAR Returns to talk personal Tragedy, tatto's classic video games and more"
+title: "StratosfEAR Returns to talk personal Tragedy, tattoos classic video games and more"
 date: 2024-11-29
 categories: straight-talk-wrestling videos
 author: george-mckay
