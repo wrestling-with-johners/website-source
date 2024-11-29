@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWN Podcast | with"
+title: "SWN Podcast | with RJ Cash"
 date: 2024-11-29
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
