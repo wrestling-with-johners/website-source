@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "6th Anniversary Special - ACT TWO, Live & Exclusive Interview"
-date: 2024-11-26
+title: "ACT TWO, Live & Exclusive Interview"
+date: 2024-11-30
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
