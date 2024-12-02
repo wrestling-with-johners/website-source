@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Survivor Series 2024 Review: Epic WarGames, Nakamura's Triumph, and Bloodline Drama! Ep#221"
-date: 2024-12-01
+date: 2024-12-02
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
 spotify_track_id: 
