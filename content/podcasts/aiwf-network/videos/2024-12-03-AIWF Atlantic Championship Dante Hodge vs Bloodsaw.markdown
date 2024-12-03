@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Atlantic Championship Dante Hodge vs Bloodsaw"
-date: 2024-12-02
+date: 2024-12-03
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
