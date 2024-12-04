@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fright Night 2024 part 2"
-date: 2024-12-03
+date: 2024-12-04
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
