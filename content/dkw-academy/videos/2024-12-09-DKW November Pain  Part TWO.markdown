@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DKW November Pain - Part TWO!"
-date: 2024-12-08
+date: 2024-12-09
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
