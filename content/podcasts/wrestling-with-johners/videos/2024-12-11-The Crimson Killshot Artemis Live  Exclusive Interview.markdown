@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "‘The Crimson Killshot’ Artemis, Live & Exclusive Interview!"
-date: 2024-12-04
+date: 2024-12-11
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
