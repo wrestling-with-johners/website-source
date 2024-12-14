@@ -12,6 +12,7 @@ import dateutil.parser as datetime_parser
 import html
 from requests import Session
 from requests.adapters import HTTPAdapter, Retry
+import time
 from googleapiclient.discovery import build
 import frontmatter
 
@@ -20,6 +21,8 @@ from get_apple_auth import get_auth
 
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
+
+MAX_SLEEP_TIME = 30
 
 http_session = Session()
 retries = Retry(
@@ -206,12 +209,11 @@ class AppleScraper:
 
   def get_tracks(self, next_url_part, retry_apple_auth = True):
     response = http_session.get('https://amp-api.podcasts.apple.com{}'.format(next_url_part), headers = {
-      'Accept': 'application/json',
+      'Accept': '*/*',
       'Referer': 'https://podcasts.apple.com/',
       'Origin': 'https://podcasts.apple.com',
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
       'Authorization': self.auth,
-      'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
     })
     if response.ok:
       response_json = response.json()
@@ -253,6 +255,12 @@ class AppleScraper:
       else:
         print ('Halting attempts, unable to reacquire auth')
         return []
+    elif response.status_code == 429:
+      print(f"Response Headers: {response.headers}")
+      sleep_time = min(response.headers.get('Retry-After', MAX_SLEEP_TIME), MAX_SLEEP_TIME)
+      print(f'Apple responded with 429, sleeping for {sleep_time} seconds')
+      time.sleep(sleep_time)
+      return self.get_tracks(next_url_part, retry_apple_auth)
     else:
       response.raise_for_status()
 
