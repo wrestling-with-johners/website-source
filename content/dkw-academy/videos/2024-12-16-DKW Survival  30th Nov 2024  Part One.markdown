@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DKW Survival - 30th Nov 2024 - Part One"
-date: 2024-12-15
+date: 2024-12-16
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
