@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Liv Morgan #snme highlight! #wrestling #fyp #livmorgan"
+title: "Liv Morgan looking oh so fine!!!!#fyp #wrestling #popculture #damn"
 date: 2024-12-16
 categories: straight-talk-wrestling videos
 author: george-mckay
