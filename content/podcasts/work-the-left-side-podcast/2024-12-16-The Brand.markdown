@@ -1,0 +1,11 @@
+---
+layout: post
+title: "The Brand"
+date: 2024-12-16
+categories: work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 5gp6NF4g4mLcb2S6tIV4IM
+youtube_video_id: 
+apple_track_id: 1000680565170
+youtube_metadata: 
+---
