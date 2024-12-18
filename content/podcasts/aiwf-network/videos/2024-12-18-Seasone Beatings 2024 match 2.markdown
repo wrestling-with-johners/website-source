@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seasone Beatings 2024 match 2"
-date: 2024-12-16
+date: 2024-12-18
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
