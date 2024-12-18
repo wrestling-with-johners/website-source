@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wrestling & Comics: The Ultimate Crossover with PJ Curling |  136"
+title: "Wrestling & Comic Books: The Ultimate Crossover with PJ Curling |  136"
 date: 2024-12-18
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
