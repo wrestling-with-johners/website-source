@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giant Orion vs AJ Sanchez vs Bobby Sharp vs Prospecter | Jacques Rougeau's Lutte Académie!\""
+title: "Giant Orion & AJ Sanchez vs Bobby Sharp & The Prospecter | Jacques Rougeau's Lutte Académie!\""
 date: 2024-12-18
 categories: jofo-in-the-ring videos
 author: jofo-in-the-ring
