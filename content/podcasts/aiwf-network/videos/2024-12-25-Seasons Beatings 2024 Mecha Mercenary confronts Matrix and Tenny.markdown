@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seasons Beatings 2024 Mecha Mercenary confronts Matrix and Tenny"
-date: 2024-12-23
+date: 2024-12-25
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
