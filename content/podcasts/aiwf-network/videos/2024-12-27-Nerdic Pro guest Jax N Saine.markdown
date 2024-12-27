@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nerdic Pro guest Jax N Saine"
-date: 2024-12-26
+date: 2024-12-27
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
