@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Is JBL Doing In Impact Zone!?"
+title: "What Is JBL Doing In The Impact Zone!?"
 date: 2024-12-30
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
