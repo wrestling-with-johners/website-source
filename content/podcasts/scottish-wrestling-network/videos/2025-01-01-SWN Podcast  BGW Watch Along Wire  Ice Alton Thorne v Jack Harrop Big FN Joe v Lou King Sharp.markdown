@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWN Podcast | Bleeding Gums Wrestling Watch Along: Wire & Ice. Alton Thorne vs Jack Harrop."
+title: "SWN Podcast | BGW Watch Along: Wire & Ice. Alton Thorne v Jack Harrop. Big F’N Joe v Lou King Sharp"
 date: 2025-01-01
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
