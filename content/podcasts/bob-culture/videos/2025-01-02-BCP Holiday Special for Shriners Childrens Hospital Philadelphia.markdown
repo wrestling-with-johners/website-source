@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BCP+ Holiday Special for Shriners Children's Hospital Philadelphia"
-date: 2025-01-01
+date: 2025-01-02
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
