@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "C4W Honky Tonk Man vs Demolition Ax"
+title: "Cyberzone 55"
 date: 2025-01-02
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
-youtube_video_id: WGbKQFxKtO8
+youtube_video_id: 6JrdiXz1Oc4
 apple_track_id: 
 youtube_metadata: 
 ---
