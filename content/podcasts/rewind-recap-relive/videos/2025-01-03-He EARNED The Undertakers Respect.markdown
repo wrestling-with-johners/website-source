@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Mr. Kennedy Gained Undertaker’s Respect"
+title: "He EARNED The Undertaker’s Respect"
 date: 2025-01-03
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
