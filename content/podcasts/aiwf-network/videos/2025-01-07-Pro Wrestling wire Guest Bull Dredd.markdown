@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling wire Guest Bull Dredd"
-date: 2025-01-06
+date: 2025-01-07
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
