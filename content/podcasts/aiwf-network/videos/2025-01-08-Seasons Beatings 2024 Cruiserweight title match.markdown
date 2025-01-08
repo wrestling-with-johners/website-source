@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seasons Beatings 2024 Cruiserweight title match"
-date: 2025-01-07
+date: 2025-01-08
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
