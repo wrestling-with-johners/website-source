@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KID LYKOS II - Live & Exclusive Interview"
-date: 2025-01-02
+date: 2025-01-09
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
