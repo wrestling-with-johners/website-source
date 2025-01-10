@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 155: The 1-8-5"
+date: 2025-01-10
+categories: shootin-sht
+author: shootin-sht
+spotify_track_id: 7glOMnSAVB66N2hT77bpdW
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
