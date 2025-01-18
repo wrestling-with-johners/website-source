@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yo #karisane vs #pentagondark #luchaunderground #fyp #wrestling #viralvideo"
+title: "Yo #kairisane  vs #pentagondark #luchaunderground #fyp #wrestling #viralvideo"
 date: 2025-01-17
 categories: straight-talk-wrestling videos
 author: george-mckay
