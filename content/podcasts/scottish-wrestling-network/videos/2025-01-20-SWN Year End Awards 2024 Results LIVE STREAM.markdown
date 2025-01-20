@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWN Year End Awards 2024 Results"
+title: "SWN Year End Awards 2024 Results LIVE STREAM"
 date: 2025-01-20
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
