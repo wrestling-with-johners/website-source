@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SWN Year End Awards 2024 Results"
-date: 2025-01-19
+date: 2025-01-20
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
 spotify_track_id: 
