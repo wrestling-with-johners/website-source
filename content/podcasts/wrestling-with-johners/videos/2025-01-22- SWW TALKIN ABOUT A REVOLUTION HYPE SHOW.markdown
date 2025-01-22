@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚡️🎙️ SWW TALKIN' ABOUT A REVOLUTION HYPE SHOW 🎙️⚡️"
-date: 2025-01-16
+date: 2025-01-22
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
