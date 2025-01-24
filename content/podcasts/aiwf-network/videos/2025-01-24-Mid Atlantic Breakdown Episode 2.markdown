@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mid Atlantic Breakdown Episode 2"
-date: 2025-01-23
+date: 2025-01-24
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
