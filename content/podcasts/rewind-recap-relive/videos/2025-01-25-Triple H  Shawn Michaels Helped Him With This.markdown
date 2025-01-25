@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chris Masters’ Epic Entrance In WWE"
+title: "Triple H & Shawn Michaels Helped Him With This"
 date: 2025-01-25
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
