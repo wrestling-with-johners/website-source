@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seasons Beatings 2024 Mid Atlantic Title match"
-date: 2025-01-26
+date: 2025-01-29
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
