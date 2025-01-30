@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "HUSTLE MALONE, Live & Exclusive Interview"
-date: 2025-01-26
+title: "HUSTLE MALONE - EXCLUSIVE INTERVIEW"
+date: 2025-01-30
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
