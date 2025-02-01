@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Movie 7"
+title: "WELCOME TO THE CHOKESLAM WRESTLING REPORT CHANNEL"
 date: 2025-02-01
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
