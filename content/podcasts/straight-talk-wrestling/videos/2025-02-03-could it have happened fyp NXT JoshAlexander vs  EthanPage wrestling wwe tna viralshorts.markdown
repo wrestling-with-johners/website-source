@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "when #tna and #wwe were sharing talent, could it have happened? #fyp #NXT #JoshAlexander #EthanPage"
+title: "could it have happened? #fyp #NXT #JoshAlexander vs  #EthanPage #wrestling #wwe #tna #viralshorts"
 date: 2025-02-03
 categories: straight-talk-wrestling videos
 author: george-mckay
