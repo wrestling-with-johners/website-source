@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview with Referee Angel Cruz: Breaking Into Wrestling, & The State of Pro Wrestling"
-date: 2025-02-06
+date: 2025-02-07
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
 spotify_track_id: 
