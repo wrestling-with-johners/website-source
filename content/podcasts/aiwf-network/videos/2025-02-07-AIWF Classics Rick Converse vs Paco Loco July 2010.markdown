@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AIWF Classic's July 2010 Rick Converse vs Paco Loco"
+title: "AIWF Classic's. Rick Converse vs Paco Loco. July 2010"
 date: 2025-02-07
 categories: aiwf-network videos
 author: aiwf-network
