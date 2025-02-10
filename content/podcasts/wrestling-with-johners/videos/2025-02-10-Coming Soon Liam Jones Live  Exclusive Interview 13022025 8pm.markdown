@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coming Soon..... Liam Jones (Live & Exclusive Interview) 13.02.2025, 8pm"
+title: "Coming Soon... Liam Jones (Live & Exclusive Interview) 13.02.2025, 8pm"
 date: 2025-02-10
 categories: videos wrestling-with-johners
 author: john
