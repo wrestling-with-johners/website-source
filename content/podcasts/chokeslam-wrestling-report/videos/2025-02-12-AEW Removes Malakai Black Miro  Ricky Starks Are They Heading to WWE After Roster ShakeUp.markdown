@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"AEW Removes Malakai Black, Miro & Ricky Starks! Are They Heading to WWE After Roster Shake-Up?\""
-date: 2025-02-11
+date: 2025-02-12
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
 spotify_track_id: 
