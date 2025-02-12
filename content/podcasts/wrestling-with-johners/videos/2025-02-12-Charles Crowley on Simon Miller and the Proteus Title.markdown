@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charles Crowley on Simon Miller and the Proteus Title"
-date: 2025-02-10
+date: 2025-02-12
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
