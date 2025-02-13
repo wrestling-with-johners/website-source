@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 225 - NCW"
+date: 2025-02-12
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: 9iMe7zELrvQ
+apple_track_id: 
+youtube_metadata: 
+---
