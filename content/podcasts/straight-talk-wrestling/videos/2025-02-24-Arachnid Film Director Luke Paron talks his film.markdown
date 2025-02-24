@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arachnid Film Director Luke Paron talks his film"
-date: 2025-02-17
+date: 2025-02-24
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
