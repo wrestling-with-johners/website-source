@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Ringside Wrestling Feb 16th 2025"
-date: 2025-02-23
+date: 2025-02-25
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
