@@ -1,0 +1,11 @@
+---
+layout: post
+title: "NCW/TGW"
+date: 2025-02-27
+categories: work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 4ydyh0G3gDtSTuXDRwW2Hr
+youtube_video_id: 
+apple_track_id: 1000696503941
+youtube_metadata: 
+---

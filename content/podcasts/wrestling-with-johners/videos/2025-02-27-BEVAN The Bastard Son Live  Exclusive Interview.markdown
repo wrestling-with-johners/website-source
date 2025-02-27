@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BEVAN 'The Bastard Son’ (Live & Exclusive Interview)"
-date: 2025-02-25
+date: 2025-02-27
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
