@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Jae Lynn Talks Family Support, Balancing school and wrestling Facing Kylie Ray and more."
-date: 2025-03-03
+title: "Jae Lynn Talks Family Support, Balancing school and wrestling Facing Kylie Rae and more."
+date: 2025-03-05
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
