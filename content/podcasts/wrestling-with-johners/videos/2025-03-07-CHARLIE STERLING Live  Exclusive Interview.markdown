@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CHARLIE STERLING (Live & Exclusive Interview)"
-date: 2025-03-02
+date: 2025-03-07
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
