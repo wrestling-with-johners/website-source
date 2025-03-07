@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hulk Hogan’s infamous heel turn to ohn Cena aligns with The Rock. Which moments was bigger?"
+title: "Comparing Shocking Moments: Cena Joining The Rock – The Final Boss vs. Hogan Joining the NWO"
 date: 2025-03-06
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
