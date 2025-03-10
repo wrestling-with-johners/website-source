@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RECOGNITION IS A DOUBLE EDGED SWORD - Liam Jones Interview"
-date: 2025-03-09
+date: 2025-03-10
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
