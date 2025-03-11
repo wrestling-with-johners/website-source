@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ringsdie 5! Wrestlers whom would have had sucess in different eras"
+title: "Ringside 5! Wrestlers whom would have had success in different eras"
 date: 2025-03-10
 categories: straight-talk-wrestling videos
 author: george-mckay
