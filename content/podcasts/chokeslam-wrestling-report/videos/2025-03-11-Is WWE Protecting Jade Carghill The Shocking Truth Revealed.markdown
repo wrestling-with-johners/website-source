@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is WWE Hiding Injuries? The Shocking Truth Revealed!"
+title: "Is WWE Protecting Jade Carghill? The Shocking Truth Revealed!"
 date: 2025-03-11
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
