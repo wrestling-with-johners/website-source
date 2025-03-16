@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RIZEN Pro Wrestling 'Breakdown' HYPE SHOW, March 22nd, 2025"
-date: 2025-03-15
+date: 2025-03-16
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
