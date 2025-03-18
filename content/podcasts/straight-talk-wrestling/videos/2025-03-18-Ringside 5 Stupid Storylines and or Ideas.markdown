@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ringside 5! Stupid Storylines and or Ideas?"
-date: 2025-03-17
+date: 2025-03-18
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
