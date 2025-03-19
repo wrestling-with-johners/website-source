@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Nick Riley Stepping Away From Pro Wrestling - Charlie Sterling Interview Clip"
-date: 2025-03-18
+date: 2025-03-19
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
