@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF World TV title match Champion Bloodsaw va Johnny Medina"
-date: 2025-03-19
+date: 2025-03-20
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
