@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "LUCIA LEE (Live & Exclusive Interview)"
-date: 2025-03-16
+title: "💥 LUCIA LEE (Exclusive Interview) 💥"
+date: 2025-03-21
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
