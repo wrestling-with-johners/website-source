@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ringside 5! Craziest Non Wrestling Segments"
-date: 2025-03-23
+date: 2025-03-24
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
