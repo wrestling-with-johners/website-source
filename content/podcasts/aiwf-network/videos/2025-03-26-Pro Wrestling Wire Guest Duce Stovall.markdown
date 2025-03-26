@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire Guest Duce Stovall"
-date: 2025-03-25
+date: 2025-03-26
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
