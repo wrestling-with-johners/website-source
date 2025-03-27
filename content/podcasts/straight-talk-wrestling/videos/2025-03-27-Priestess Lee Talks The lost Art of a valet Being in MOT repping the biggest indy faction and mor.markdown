@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Preistess Lee Talks, The lost Art of a valet, Being in MOT, repping the biggest indy faction and mor"
-date: 2025-03-23
+title: "Priestess Lee Talks, The lost Art of a valet, Being in MOT, repping the biggest indy faction and mor"
+date: 2025-03-27
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
