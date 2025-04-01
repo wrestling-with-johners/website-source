@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Luigi Primo Talks AEW, Training with PIzza Dough, His upcoming MEW Appeerance and more"
-date: 2025-03-31
+date: 2025-04-01
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
