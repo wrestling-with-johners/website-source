@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bruiser Brad -"
+title: "Bruiser Brad - Big Wrestlers in Japan, Becoming ‘The Beefking’, Desire to do Deathmatch Wrestling"
 date: 2025-04-02
 categories: the-soul-sessions videos
 author: the-soul-sessions
