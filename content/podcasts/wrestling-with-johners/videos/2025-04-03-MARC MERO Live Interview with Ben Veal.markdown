@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MARC MERO, Live Interview (with Ben Veal)"
-date: 2025-03-27
+date: 2025-04-03
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
