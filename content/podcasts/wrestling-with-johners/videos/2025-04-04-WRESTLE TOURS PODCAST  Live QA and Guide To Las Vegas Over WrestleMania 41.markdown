@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WRESTLE TOURS PODCAST | Live Q&A and Guide To Las Vegas Over WrestleMania 41"
-date: 2025-03-31
+date: 2025-04-04
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
