@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 167:Title Coming soon"
+title: "Episode 167: Technical Difficulties"
 date: 2025-04-04
 categories: shootin-sht videos
 author: shootin-sht
