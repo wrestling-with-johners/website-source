@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Booker T & Top Dolla CLAP BACK at Swerve Strickland Over Controversial Vlad TV Interview! Ep# 239"
-date: 2025-04-03
+date: 2025-04-07
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
 spotify_track_id: 
