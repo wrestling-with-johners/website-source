@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic Season 33 Episode 493"
-date: 2025-04-06
+date: 2025-04-08
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
