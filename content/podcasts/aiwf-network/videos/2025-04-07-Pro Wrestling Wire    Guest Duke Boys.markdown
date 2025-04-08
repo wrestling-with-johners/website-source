@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire    Guest Duke Boys"
-date: 2025-04-06
+date: 2025-04-07
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
