@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MARC MERO on His New Book 'BADD to GODD'"
+title: "MARC MERO on His New Book 'BADD to GOOD'"
 date: 2025-04-12
 categories: videos wrestling-with-johners
 author: john
