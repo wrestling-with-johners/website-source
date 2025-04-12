@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Across The Globe Episode 6"
-date: 2025-04-11
+date: 2025-04-12
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
