@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SABLE Was SUPER OVER  During WrestleMania 12 Debut"
+title: "SABLE Was SUPER OVER  During WrestleMania Debut"
 date: 2025-04-13
 categories: videos wrestling-with-johners
 author: john
