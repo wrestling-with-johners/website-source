@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Allen Ownz Joins me we talk the wrestlmania build, give a few opinions on wrestlemaina, and more."
-date: 2025-04-13
+date: 2025-04-15
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
