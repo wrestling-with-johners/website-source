@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Going From Johnny B Badd to 'Wildman' Marc Mero"
-date: 2025-04-13
+date: 2025-04-15
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
