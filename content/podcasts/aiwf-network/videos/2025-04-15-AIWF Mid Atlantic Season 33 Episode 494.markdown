@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic Season 33 Episode 494"
-date: 2025-04-14
+date: 2025-04-15
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
