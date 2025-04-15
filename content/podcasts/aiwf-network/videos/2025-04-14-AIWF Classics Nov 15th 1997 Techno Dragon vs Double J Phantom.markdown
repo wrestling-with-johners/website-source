@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Classics Nov 15th 1997 Techno Dragon vs Double J Phantom"
-date: 2025-04-13
+date: 2025-04-14
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
