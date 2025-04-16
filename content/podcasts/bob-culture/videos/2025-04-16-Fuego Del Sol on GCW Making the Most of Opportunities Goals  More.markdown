@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuego Del Sol Interview on GCW, Making the Most of Opportunities, Goals & More!!"
+title: "Fuego Del Sol on GCW, Making the Most of Opportunities, Goals & More!!"
 date: 2025-04-16
 categories: bob-culture videos
 author: bob-culture
