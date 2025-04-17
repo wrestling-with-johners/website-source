@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C4W Mike Woods vs Doug Harrison"
-date: 2025-04-16
+date: 2025-04-17
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
