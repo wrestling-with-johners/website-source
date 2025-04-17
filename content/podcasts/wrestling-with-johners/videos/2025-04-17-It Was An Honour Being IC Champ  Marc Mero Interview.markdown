@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"It Was An Honour Being I.C Champ\" - Marc Mero Interview"
-date: 2025-04-13
+date: 2025-04-17
 categories: videos wrestling-with-johners
 author: john
 spotify_track_id: 
