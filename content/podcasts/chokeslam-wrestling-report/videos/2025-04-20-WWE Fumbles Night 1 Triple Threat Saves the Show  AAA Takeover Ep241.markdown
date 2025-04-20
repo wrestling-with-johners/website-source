@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rollins, Reigns, Punk Save WM41 | AAA Bought by WWE?! EP#241"
+title: "WWE Fumbles Night 1: Triple Threat Saves the Show + AAA Takeover? Ep#241"
 date: 2025-04-20
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
