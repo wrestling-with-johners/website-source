@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frankie Kazarian Talks TNA Rebellion, Joe Hendry, Ethan Page, AJ Styles and more"
-date: 2025-04-24
+date: 2025-04-25
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
