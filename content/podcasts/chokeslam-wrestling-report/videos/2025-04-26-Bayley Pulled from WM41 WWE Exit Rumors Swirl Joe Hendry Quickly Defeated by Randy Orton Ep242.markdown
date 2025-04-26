@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bayley Pulled from WM41; WWE Exit Rumors Swirl, Hendry Quickly Defeated by Randy Orton Ep#242"
+title: "Bayley Pulled from WM41; WWE Exit Rumors Swirl, Joe Hendry Quickly Defeated by Randy Orton Ep#242"
 date: 2025-04-26
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
