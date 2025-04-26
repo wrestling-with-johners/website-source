@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TNA Wrestling Press Pass with Joe Hendry | SWN Question"
+title: "TNA Wrestling Press Pass with Joe Hendry | SWN Question #wrestling #joehendry #tna #tripleh"
 date: 2025-04-25
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
