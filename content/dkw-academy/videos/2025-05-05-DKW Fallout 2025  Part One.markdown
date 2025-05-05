@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DKW Fallout 2025 - Part One"
-date: 2025-05-04
+date: 2025-05-05
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
