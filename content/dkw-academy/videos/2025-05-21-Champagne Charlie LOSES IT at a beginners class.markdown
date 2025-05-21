@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Champagne Charlie LOSES IT at a beginners class !"
-date: 2025-05-20
+date: 2025-05-21
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
