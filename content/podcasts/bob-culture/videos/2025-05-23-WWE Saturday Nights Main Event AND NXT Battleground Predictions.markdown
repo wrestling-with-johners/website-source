@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WWE Saturday Night's Main Event AND NXT Battleground Predictions"
-date: 2025-05-22
+date: 2025-05-23
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
