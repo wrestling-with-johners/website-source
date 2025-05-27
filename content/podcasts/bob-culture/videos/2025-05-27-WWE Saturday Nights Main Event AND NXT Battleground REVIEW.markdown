@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WWE Saturday Night's Main Event AND NXT Battleground REVIEW"
-date: 2025-05-26
+date: 2025-05-27
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
