@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WWE SmackDown Review, R-Truth Release, & More"
-date: 2025-06-01
+date: 2025-06-02
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
