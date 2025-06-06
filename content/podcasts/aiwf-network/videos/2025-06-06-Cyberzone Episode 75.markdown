@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cyberzone Episode 75"
-date: 2025-06-05
+date: 2025-06-06
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
