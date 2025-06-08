@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "United Wrestling   Match Edits   20240519   Match 01"
+title: "Smoking Barrels - United Wrestling - Razor vs Tommy Sykes"
 date: 2025-06-08
 categories: videos wrestling-outsider
 author: wrestling-outsider
