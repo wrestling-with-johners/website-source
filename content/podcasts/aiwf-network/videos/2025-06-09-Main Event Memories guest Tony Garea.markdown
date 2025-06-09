@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Main Event Memories guest Tony Garea"
-date: 2025-06-08
+date: 2025-06-09
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
