@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WWE Money in the Bank 2025 Review"
-date: 2025-06-08
+date: 2025-06-09
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
