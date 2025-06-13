@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Just Gabriel Hit The Most Difficult 450 Splash On Kane"
+title: "Justin Gabriel Hit The Most Difficult 450 Splash On Kane"
 date: 2025-06-13
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
