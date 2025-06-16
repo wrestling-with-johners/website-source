@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Main Event Memories with guest Jon Stewart"
-date: 2025-06-15
+date: 2025-06-16
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
