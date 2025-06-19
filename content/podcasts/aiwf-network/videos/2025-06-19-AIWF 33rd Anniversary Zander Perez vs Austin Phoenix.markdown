@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF 33rd Anniversary Zander Perez vs Austin Phoenix"
-date: 2025-06-16
+date: 2025-06-19
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
