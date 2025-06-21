@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Accross The Globe Episode 15"
-date: 2025-06-16
+date: 2025-06-21
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
