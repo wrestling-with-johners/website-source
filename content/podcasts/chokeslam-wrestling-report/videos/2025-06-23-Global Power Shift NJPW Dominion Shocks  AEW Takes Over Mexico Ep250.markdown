@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Power Shift: NJPW Dominion Shocks & AEW Takes Over Mexico! Ep#250"
-date: 2025-06-19
+date: 2025-06-23
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
 spotify_track_id: 
