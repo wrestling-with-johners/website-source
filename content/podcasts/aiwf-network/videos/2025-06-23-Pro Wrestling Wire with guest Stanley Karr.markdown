@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire with guest Stanley Karr"
-date: 2025-06-22
+date: 2025-06-23
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
