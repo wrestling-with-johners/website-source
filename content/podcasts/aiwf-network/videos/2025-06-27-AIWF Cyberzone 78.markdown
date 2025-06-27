@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone 78"
-date: 2025-06-25
+date: 2025-06-27
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
