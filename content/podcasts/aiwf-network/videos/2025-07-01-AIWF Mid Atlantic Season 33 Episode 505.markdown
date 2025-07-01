@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic Season 33 Episode 505"
-date: 2025-06-29
+date: 2025-07-01
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
