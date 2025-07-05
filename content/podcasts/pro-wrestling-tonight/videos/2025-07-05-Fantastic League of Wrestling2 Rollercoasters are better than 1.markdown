@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fantastic League of Wrestling:2 Rollercoasters are better than 1"
-date: 2025-07-04
+date: 2025-07-05
 categories: pro-wrestling-tonight videos
 author: chicagoland-championship-wrestling
 spotify_track_id: 
