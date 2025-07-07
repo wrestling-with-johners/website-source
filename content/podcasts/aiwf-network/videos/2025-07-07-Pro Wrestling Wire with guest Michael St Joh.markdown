@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire with guest Michael St Joh"
-date: 2025-07-06
+date: 2025-07-07
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
