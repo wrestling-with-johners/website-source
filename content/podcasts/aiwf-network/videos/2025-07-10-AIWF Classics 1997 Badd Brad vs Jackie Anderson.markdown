@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Classics 1997 Badd Brad vs Jackie Anderson"
-date: 2025-07-08
+date: 2025-07-10
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
