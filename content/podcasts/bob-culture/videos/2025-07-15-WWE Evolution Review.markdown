@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WWE Evolution Review"
-date: 2025-07-14
+date: 2025-07-15
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
