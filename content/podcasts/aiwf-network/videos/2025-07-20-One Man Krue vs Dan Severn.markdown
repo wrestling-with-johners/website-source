@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One Man Krue vs Dan Severn"
-date: 2025-07-16
+date: 2025-07-20
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
