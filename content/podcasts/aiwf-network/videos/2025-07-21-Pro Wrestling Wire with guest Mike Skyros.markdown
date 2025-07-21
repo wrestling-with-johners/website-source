@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire with guest Mike Skyros"
-date: 2025-07-20
+date: 2025-07-21
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
