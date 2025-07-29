@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 259 - The 05"
+date: 2025-07-29
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: p7FA7EIElP0
+apple_track_id: 
+youtube_metadata: 
+---
