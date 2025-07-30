@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is WWE Making TNA Wrestling Look Weak? #shorts #nxttna #wwe"
+title: "Why WWE Is Making TNA Wrestling Look Weak? #shorts #nxttna #wwe"
 date: 2025-07-30
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
