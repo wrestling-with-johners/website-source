@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DKW Independence Day - Part One"
-date: 2025-07-31
+date: 2025-08-01
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
