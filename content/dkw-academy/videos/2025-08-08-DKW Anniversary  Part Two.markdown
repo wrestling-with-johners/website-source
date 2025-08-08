@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DKW Anniversary - Part Two"
-date: 2025-08-06
+date: 2025-08-08
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
