@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6 man tag match Era Of Defiance vs Bloodsaw, Shon Amari, and Johan Nara"
-date: 2025-08-09
+date: 2025-08-11
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
