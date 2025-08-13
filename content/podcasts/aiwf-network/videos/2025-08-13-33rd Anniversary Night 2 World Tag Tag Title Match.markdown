@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "33rd Anniversary Night 2 World Tag Tag Title Match"
-date: 2025-08-11
+date: 2025-08-13
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
