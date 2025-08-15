@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode 85"
-date: 2025-08-14
+date: 2025-08-15
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
