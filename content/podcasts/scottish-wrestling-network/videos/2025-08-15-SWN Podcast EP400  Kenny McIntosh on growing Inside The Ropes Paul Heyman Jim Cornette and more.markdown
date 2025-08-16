@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWN Podcast Ep400 | Kenny McIntosh on growing Inside The Ropes, Paul Heyman, Jim Cornette, and more"
+title: "SWN Podcast EP400 | Kenny McIntosh on growing Inside The Ropes, Paul Heyman, Jim Cornette, and more"
 date: 2025-08-15
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
