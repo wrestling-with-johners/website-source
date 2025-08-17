@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DKW Beer Garden Brawl II HIGHLIGHTS"
-date: 2025-08-16
+date: 2025-08-17
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
