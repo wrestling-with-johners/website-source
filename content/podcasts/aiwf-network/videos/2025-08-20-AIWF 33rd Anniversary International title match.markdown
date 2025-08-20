@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF 33rd Anniversary International title match"
-date: 2025-08-18
+date: 2025-08-20
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
