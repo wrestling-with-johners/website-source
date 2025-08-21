@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Classics Deal With The Steel 2009 Scramble match"
-date: 2025-08-19
+date: 2025-08-21
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
