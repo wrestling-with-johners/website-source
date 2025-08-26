@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic Season 33 Episode 514 Mickey Fulp vs Jay Lethal"
-date: 2025-08-24
+date: 2025-08-26
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
