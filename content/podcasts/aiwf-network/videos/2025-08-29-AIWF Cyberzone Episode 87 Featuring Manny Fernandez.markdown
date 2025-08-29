@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode 87 Featuring Manny Fernandez"
-date: 2025-08-28
+date: 2025-08-29
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
