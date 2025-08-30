@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Across The Globe Episode 26 Featuring Hernandez interview"
-date: 2025-08-29
+date: 2025-08-30
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
