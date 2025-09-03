@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tyler answers generic wrestling questions"
+title: "@tylerwrestles answers generic wrestling questions"
 date: 2025-09-03
 categories: tom-talks-rubbish videos
 author: tom-talks-rubbish
