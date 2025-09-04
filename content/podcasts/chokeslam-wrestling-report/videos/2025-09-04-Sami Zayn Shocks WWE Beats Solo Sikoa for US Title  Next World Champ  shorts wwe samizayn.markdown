@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sami Zayn Beats Solo Sikoa For US Title! WWE’s Next World Champ? # shorts #wwe #samizayn"
+title: "Sami Zayn Shocks WWE! Beats Solo Sikoa for US Title 🔥 Next World Champ? # shorts #wwe #samizayn"
 date: 2025-09-04
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
