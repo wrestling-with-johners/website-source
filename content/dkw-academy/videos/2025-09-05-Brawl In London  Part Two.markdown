@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brawl In: London - Part Two"
-date: 2025-09-03
+date: 2025-09-05
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
