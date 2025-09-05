@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode 88 the wild tag match"
-date: 2025-09-03
+date: 2025-09-05
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
