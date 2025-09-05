@@ -1,0 +1,11 @@
+---
+layout: post
+title: "KC Payne"
+date: 2025-09-05
+categories: work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 1RpNRNQiGVxMTpRXAGiQmq
+youtube_video_id: 
+apple_track_id: 1000725166471
+youtube_metadata: 
+---
