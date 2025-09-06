@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Across The Globe Episode 28"
-date: 2025-09-05
+date: 2025-09-06
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
