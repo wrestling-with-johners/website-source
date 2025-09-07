@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic Season 33 Episode 516 Seth Burns strikes again"
-date: 2025-09-05
+date: 2025-09-07
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
