@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF 33rd Anniversary show Nigh 2 Ty Tyson vs Viktor Kraus"
-date: 2025-09-08
+date: 2025-09-10
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
