@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Priscilla Kelly Joins Me to talk Finding A love for wrestling again, The wwe Machine, Horror Movies,"
-date: 2025-09-11
+date: 2025-09-12
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
