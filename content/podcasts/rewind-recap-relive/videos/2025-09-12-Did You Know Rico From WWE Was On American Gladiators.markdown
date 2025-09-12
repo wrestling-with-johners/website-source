@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rico’s INCREDIBLE Journey Onto American Gladiators 🤯"
+title: "Did You Know Rico From WWE Was On American Gladiators? 🤯"
 date: 2025-09-12
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
