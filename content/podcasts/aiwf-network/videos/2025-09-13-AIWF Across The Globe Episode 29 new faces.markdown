@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Across The Globe Episode 29 new faces"
-date: 2025-09-12
+date: 2025-09-13
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
