@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is WWE Going To Lose Fans with Moving WrestleMania Overseas? #shorts"
+title: "WWE About To Lose Fans w/ WrestleMania 43 Heading to Saudi Arabia? #shorts #wrestlemania43"
 date: 2025-09-16
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
