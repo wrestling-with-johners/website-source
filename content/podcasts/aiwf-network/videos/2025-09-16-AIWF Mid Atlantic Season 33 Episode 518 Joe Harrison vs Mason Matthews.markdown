@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic Season 33 Episode 518 Joe Harrison vs Mason Matthews"
-date: 2025-09-14
+date: 2025-09-16
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
