@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF 33rd Anniversary Night 2 Mid Atlantic Title Match"
-date: 2025-09-16
+date: 2025-09-17
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
