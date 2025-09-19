@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode 90 Manny Fernandez joins the Rich Foundation"
-date: 2025-09-18
+date: 2025-09-19
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
