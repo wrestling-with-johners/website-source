@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Classics Capital Punishment 2011 Rob McBride vs Masked Assassin"
-date: 2025-09-23
+date: 2025-09-24
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
