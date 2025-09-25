@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Nadjei"
+date: 2025-09-24
+categories: work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 47HQA2osvb01N5NZ2FQW3k
+youtube_video_id: 
+apple_track_id: 1000728306836
+youtube_metadata: 
+---
