@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ash Ajaz On Fandom, Ben Veal, Razor Ramon & More"
+title: "Ash Ajaz On Fandom, Podcasting, Razor Ramon & More"
 date: 2025-09-26
 categories: tom-talks-rubbish videos
 author: tom-talks-rubbish
