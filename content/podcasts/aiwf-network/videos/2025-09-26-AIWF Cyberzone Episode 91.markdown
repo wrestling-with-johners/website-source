@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode 91"
-date: 2025-09-25
+date: 2025-09-26
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
