@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Across The Globe Episode 32 Here comes the classics"
-date: 2025-09-26
+date: 2025-09-27
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
