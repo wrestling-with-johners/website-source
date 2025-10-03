@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tommy Gunn vs Dylan Derringer vs Mari Hana: FLOW Supernova Championship"
-date: 2025-10-01
+date: 2025-10-02
 categories: pro-wrestling-tonight videos
 author: chicagoland-championship-wrestling
 spotify_track_id: 
