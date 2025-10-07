@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic Season 33 Episode 521 Love is not in the air"
-date: 2025-10-05
+date: 2025-10-07
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
