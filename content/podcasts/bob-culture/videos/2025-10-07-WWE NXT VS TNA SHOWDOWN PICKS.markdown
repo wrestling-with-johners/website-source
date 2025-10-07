@@ -2,10 +2,10 @@
 layout: post
 title: "WWE NXT VS. TNA SHOWDOWN PICKS"
 date: 2025-10-07
-categories: bob-culture
+categories: bob-culture videos
 author: bob-culture
-spotify_track_id: 64185wbToOsSL3UyF4Iezc
-youtube_video_id: 
-apple_track_id: 1000730509089
+spotify_track_id: 
+youtube_video_id: 2uUFXrZH1hw
+apple_track_id: 
 youtube_metadata: 
 ---
