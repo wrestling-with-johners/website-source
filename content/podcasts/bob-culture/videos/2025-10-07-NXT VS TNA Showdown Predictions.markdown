@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NXT VS TNA Showdown Predictions"
-date: 2025-10-06
+date: 2025-10-07
 categories: bob-culture videos
 author: bob-culture
 spotify_track_id: 
