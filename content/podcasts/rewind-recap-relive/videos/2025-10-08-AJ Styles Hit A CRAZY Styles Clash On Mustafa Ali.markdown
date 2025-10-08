@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AJ Styles hit a CRAZY Styles Clash On Mustafa Ali 🤯"
+title: "AJ Styles Hit A CRAZY Styles Clash On Mustafa Ali 🤯"
 date: 2025-10-08
 categories: rewind-recap-relive videos
 author: rewind-recap-relive
