@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FRIGHT NIGHT Preview w/ Founder Jackson"
-date: 2025-10-14
+date: 2025-10-15
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
