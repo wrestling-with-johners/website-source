@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Truth About WWE's Recent Shows: Are Fans Fed Up? #shorts #wwe"
+title: "Fans FED UP! WWE Raw & SmackDown Full of Promos, Not Wrestling! #shorts #wwe"
 date: 2025-10-15
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
