@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Classics Capital Punishment 2011 World Tag Title Match"
-date: 2025-10-14
+date: 2025-10-15
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
