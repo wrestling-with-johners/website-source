@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode 95"
-date: 2025-10-16
+date: 2025-10-17
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
