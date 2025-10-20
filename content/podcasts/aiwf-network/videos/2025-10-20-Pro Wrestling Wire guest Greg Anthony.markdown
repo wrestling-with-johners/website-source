@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire guest Greg Anthony"
-date: 2025-10-19
+date: 2025-10-20
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
