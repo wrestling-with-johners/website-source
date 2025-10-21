@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mercedes Mone Breaks Ultimo Dragon’s Record! Fans Tired of the “Ultimo Mone” Gimmick? #shorts #aew"
+title: "Mercedes Wins her 11th title| Is TK Ending the Ultimo Mone Belt Collector storyline? #shorts"
 date: 2025-10-21
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
