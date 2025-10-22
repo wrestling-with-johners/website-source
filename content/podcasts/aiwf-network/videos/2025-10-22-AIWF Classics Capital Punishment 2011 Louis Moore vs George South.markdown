@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Classics Capital Punishment 2011 Louis Moore vs George South"
-date: 2025-10-21
+date: 2025-10-22
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
