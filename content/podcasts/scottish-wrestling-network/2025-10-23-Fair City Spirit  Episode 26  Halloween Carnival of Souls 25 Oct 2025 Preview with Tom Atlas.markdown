@@ -6,6 +6,6 @@ categories: scottish-wrestling-network
 author: scottish-wrestling-network
 spotify_track_id: 6BZpf7f8W6U70l7a6GPz6v
 youtube_video_id: 
-apple_track_id: 1000732987299
+apple_track_id: 
 youtube_metadata: 
 ---
