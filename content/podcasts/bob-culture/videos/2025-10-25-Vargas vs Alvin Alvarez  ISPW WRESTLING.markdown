@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vargas vs. Alvin Kamara - ISPW WRESTLING"
+title: "Vargas vs. Alvin Alvarez - ISPW WRESTLING"
 date: 2025-10-25
 categories: bob-culture videos
 author: bob-culture
