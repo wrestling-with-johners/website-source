@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire with The Faculty"
-date: 2025-10-26
+date: 2025-10-27
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
