@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fantastic League of Wrestling:Tommy Gunn vs La Estrella"
-date: 2025-07-04
+date: 2025-10-28
 categories: pro-wrestling-tonight videos
 author: chicagoland-championship-wrestling
 spotify_track_id: 
