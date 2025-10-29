@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Classics Capital Punishment 2011 Jimi Love vs Ricky Morton"
-date: 2025-10-28
+date: 2025-10-29
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
