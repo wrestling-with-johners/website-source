@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#262 RAYMOND O'REILLY talks Gen Pro, WrestleForce, Jonny Storm, Family, Wrestling & more"
+title: "#262 RAYMOND O'REILLY talks Gen Pro, WrestleForce, Jonny Storm, Family, Freestyle wrestling & more"
 date: 2025-10-30
 categories: videos what-do-you-call-it
 author: what-do-you-call-it
