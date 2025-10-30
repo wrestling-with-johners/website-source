@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 277 - Adam Bolt"
+date: 2025-10-30
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: FSw7NRV2WtY
+apple_track_id: 
+youtube_metadata: 
+---
