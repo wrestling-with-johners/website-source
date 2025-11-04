@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CM Punk Snaps on Jey Uso After Botched Spot! Is This Jey’s Last World Title Shot?t #Ep269"
+title: "CM Punk Snaps on Jey Uso After Botched Spot! Is This Jey’s Last World Title Shot? #Ep269"
 date: 2025-11-03
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
