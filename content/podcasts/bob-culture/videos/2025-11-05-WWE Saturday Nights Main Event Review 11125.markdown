@@ -2,10 +2,10 @@
 layout: post
 title: "WWE Saturday Night's Main Event Review 11/1/25"
 date: 2025-11-05
-categories: bob-culture
+categories: bob-culture videos
 author: bob-culture
-spotify_track_id: 5Wkb3ErsGB6h0LqvyGfYoI
-youtube_video_id: 
-apple_track_id: 1000735473075
+spotify_track_id: 
+youtube_video_id: DwqzyHP3v4s
+apple_track_id: 
 youtube_metadata: 
 ---
