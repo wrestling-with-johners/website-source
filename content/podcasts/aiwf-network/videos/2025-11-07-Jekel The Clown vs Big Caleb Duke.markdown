@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jekel The Clown vs Big Caleb Duke"
-date: 2025-11-05
+date: 2025-11-07
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
