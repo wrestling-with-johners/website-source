@@ -1,0 +1,11 @@
+---
+layout: post
+title: "#151 - Jack Russell (11/14/2025)"
+date: 2025-11-14
+categories: time-to-fight
+author: time-to-fight
+spotify_track_id: 2otIQO5cpXxJ0aEuTdaS9s
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
