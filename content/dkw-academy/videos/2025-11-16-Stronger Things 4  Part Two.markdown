@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stronger Things 4 - Part Two"
-date: 2025-11-14
+date: 2025-11-16
 categories: dkw-academy videos
 author: dkw-academy
 spotify_track_id: 
