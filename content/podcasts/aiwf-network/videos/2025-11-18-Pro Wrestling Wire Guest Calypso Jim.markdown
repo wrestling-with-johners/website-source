@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire Guest Calypso Jim"
-date: 2025-11-16
+date: 2025-11-18
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
