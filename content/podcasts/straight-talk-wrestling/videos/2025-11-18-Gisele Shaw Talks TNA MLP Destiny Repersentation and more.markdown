@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gisele Shaw Talks TNA, MLP, Destiny, Repersentation and more"
-date: 2025-11-16
+date: 2025-11-18
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
