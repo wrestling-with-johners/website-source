@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tommy Gunn vs Patrick Patterson FLOW Supernova Championship match"
-date: 2025-11-18
+date: 2025-11-20
 categories: pro-wrestling-tonight videos
 author: chicagoland-championship-wrestling
 spotify_track_id: 
