@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WrestleMo-nia! from The Voodoo Rooms in Edinburgh raising money for Mo-vember"
-date: 2025-11-21
+date: 2025-11-22
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
 spotify_track_id: 
