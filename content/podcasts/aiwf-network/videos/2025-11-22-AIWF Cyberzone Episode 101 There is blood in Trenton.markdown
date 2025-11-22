@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode 101 There is blood in Trenton"
-date: 2025-11-19
+date: 2025-11-22
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
