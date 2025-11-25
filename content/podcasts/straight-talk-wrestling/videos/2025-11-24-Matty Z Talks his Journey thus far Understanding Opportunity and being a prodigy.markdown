@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matty Z Talks his Journey thus far, oppurtinities and being a prodigy"
+title: "Matty Z Talks his Journey thus far, Understanding Opportunity and being a prodigy"
 date: 2025-11-24
 categories: straight-talk-wrestling videos
 author: george-mckay
