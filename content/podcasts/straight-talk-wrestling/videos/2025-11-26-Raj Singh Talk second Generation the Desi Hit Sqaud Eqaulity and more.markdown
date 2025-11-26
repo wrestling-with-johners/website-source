@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Raj Singh, Talk second Generation, the Desi Hit Sqaud, Eqaulity and more"
-date: 2025-11-25
+date: 2025-11-26
 categories: straight-talk-wrestling videos
 author: george-mckay
 spotify_track_id: 
