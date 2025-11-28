@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Classicsa The Stallion vs Joe Fillers"
-date: 2025-11-27
+date: 2025-11-28
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
