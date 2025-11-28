@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PD Skillz talks being the inaugural, Canadian Deathmatch champion @CanadianDeathmatch"
+title: "PD Skillz talks being the inaugural, Canadian Deathmatch champion @CanadianDeathmatch #podcast #fyp"
 date: 2025-11-27
 categories: straight-talk-wrestling videos
 author: george-mckay
