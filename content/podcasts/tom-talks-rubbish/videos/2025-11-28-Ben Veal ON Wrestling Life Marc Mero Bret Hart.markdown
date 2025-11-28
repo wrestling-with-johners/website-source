@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ben Veal ON Fandom, Podcast, Family & More"
+title: "Ben Veal ON Wrestling Life, Marc Mero, Bret Hart,"
 date: 2025-11-28
 categories: tom-talks-rubbish videos
 author: tom-talks-rubbish
