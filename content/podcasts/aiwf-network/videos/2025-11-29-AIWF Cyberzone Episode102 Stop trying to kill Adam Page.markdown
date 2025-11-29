@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode102 Stop trying to kill Adam Page"
-date: 2025-11-27
+date: 2025-11-29
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
