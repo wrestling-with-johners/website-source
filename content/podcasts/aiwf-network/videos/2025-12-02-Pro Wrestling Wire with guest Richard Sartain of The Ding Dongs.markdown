@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire with guest Richard Sartain of The Ding Dongs"
-date: 2025-11-30
+date: 2025-12-02
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
