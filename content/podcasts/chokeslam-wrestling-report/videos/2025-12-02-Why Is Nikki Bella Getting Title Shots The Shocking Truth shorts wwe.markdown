@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Is Nikki Bella Getting Title Shots? The Shocking Truth!"
+title: "Why Is Nikki Bella Getting Title Shots? The Shocking Truth! #shorts #wwe"
 date: 2025-12-02
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
