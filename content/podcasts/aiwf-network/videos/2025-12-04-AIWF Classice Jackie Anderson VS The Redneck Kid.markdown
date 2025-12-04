@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Classice Jackie Anderson VS The Redneck Kid"
-date: 2025-12-02
+date: 2025-12-04
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
