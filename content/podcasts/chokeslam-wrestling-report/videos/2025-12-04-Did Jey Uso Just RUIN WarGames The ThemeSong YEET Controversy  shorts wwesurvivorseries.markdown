@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "He Asked for His THEME Song… IN WAR GAMES?! Jey Uso Goes Too Far! # shorts #wwesurvivorseries"
+title: "Did Jey Uso Just RUIN WarGames? The Theme-Song YEET Controversy! # shorts #wwesurvivorseries"
 date: 2025-12-04
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
