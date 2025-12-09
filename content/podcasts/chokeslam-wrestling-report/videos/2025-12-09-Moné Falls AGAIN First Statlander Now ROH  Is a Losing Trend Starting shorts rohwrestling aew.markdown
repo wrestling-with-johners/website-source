@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mercedes Moné: From Belt Collector to Belt LOSER?! #shorts #rohwrestling #aew"
+title: "Moné Falls AGAIN! First Statlander, Now ROH — Is a Losing Trend Starting? #shorts #rohwrestling #aew"
 date: 2025-12-09
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
