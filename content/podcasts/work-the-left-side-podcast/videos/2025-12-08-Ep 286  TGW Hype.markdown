@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 286 - TGW Hype"
+date: 2025-12-08
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: 77kiaLz4Urc
+apple_track_id: 
+youtube_metadata: 
+---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire with guest Maxx Payne"
-date: 2025-12-07
+date: 2025-12-09
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
