@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic Season 33 Episode 530, Mickey Fulp vs Matt Anderson"
-date: 2025-12-07
+date: 2025-12-10
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
