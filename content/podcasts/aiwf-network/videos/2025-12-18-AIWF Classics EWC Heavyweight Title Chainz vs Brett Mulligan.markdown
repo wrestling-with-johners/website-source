@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Classics EWC Heavyweight Title Chainz vs Brett Mulligan"
-date: 2025-12-17
+date: 2025-12-18
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
