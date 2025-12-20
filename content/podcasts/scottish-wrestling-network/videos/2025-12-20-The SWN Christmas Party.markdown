@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The SWN Christmas Party!"
-date: 2025-12-19
+date: 2025-12-20
 categories: scottish-wrestling-network videos
 author: scottish-wrestling-network
 spotify_track_id: 
