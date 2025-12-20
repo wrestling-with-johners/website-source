@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode 105"
-date: 2025-12-19
+date: 2025-12-20
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
