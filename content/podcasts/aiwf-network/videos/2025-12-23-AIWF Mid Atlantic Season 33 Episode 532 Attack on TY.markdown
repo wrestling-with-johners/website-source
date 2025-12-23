@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic Season 33 Episode 532 Attack on TY"
-date: 2025-12-21
+date: 2025-12-23
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
