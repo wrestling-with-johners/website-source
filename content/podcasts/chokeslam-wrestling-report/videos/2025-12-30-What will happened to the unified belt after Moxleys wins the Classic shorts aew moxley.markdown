@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What happened to the unified belt after Moxley's win the Classic.? #shorts #aew #moxley"
+title: "What will happened to the unified belt after Moxley's wins the Classic.? #shorts #aew #moxley"
 date: 2025-12-30
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
