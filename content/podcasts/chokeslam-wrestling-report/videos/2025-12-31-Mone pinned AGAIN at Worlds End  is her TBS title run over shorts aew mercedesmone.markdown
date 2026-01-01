@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mone pinned AGAIN — is her TBS title run over? #shorts #aew #mercedesmone"
+title: "Mone pinned AGAIN at Worlds End — is her TBS title run over? #shorts #aew #mercedesmone"
 date: 2025-12-31
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
