@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Konosuke Takeshita: Wrestler of the Year and His Historic Run #shorts #aew #iwgp"
+title: "Why Konosuke Takeshita is Wrestler of the Year? #shorts #aew #iwgp"
 date: 2026-01-01
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
