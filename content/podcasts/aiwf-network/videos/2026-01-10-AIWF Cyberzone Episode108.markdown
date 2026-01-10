@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode108"
-date: 2026-01-08
+date: 2026-01-10
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
