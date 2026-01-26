@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Walk and Talk Jan 26, 2026"
+date: 2026-01-26
+categories: guilmy-talks
+author: justin-guilmette
+spotify_track_id: 3ab23cZh8YHCG8DtCbYLec
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
