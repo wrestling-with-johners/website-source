@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Wrestling Wire guest Roger Sartain"
-date: 2026-01-25
+date: 2026-01-27
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
