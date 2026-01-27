@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWE Netflix UNREAL Shows Triple H GASLIGHTING LA Knight #shorts #wwe #netflix"
+title: "Netflix UNREAL EXPOSES WWE’s Treatment of LA Knight #shorts #wwe #netflix"
 date: 2026-01-27
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
