@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "AIWF Mid Atlantic Season 34 Episode 537"
-date: 2026-01-26
+title: "NCWA three way title match"
+date: 2026-01-27
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
-youtube_video_id: Blw2pSbQTkw
+youtube_video_id: 6zaaefVECX4
 apple_track_id: 
 youtube_metadata: 
 ---
