@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Triple H Went From NXT Savior to WWE Creative DISASTER #shorts #wwe #tripleh"
+title: "What Happened to Triple H? WWE Booking Is AWFUL #shorts #wwe #tripleh"
 date: 2026-01-28
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
