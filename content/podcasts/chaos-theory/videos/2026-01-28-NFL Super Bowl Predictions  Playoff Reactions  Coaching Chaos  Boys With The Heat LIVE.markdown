@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NFL Super Bowl Predictions 🔥 Playoff Reactions & Coaching Chaos | Boys With The Heat LIVE"
-date: 2026-01-27
+date: 2026-01-28
 categories: chaos-theory videos
 author: chaos-theory
 spotify_track_id: 
