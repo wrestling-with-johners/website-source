@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Shreddy"
+date: 2026-01-28
+categories: work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 3ryuvj9atCTL2mPECtPprJ
+youtube_video_id: 
+apple_track_id: 1000747039260
+youtube_metadata: 
+---
