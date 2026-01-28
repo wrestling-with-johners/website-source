@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ep 297 - Shreddy"
+date: 2026-01-28
+categories: videos work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 
+youtube_video_id: ZyXhZohDp-E
+apple_track_id: 
+youtube_metadata: 
+---
