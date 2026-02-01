@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Royal Rumble 2026 AFTERMATH: Liv Tyler’s Shock Win, AJ Styles RETIRES, Roman Reigns DOMINATES Ep#282"
+title: "Royal Rumble 2026 Results & Reactions | Liv Morgan Wins, AJ Styles Retires, Roman Reigns Ep#282"
 date: 2026-02-01
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
