@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Across The Globe Episode 54"
-date: 2026-02-14
+date: 2026-02-15
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
