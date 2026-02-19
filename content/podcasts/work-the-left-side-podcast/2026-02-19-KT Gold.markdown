@@ -1,0 +1,11 @@
+---
+layout: post
+title: "KT Gold"
+date: 2026-02-19
+categories: work-the-left-side-podcast
+author: nik-towers
+spotify_track_id: 5tu7PIo4PkfHTyP16ZnQ7c
+youtube_video_id: 
+apple_track_id: 
+youtube_metadata: 
+---
