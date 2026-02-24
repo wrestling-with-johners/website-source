@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thekla WINS AEW Gold: But did Kris Statlander’s SHOCK Comments Cost Her the Title? #shorts #aew"
+title: "Thekla AEW World Title Win! Did AEW Punish Kris Statlander Over Her Booking Comments??#shorts #aew"
 date: 2026-02-24
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
