@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Mid Atlantic Season 34 Episode 541"
-date: 2026-02-24
+date: 2026-02-25
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
