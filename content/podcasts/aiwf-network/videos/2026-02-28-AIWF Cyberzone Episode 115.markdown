@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF Cyberzone Episode 115"
-date: 2026-02-27
+date: 2026-02-28
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
