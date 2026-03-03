@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIWF World title match Eric Draven vs Billy Maverick"
-date: 2026-03-01
+date: 2026-03-03
 categories: aiwf-network videos
 author: aiwf-network
 spotify_track_id: 
