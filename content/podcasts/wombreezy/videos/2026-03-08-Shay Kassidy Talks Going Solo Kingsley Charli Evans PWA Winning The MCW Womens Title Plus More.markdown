@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shay Kassidy Talks Going Solo, Kingsley, Charli Evans, PWA Winning The MCW Womens Title, Plus More"
-date: 2026-03-05
+date: 2026-03-08
 categories: videos wombreezy
 author: wombreezy
 spotify_track_id: 
