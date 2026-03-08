@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CM Punk DISRESPECTS Roman’s Family?! Rhea & Jade Backstage Beef + Finley to AEW"
-date: 2026-03-07
+date: 2026-03-08
 categories: chokeslam-wrestling-report videos
 author: chokeslam-wrestling-report
 spotify_track_id: 
